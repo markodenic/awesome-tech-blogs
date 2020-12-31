@@ -104,4 +104,18 @@ module.exports = [
       'Self-taught',
     ],
   },
+  {
+    name: 'Corey O\'Donnell',
+    description: 'Web developer, TypeScript Enthusiast. Blogging about web development and tech',
+    url: 'https://codebycorey.com/blog/',
+    twitter: '@codebycorey',
+    tags: [
+      'Web Development',
+      'JavaScript',
+      'TypeScript',
+      'React',
+      'Next.js',
+      'Node.js'
+    ],
+  }
 ];
