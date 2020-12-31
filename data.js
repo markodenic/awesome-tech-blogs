@@ -12,6 +12,24 @@ module.exports = [
     ],
   },
   {
+    name: 'Savio Martin',
+    description: 'A 13-year-old boy on an intention to enhance as a successful full-stack web developer. I love building full-stack web applications and mobile apps.',
+    url: 'https://savio.xyz/',
+    twitter: '@saviomartin7',
+    tags: [
+      'HTML',
+      'CSS',
+      'JavaScript',
+      'Web Development',
+      'Frontend',
+      'Node.js',
+      'App Development',
+      'React',
+      'React Native',
+      'UI/UX',
+    ],
+  },
+  {
     name: 'Nat Miletic',
     description: '',
     url: 'https://cliowebsites.com/blog/',
@@ -59,6 +77,31 @@ module.exports = [
       'CSS',
       'Beginner',
       'Web Development'
+    ],
+  },
+  {
+    name: 'Aadhithyan Suresh',
+    description: 'Why you should switch to ubuntu today.',
+    url: 'https://aadhithyan.hashnode.dev/',
+    twitter: '@Aadhithyan_17',
+    tags: [
+      'Linux',
+      'Ubuntu',
+      'Faster Development',
+    ],
+  },
+  {
+    name: 'Vlad Pasca',
+    description: 'Self-taught web developer, documenting my journey and sharing the projects I am working on',
+    url: 'https://vladpasca.hashnode.dev/',
+    twitter: '@VladPasca5',
+    tags: [
+      'HTML',
+      'CSS',
+      'JavaScript',
+      'Web Development',
+      'Beginner',
+      'Self-taught',
     ],
   },
 ];
