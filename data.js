@@ -48,4 +48,15 @@ module.exports = [
       'Kubernetes',
     ],
   },
+  {
+    name: 'Aadhithyan Suresh',
+    description: 'Why you should switch to ubuntu today.',
+    url: 'https://aadhithyan.hashnode.dev/switch-linux',
+    twitter: '@Aadhithyan_17',
+    tags: [
+      'Linux',
+      'Ubuntu',
+      'Faster Development',
+    ],
+  },
 ];
