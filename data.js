@@ -22,7 +22,6 @@ module.exports = [
       'JavaScript',
       'Web Development',
       'Frontend',
-      'Backend',
       'Node.js',
       'App Development',
       'React',
