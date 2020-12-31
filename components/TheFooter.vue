@@ -5,7 +5,7 @@
     </p>
 
     <p>
-      Source on <a href="https://github.com/MarkoDenic/awesome-blogs/">GitHub</a>. Add yourself!
+      Source on <a href="https://github.com/MarkoDenic/awesome-tech-blogs">GitHub</a>. Add yourself!
     </p>
 
     <p>
