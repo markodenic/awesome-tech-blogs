@@ -54,6 +54,22 @@ module.exports = [
     ],
   },
   {
+    name: 'Ramya Chinnadurai (Rams)',
+    description: 'Full stack web developer. Passionate programmer and curious learner. Building http://100daysof.codes ',
+    url: 'http://rams.codes/',
+    twitter: '@code_rams',
+    tags: [
+      'HTML', 
+      'CSS',
+      'JavaScript',
+      'Web Development',
+      'React',
+      'Node.js',
+      'Chrome extensions',
+      'Next.js'
+    ],
+  },
+  {
     name: 'Devin Ford',
     description: 'A blog for beginners, with tips and tricks I used while learning to code.',
     url: 'https://blog.devinford.dev/',
@@ -130,21 +146,5 @@ module.exports = [
       'Next.js',
       'Node.js'
     ],
-  },
-  {
-    name: 'Ramya Chinnadurai (Rams)',
-    description: 'Full stack web developer. Passionate programmer and curious learner. Building http://100daysof.codes ',
-    url: 'http://rams.codes/',
-    twitter: '@code_rams',
-    tags: [
-      'HTML', 
-      'CSS',
-      'JavaScript',
-      'Web Development',
-      'React',
-      'Node.js',
-      'Chrome extensions',
-      'Next.js'
-    ],
-  },
+  }
 ];
