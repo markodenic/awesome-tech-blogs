@@ -12,6 +12,19 @@ module.exports = [
     ],
   },
   {
+    name: 'Danny Steenman',
+    description: 'I’m an AWS Cloud Consultant who likes to build things in the Cloud. I write about my learnings on this Blog and on Twitter.',
+    url: 'https://dannys.cloud/',
+    twitter: '@dannysteenman',
+    tags: [
+      'AWS',
+      'Certification',
+      'Cloud',
+      'Infrastructure',
+      'Python',
+    ],
+  },
+  {
     name: 'Savio Martin',
     description: 'A 13-year-old boy on an intention to enhance as a successful full-stack web developer. I love building full-stack web applications and mobile apps.',
     url: 'https://savio.xyz/',
