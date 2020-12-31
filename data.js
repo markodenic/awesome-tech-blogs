@@ -67,9 +67,22 @@ module.exports = [
     ],
   },
   {
+    name: 'Daily Dev Tips',
+    description: 'Chris writes every single day about web development snippets that will help you become a better developer. He focuses on frontend development, JavaScript, popular frameworks, and HTML and CSS.',
+    url: 'https://daily-dev-tips.com/',
+    twitter: '@DailyDevTips1',
+    tags: [
+      'HTML',
+      'JavaScript',
+      'CSS',
+      'Beginner',
+      'Web Development'
+    ],
+  },
+  {
     name: 'Aadhithyan Suresh',
     description: 'Why you should switch to ubuntu today.',
-    url: 'https://aadhithyan.hashnode.dev/switch-linux',
+    url: 'https://aadhithyan.hashnode.dev/',
     twitter: '@Aadhithyan_17',
     tags: [
       'Linux',
