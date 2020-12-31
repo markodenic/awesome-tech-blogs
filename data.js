@@ -36,20 +36,7 @@ module.exports = [
   },
   {
     name: 'Oliver Jumpertz',
-    description: 'Chris writes every single day about web development snippets that will help you become a better developer. He focuses on frontend development, JavaScript, popular frameworks, and HTML and CSS.',
-    url: 'https://daily-dev-tips.com/',
-    twitter: '@DailyDevTips1',
-    tags: [
-      'HTML',
-      'JavaScript',
-      'CSS',
-      'Beginner',
-      'Web Development'
-    ],
-  },
-  {
-    name: 'Daily Dev Tips',
-    description: 'A blog with ',
+    description: 'DeepDive covers cloud and web development overall. It tries to take a deeper look into how things work and explain them as simple as possible.',
     url: 'https://deepdive.hashnode.dev/',
     twitter: '@oliverjumpertz',
     tags: [
@@ -59,6 +46,19 @@ module.exports = [
       'Rust',
       'Containers',
       'Kubernetes',
+    ],
+  },
+  {
+    name: 'Daily Dev Tips',
+    description: 'Chris writes every single day about web development snippets that will help you become a better developer. He focuses on frontend development, JavaScript, popular frameworks, and HTML and CSS.',
+    url: 'https://daily-dev-tips.com/',
+    twitter: '@DailyDevTips1',
+    tags: [
+      'HTML',
+      'JavaScript',
+      'CSS',
+      'Beginner',
+      'Web Development'
     ],
   },
 ];
