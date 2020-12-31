@@ -1,0 +1,101 @@
+/* Project
+  - Document: Tech Blogs
+  - Author:   [Marko Denic](https://markodenic.com)
+  - Design:   [Marko Denic](https://markodenic.com)
+*/
+
+@import './helpers';
+
+html{
+  --black: #100e17;
+  --orange: #ff8a00;
+  --green: #4fc08d;
+  --pink: #a84fc0;
+  font-family: monospace;
+  scroll-behavior: smooth;
+  background-color: var(--black);
+  color: #fff;
+  ::selection{
+    background:var(--orange);
+    color: #fff;
+  }
+  .wrapper {
+    padding: 2rem 2rem 0;
+  }
+  h1 {
+    font-size: 3rem;
+  }
+  p {
+    font-size: 1.5rem;
+  }
+  a {
+    color: var(--orange);
+    text-decoration-color: var(--green);
+  }
+  .tag {
+    margin-right: 5px;
+    margin-bottom: 5px;
+    border: 0;
+    color: #fff;
+    cursor: pointer;
+    outline: 0;
+    background-color: var(--orange);
+    -webkit-transition: background-color .4s;
+    transition: background-color .4s;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 1.3rem;
+    &--active {
+      background-color: var(--green);
+    }
+    &--small {
+      cursor: default;
+      font-size: 1rem;
+    }
+  }
+  .blogs {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    gap: 2rem;
+  }
+  .blog {
+    border-radius: 5px;
+    border: 1px solid #fff;
+    display: flex;
+    flex-direction: column;
+    &-link:visited {
+      color: var(--pink);
+    }
+    &-header {
+      display: flex;
+      align-items: center;
+      padding: 15px;
+    }
+    &-content {
+      padding: 15px;
+      flex: 1;
+    }
+    &-description {
+      font-size: 1.5rem;
+    }
+    &-tags {
+      list-style-type: none;
+      padding: 0;
+      li {
+        display: inline-block;
+      }
+    }
+    &-footer {
+      display: flex;
+      border-top: 1px solid #fff;
+      a {
+        width: 50%;
+        padding: 15px;
+        text-align: center;
+        &:first-child {
+          border-right: 1px solid #fff;
+        }
+      }
+    }
+  }
+}
