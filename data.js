@@ -48,4 +48,18 @@ module.exports = [
       'Kubernetes',
     ],
   },
+  {
+    name: 'Vlad Pasca',
+    description: 'Self-taught web developer, documenting my journey and sharing the projects I am working on',
+    url: 'https://vladpasca.hashnode.dev/',
+    twitter: '@VladPasca5',
+    tags: [
+      'HTML',
+      'CSS',
+      'JavaScript',
+      'Web Development',
+      'Beginner',
+      'Self-taught',
+    ],
+  },
 ];
