@@ -49,6 +49,17 @@ module.exports = [
     ],
   },
   {
+    name: 'Aadhithyan Suresh',
+    description: 'Why you should switch to ubuntu today.',
+    url: 'https://aadhithyan.hashnode.dev/switch-linux',
+    twitter: '@Aadhithyan_17',
+    tags: [
+      'Linux',
+      'Ubuntu',
+      'Faster Development',
+    ],
+  },
+  {
     name: 'Vlad Pasca',
     description: 'Self-taught web developer, documenting my journey and sharing the projects I am working on',
     url: 'https://vladpasca.hashnode.dev/',
