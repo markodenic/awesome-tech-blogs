@@ -1,7 +1,7 @@
 <template>
   <footer class="text-center">
     <p>
-      Made by <a href="https://markodenic.com">Marko Denic</a> with <a href="https://nuxtjs.org">Nuxt.js</a>
+      Made by <a href="https://markodenic.com">Marko Denic</a> with <a href="https://nuxtjs.org">Nuxt.js</a>.
     </p>
 
     <p>
@@ -9,7 +9,11 @@
     </p>
 
     <p>
-      hosted on <a href="https://www.netlify.com/">Netlify</a>
+      Hosted on <a href="https://www.netlify.com/">Netlify</a>.
+    </p>
+
+    <p>
+      Inspired by <a href="https://wesbos.com/">Wes Bos's</a> <a href="https://uses.tech/">uses.tech</a> page.
     </p>
   </footer>
 </template>

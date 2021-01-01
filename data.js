@@ -44,7 +44,7 @@ module.exports = [
   },
   {
     name: 'Nat Miletic',
-    description: '',
+    description: 'This blog covers a range of topics related to responsive web design, web development, and WordPress how-to guides.',
     url: 'https://cliowebsites.com/blog/',
     twitter: '@natmiletic',
     tags: [
@@ -59,7 +59,7 @@ module.exports = [
     url: 'http://rams.codes/',
     twitter: '@code_rams',
     tags: [
-      'HTML', 
+      'HTML',
       'CSS',
       'JavaScript',
       'Web Development',
@@ -132,7 +132,7 @@ module.exports = [
       'Beginner',
       'Self-taught',
     ],
-  },    
+  },
   {
     name: 'Alba Silvente',
     description: 'Front End developer and ambassador at Nuxt & Storyblok!. Blogging about Front End and working hard on the open-source to create more value for the web community. 🦸',
@@ -166,7 +166,7 @@ module.exports = [
       'Docker',
       'Kubernetes'
     ],
-  },    
+  },
   {
     name: 'Corey O\'Donnell',
     description: 'Web developer, TypeScript Enthusiast. Blogging about web development and tech',
