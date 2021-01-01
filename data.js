@@ -163,5 +163,18 @@ module.exports = [
       'Next.js',
       'Node.js'
     ],
+  },
+  {
+    name: 'Rishav Jadon',
+    description: 'This is my blog where I write all about css and the wonderful world of front end.',
+    url: 'https://csskenpai.com',
+    twitter: '@rovenclasher',
+    tags: [
+      'Web Development',
+      'JavaScript',
+      'CSS',
+      'HTML',
+      'Front End'
+    ],
   }
 ];
