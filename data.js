@@ -168,6 +168,24 @@ module.exports = [
     ],
   },
   {
+    name: 'Code Create',
+    description: 'Exploring all things code and design. Diving into JavaScript, Python, and CS topics in 2021.',
+    url: 'https://blog.code-create.dev',
+    twitter: '@kreyol_dev',
+    tags: [
+      'Web Development',
+      'JavaScript',
+      'Full Stack',
+      'Python',
+      'UX/UI',
+      'Software Engineer',
+      'Project Management',
+      'Content Strategy',
+      'Data Strutures',
+      'Algorithms'
+    ],
+  },
+  {
     name: 'Corey O\'Donnell',
     description: 'Web developer, TypeScript Enthusiast. Blogging about web development and tech',
     url: 'https://codebycorey.com/blog/',
@@ -192,24 +210,6 @@ module.exports = [
       'CSS',
       'HTML',
       'Front End'
-    ],
-  },
-  {
-    name: 'Code Create',
-    description: 'Exploring all things code and design. Diving into JavaScript, Python, and CS topics in 2021.',
-    url: 'https://blog.code-create.dev',
-    twitter: '@kreyol_dev',
-    tags: [
-      'Web Development',
-      'JavaScript',
-      'Full Stack',
-      'Python',
-      'UX/UI',
-      'Software Engineer',
-      'Project Management',
-      'Content Strategy',
-      'Data Strutures',
-      'Algorithms'
     ],
   }
 ];
