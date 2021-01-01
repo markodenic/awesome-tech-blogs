@@ -43,6 +43,21 @@ module.exports = [
     ],
   },
   {
+    name: 'Sunil Kumar',
+    description: 'I write about how to become a better developer, AWS, freelancing & building SaaS products.',
+    url: 'https://sunilkumarc.in',
+    twitter: '@sunilc_',
+    tags: [
+      'Web Development',
+      'Freelancing',
+      'Python',
+      'Software Design',
+      'Software Architecture',
+      'AWS',
+      'Infrastructure'
+    ],
+  },
+  {
     name: 'Nat Miletic',
     description: 'This blog covers a range of topics related to responsive web design, web development, and WordPress how-to guides.',
     url: 'https://cliowebsites.com/blog/',
