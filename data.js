@@ -160,6 +160,19 @@ module.exports = [
     ],
   },
   {
+    name: 'Victoria Lo',
+    description: 'Victoria is a very curious developer. Her articles on blogging combine great programming skills with enjoyable and insightful technical articles.',
+    url: 'https://lo-victoria.com',
+    twitter: '@lo_victoria2666',
+    tags: [
+      'HTML',
+      'CSS',
+      'JavaScript',
+      'Web Development',
+      'React'
+    ],
+  },
+  {
     name: 'Aadhithyan Suresh',
     description: 'Why you should switch to ubuntu today.',
     url: 'https://aadhithyan.hashnode.dev/',
@@ -244,5 +257,5 @@ module.exports = [
       'HTML',
       'Front End'
     ],
-  }
+  },
 ];
