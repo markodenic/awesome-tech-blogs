@@ -182,6 +182,25 @@ module.exports = [
     ],
   },
   {
+    name: "Dan Spratling",
+    description:
+      "UX Consultant, making websites better for users for over 5 years",
+    url: "https://danspratling.dev/blog/",
+    twitter: "@dan_spratling",
+    tags: [
+      "Freelancing",
+      "Career",
+      "Finance",
+      "User Experience",
+      "Web Development",
+      "Headless Development",
+      "Design",
+      "Accessibility",
+      "Performance",
+      "Productivity",
+    ],
+  },
+  {
     name: 'Rishav Jadon',
     description: 'This is my blog where I write all about css and the wonderful world of front end.',
     url: 'https://csskenpai.com',
