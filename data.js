@@ -25,6 +25,26 @@ module.exports = [
     ],
   },
   {
+    name: 'Bhanu Teja Pachipulusu',
+    description: `Full-Stack Developer, Entrepreneur and Co-Founder of Coderplex. 
+Building https://coderplex.in. 
+Checkout my portfolio at https://bhanuteja.dev`,
+    url: 'https://blog.bhanuteja.dev',
+    twitter: '@pbteja1998',
+    tags: [
+      'Web Development',
+      'JavaScript',
+      'TypeScript', 
+      'React',
+      'Next.js',
+      'GraphQL', 
+      'TailwindCSS', 
+      'Front End',
+      'HTML', 
+      'CSS', 
+    ],
+  },
+  {
     name: 'Savio Martin',
     description: 'A 13-year-old boy on an intention to enhance as a successful full-stack web developer. I love building full-stack web applications and mobile apps.',
     url: 'https://savio.xyz/',
@@ -66,6 +86,24 @@ module.exports = [
       'Web Design',
       'WordPress',
       'SEO',
+    ],
+  },
+  {
+    name: 'Alexander Lichter',
+    description: 'Nuxt.js maintainer and Web Development Consultant. I love to blog about various technical topics with a focus on web development, especially with Vue and Nuxt.',
+    url: 'https://blog.lichter.io/?ref=tech-blogs.dev',
+    twitter: '@TheAlexLichter',
+    tags: [
+      'Nuxt',
+      'Vue',
+      'TailwindCSS',
+      'JavaScript',
+      'Web Development',
+      'SEO',
+      'Clean Code',
+      'SSR',
+      'Jamstack',
+      'Refactoring'
     ],
   },
   {
@@ -124,6 +162,19 @@ module.exports = [
     ],
   },
   {
+    name: 'Victoria Lo',
+    description: 'Victoria is a very curious developer. Her articles on blogging combine great programming skills with enjoyable and insightful technical articles.',
+    url: 'https://lo-victoria.com',
+    twitter: '@lo_victoria2666',
+    tags: [
+      'HTML',
+      'CSS',
+      'JavaScript',
+      'Web Development',
+      'React'
+    ],
+  },
+  {
     name: 'Aadhithyan Suresh',
     description: 'Why you should switch to ubuntu today.',
     url: 'https://aadhithyan.hashnode.dev/',
@@ -175,7 +226,7 @@ module.exports = [
       'Software Architecture',
       'Cloud Infrastucture',
       'JavaScript',
-      'Frontend',
+      'Front End',
       'APIs',
       'GraphQL',
       'SaaS',
@@ -198,6 +249,24 @@ module.exports = [
       'Postgres',
       'Docker',
       'Kubernetes'
+    ],
+  },
+  {
+    name: 'Code Create',
+    description: 'Exploring all things code and design. Diving into JavaScript, Python, and CS topics in 2021.',
+    url: 'https://blog.code-create.dev',
+    twitter: '@kreyol_dev',
+    tags: [
+      'Web Development',
+      'JavaScript',
+      'Full Stack',
+      'Python',
+      'UX/UI',
+      'Software Engineer',
+      'Project Management',
+      'Content Strategy',
+      'Data Strutures',
+      'Algorithms'
     ],
   },
   {
@@ -227,4 +296,38 @@ module.exports = [
       'Front End'
     ],
   },
+  {
+    name: 'Harris Geo',
+    description: 'Software engineer blogging about full stack and career topics',
+    url: 'https://harrisgeo.me',
+    twitter: '@harrisgeo88',
+    tags: [
+      'Web Development',
+      'JavaScript',
+      'TypeScript',
+      'React',
+      'Node.js',
+      'Testing',
+      'Career'
+    ],
+  },
+  {
+    name: 'Scott Spence',
+    description: `A detailled account of what Scott Spence is about. 
+Currently learning TypeScript, Unit testing with React testing library with Jest and end to end testing with Cypress.`,
+    url: `https://scottspence.com`,
+    twitter: `@spences10`,
+    tags: [
+      'TypeScript',
+      'Jest',
+      'Cypress',
+      'CSS-inJS',
+      'Static Sites',
+      'Linux',
+      'Ubuntu',
+      'SEO',
+      'GatsbyJS',
+      'Front End'
+    ],
+  }
 ];
