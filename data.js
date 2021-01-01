@@ -132,6 +132,23 @@ module.exports = [
       'Beginner',
       'Self-taught',
     ],
+  },    
+  {
+    name: 'Alba Silvente',
+    description: 'Front End developer and ambassador at Nuxt & Storyblok!. Blogging about Front End and working hard on the open-source to create more value for the web community. 🦸',
+    url: 'https://dawntraoz.com/blog/',
+    twitter: '@dawntraoz',
+    tags: [
+      'Front End',
+      'HTML',
+      'JavaScript',
+      'TailwindCSS',
+      'Vue',
+      'Nuxt',
+      'Storyblok',
+      'PWA',
+      'Static Sites'
+    ],
   },
   {
     name: 'Chris Kalmar',
@@ -176,31 +193,5 @@ module.exports = [
       'HTML',
       'Front End'
     ],
-  },
-  {
-    name: 'Dan Spratling',
-    description: 'UX Consultant, making websites better for users for over 5 years',
-    url: 'https://danspratling.dev/blog/',
-    twitter: '@dan_spratling',
-    tags: [
-      'Freelancing',
-      'Career',
-      'Finance',
-      'Web Development',
-      'Accessibility',
-      'Design',
-      'Development',
-      'Headless Development',
-      'User Experience',
-      'Productivity',
-      'Performance',
-      'SEO',
-      'HTML',
-      'CSS',
-      'JavaScript',
-      'React',
-      'Vue.js',
-      'CMS',
-    ],
-  },
+  }
 ];
