@@ -33,7 +33,7 @@ module.exports = [
       'Web Development',
       'JavaScript',
       'TypeScript', 
-      'React.js',
+      'React',
       'Next.js',
       'GraphQL', 
       'TailwindCSS', 
