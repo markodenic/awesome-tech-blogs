@@ -208,5 +208,20 @@ module.exports = [
       'HTML',
       'Front End'
     ],
+  },
+  {
+    name: 'Harris Geo',
+    description: 'Software engineer blogging about full stack and career topics',
+    url: 'https://harrisgeo.me',
+    twitter: '@harrisgeo88',
+    tags: [
+      'Web Development',
+      'JavaScript',
+      'TypeScript',
+      'React',
+      'Node.js',
+      'Testing',
+      'Career'
+    ],
   }
 ];
