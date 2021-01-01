@@ -146,5 +146,22 @@ module.exports = [
       'Next.js',
       'Node.js'
     ],
-  }
+  },
+  {
+    name: 'Chris Kalmar',
+    description: 'Full stack developer, blogging about React, Nodejs, GraphQL, Docker, and personal experiences as a tech lead.',
+    url: 'https://chriskalmar.dev/blog/',
+    twitter: '@chriskalmar',
+    tags: [
+      'Web Development',
+      'JavaScript',
+      'TypeScript',
+      'React',
+      'GraphQL',
+      'Node.js',
+      'Postgres',
+      'Docker',
+      'Kubernetes'
+    ],
+  }  
 ];
