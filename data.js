@@ -26,14 +26,16 @@ module.exports = [
   },
   {
     name: 'Bhanu Teja Pachipulusu',
-    description: 'Full-Stack Developer, Entrepreneur and Co-Founder of Coderplex. Building https://coderplex.in. Checkout my portfolio at https://bhanuteja.dev',
+    description: `Full-Stack Developer, Entrepreneur and Co-Founder of Coderplex. 
+Building https://coderplex.in. 
+Checkout my portfolio at https://bhanuteja.dev`,
     url: 'https://blog.bhanuteja.dev',
     twitter: '@pbteja1998',
     tags: [
       'Web Development',
       'JavaScript',
       'TypeScript', 
-      'React.js',
+      'React',
       'Next.js',
       'GraphQL', 
       'TailwindCSS', 
