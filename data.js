@@ -204,11 +204,14 @@ Currently learning TypeScript, Unit testing with React testing library with Jest
       'Web Development',
       'JavaScript',
       'TypeScript',
+      'Jest',
+      'Cypress',
       'CSS-inJS',
       'Static Sites',
       'Linux',
       'Ubuntu',
       'SEO',
+      'GatsbyJS',
       'Front End'
     ],
   }
