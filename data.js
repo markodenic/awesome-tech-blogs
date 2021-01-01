@@ -69,6 +69,24 @@ module.exports = [
     ],
   },
   {
+    name: 'Alexander Lichter',
+    description: 'Nuxt.js maintainer and Web Development Consultant. I love to blog about various technical topics with a focus on web development, especially with Vue and Nuxt.',
+    url: 'https://blog.lichter.io/?ref=tech-blogs.dev',
+    twitter: '@TheAlexLichter',
+    tags: [
+      'Nuxt',
+      'Vue',
+      'TailwindCSS',
+      'JavaScript',
+      'Web Development',
+      'SEO',
+      'Clean Code',
+      'SSR',
+      'Jamstack',
+      'Refactoring'
+    ],
+  },
+  {
     name: 'Ramya Chinnadurai (Rams)',
     description: 'Full stack web developer. Passionate programmer and curious learner. Building http://100daysof.codes ',
     url: 'http://rams.codes/',
