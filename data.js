@@ -132,6 +132,23 @@ module.exports = [
       'Beginner',
       'Self-taught',
     ],
+  },    
+  {
+    name: 'Alba Silvente',
+    description: 'Front End developer and ambassador at Nuxt & Storyblok!. Blogging about Front End and working hard on the open-source to create more value for the web community. 🦸',
+    url: 'https://dawntraoz.com/blog/',
+    twitter: '@dawntraoz',
+    tags: [
+      'Front End',
+      'HTML',
+      'JavaScript',
+      'TailwindCSS',
+      'Vue',
+      'Nuxt',
+      'Storyblok',
+      'PWA',
+      'Static Sites'
+    ],
   },
   {
     name: 'Chris Kalmar',
