@@ -135,11 +135,11 @@ module.exports = [
   },    
   {
     name: 'Alba Silvente',
-    description: 'Frontend developer and ambassador at Nuxt & Storyblok!. Blogging about Frontend and working hard on the open-source to create more value for the web community. 🦸',
+    description: 'Front End developer and ambassador at Nuxt & Storyblok!. Blogging about Front End and working hard on the open-source to create more value for the web community. 🦸',
     url: 'https://dawntraoz.com/blog/',
     twitter: '@dawntraoz',
     tags: [
-      'Frontend Development',
+      'Front End',
       'HTML',
       'JavaScript',
       'TailwindCSS',
