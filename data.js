@@ -150,7 +150,7 @@ module.exports = [
       'Kubernetes'
     ],
   },    
-  {
+{
     name: 'Corey O\'Donnell',
     description: 'Web developer, TypeScript Enthusiast. Blogging about web development and tech',
     url: 'https://codebycorey.com/blog/',
@@ -163,5 +163,19 @@ module.exports = [
       'Next.js',
       'Node.js'
     ],
+  },
+  {
+    name: 'Rishav Jadon',
+    description: 'This is my blog where I write all about css and the wonderful world of front end.',
+    url: 'https://csskenpai.com',
+    twitter: '@rovenclasher',
+    tags: [
+      'Web Development',
+      'JavaScript',
+      'css',
+      'Html',
+      'Front end web development'
+    ],
   }
+
 ];
