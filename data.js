@@ -25,6 +25,24 @@ module.exports = [
     ],
   },
   {
+    name: 'Bhanu Teja Pachipulusu',
+    description: 'Full-Stack Developer, Entrepreneur and Co-Founder of Coderplex. Building https://coderplex.in. Checkout my portfolio at https://bhanuteja.dev',
+    url: 'https://blog.bhanuteja.dev',
+    twitter: '@pbteja1998',
+    tags: [
+      'Web Development',
+      'JavaScript',
+      'TypeScript', 
+      'React.js',
+      'Next.js',
+      'GraphQL', 
+      'TailwindCSS', 
+      'Front End',
+      'HTML', 
+      'CSS', 
+    ],
+  },
+  {
     name: 'Savio Martin',
     description: 'A 13-year-old boy on an intention to enhance as a successful full-stack web developer. I love building full-stack web applications and mobile apps.',
     url: 'https://savio.xyz/',
@@ -66,6 +84,24 @@ module.exports = [
       'Web Design',
       'WordPress',
       'SEO',
+    ],
+  },
+  {
+    name: 'Alexander Lichter',
+    description: 'Nuxt.js maintainer and Web Development Consultant. I love to blog about various technical topics with a focus on web development, especially with Vue and Nuxt.',
+    url: 'https://blog.lichter.io/?ref=tech-blogs.dev',
+    twitter: '@TheAlexLichter',
+    tags: [
+      'Nuxt',
+      'Vue',
+      'TailwindCSS',
+      'JavaScript',
+      'Web Development',
+      'SEO',
+      'Clean Code',
+      'SSR',
+      'Jamstack',
+      'Refactoring'
     ],
   },
   {
@@ -121,6 +157,19 @@ module.exports = [
       'CSS',
       'Beginner',
       'Web Development'
+    ],
+  },
+  {
+    name: 'Victoria Lo',
+    description: 'Victoria is a very curious developer. Her articles on blogging combine great programming skills with enjoyable and insightful technical articles.',
+    url: 'https://lo-victoria.com',
+    twitter: '@lo_victoria2666',
+    tags: [
+      'HTML',
+      'CSS',
+      'JavaScript',
+      'Web Development',
+      'React'
     ],
   },
   {
