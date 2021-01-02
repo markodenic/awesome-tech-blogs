@@ -338,5 +338,23 @@ module.exports = [
       'GatsbyJS',
       'Front End'
     ],
+  },
+  {
+    name: 'Nilanth',
+    description: 'Full Stack Developer | Laravel | React',
+    url: 'https://nilanth.hashnode.dev',
+    twitter: '@nilanth',
+    tags: [
+      'Front End',
+      'React',
+      'Redux',
+      'Laravel',
+      'PHP',
+      'PostgreSQL',
+      'Database',
+      'Gatsby',
+      'JavaScript',
+      'AWS',
+    ],
   }
 ];
