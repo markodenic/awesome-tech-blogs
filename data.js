@@ -392,5 +392,20 @@ module.exports = [
       'TypeScript',
       'Web Development',
     ]
+  },
+  {
+    name:'DeveloperAspire',
+    description: 'I am a Software engineer, writing about VueJs, JavaScript, Golang, Developers Tips and Hacks, Tailwind and open-source, Open-source contributor.',
+    url: 'https://developeraspire.hashnode.dev/',
+    twitter: '@DeveloperAspire',
+    tags:[
+      'Golang',
+      'TailwindCSS',
+      'Vue',
+      'Node.js',
+      'Web Development',
+      'Open source',
+      'JavaScript',
+    ]
   }
 ];
