@@ -313,10 +313,9 @@ Checkout my portfolio at https://bhanuteja.dev`,
   },
   {
     name: 'Scott Spence',
-    description: `A detailled account of what Scott Spence is about. 
-Currently learning TypeScript, Unit testing with React testing library with Jest and end to end testing with Cypress.`,
-    url: `https://scottspence.com`,
-    twitter: `@spences10`,
+    description: 'A detailled account of what Scott Spence is about. Currently learning TypeScript, Unit testing with React testing library with Jest and end to end testing with Cypress.',
+    url: 'https://scottspence.com',
+    twitter: '@spences10',
     tags: [
       'TypeScript',
       'Jest',
