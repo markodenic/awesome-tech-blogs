@@ -383,8 +383,8 @@ module.exports = [
     tags:[
       'Golang',
       'TailwindCSS',
-      'VueJS',
-      'NodeJS',
+      'Vue',
+      'Node.js',
       'Web Development',
       'Open source',
       'JavaScript',
