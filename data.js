@@ -394,6 +394,23 @@ module.exports = [
     ]
   },
   {
+    name: 'Aman Mittal',
+    description: 'I am a fullstack developer and a technical writer. I am interested in React Native, React, Node.js and GraphQL. These are the topics that I often write about too.',
+    url: 'https://amanhimself.dev',
+    twitter: '@amanhimself',
+    tags: [
+      'JavaScript',
+      'Node.js',
+      'React',
+      'React Native',
+      'Expo',
+      'Front End',
+      'GraphQL',
+      'TypeScript',
+      'Gatsby'
+    ]
+  },
+  {
     name:'DeveloperAspire',
     description: 'I am a Software engineer, writing about VueJs, JavaScript, Golang, Developers Tips and Hacks, Tailwind and open-source, Open-source contributor.',
     url: 'https://developeraspire.hashnode.dev/',
@@ -407,5 +424,5 @@ module.exports = [
       'Open source',
       'JavaScript',
     ]
-  }
+  },
 ];
