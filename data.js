@@ -38,22 +38,20 @@ module.exports = [
   },
   {
     name: 'Bhanu Teja Pachipulusu',
-    description: `Full-Stack Developer, Entrepreneur and Co-Founder of Coderplex. 
-Building https://coderplex.in. 
-Checkout my portfolio at https://bhanuteja.dev`,
+    description: 'Full-Stack Developer, Entrepreneur and Co-Founder of Coderplex. Building https://coderplex.in. Checkout my portfolio at https://bhanuteja.dev',
     url: 'https://blog.bhanuteja.dev',
     twitter: '@pbteja1998',
     tags: [
       'Web Development',
       'JavaScript',
-      'TypeScript', 
+      'TypeScript',
       'React',
       'Next.js',
-      'GraphQL', 
-      'TailwindCSS', 
+      'GraphQL',
+      'TailwindCSS',
       'Front End',
-      'HTML', 
-      'CSS', 
+      'HTML',
+      'CSS',
     ],
   },
   {
@@ -325,10 +323,9 @@ Checkout my portfolio at https://bhanuteja.dev`,
   },
   {
     name: 'Scott Spence',
-    description: `A detailled account of what Scott Spence is about. 
-Currently learning TypeScript, Unit testing with React testing library with Jest and end to end testing with Cypress.`,
-    url: `https://scottspence.com`,
-    twitter: `@spences10`,
+    description: 'A detailed account of what Scott Spence is about. Currently learning TypeScript, Unit testing with React testing library with Jest and end to end testing with Cypress.',
+    url: 'https://scottspence.com',
+    twitter: '@spences10',
     tags: [
       'TypeScript',
       'Jest',
