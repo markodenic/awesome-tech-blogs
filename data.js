@@ -371,8 +371,8 @@ module.exports = [
       'Frontend',
       'Backend',
       'Node.js',
-      'Typescript',
-      'Graphql'
+      'TypeScript',
+      'GraphQL'
     ],
   },
 ];
