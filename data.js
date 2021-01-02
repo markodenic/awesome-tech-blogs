@@ -392,5 +392,15 @@ module.exports = [
       'TypeScript',
       'Web Development',
     ]
+  },
+  {    
+    name: 'WP OWls',
+    description: 'WP Owls is a place created especially for WordPress fans. Every week you will find the latest news from the world of WordPress.',
+    url: 'https:/wpowls.co',
+    twitter: '@WP_Owls',
+    tags: [
+      'WordPress',
+      'Web Development',
+    ]
   }
 ];
