@@ -332,9 +332,9 @@ Currently learning TypeScript, Unit testing with React testing library with Jest
   },
   {
     name: 'Nilanth',
-    description: `Full Stack Developer | Laravel | React`,
-    url: `https://nilanth.hashnode.dev/`,
-    twitter: `@nilanth`,
+    description: 'Full Stack Developer | Laravel | React',
+    url: 'https://nilanth.hashnode.dev/',
+    twitter: '@nilanth',
     tags: [
       'Front End',
       'React',
@@ -344,7 +344,7 @@ Currently learning TypeScript, Unit testing with React testing library with Jest
       'PostgreSQL',
       'Database',
       'Gatsby',
-      'Javascript',
+      'JavaScript',
       'AWS',
     ],
   }
