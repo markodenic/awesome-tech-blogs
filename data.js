@@ -1,5 +1,17 @@
 module.exports = [
   {
+    name: 'impure.fun',
+    description: 'Functional code for humans',
+    url: 'https://impure.fun',
+    twitter: '@luislikeIewis',
+    tags: [
+      'DDD',
+      'FSharp',
+      'Functional',
+      '.NET',
+    ],
+  },
+  {
     name: 'Marko Denic',
     description: 'Web developer. Helping others become one too.',
     url: 'https://markodenic.com/blog/',
