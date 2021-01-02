@@ -262,6 +262,22 @@ module.exports = [
     ],
   },
   {
+    name: 'Kumusta Mundo',
+    description: 'Tech tutorials and stories from Adrienne Tacke, a Filipina software engineer.',
+    url: 'https://blog.adrienne.io/',
+    twitter: '@adriennetacke',
+    tags: [
+      'Cloud',
+      'Azure',
+      'Software Engineering',
+      'Cloud Infrastructure',
+      'CSharp',
+      'MongoDB',
+      'NoSQL',
+      'Women In Tech'
+    ],
+  },
+  {
     name: 'Code Create',
     description: 'Exploring all things code and design. Diving into JavaScript, Python, and CS topics in 2021.',
     url: 'https://blog.code-create.dev',
