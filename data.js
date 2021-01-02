@@ -375,4 +375,22 @@ module.exports = [
       'GraphQL'
     ],
   },
+  {    
+    name: 'Stefan Natter',
+    description: 'I am a Software Engineer from Austria 🇦🇹. I am interested in, write about, and develop (open source) software solutions with JavaScript, TypeScript, ReactJS, and NodeJS.',
+    url: 'https://natterstefan.me',
+    twitter: '@natterstefan',
+    tags: [
+      'Docker',
+      'JavaScript',
+      'Next.js',
+      'Node.js',
+      'Project Management',
+      'React',
+      'SEO',
+      'TailwindCSS',
+      'TypeScript',
+      'Web Development',
+    ]
+  }
 ];
