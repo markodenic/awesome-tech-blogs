@@ -366,10 +366,10 @@ module.exports = [
       'HTML',
       'CSS',
       'JavaScript',
-      'React'
+      'React',
       'Web Development',
       'Frontend',
-      'Backend'
+      'Backend',
       'Node.js',
       'Typescript',
       'Graphql'
