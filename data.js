@@ -374,5 +374,22 @@ module.exports = [
       'TypeScript',
       'Web Development',
     ]
+  },
+  {
+    name: 'Aman Mittal',
+    description: 'I am a fullstack developer and a technical writer. I am interested in React Native, React, Node.js and GraphQL. These are the topics that I often write about too.',
+    url: 'https://amanhimself.dev',
+    twitter: '@amanhimself',
+    tags: [
+      'JavaScript',
+      'Node.js',
+      'React',
+      'React Native',
+      'Expo',
+      'Front End',
+      'GraphQL',
+      'TypeScript',
+      'Gatsby'
+    ]
   }
 ];
