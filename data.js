@@ -357,6 +357,16 @@ module.exports = [
       'AWS',
     ],
   },
+  {    
+    name: 'WP OWls',
+    description: 'WP Owls is a place created especially for WordPress fans. Every week you will find the latest news from the world of WordPress.',
+    url: 'https:/wpowls.co',
+    twitter: '@WP_Owls',
+    tags: [
+      'WordPress',
+      'Web Development',
+    ]
+  },
   {
     name: 'Idris Olubisi',
     description: 'A Software Developer, Technical Writer and a Speaker skilled at problem-solving, technical leadership, communications, and presentations with vast experience in the full project life cycle from design to implementation to integration.',
@@ -390,16 +400,6 @@ module.exports = [
       'SEO',
       'TailwindCSS',
       'TypeScript',
-      'Web Development',
-    ]
-  },
-  {    
-    name: 'WP OWls',
-    description: 'WP Owls is a place created especially for WordPress fans. Every week you will find the latest news from the world of WordPress.',
-    url: 'https:/wpowls.co',
-    twitter: '@WP_Owls',
-    tags: [
-      'WordPress',
       'Web Development',
     ]
   }
