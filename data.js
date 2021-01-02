@@ -358,6 +358,24 @@ module.exports = [
     ],
   },
   {
+    name: 'Idris Olubisi',
+    description: 'A Software Developer, Technical Writer and a Speaker skilled at problem-solving, technical leadership, communications, and presentations with vast experience in the full project life cycle from design to implementation to integration.',
+    url: 'https://blog.idrisolubisi.com/',
+    twitter: '@olanetsoft',
+    tags: [
+      'HTML',
+      'CSS',
+      'JavaScript',
+      'React',
+      'Web Development',
+      'Frontend',
+      'Backend',
+      'Node.js',
+      'TypeScript',
+      'GraphQL'
+    ],
+  },
+  {    
     name: 'Stefan Natter',
     description: 'I am a Software Engineer from Austria 🇦🇹. I am interested in, write about, and develop (open source) software solutions with JavaScript, TypeScript, ReactJS, and NodeJS.',
     url: 'https://natterstefan.me',
@@ -391,5 +409,20 @@ module.exports = [
       'TypeScript',
       'Gatsby'
     ]
-  }
+  },
+  {
+    name:'DeveloperAspire',
+    description: 'I am a Software engineer, writing about VueJs, JavaScript, Golang, Developers Tips and Hacks, Tailwind and open-source, Open-source contributor.',
+    url: 'https://developeraspire.hashnode.dev/',
+    twitter: '@DeveloperAspire',
+    tags:[
+      'Golang',
+      'TailwindCSS',
+      'Vue',
+      'Node.js',
+      'Web Development',
+      'Open source',
+      'JavaScript',
+    ]
+  },
 ];
