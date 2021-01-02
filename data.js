@@ -356,5 +356,23 @@ module.exports = [
       'JavaScript',
       'AWS',
     ],
-  }
+  },
+  {
+    name: 'Idris Olubisi',
+    description: 'A Software Developer, Technical Writer and a Speaker skilled at problem-solving, technical leadership, communications, and presentations with vast experience in the full project life cycle from design to implementation to integration.',
+    url: 'https://blog.idrisolubisi.com/',
+    twitter: '@olanetsoft',
+    tags: [
+      'HTML',
+      'CSS',
+      'JavaScript',
+      'React'
+      'Web Development',
+      'Frontend',
+      'Backend'
+      'Node.js',
+      'Typescript',
+      'Graphql'
+    ],
+  },
 ];
