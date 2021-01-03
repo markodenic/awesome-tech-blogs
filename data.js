@@ -452,9 +452,9 @@ module.exports = [
     ]
   },
   {
-    name:'Rasmus Langvad',
+    name: 'Rasmus Langvad',
     description: 'Senior Frontend Developer from Sweden writing about web, tech and mentorship. Currently working with Vue, Nuxt and Node.',
-    url: 'https://langvad.dev/',
+    url: 'https://langvad.dev/blog/',
     twitter: '@rlangvad',
     tags:[
       'JavaScript',
