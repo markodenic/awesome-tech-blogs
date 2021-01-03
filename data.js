@@ -469,4 +469,27 @@ module.exports = [
       'Mentorship',
     ]
   },
+    {
+    name: 'Ankur Tyagi',
+    description: 'Hi, I’m Ankur Tyagi, Software Engineer, Mentor, Coach, Content creator, Checkout my website for more details at https://theankurtyagi.com/',
+    url: 'https://theankurtyagi.com/blog/',
+    twitter: '@TheAnkurTyagi',
+    tags: [
+      'Web Development',
+      'JavaScript',
+      'Python',
+      'HTML',
+      'React',
+      'Freelancing',
+      'Mentorship',
+      'WordPress',
+      'Software Development',
+      'Software Architecture',
+      'Software Engineering',
+      'Software Engineer',
+      'Project Management',
+      'Front End',
+      'CSS',
+    ],
+  },
 ];
