@@ -451,4 +451,20 @@ module.exports = [
       'JavaScript',
     ]
   },
+  {
+    name:'Rasmus Langvad',
+    description: 'Senior Frontend Developer from Sweden writing about web, tech and mentorship. Currently working with Vue, Nuxt and Node.',
+    url: 'https://langvad.dev/',
+    twitter: '@rlangvad',
+    tags:[
+      'JavaScript',
+      'Frontend',
+      'Vue',
+      'Nuxt',
+      'Node.js',
+      'TailwindCSS',
+      'Web Development',
+      'Mentorship',
+    ]
+  },
 ];
