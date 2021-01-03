@@ -458,7 +458,7 @@ module.exports = [
     twitter: '@rlangvad',
     tags:[
       'JavaScript',
-      'Frontend',
+      'Front End',
       'Vue',
       'Nuxt',
       'Node.js',
