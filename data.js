@@ -464,6 +464,8 @@ module.exports = [
       'Node.js',
       'TailwindCSS',
       'Web Development',
+      'Storybook',
+      'Design System',
       'Mentorship',
     ]
   },
