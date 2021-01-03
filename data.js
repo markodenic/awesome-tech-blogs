@@ -469,4 +469,20 @@ module.exports = [
       'Mentorship',
     ]
   },
+  {
+    name: 'James Drysdale',
+    description: 'Frontend Developer from Scotland writing about web development. Currently working with React, React Native and Node.',
+    url: 'https://jamesdrysdale.hashnode.dev/',
+    twitter: '@JamesDrysdale84',
+    tags:[
+      'JavaScript',
+      'HTML',
+      'CSS',
+      'Front End',
+      'Web Development',
+      'React',
+      'React Native',
+      'SEO',
+    ]
+  },
 ];
