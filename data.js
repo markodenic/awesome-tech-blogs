@@ -183,6 +183,17 @@ module.exports = [
       'Web Development',
       'React'
     ],
+  {
+    name: 'Farounbi Abiola',
+    description: 'Front-end Developer passionate about developing and designing user friendly web applications .I also write technical contents and articles.',
+    url: 'https://abiolafarounbiblog.hashnode.dev/',
+    twitter: '@abiolaesther_',
+    tags:[
+      'Front End',
+      'Web Development',
+    'CSS3',
+    'Javascript',
+    ]
   },
   {
     name: 'Aadhithyan Suresh',
@@ -485,14 +496,5 @@ module.exports = [
       'SEO',
     ]
   },
-    {
-    name: 'Farounbi Abiola',
-    description: 'Front-end Developer passionate about developing and designing user friendly web applications .I also write technical contents and articles.',
-    url: 'https://abiolafarounbiblog.hashnode.dev/',
-    twitter: '@abiolaesther_',
-    tags:[
-      'Front End',
-      'Web Development'
-    ]
-  },
+
 ];
