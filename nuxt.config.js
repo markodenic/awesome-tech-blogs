@@ -17,9 +17,40 @@ export default {
       { hid: 'og:title',  property: 'og:title', content: 'Awesome Tech Blogs' },
       { hid: 'og:description', property: 'og:description', content: 'This is a list of Awesome Tech Blogs. Add yourself.' },
       { property: 'og:type', content: 'website' },
+      { name: 'msapplication-TileColor', content: '#2b5797' },
+      { name: 'theme-color', content: '#ffffff' },
+      {
+        hid: 'image',
+        property: 'image',
+        content: '/social-media-card-atb.jpg',
+      },
+      {
+        hid: 'og:image',
+        property: 'og:image',
+        content: '/social-media-card-atb.jpg',
+      },
+      {
+        hid: 'twitter:card',
+        name: 'twitter:card',
+        content: 'summary_large_image',
+      },
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      {
+        rel: 'icon',
+        sizes: '32x32',
+        type: 'image/png',
+        href: '/favicon-32x32.png',
+      },
+      {
+        rel: 'icon',
+        sizes: '16x16',
+        type: 'image/png',
+        href: '/favicon-16x16.png',
+      },
+      { rel: 'apple-touch-icon', sizes: '180x180', href: '/icon.png' },
+      { rel: 'mask-icon', color: '#a3e635', href: '/safari-pinned-tab.svg' },
     ]
   },
 
