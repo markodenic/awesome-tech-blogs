@@ -27,7 +27,7 @@ export default {
       {
         hid: 'og:image',
         property: 'og:image',
-        content: '/social-media-card-atb.jpg',
+        content: 'https://tech-blogs.dev/social-media-card-atb.jpg',
       },
       {
         hid: 'twitter:card',
