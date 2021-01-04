@@ -12,6 +12,25 @@ module.exports = [
     ],
   },
   {
+    name: 'dubesar',
+    description: 'Python/JS Developer',
+    url: 'https://dubesar.hashnode.dev',
+    twitter: '@Sarvesh12601156',
+    tags: [
+      'JavaScript',
+      'Python',
+      'C++',
+      'Node',
+      'Deep Learning',
+      'Flask',
+      'API',
+      'UI Developer',
+      'HTML',
+      'CSS',
+      'TailwindCSS',
+    ],
+  },
+  {
     name: 'Marko Denic',
     description: 'Web developer. Helping others become one too.',
     url: 'https://markodenic.com/blog/',
@@ -35,6 +54,22 @@ module.exports = [
       'Infrastructure',
       'Python',
     ],
+  },
+  {
+    name: 'Sam Larsen-Disney',
+    description: 'Sam currently works as a UX Engineer at American Express. He has built new ways to refer friends, onboarding experiences and rapid response systems.',
+    url: 'https://sld.codes/articles',
+    twitter: '@SamLarsenDisney',
+    tags:[
+      'JavaScript',
+      'Gatsby',
+      'SCSS',
+      'Front End',
+      'Web Development',
+      'React',
+      'TailwindCSS',
+      'UX Design',
+    ]
   },
   {
     name: 'Bhanu Teja Pachipulusu',
@@ -184,6 +219,19 @@ module.exports = [
       'React'
     ],
   },
+    {
+    name: 'Abiola Farounbi',
+    description: 'I am a Front-end Developer passionate about developing and designing user friendly web applications.i write technical contents and articles.',
+    url: 'https://abiolafarounbiblog.hashnode.dev/',
+    twitter: '@abiolaesther_',
+    tags: [
+      'HTML',
+      'CSS',
+      'JavaScript',
+      'Web Development',
+      'Front-end Development'
+    ],
+  },
   {
     name: 'Aadhithyan Suresh',
     description: 'Why you should switch to ubuntu today.',
@@ -307,6 +355,24 @@ module.exports = [
       'React',
       'Next.js',
       'Node.js'
+    ],
+  },
+  {
+    name: "Dan Spratling",
+    description: "UX Consultant, making websites better for users for over 5 years",
+    url: "https://danspratling.dev/blog/",
+    twitter: "@dan_spratling",
+    tags: [
+      "Freelancing",
+      "Career",
+      "Finance",
+      "User Experience",
+      "Web Development",
+      "Headless Development",
+      "Design",
+      "Accessibility",
+      "Performance",
+      "Productivity",
     ],
   },
   {
@@ -469,7 +535,7 @@ module.exports = [
       'Mentorship',
     ]
   },
-    {
+  {
     name: 'Ankur Tyagi',
     description: 'Hi, I’m Ankur Tyagi, Software Engineer, Mentor, Coach, Content creator, Checkout my website for more details at https://theankurtyagi.com/',
     url: 'https://theankurtyagi.com/blog/',
@@ -491,5 +557,34 @@ module.exports = [
       'Front End',
       'CSS',
     ],
+  },
+  {
+    name: 'James Drysdale',
+    description: 'Frontend Developer from Scotland writing about web development. Currently working with React, React Native and Node.',
+    url: 'https://jamesdrysdale.hashnode.dev/',
+    twitter: '@JamesDrysdale84',
+    tags:[
+      'JavaScript',
+      'HTML',
+      'CSS',
+      'Front End',
+      'Web Development',
+      'React',
+      'React Native',
+      'SEO',
+    ]
+  },
+  {
+    name: 'Piyush Sinha',
+    description: 'Frontend Engineer | Problem Solver',
+    url: 'https://piyushsinha.tech/',
+    twitter: '@devps2020',
+    tags:[
+      'JavaScript',
+      'Web Development',
+      'React',
+      'Web Components',
+      'Chrome Extension',
+    ]
   },
 ];
