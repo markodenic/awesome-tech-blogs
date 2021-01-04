@@ -37,6 +37,22 @@ module.exports = [
     ],
   },
   {
+    name: 'Sam Larsen-Disney',
+    description: 'Sam currently works as a UX Engineer at American Express. He has built new ways to refer friends, onboarding experiences and rapid response systems.',
+    url: 'https://sld.codes/articles',
+    twitter: '@SamLarsenDisney',
+    tags:[
+      'JavaScript',
+      'Gatsby',
+      'SCSS',
+      'Front End',
+      'Web Development',
+      'React',
+      'TailwindCSS',
+      'UX Design',
+    ]
+  },
+  {
     name: 'Bhanu Teja Pachipulusu',
     description: 'Full-Stack Developer, Entrepreneur and Co-Founder of Coderplex. Building https://coderplex.in. Checkout my portfolio at https://bhanuteja.dev',
     url: 'https://blog.bhanuteja.dev',
