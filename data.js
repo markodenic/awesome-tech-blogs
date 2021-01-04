@@ -519,4 +519,17 @@ module.exports = [
       'SEO',
     ]
   },
+  {
+    name: 'Piyush Sinha',
+    description: 'Frontend Engineer | Problem Solver',
+    url: 'https://piyushsinha.tech/',
+    twitter: '@devps2020',
+    tags:[
+      'JavaScript',
+      'Web Development',
+      'React',
+      'Web Components',
+      'Chrome Extension',
+    ]
+  },
 ];
