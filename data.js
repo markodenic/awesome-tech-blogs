@@ -45,7 +45,7 @@ module.exports = [
   {
     name: 'Rahul', 
     description: 'Front-end Developer. Helping beginners in coding.',
-    url: 'https://bllog.rahulism.co', 
+    url: 'https://blog.rahulism.co', 
     twitter: '@rahxul', 
     tags: [
       'HTML', 
@@ -54,11 +54,8 @@ module.exports = [
       'Beginners', 
       'Web Development', 
       'JavaScript', 
-      'Front-end Development', 
+      'Front End', 
       'Productivity', 
-      'Resources', 
-      'Design', 
-      'UI/UX',
     ], 
   },
   {
