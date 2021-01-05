@@ -547,10 +547,10 @@ module.exports = [
     tags: [
       'JavaScript',
       'Python',
-      'Node',
+      'Node.js',
       'React',
       'Django',
-      'API',
+      'APIs',
       'HTML',
       'CSS',
     ]
