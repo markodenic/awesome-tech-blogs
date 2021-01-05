@@ -43,6 +43,22 @@ module.exports = [
     ],
   },
   {
+    name: 'Rahul', 
+    description: 'Front-end Developer. Helping beginners in coding.',
+    url: 'https://blog.rahulism.co', 
+    twitter: '@rahxul', 
+    tags: [
+      'HTML', 
+      'CSS', 
+      'React',
+      'Beginners', 
+      'Web Development', 
+      'JavaScript', 
+      'Front End', 
+      'Productivity', 
+    ], 
+  },
+  {
     name: 'Danny Steenman',
     description: 'I’m an AWS Cloud Consultant who likes to build things in the Cloud. I write about my learnings on this Blog and on Twitter.',
     url: 'https://dannys.cloud/',
