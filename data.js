@@ -540,6 +540,22 @@ module.exports = [
     ]
   },
   {
+    name: 'Joshua Chinwendu',
+    description: 'Full Stack Developer. Love working with Python Django framwork.',
+    url: 'https://joshualine.hashnode.dev',
+    twitter: '@joshchinwendu',
+    tags: [
+      'JavaScript',
+      'Python',
+      'Node',
+      'React',
+      'Django',
+      'API',
+      'HTML',
+      'CSS',
+    ]
+  },
+  {
     name: 'Rasmus Langvad',
     description: 'Senior Frontend Developer from Sweden writing about web, tech and mentorship. Currently working with Vue, Nuxt and Node.',
     url: 'https://langvad.dev/blog/',
