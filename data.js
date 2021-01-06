@@ -78,6 +78,22 @@ module.exports = [
     ],
   },
   {
+    name: 'Jiri Tichy',
+    description: 'I’m helping companies fight technical debt and deliver better software faster. Our automated tool Codeac.io covers our back as well.',
+    url: 'https://www.codeac.io/blog/',
+    twitter: '@tichy_jiri',
+    tags:[
+      'Clean Code',
+      'Technical Debt',
+      'Code Quality',
+      'Infrastrucutre as Code',
+      'Infrastructure',
+      'Cloud Infrastructure',
+      'Productivity',
+      'Faster Development',
+    ]
+  },
+  {
     name: 'Sam Larsen-Disney',
     description: 'Sam currently works as a UX Engineer at American Express. He has built new ways to refer friends, onboarding experiences and rapid response systems.',
     url: 'https://sld.codes/articles',
