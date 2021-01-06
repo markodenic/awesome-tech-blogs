@@ -625,4 +625,20 @@ module.exports = [
       'Chrome Extension',
     ]
   },
+  {
+    name: 'Jiri Tichy',
+    description: 'I’m helping companies fight technical debt and deliver better software faster. Our tool Codeac.io is helping us with this task as well.',
+    url: 'https://www.codeac.io/blog/',
+    twitter: '@tichy_jiri',
+    tags:[
+      'Clean Code'
+      'Technical Debt'
+      'Code Quality'
+      'Infrastrucutre as Code'
+      'Infrastrucutre'
+      'Cloud Infrastructure'
+      'Productivity'
+      'Faster Development'
+    ]
+  },
 ];
