@@ -153,9 +153,8 @@ module.exports = [
       'Embedded',
       'Hardware hacker',
       'Canadian hacker',
-      'C programming',
-      'Assembly language rules',
-      'Also Marko is Awesome',
+      'C',
+      'Assembly language',
     ]
   },
   {
