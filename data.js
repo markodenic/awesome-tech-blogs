@@ -365,6 +365,23 @@ module.exports = [
       'Algorithms'
     ],
   },
+    {
+    name: 'Varun Singh',
+    description: 'Full-stack Developer',
+    url: 'https://varuns.hashnode.dev',
+    twitter: 'varuns924',
+    tags: [
+      'JavaScript',
+      'Web Development',
+      'ReactJS',
+      'Java',
+      'Mobile App Development',
+      'PHP',
+      'Android',
+      'MySQL',
+      'SQL'
+    ]
+  },
   {
     name: 'Corey O\'Donnell',
     description: 'Web developer, TypeScript Enthusiast. Blogging about web development and tech',
