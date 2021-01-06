@@ -87,7 +87,7 @@ module.exports = [
       'Technical Debt',
       'Code Quality',
       'Infrastrucutre as Code',
-      'Infrastrucutre',
+      'Infrastructure',
       'Cloud Infrastructure',
       'Productivity',
       'Faster Development',
