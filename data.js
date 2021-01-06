@@ -83,14 +83,14 @@ module.exports = [
     url: 'https://www.codeac.io/blog/',
     twitter: '@tichy_jiri',
     tags:[
-      'Clean Code'
-      'Technical Debt'
-      'Code Quality'
-      'Infrastrucutre as Code'
-      'Infrastrucutre'
-      'Cloud Infrastructure'
-      'Productivity'
-      'Faster Development'
+      'Clean Code',
+      'Technical Debt',
+      'Code Quality',
+      'Infrastrucutre as Code',
+      'Infrastrucutre',
+      'Cloud Infrastructure',
+      'Productivity',
+      'Faster Development',
     ]
   },
   {
