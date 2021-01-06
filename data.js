@@ -161,6 +161,19 @@ module.exports = [
     ],
   },
   {
+    name: 'Alexander Rowsell',
+    description: 'Hardware hacker/embedded dev',
+    url: 'https://frozenelectronics.ca/',
+    twitter: '@FrozenElecBlog',
+    tags:[
+      'Embedded',
+      'Hardware hacker',
+      'Canadian hacker',
+      'C',
+      'Assembly language',
+    ]
+  },
+  {
     name: 'Nat Miletic',
     description: 'This blog covers a range of topics related to responsive web design, web development, and WordPress how-to guides.',
     url: 'https://cliowebsites.com/blog/',
