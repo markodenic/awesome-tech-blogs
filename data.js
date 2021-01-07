@@ -692,7 +692,7 @@ module.exports = [
       'API',
       'Mongoose',
       'Express',
-      'Node',
+      'Node.js',
       'Hyper terminal',
       ]
   },
