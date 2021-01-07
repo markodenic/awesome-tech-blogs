@@ -682,4 +682,18 @@ module.exports = [
       'Gamedev',
     ]
   },
+  {
+    name: 'Saad Ahmad',
+    description: 'Frontend developer | Mechanical engineer' ,
+    url: 'https://medium.com/@saadahmadhere' ,
+    twitter: '@imsaadahmad' ,
+    tags: [
+      'Github',
+      'API',
+      'Mongoose',
+      'Express',
+      'Node',
+      'Hyper terminal',
+      ]
+  },
 ];
