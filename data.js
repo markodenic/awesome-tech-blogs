@@ -654,4 +654,19 @@ module.exports = [
       'Chrome Extension',
     ]
   },
+  {
+    name: 'ThankGod Maduka Kalu',
+    description: 'Full-Stack Developer, passionate about solving problems',
+    url: 'https://abiatechhub.com',
+    twitter: '@tgblinkss',
+    tags:[
+      'JavaScript',
+      'Web Development',
+      'VueJs',
+      'Web Components',
+      'Laravel',
+      'Python',
+      'Flask',
+    ]
+  },
 ];
