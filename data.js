@@ -670,11 +670,6 @@ module.exports = [
       'WordPress',
       'Software Development',
       'Software Architecture',
-      'Software Engineering',
-      'Software Engineer',
-      'Project Management',
-      'Front End',
-      'CSS',
     ]
   },
 ];
