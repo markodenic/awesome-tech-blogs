@@ -656,7 +656,7 @@ module.exports = [
   },
   {
     name: 'Victor Meunier',
-    description: 'Doftware engineer | Gamedev',
+    description: 'Software engineer | Gamedev',
     url: 'https://blog.victormeunier.com/',
     twitter: '@VicMeunier',
     tags:[
