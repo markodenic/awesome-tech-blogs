@@ -603,6 +603,21 @@ module.exports = [
     ]
   },
   {
+    name: 'Matthew Hart',
+    description: 'DevOps focused developer, this is my blog where I discuss solutions I find while I work',
+    url: 'https://mattou07.net/',
+    twitter: '@mattou07',
+    tags:[
+      'DevOps',
+      'Web Development',
+      'C#',
+      'Azure',
+      'Umbraco',
+      'Powershell',
+      'IIS',    
+    ]
+  },
+  {
     name: 'Ankur Tyagi',
     description: 'Hi, I’m Ankur Tyagi, Software Engineer, Mentor, Coach, Content creator, Checkout my website for more details at https://theankurtyagi.com/',
     url: 'https://theankurtyagi.com/blog/',
