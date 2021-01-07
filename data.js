@@ -654,4 +654,19 @@ module.exports = [
       'Chrome Extension',
     ]
   },
+  {
+    name: 'Matthew Hart',
+    description: 'DevOps focused developer, this is my blog where I discuss solutions I find while I work',
+    url: 'https://mattou07.net/',
+    twitter: '@mattou07',
+    tags:[
+      'DevOps',
+      'Web Development',
+      'C#',
+      'Azure',
+      'Umbraco',
+      'Powershell',
+      'IIS',    
+    ]
+  },
 ];
