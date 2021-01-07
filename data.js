@@ -654,4 +654,17 @@ module.exports = [
       'Chrome Extension',
     ]
   },
+  {
+    name: 'Victor Meunier',
+    description: 'Software engineer | Gamedev',
+    url: 'https://blog.victormeunier.com/',
+    twitter: '@VicMeunier',
+    tags:[
+      'Web',
+      'CV',
+      'ML',
+      'DL',
+      'Gamedev',
+    ]
+  },
 ];
