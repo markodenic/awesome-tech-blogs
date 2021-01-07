@@ -654,4 +654,18 @@ module.exports = [
       'Chrome Extension',
     ]
   },
+  {
+    name: 'Ali Spittel',
+    description: 'Alis friendly guide to your biggest coding questions',
+    url: 'https://welearncode.com/',
+    twitter: '@ASpittel',
+    tags:[
+      'JavaScript',
+      'Web Development',
+      'React',
+      'Tutorials',
+      'Beginners guide',
+      'Career Advice',
+    ]
+  },
 ];
