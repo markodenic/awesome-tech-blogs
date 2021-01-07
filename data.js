@@ -654,4 +654,27 @@ module.exports = [
       'Chrome Extension',
     ]
   },
+  {
+    name: 'Abia Tech Hub',
+    description: 'Innovation | Technoloy | Entrepreneurship',
+    url: 'https://blog.abiatechhub.com',
+    twitter: '@abiatechhub',
+    tags:[
+      'JavaScript',
+      'Web Development',
+      'React',
+      'Web Components',
+      'Chrome Extension',
+      'Freelancing',
+      'Mentorship',
+      'WordPress',
+      'Software Development',
+      'Software Architecture',
+      'Software Engineering',
+      'Software Engineer',
+      'Project Management',
+      'Front End',
+      'CSS',
+    ]
+  },
 ];
