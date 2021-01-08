@@ -585,6 +585,20 @@ module.exports = [
     ]
   },
   {
+    name: 'Omomurewa George-Ashiru',
+    description: 'Murewa is a software developer and IT business analyst. She writes technical and career content.',
+    url: 'https://blog.murewaashiru.com/',
+    twitter: '@rachael_xx',
+    tags:[
+      'JavaScript',
+      'Web Development',
+      'Node.js',
+      'TypeScript',
+      'Project Management',
+      'Business Analysis'
+    ]
+  },
+  {
     name: 'Rasmus Langvad',
     description: 'Senior Frontend Developer from Sweden writing about web, tech and mentorship. Currently working with Vue, Nuxt and Node.',
     url: 'https://langvad.dev/blog/',
