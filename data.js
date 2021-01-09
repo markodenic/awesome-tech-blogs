@@ -585,6 +585,20 @@ module.exports = [
     ]
   },
   {
+    name: 'Saad Ahmad',
+    description: 'Frontend developer | Mechanical engineer' ,
+    url: 'https://medium.com/@saadahmadhere' ,
+    twitter: '@imsaadahmad' ,
+    tags: [
+      'Github',
+      'API',
+      'Mongoose',
+      'Express',
+      'Node.js',
+      'Hyper terminal',
+      ]
+  },
+  {
     name: 'Omomurewa George-Ashiru',
     description: 'Murewa is a software developer and IT business analyst. She writes technical and career content.',
     url: 'https://blog.murewaashiru.com/',
@@ -709,26 +723,5 @@ module.exports = [
       'Node.js',
       'Hyper terminal',
       ]
-  },
-  {
-    name: 'Puru Vijay',
-    description: 'Fullstack Developer 6+ years, maker of fast sites' ,
-    url: 'https://puruvj.dev' ,
-    twitter: '@puruvjdev' ,
-    tags: [
-      'HTML',
-      'CSS',
-      'JavaScript',
-      'TypeScript',
-      'Node.js',
-      'SCSS',
-      'React',
-      'StencilJS',
-      'Svelte',
-      'Angular',
-      'Framer Motion',
-      'VSCode',
-      'Blog'
-      ]
-  },
+  }
 ];
