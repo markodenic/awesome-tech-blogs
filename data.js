@@ -221,7 +221,7 @@ module.exports = [
   {
     name: 'Puru Vijay',
     description: 'Fullstack Developer 6+ years, maker of fast sites.  I am interested in Web dev, but also giving time to other techs like Python, C, Rust, etc. I am currently 1st year student in IIITDM Kancheepuram, India. I love Cycling around for hours' ,
-    url: 'https://puruvj.dev' ,
+    url: 'https://puruvj.dev/blog' ,
     twitter: '@puruvjdev' ,
     tags: [
       'HTML',
@@ -234,7 +234,7 @@ module.exports = [
       'StencilJS',
       'Svelte',
       'Angular',
-      ]
+    ]
   },
   {
     name: 'Devin Ford',
