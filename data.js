@@ -219,6 +219,24 @@ module.exports = [
     ],
   },
   {
+    name: 'Puru Vijay',
+    description: 'Fullstack Developer 6+ years, maker of fast sites.  I am interested in Web dev, but also giving time to other techs like Python, C, Rust, etc. I am currently 1st year student in IIITDM Kancheepuram, India. I love Cycling around for hours' ,
+    url: 'https://puruvj.dev' ,
+    twitter: '@puruvjdev' ,
+    tags: [
+      'HTML',
+      'CSS',
+      'JavaScript',
+      'TypeScript',
+      'Node.js',
+      'SCSS',
+      'React',
+      'StencilJS',
+      'Svelte',
+      'Angular',
+      ]
+  },
+  {
     name: 'Devin Ford',
     description: 'A blog for beginners, with tips and tricks I used while learning to code.',
     url: 'https://blog.devinford.dev/',
