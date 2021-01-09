@@ -710,4 +710,25 @@ module.exports = [
       'Hyper terminal',
       ]
   },
+  {
+    name: 'Puru Vijay',
+    description: 'Fullstack Developer 6+ years, maker of fast sites' ,
+    url: 'https://puruvj.dev' ,
+    twitter: '@puruvjdev' ,
+    tags: [
+      'HTML',
+      'CSS',
+      'JavaScript',
+      'TypeScript',
+      'Node.js',
+      'SCSS',
+      'React',
+      'StencilJS',
+      'Svelte',
+      'Angular',
+      'Framer Motion',
+      'VSCode',
+      'Blog'
+      ]
+  },
 ];
