@@ -519,6 +519,24 @@ module.exports = [
     ],
   },
   {
+    name: 'Jeet Mandaliya',
+    description: 'I am a self-taught Frontend Developer with a thing for VIM. In my free time, you can find me tinkering with my terminal and trying out new oh-my-zsh themes.',
+    url: 'https://webdevjeet.me',
+    twitter: '@sereneInSerenad',
+    tags: [
+      'JavaScript',
+      'TypeScript',
+      'Vue',
+      'React',
+      'Git',
+      'GitHub',
+      'VuetifyJS',
+      'Node.js',
+      'TailwindCSS',
+      'Ghost CMS'
+    ]
+  },
+  {
     name: 'Stefan Natter',
     description: 'I am a Software Engineer from Austria 🇦🇹. I am interested in, write about, and develop (open source) software solutions with JavaScript, TypeScript, ReactJS, and NodeJS.',
     url: 'https://natterstefan.me',
@@ -628,7 +646,7 @@ module.exports = [
       'Azure',
       'Umbraco',
       'Powershell',
-      'IIS',    
+      'IIS',
     ]
   },
   {
