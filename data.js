@@ -799,4 +799,21 @@ module.exports = [
       'Hyper terminal',
       ]
   },
+  {
+    name: 'Peter Smulovics',
+    description: 'Dad, Geek, Geek Dad - Microsoft enthusiast' ,
+    url: 'https://dotneteers.net' ,
+    twitter: '@mountgellert' ,
+    tags: [
+      'Microsoft',
+      '.NET',
+      'C#',
+      'Software Development',
+      'Software Architecture',
+      'Software Engineering',
+      'Software Engineer',
+      'Project Management',
+      'Mentorship',
+      ]
+  },
 ];
