@@ -11,12 +11,12 @@
 
       <button
         class="tag"
-        :class="{ 'tag--active': activeTag === tag }"
+        :class="{ 'tag--active': activeTag === tag.name }"
         v-for="(tag, index) in tags"
         :key="index"
-        @click="activeTag = tag"
+        @click="activeTag = tag.name"
       >
-        {{ tag }}
+        {{ tag.name }}
       </button>
     </div>
 
@@ -43,6 +43,11 @@ function merge(prop) {
     const values = [...new Set(obj[prop])];
     return [...values, ...acc];
   };
+}
+
+function countInstances(acc, tag) {
+  acc[tag] = acc[tag] ? acc[tag] + 1 : 1;
+  return acc;
 }
 
 function shuffle(array) {
@@ -79,10 +84,15 @@ export default {
   methods: {
     getTags () {
       // Get all tags
-      let tags = blogs.reduce(merge('tags'), []);
+      let allTags = blogs.reduce(merge('tags'), []);
 
-      // Get unique tags
-      this.tags = [... new Set(tags)];
+      let counts = allTags.reduce(countInstances, {});
+      // sort and filter for any tags that only have 1
+      this.tags = Object.entries(counts)
+        .sort(([, countA], [, countB]) => countB - countA)
+        // Show tags that have more then 1 occurrence to keep only the most relevant tags.
+        .filter(([, count]) => count >= 2)
+        .map(([name, count]) => ({ name, count }));
     },
   }
 }
