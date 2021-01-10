@@ -18,6 +18,37 @@ module.exports = [
     ],
   },
   {
+    name: 'Olena Drugalya',
+    description: 'Olena is self-taught web developer and she writes her beginner-friendly and simply explained tech blogs along the way.',
+    url: 'https://olena.hashnode.dev/',
+    twitter: '@OlenaDrugalya',
+    tags: [
+      'HTML',
+      'CSS',
+      'JavaScript',
+      'Web Development',
+      'React'
+    ],
+  },
+  {
+    name: 'Abia Tech Hub',
+    description: 'Innovation | Technoloy | Entrepreneurship',
+    url: 'https://blog.abiatechhub.com',
+    twitter: '@abiatechhub',
+    tags:[
+      'JavaScript',
+      'Web Development',
+      'React',
+      'Web Components',
+      'Chrome Extension',
+      'Freelancing',
+      'Mentorship',
+      'WordPress',
+      'Software Development',
+      'Software Architecture',
+    ]
+  },
+  {
     name: 'Abdulmalik Adekunle',
     description: 'Front End Web developer, Graphics Designer, IT consultant.',
     url: 'https://abdulmalik.hashnode.dev',
@@ -456,7 +487,7 @@ module.exports = [
     tags: [
       'JavaScript',
       'Web Development',
-      'ReactJS',
+      'React',
       'Java',
       'Mobile App Development',
       'PHP',
@@ -797,7 +828,7 @@ module.exports = [
       'Express',
       'Node.js',
       'Hyper terminal',
-      ]
+    ]
   },
   {
     name: 'Peter Smulovics',
@@ -814,6 +845,6 @@ module.exports = [
       'Software Engineer',
       'Project Management',
       'Mentorship',
-      ]
+    ]
   },
 ];
