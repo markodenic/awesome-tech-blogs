@@ -14,7 +14,7 @@
         :href="blog.url"
         class="ml-3 blog-link text-2xl"
         target="_blank"
-        rel="noopener noreferrer"
+        rel="noopener"
       >
         {{ blog.name }}
       </a>
@@ -42,7 +42,7 @@
         class="blog-link"
         :href="blog.url"
         target="_blank"
-        rel="noopener noreferrer"
+        rel="noopener"
       >
         {{ path }}
       </a>
@@ -50,7 +50,7 @@
       <a
         :href="`https://twitter.com/${blog.twitter}`"
         target="_blank"
-        rel="noopener noreferrer"
+        rel="noopener"
       >
         {{ blog.twitter }}
       </a>
