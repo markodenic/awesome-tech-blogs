@@ -847,4 +847,22 @@ module.exports = [
       'Mentorship',
     ]
   },
+  {
+    name: 'Steven Spads',
+    description: 'Full-stack Web Developer from Canada. Sharing web development tips, techniques, and tutorials to help you become a better web developer.',
+    url: 'https://lumin8media.com',
+    twitter: '@stevenspads',
+    tags: [
+      'HTML',
+      'CSS',
+      'JavaScript',
+      'TypeScript',       
+      'Angular',
+      'React',
+      'Node.js',      
+      'NestJS',      
+      'Laravel',
+      'Web Development',
+    ]
+  },
 ];
