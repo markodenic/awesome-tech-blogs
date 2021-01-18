@@ -775,6 +775,24 @@ module.exports = [
     ],
   },
   {
+    name: 'Mads Brodt',
+    description: 'Front-end engineer. Sharing technical tutorials and career advice to help you become a better developer.',
+    url: 'https://madsbrodt.com/blog/',
+    twitter: '@madsbrodt',
+    tags: [
+      'JavaScript',
+      'Web Development',
+      'HTML',
+      'CSS',       
+      'TailwindCSS',
+      'React',
+      'Vue',      
+      'Front End',      
+      'Freelancing',
+      'Career'
+    ]
+  },
+  {
     name: 'James Drysdale',
     description: 'Frontend Developer from Scotland writing about web development. Currently working with React, React Native and Node.',
     url: 'https://jamesdrysdale.hashnode.dev/',
