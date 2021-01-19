@@ -18,6 +18,21 @@ module.exports = [
     ],
   },
   {
+    name: 'Tosin Fashanu',
+    description: 'Portfolio | Tutorial | Agency for web development.',
+    url: 'https://apluswebmaker.com',
+    twitter: '@iamJohnFashanu',
+    tags: [
+      'JavaScript',
+      'PHP',
+      'React',
+      'laravel',
+      'Web Development',
+      'HTML',
+      'CSS'
+    ],
+  },
+  {
     name: 'Olena Drugalya',
     description: 'Olena is self-taught web developer and she writes her beginner-friendly and simply explained tech blogs along the way.',
     url: 'https://olena.hashnode.dev/',
