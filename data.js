@@ -881,6 +881,23 @@ module.exports = [
     ]
   },
   {
+    name: 'Learnedia',
+    description: 'WP dev tips and tricks, conversion tracking tips' ,
+    url: 'https://learnedia.com/' ,
+    twitter: '@helloImLearnrr' ,
+    tags: [
+      'WordPress',
+      'PHP',
+      'HTML',
+      'CSS',
+      'JavaScript',
+      'Conversion tracking',
+      'GTM',
+      'GA',
+      'SEO',
+    ]
+  },
+  {
     name: 'Steven Spads',
     description: 'Full-stack Web Developer from Canada. Sharing web development tips, techniques, and tutorials to help you become a better web developer.',
     url: 'https://lumin8media.com',
