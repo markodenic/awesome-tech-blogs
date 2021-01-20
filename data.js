@@ -544,6 +544,21 @@ module.exports = [
     ],
   },
   {
+    name: 'Umair Hafeez',
+    description: 'Front End Architect & Angular Fanatic 🅰️. I share whatever I have learned or learn during my day to day job. I believe in lean, share and grow philosophy, and that\'s the reason I started writing on this blog along with byte sized tips I share on Twitter and LinkedIn.',
+    url: 'https://blog.umairhafeez.com',
+    twitter: '@_UmairHafeez_',
+    tags: [
+      'HTML',
+      'CSS',
+      'JavaScript',
+      'TypeScript',
+      'Angular',
+      'Web Development',
+      'Accessibility'
+    ]
+  },
+  {
     name: 'Rishav Jadon',
     description: 'This is my blog where I write all about css and the wonderful world of front end.',
     url: 'https://csskenpai.com',
@@ -798,11 +813,11 @@ module.exports = [
       'JavaScript',
       'Web Development',
       'HTML',
-      'CSS',       
+      'CSS',
       'TailwindCSS',
       'React',
-      'Vue',      
-      'Front End',      
+      'Vue',
+      'Front End',
       'Freelancing',
       'Career'
     ]
@@ -922,13 +937,13 @@ module.exports = [
       'HTML',
       'CSS',
       'JavaScript',
-      'TypeScript',       
+      'TypeScript',
       'Angular',
       'React',
-      'Node.js',      
-      'NestJS',      
+      'Node.js',
+      'NestJS',
       'Laravel',
       'Web Development',
     ]
-  },
+  }
 ];
