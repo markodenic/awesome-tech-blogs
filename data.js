@@ -540,7 +540,7 @@ module.exports = [
       'TypeScript',
       'Angular',
       'Web Development',
-      'Web Accessibility'
+      'Accessibility'
     ]
   },
   {
