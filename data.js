@@ -864,6 +864,22 @@ module.exports = [
     ]
   },
   {
+    name: 'Tim Robards',
+    description: 'Frontend Developer and creator of easeout.co, a blog/community for web developers and designers alike!',
+    url: 'https://easeout.co',
+    twitter: '@easeoutco',
+    tags: [
+      'HTML',
+      'CSS',
+      'JavaScript',
+      'Web Development',       
+      'Angular',
+      'React',
+      'Node.js',      
+      'Front End',  
+    ]
+  },
+  {
     name: 'Peter Smulovics',
     description: 'Dad, Geek, Geek Dad - Microsoft enthusiast' ,
     url: 'https://dotneteers.net' ,
