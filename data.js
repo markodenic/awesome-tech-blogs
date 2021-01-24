@@ -950,7 +950,7 @@ module.exports = [
     name: 'Emmanuel Ezeka',
     description: 'A frontend web developer, Electrical/Electronics Engineer, Passionate about problem-solving.',
     url: 'https://eecvision.hashnode.dev/',
-    twitter: '@stevenspads',
+    twitter: '@EECvision',
     tags: [
       'HTML',
       'CSS',
