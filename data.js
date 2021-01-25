@@ -945,5 +945,21 @@ module.exports = [
       'Laravel',
       'Web Development',
     ]
+  },
+  {
+    name: 'Emmanuel Ezeka',
+    description: 'A frontend web developer, Electrical/Electronics Engineer, Passionate about problem-solving.',
+    url: 'https://eecvision.hashnode.dev/',
+    twitter: '@EECvision',
+    tags: [
+      'HTML',
+      'CSS',
+      'Tailwindcss',
+      'JavaScript',
+      'React',
+      'Node.js',
+      'Git',
+      'Web Development',
+    ]
   }
 ];
