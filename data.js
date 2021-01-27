@@ -965,14 +965,13 @@ module.exports = [
   {
     name: 'Sebastian Hesse',
     description: 'Serverless Cloud Expert - Blogging about everything related to AWS Cloud, Serverless, Java, Node.js and JavaScript.',
-    url: 'https://www.sebastianhesse.de/',
+    url: 'https://www.sebastianhesse.de/blog',
     twitter: '@seeebiii',
     tags: [
       'Software Engineer',
       'AWS',
       'Serverless',
       'Cloud Infrastructure',
-      'Infrastructure as Code',
       'APIs',
       'Java',
       'JavaScript',
