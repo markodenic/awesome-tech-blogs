@@ -979,5 +979,22 @@ module.exports = [
       'Node.js',
       'Web Development',
     ]
+  },
+  {
+    name: 'Chen A',
+    description: 'Just another blog about Devops/SRE - blog about infrastructure, software-engineering, et al.',
+    url: 'https://devopsian.net',
+    tags: [
+      'Software Engineer',
+      'AWS',
+      'Cloud',
+      'Infrastructure',
+      'Git',
+      'Python',
+      'Productivity',
+      'Docker',
+      'Linux',
+      'Kubernetes'
+    ]
   }
 ];
