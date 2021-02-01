@@ -510,6 +510,24 @@ module.exports = [
       'MySQL',
       'SQL'
     ]
+	},
+  {
+    name: 'Rocco Sangellino',
+    description: 'I am a senior frontend developer with 10+ years of experience. I have experience building scalable, accessible, and responsive web applications using HTML, CSS, JavaScript, Vue.js and Node.js.',
+    url: 'https://blog.roccosangellino.com/',
+    twitter: '@RoccoSangellino',
+    tags: [
+      'HTML',
+      'CSS',
+      'JavaScript',
+      'Web Development',
+      'TypeScript',
+      'Node.js',
+      'Vue',
+      'Front End',
+      'Bootstrap',
+      'Git',
+    ],
   },
   {
     name: 'Corey O\'Donnell',
@@ -980,22 +998,4 @@ module.exports = [
       'Web Development',
     ]
 	},
-  {
-    name: 'Rocco Sangellino',
-    description: 'I am a senior frontend developer with 10+ years of experience. I have experience building scalable, accessible, and responsive web applications using HTML, CSS, JavaScript, Vue.js and Node.js.',
-    url: 'https://blog.roccosangellino.com/',
-    twitter: '@RoccoSangellino',
-    tags: [
-      'HTML',
-      'CSS',
-      'JavaScript',
-      'Web Development',
-      'TypeScript',
-      'Node.js',
-      'Vue',
-      'Front End',
-      'Bootstrap',
-      'Git',
-    ],
-  },
 ];
