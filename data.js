@@ -998,4 +998,18 @@ module.exports = [
       'Web Development',
     ]
 	},
+    {
+    name: 'Godswill Umukoro',
+    description: 'Software engineer who loves building frontend applications',
+    url: 'https://godswillumukoro.hashnode.dev',
+    twitter: '@umuks_',
+    tags: [
+      'Software Engineer',
+      'Javascript',
+      'React',
+      'Node.js',
+      'APIs',
+      'Web Development',
+    ]
+	},
 ];
