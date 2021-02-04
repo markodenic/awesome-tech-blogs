@@ -50,7 +50,7 @@ module.exports = [
     description: 'Innovation | Technoloy | Entrepreneurship',
     url: 'https://blog.abiatechhub.com',
     twitter: '@abiatechhub',
-    tags:[
+    tags: [
       'JavaScript',
       'Web Development',
       'React',
@@ -164,7 +164,7 @@ module.exports = [
     description: 'I’m helping companies fight technical debt and deliver better software faster. Our automated tool Codeac.io covers our back as well.',
     url: 'https://www.codeac.io/blog/',
     twitter: '@tichy_jiri',
-    tags:[
+    tags: [
       'Clean Code',
       'Technical Debt',
       'Code Quality',
@@ -180,7 +180,7 @@ module.exports = [
     description: 'Sam currently works as a UX Engineer at American Express. He has built new ways to refer friends, onboarding experiences and rapid response systems.',
     url: 'https://sld.codes/articles',
     twitter: '@SamLarsenDisney',
-    tags:[
+    tags: [
       'JavaScript',
       'Gatsby',
       'SCSS',
@@ -247,7 +247,7 @@ module.exports = [
     description: 'Hardware hacker/embedded dev',
     url: 'https://frozenelectronics.ca/',
     twitter: '@FrozenElecBlog',
-    tags:[
+    tags: [
       'Embedded',
       'Hardware hacker',
       'Canadian hacker',
@@ -302,9 +302,9 @@ module.exports = [
   },
   {
     name: 'Puru Vijay',
-    description: 'Fullstack Developer 6+ years, maker of fast sites.  I am interested in Web dev, but also giving time to other techs like Python, C, Rust, etc. I am currently 1st year student in IIITDM Kancheepuram, India. I love Cycling around for hours' ,
-    url: 'https://puruvj.dev/blog' ,
-    twitter: '@puruvjdev' ,
+    description: 'Fullstack Developer 6+ years, maker of fast sites.  I am interested in Web dev, but also giving time to other techs like Python, C, Rust, etc. I am currently 1st year student in IIITDM Kancheepuram, India. I love Cycling around for hours',
+    url: 'https://puruvj.dev/blog',
+    twitter: '@puruvjdev',
     tags: [
       'HTML',
       'CSS',
@@ -370,7 +370,7 @@ module.exports = [
       'React'
     ],
   },
-    {
+  {
     name: 'Abiola Farounbi',
     description: 'I am a Front-end Developer passionate about developing and designing user friendly web applications.i write technical contents and articles.',
     url: 'https://abiolafarounbiblog.hashnode.dev/',
@@ -494,7 +494,7 @@ module.exports = [
       'Algorithms'
     ],
   },
-    {
+  {
     name: 'Varun Singh',
     description: 'Full-stack Developer',
     url: 'https://varuns.hashnode.dev',
@@ -510,7 +510,7 @@ module.exports = [
       'MySQL',
       'SQL'
     ]
-	},
+  },
   {
     name: 'Rocco Sangellino',
     description: 'I am a senior frontend developer with 10+ years of experience. I have experience building scalable, accessible, and responsive web applications using HTML, CSS, JavaScript, Vue.js and Node.js.',
@@ -722,11 +722,11 @@ module.exports = [
     ]
   },
   {
-    name:'DeveloperAspire',
+    name: 'DeveloperAspire',
     description: 'I am a Software engineer, writing about VueJs, JavaScript, Golang, Developers Tips and Hacks, Tailwind and open-source, Open-source contributor.',
     url: 'https://developeraspire.hashnode.dev/',
     twitter: '@DeveloperAspire',
-    tags:[
+    tags: [
       'Golang',
       'TailwindCSS',
       'Vue',
@@ -757,7 +757,7 @@ module.exports = [
     description: 'Murewa is a software developer and IT business analyst. She writes technical and career content.',
     url: 'https://blog.murewaashiru.com/',
     twitter: '@rachael_xx',
-    tags:[
+    tags: [
       'JavaScript',
       'Web Development',
       'Node.js',
@@ -771,7 +771,7 @@ module.exports = [
     description: 'Senior Frontend Developer from Sweden writing about web, tech and mentorship. Currently working with Vue, Nuxt and Node.',
     url: 'https://langvad.dev/blog/',
     twitter: '@rlangvad',
-    tags:[
+    tags: [
       'JavaScript',
       'Front End',
       'Vue',
@@ -789,7 +789,7 @@ module.exports = [
     description: 'DevOps focused developer, this is my blog where I discuss solutions I find while I work',
     url: 'https://mattou07.net/',
     twitter: '@mattou07',
-    tags:[
+    tags: [
       'DevOps',
       'Web Development',
       'C#',
@@ -845,7 +845,7 @@ module.exports = [
     description: 'Frontend Developer from Scotland writing about web development. Currently working with React, React Native and Node.',
     url: 'https://jamesdrysdale.hashnode.dev/',
     twitter: '@JamesDrysdale84',
-    tags:[
+    tags: [
       'JavaScript',
       'HTML',
       'CSS',
@@ -861,7 +861,7 @@ module.exports = [
     description: 'Frontend Engineer | Problem Solver',
     url: 'https://piyushsinha.tech/',
     twitter: '@devps2020',
-    tags:[
+    tags: [
       'JavaScript',
       'Web Development',
       'React',
@@ -874,7 +874,7 @@ module.exports = [
     description: 'Software engineer | Gamedev',
     url: 'https://blog.victormeunier.com/',
     twitter: '@VicMeunier',
-    tags:[
+    tags: [
       'Web',
       'CV',
       'ML',
@@ -884,9 +884,9 @@ module.exports = [
   },
   {
     name: 'Saad Ahmad',
-    description: 'Frontend developer | Mechanical engineer' ,
-    url: 'https://medium.com/@saadahmadhere' ,
-    twitter: '@imsaadahmad' ,
+    description: 'Frontend developer | Mechanical engineer',
+    url: 'https://medium.com/@saadahmadhere',
+    twitter: '@imsaadahmad',
     tags: [
       'Github',
       'API',
@@ -905,18 +905,18 @@ module.exports = [
       'HTML',
       'CSS',
       'JavaScript',
-      'Web Development',       
+      'Web Development',
       'Angular',
       'React',
-      'Node.js',      
-      'Front End',  
+      'Node.js',
+      'Front End',
     ]
   },
   {
     name: 'Peter Smulovics',
-    description: 'Dad, Geek, Geek Dad - Microsoft enthusiast' ,
-    url: 'https://dotneteers.net' ,
-    twitter: '@mountgellert' ,
+    description: 'Dad, Geek, Geek Dad - Microsoft enthusiast',
+    url: 'https://dotneteers.net',
+    twitter: '@mountgellert',
     tags: [
       'Microsoft',
       '.NET',
@@ -931,9 +931,9 @@ module.exports = [
   },
   {
     name: 'Learnedia',
-    description: 'WP dev tips and tricks, conversion tracking tips' ,
-    url: 'https://learnedia.com/' ,
-    twitter: '@helloImLearnrr' ,
+    description: 'WP dev tips and tricks, conversion tracking tips',
+    url: 'https://learnedia.com/',
+    twitter: '@helloImLearnrr',
     tags: [
       'WordPress',
       'PHP',
@@ -997,19 +997,19 @@ module.exports = [
       'Node.js',
       'Web Development',
     ]
-	},
+  },
   {
-  name: 'Godswill Umukoro',
-  description: 'Software engineer who loves building frontend applications',
-  url: 'https://godswillumukoro.hashnode.dev',
-  twitter: '@umuks_',
-  tags: [
-    'Software Engineer',
-    'Javascript',
-    'React',
-    'Node.js',
-    'APIs',
-    'Web Development',
+    name: 'Godswill Umukoro',
+    description: 'Software engineer who loves building frontend applications',
+    url: 'https://godswillumukoro.hashnode.dev',
+    twitter: '@umuks_',
+    tags: [
+      'Software Engineer',
+      'Javascript',
+      'React',
+      'Node.js',
+      'APIs',
+      'Web Development',
     ]
   },
-  ];
+];

@@ -48,6 +48,7 @@
       </a>
 
       <a
+        v-if="blog.twitter"
         :href="`https://twitter.com/${blog.twitter}`"
         target="_blank"
         rel="noopener"
