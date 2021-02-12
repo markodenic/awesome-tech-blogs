@@ -6,7 +6,8 @@
     "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
-    "generate": "nuxt generate"
+    "generate": "nuxt generate",
+    "test:unit": "jest"
   },
   "dependencies": {
     "core-js": "^3.6.5",
@@ -14,7 +15,14 @@
     "nuxt": "^2.14.6"
   },
   "devDependencies": {
+    "@babel/core": "^7.12.16",
+    "@babel/preset-env": "^7.12.16",
+    "@vue/test-utils": "^1.1.3",
+    "babel-core": "7.0.0-bridge.0",
+    "babel-jest": "^26.6.3",
+    "jest": "^26.6.3",
     "less": "^4.0.0",
-    "less-loader": "^7.2.1"
+    "less-loader": "^7.2.1",
+    "vue-jest": "^3.0.7"
   }
 }
