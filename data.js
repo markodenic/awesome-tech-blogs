@@ -1029,4 +1029,21 @@ module.exports = [
       'Web Development',
     ]
   },
+  {
+    name: 'Sebastian Urban',
+    description: '.NET Developer, Tech Lover',
+    url: 'https://sebastianurban.dev',
+    twitter: '@seburbandev',
+    tags: [
+      'Software Developer',
+      'C#',
+      '.NET',
+      'Csharp',
+      'APIs',
+      'Web Development',
+      'Tech',
+      'Productivity',
+      'Umbraco'
+    ]
+  },
 ];
