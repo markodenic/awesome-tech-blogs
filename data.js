@@ -1032,7 +1032,7 @@ module.exports = [
   {
     name: 'Sebastian Urban',
     description: '.NET Developer, Tech Lover',
-    url: 'https://sebastianurban.dev',
+    url: 'https://sebastianurban.dev/blog',
     twitter: '@seburbandev',
     tags: [
       'Software Developer',
