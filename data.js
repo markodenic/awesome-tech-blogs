@@ -1046,4 +1046,22 @@ module.exports = [
       'Umbraco'
     ]
   },
+  {
+    name: 'Jai Kumar Dewani',
+    description: 'Another Tech-nerd trying to make a name for himself.',
+    url: 'https://jai-dewani.github.io/blogs/',
+    twitter: '@jai_dewani',
+    tags: [
+      'Software Developer',
+      'Python',
+      'JavaScript',
+      'Node.js'
+      'React',
+      'Algorithms'
+      'SEO',
+      'APIs',
+      'Web Development',
+      'Tech',
+    ]
+  },
 ];
