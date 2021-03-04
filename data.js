@@ -1055,7 +1055,7 @@ module.exports = [
       'Software Developer',
       'Python',
       'JavaScript',
-      'Node.js'
+      'Node.js',
       'React',
       'Algorithms'
       'SEO',
