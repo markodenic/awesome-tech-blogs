@@ -129,6 +129,23 @@ module.exports = [
     ],
   },
   {
+    name: 'Rahul Banerjee',
+    description: 'An average Computer Engineering Student who writes How-to tutorials on different technologies',
+    url: 'https://www.realpythonproject.com/',
+    twitter: '@rahulbanerjee99',
+    tags: [
+      'Software Developer',
+      'Python',
+      'APIs',
+      'Machine Learning',
+      'Data Science',
+      'C++',
+      'SQL',
+      'Data Base',
+      'Data Engineering'
+    ],
+  },
+  {
     name: 'Sunil Sandhu',
     description: 'Software Developer, Founder of In Plain English',
     url: 'https://sunilsandhu.com/',
