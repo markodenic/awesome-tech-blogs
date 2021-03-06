@@ -7,6 +7,7 @@
         @click="activeTag = 'all'"
       >
         All
+        <span class="number">{{ '' | blogsLength }}</span>
       </button>
 
       <button
@@ -17,6 +18,7 @@
         @click="activeTag = tag.name"
       >
         {{ tag.name }}
+        <span class="number">{{ tag.name | blogsLength }}</span>
       </button>
     </div>
 
@@ -75,12 +77,16 @@ export default {
       blogs: [],
     }
   },
-
+  filters: {
+    blogsLength: (tag) => {
+      if (!tag) return blogs.length
+      return blogs.filter(blog => blog.tags.includes(tag)).length
+    }
+  },
   created () {
     this.getTags();
     this.blogs = shuffle(blogs);
   },
-
   methods: {
     getTags () {
       // Get all tags
