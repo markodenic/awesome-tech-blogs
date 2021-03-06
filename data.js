@@ -129,6 +129,23 @@ module.exports = [
     ],
   },
   {
+    name: 'Rahul Banerjee',
+    description: 'An average Computer Engineering Student who writes How-to tutorials on different technologies',
+    url: 'https://www.realpythonproject.com/',
+    twitter: '@rahulbanerjee99',
+    tags: [
+      'Software Developer',
+      'Python',
+      'APIs',
+      'Machine Learning',
+      'Data Science',
+      'C++',
+      'SQL',
+      'Data Base',
+      'Data Engineering'
+    ],
+  },
+  {
     name: 'Sunil Sandhu',
     description: 'Software Developer, Founder of In Plain English',
     url: 'https://sunilsandhu.com/',
@@ -1027,6 +1044,41 @@ module.exports = [
       'Node.js',
       'APIs',
       'Web Development',
+    ]
+  },
+  {
+    name: 'Sebastian Urban',
+    description: '.NET Developer, Tech Lover',
+    url: 'https://sebastianurban.dev/blog',
+    twitter: '@seburbandev',
+    tags: [
+      'Software Developer',
+      'C#',
+      '.NET',
+      'Csharp',
+      'APIs',
+      'Web Development',
+      'Tech',
+      'Productivity',
+      'Umbraco'
+    ]
+  },
+  {
+    name: 'Jai Kumar Dewani',
+    description: 'Another Tech-nerd trying to make a name for himself.',
+    url: 'https://jai-dewani.github.io/blogs/',
+    twitter: '@jai_dewani',
+    tags: [
+      'Software Developer',
+      'Python',
+      'JavaScript',
+      'Node.js',
+      'React',
+      'Algorithms',
+      'SEO',
+      'APIs',
+      'Web Development',
+      'Tech',
     ]
   },
 ];
