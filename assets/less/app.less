@@ -4,9 +4,9 @@
   - Design:   [Marko Denic](https://markodenic.com)
 */
 
-@import './helpers';
+@import "./helpers";
 
-html{
+html {
   --black: #100e17;
   --orange: #ff8a00;
   --green: #4fc08d;
@@ -15,8 +15,8 @@ html{
   scroll-behavior: smooth;
   background-color: var(--black);
   color: #fff;
-  ::selection{
-    background:var(--orange);
+  ::selection {
+    background: var(--orange);
     color: #fff;
   }
   .wrapper {
@@ -40,8 +40,8 @@ html{
     cursor: pointer;
     outline: 0;
     background-color: var(--orange);
-    -webkit-transition: background-color .4s;
-    transition: background-color .4s;
+    -webkit-transition: background-color 0.4s;
+    transition: background-color 0.4s;
     padding: 5px;
     border-radius: 5px;
     font-size: 1.3rem;
@@ -51,6 +51,12 @@ html{
     &--small {
       cursor: default;
       font-size: 1rem;
+    }
+    .number {
+      background-color: var(--black);
+      font-size: 1rem;
+      padding: 1px 3px;
+      border-radius: 2px;
     }
   }
   .blogs {
