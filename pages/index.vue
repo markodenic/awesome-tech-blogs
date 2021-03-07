@@ -7,7 +7,7 @@
         @click="activeTag = 'all'"
       >
         All
-        <span class="number">{{ '' | blogsLength }}</span>
+        <span class="number">{{ '' | blogsByTag }}</span>
       </button>
 
       <button
@@ -18,7 +18,7 @@
         @click="activeTag = tag.name"
       >
         {{ tag.name }}
-        <span class="number">{{ tag.name | blogsLength }}</span>
+        <span class="number">{{ tag.name | blogsByTag }}</span>
       </button>
     </div>
 
@@ -78,7 +78,7 @@ export default {
     }
   },
   filters: {
-    blogsLength: (tag) => {
+    blogsByTag: (tag) => {
       if (!tag) return blogs.length
       return blogs.filter(blog => blog.tags.includes(tag)).length
     }
