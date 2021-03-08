@@ -47,7 +47,7 @@ module.exports = [
   },
   {
     name: 'Abia Tech Hub',
-    description: 'Innovation | Technoloy | Entrepreneurship',
+    description: 'Innovation | Technology | Entrepreneurship',
     url: 'https://blog.abiatechhub.com',
     twitter: '@abiatechhub',
     tags: [
@@ -185,7 +185,7 @@ module.exports = [
       'Clean Code',
       'Technical Debt',
       'Code Quality',
-      'Infrastrucutre as Code',
+      'Infrastructure as Code',
       'Infrastructure',
       'Cloud Infrastructure',
       'Productivity',
@@ -507,7 +507,7 @@ module.exports = [
       'Software Engineer',
       'Project Management',
       'Content Strategy',
-      'Data Strutures',
+      'Data Structures',
       'Algorithms'
     ],
   },
@@ -755,7 +755,7 @@ module.exports = [
   },
   {
     name: 'Joshua Chinwendu',
-    description: 'Full Stack Developer. Love working with Python Django framwork.',
+    description: 'Full Stack Developer. Love working with Python Django framework.',
     url: 'https://joshualine.hashnode.dev',
     twitter: '@joshchinwendu',
     tags: [
