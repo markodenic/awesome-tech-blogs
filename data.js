@@ -2,12 +2,12 @@ module.exports = [
   {
     name: 'Peter Smith',
     description: 'Networking, antique electrical bits, and more. Developer of multiple apps in the Window, including apps to control reverse-engineered Bluetooth devices. Wrote my first network program in 1989, slightly before the WWW.',
-    url: 'http://sunriseprogrammer.blogspot.com/',
+    url: 'https://sunriseprogrammer.blogspot.com/',
     tags: [
       'Networking',
       'Bluetooth',
       'Programming Languages',
-      ],
+    ],
   },
   {
     name: 'Marko ⚡ Denic',
