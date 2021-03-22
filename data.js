@@ -494,7 +494,7 @@ module.exports = [
     ],
   },
   {
-    name: 'Jusn Fernandes',
+    name: 'Juan Fernandes',
     description: 'Freelance Web Designer',
     url: 'https://www.juanfernandes.uk/blog',
     twitter: '@juanfernandes',
