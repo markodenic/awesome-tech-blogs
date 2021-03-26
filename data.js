@@ -1081,4 +1081,17 @@ module.exports = [
       'Tech',
     ]
   },
+  {
+    name: 'hacking C++',
+    description: 'Learn Contemporary C++ // code examples, concise explanations and infographics',
+    url: 'https://hackingcpp.com',
+    twitter: '@hackingcpp',
+    tags: [
+      'C++',
+      'Software Development',
+      'Software Engineering',
+      'Algorithms',
+      'Beginner',
+    ]
+  },
 ];
