@@ -74,6 +74,19 @@ module.exports = [
     ]
   },
   {
+    name: 'hacking C++',
+    description: 'Learn Contemporary C++ // code examples, concise explanations and infographics',
+    url: 'https://hackingcpp.com',
+    twitter: '@hackingcpp',
+    tags: [
+      'C++',
+      'Software Development',
+      'Software Engineering',
+      'Algorithms',
+      'Beginner',
+    ]
+  },
+  {
     name: 'Abdulmalik Adekunle',
     description: 'Front End Web developer, Graphics Designer, IT consultant.',
     url: 'https://abdulmalik.hashnode.dev',
