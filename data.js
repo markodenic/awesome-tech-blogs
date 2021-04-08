@@ -1122,4 +1122,20 @@ module.exports = [
       'Tech',
     ]
   },
+  {
+    name: 'Sven Hofmann',
+    description: 'Thoughts, resources, and hacks for developers.',
+    url: 'https://hofmannsven.com/blog',
+    twitter: '@hofmannsven',
+    tags: [
+      'APIs',
+      'Backend',
+      'Git',
+      'Laravel',
+      'PHP',
+      'Self-Development',
+      'Tech',
+      'Web Development',
+    ]
+  },
 ];
