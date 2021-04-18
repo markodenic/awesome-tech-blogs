@@ -553,6 +553,22 @@ module.exports = [
     ],
   },
   {
+    name: 'Albert Walicki',
+    description: 'Frontend developer, entrepreneur, writer, CSS artist',
+    url: 'https://www.albertwalicki.com/',
+    twitter: '@AlbertWalicki',
+    tags: [
+      'CSS',
+      'HTML',
+      'Javascript',
+      'Next.js',
+      'CSS art',
+      'Accessibility',
+      'Design',
+      'SEO'
+    ]
+  },
+  {
     name: 'Varun Singh',
     description: 'Full-stack Developer',
     url: 'https://varuns.hashnode.dev',
@@ -1136,22 +1152,6 @@ module.exports = [
       'Self-Development',
       'Tech',
       'Web Development',
-    ]
-  },
-  {
-    name: 'Albert Walicki',
-    description: 'Frontend developer, entrepreneur, writer, CSS artist',
-    url: 'https://www.albertwalicki.com/',
-    twitter: '@AlbertWalicki',
-    tags: [
-      'CSS',
-      'HTML',
-      'Javascript',
-      'Next.js',
-      'CSS art',
-      'Accessibility',
-      'Design',
-      'SEO'
     ]
   },
 ];
