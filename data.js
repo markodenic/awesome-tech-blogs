@@ -1151,7 +1151,7 @@ module.exports = [
       'Front End',
       'JAMstack',
       'WordPress',
-      'Freelance',
+      'Freelancing',
     ]
   },
 ];
