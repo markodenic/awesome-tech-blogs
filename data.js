@@ -1138,4 +1138,20 @@ module.exports = [
       'Web Development',
     ]
   },
+  {
+    name: 'Silvestar Bistrović',
+    description: 'Frontend, JAMstack, WordPress, and freelancing topics.',
+    url: 'https://develop.silvestar.codes/articles/',
+    twitter: '@malimirkeccita',
+    tags: [
+      'HTML',
+      'CSS',
+      'JavaScript',
+      'Web Development',
+      'Front End',
+      'JAMstack',
+      'WordPress',
+      'Freelance',
+    ]
+  },
 ];
