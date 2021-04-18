@@ -1138,4 +1138,20 @@ module.exports = [
       'Web Development',
     ]
   },
+  {
+    name: 'Albert Walicki',
+    description: 'Frontend developer, entrepreneur, writer, CSS artist',
+    url: 'https://www.albertwalicki.com/',
+    twitter: '@AlbertWalicki',
+    tags: [
+      'CSS',
+      'HTML',
+      'Javascript',
+      'Next.js',
+      'CSS art',
+      'Accessibility',
+      'Design',
+      'SEO'
+    ]
+  },
 ];
