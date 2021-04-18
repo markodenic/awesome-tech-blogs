@@ -843,6 +843,22 @@ module.exports = [
     ]
   },
   {
+    name: 'Silvestar Bistrović',
+    description: 'Frontend, JAMstack, WordPress, and freelancing topics.',
+    url: 'https://develop.silvestar.codes/articles/',
+    twitter: '@malimirkeccita',
+    tags: [
+      'HTML',
+      'CSS',
+      'JavaScript',
+      'Web Development',
+      'Front End',
+      'JAMstack',
+      'WordPress',
+      'Freelancing',
+    ]
+  },
+  {
     name: 'Matthew Hart',
     description: 'DevOps focused developer, this is my blog where I discuss solutions I find while I work',
     url: 'https://mattou07.net/',
@@ -1136,22 +1152,6 @@ module.exports = [
       'Self-Development',
       'Tech',
       'Web Development',
-    ]
-  },
-  {
-    name: 'Silvestar Bistrović',
-    description: 'Frontend, JAMstack, WordPress, and freelancing topics.',
-    url: 'https://develop.silvestar.codes/articles/',
-    twitter: '@malimirkeccita',
-    tags: [
-      'HTML',
-      'CSS',
-      'JavaScript',
-      'Web Development',
-      'Front End',
-      'JAMstack',
-      'WordPress',
-      'Freelancing',
     ]
   },
 ];
