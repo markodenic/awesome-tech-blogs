@@ -28,6 +28,22 @@ module.exports = [
     ],
   },
   {
+    name: 'Karl Koch',
+    description: 'Product Designer and Developer.',
+    url: 'https://www.kejk.tech/thoughts',
+    twitter: '@_kejk',
+    tags: [
+      'HTML',
+      'CSS',
+      'JavaScript',
+      'Vue',
+      'Swift',
+      'SwiftUI',
+      'Figma plugins',
+      'Product design'
+    ],
+  },
+  {
     name: 'Tosin Fashanu',
     description: 'Portfolio | Tutorial | Agency for web development.',
     url: 'https://apluswebmaker.com',
