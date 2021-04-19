@@ -569,6 +569,22 @@ module.exports = [
     ],
   },
   {
+    name: 'Albert Walicki',
+    description: 'Frontend developer, entrepreneur, writer, CSS artist',
+    url: 'https://www.albertwalicki.com/blog',
+    twitter: '@AlbertWalicki',
+    tags: [
+      'CSS',
+      'HTML',
+      'JavaScript',
+      'Next.js',
+      'CSS art',
+      'Accessibility',
+      'Design',
+      'SEO'
+    ]
+  },
+  {
     name: 'Varun Singh',
     description: 'Full-stack Developer',
     url: 'https://varuns.hashnode.dev',
