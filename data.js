@@ -1186,4 +1186,19 @@ module.exports = [
       'Web Development',
     ]
   },
+  {
+    name: 'Filipe Oliveira',
+    description: 'codeperf.io: Blog empowering developers with tools and how-to to make software faster.',
+    url: 'https://codeperf.io',
+    twitter: '@fcosta_oliveira',
+    tags: [
+      'Performance',
+      'Observability',
+      'Monitoring',
+      'C',
+      'Golang',
+      'NOSQL',
+      'Redis',
+    ]
+  },
 ];
