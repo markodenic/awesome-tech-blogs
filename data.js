@@ -555,12 +555,12 @@ module.exports = [
   {
     name: 'Albert Walicki',
     description: 'Frontend developer, entrepreneur, writer, CSS artist',
-    url: 'https://www.albertwalicki.com/',
+    url: 'https://www.albertwalicki.com/blog',
     twitter: '@AlbertWalicki',
     tags: [
       'CSS',
       'HTML',
-      'Javascript',
+      'JavaScript',
       'Next.js',
       'CSS art',
       'Accessibility',
