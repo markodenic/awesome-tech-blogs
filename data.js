@@ -28,6 +28,23 @@ module.exports = [
     ],
   },
   {
+    name: 'Shaurya Pratap Singh',
+    description: 'A middle schooler who loves writing about programming.',
+    url: 'https://sblip.medium.com/',
+    twitter: '@Shaurya79145816',
+    tags: [
+      'Python',
+      'HTML',
+      'CSS',
+      'JavaScript',
+      'Web Development',
+      'Backend Development',
+      'PostgreSQL',
+      'Django',
+      'Vue'
+    ],
+  },
+  {
     name: 'Karl Koch',
     description: 'Product Designer and Developer.',
     url: 'https://www.kejk.tech/thoughts',
