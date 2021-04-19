@@ -1170,4 +1170,24 @@ module.exports = [
       'Web Development',
     ]
   },
+  {
+    name: 'Stephan Kämper',
+    description: 'Programming & Software Test 〜 Languages: English, German, Ruby, and some Elixir',
+    url: 'https://seasidetesting.com/',
+    twitter: '@S_2K',
+    tags: [
+      'Ruby',
+      'Rails',
+      'Software Test',
+      'Testing',
+      'Development',
+      'Kanban',
+      'HTML',
+      'TDD',
+      'BDD',
+      'Git',
+      'macOS',
+      'Linux'
+    ],
+  },
 ];
