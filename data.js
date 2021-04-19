@@ -1186,4 +1186,22 @@ module.exports = [
       'Web Development',
     ]
   },
+  {
+    name: 'Sakun Pushpitha',
+    description: 'Web development resources, tutorials, tips and tricks for developers.',
+    url: 'https://sakunpushpitha.hashnode.dev',
+    twitter: '@SakunPushpitha',
+    tags: [
+      'Web Development',
+      'Backend',
+      'Git',
+      'Frontend',
+      'React',
+      'Javascript',
+      'APIs',
+      'Node.js',
+      'CSS',
+      'HTML'
+    ]
+  },
 ];
