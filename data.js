@@ -628,13 +628,11 @@ module.exports = [
       'Software Test',
       'Testing',
       'Development',
-      'Kanban',
       'HTML',
       'TDD',
       'BDD',
       'Git',
       'macOS',
-      'Linux'
     ],
   },
   {
