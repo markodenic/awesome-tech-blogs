@@ -1186,4 +1186,19 @@ module.exports = [
       'Web Development',
     ]
   },
+  {
+    name: 'Hassan Sani',
+    description: 'Writing about frontend and Angular.',
+    url: 'https://blog.hassansani.me',
+    twitter: '@inidaname',
+    tags: [
+      'APIs',
+      'Frontend',
+      'Git',
+      'Angular',
+      'Self-Development',
+      'Tech',
+      'Web Development',
+    ]
+  },
 ];
