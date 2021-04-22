@@ -1201,4 +1201,23 @@ module.exports = [
       'Web Development',
     ]
   },
+  
+  {
+    name: 'Priya Pareek',
+    description: 'Used to write about TechSavvy',
+    url: 'https://techsavvypriya.wordpress.com/',
+    twitter: 'iampriyapareek',
+    tags: [
+      'Frontend',
+      'Git',
+      'Angular',
+      'Self-Development',
+      'Tech',
+      'Web Development',
+      'Progrmaming',
+      'Artificial Intelligence',
+      'Cheat Sheets',
+      'Technical',
+    ]
+  },
 ];
