@@ -47,7 +47,7 @@ module.exports = [
     name: 'William Chin',
     description: 'Product Owner, Digital Marketer and Developer',
     url: 'https://yourdigitalaid.com/',
-    twitter: '@WCFpmO',
+    twitter: '@William65692091',
     tags: [
       'HTML',
       'CSS',
