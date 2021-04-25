@@ -43,6 +43,23 @@ module.exports = [
       'Product design'
     ],
   },
+   {
+    name: 'William Chin',
+    description: 'Product Owner, Digital Marketer and Developer',
+    url: 'https://yourdigitalaid.com/',
+    twitter: '@WCFpmO',
+    tags: [
+      'HTML',
+      'CSS',
+      'JavaScript',
+      'WordPress',
+      'Product Management',
+      'Agile',
+      'PHP',
+      'Python',
+      'Scrum'
+    ],
+  },
   {
     name: 'Tosin Fashanu',
     description: 'Portfolio | Tutorial | Agency for web development.',
