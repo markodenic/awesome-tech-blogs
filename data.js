@@ -118,6 +118,23 @@ module.exports = [
     ]
   },
   {
+    name: 'Alberto Bonacina',
+    description: 'Proud Software Engineer, Flutter enthusiast and Free Software activist',
+    url: 'https://blog.albertobonacina.com/',
+    twitter: 'polilluminato',
+    tags: [
+      'Flutter',
+      'Dart',
+      'Android',
+      'Linux',
+      'Node.js',
+      'APIs',
+      'JavaScript',
+      'Backend Development',
+      'PostgreSQL',
+    ]
+  },
+  {
     name: 'hacking C++',
     description: 'Learn Contemporary C++ // code examples, concise explanations and infographics',
     url: 'https://hackingcpp.com',
