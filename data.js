@@ -1,4 +1,15 @@
 module.exports = [
+   {
+    name: 'Kuldip Mochi',
+    description: 'Software engineer, full stack enthusiastic, student',
+    url: 'https://kuldipmochi.hashnode.dev/',
+    tags: [
+      'javascript',
+      'nodejs',
+      'react',
+      'compupter science'
+    ],
+  },
   {
     name: 'Peter Smith',
     description: 'Networking, antique electrical bits, and more. Developer of multiple apps in the Window, including apps to control reverse-engineered Bluetooth devices. Wrote my first network program in 1989, slightly before the WWW.',
@@ -634,6 +645,24 @@ module.exports = [
     ],
   },
   {
+    name: 'Stephan Kämper',
+    description: 'Programming & Software Test 〜 Languages: English, German, Ruby, and some Elixir',
+    url: 'https://seasidetesting.com/',
+    twitter: '@S_2K',
+    tags: [
+      'Ruby',
+      'Rails',
+      'Software Test',
+      'Testing',
+      'Development',
+      'HTML',
+      'TDD',
+      'BDD',
+      'Git',
+      'macOS',
+    ],
+  },
+  {
     name: 'Dan Spratling',
     description: 'UX Consultant, making websites better for users for over 5 years',
     url: 'https://danspratling.dev/blog/',
@@ -1171,6 +1200,24 @@ module.exports = [
     ]
   },
   {
+    name: 'Sakun Pushpitha',
+    description: 'Web development resources, tutorials, tips and tricks for developers.',
+    url: 'https://sakunpushpitha.hashnode.dev',
+    twitter: '@SakunPushpitha',
+    tags: [
+      'Web Development',
+      'Backend',
+      'Git',
+      'Frontend',
+      'React',
+      'Javascript',
+      'APIs',
+      'Node.js',
+      'CSS',
+      'HTML'
+    ]
+  },
+  {
     name: 'Sven Hofmann',
     description: 'Thoughts, resources, and hacks for developers.',
     url: 'https://hofmannsven.com/blog',
@@ -1187,21 +1234,33 @@ module.exports = [
     ]
   },
   {
-    name: 'Sakun Pushpitha',
-    description: 'Web development resources, tutorials, tips and tricks for developers.',
-    url: 'https://sakunpushpitha.hashnode.dev',
-    twitter: '@SakunPushpitha',
+    name: 'Filipe Oliveira',
+    description: 'codeperf.io: Blog empowering developers with tools and how-to to make software faster.',
+    url: 'https://codeperf.io',
+    twitter: '@fcosta_oliveira',
     tags: [
-      'Web Development',
-      'Backend',
-      'Git',
-      'Frontend',
-      'React',
-      'Javascript',
+      'Performance',
+      'Observability',
+      'Monitoring',
+      'C',
+      'Golang',
+      'NOSQL',
+      'Redis',
+    ]
+  },
+  {
+    name: 'Hassan Sani',
+    description: 'Writing about frontend and Angular.',
+    url: 'https://blog.hassansani.me',
+    twitter: '@inidaname',
+    tags: [
       'APIs',
-      'Node.js',
-      'CSS',
-      'HTML'
+      'Frontend',
+      'Git',
+      'Angular',
+      'Self-Development',
+      'Tech',
+      'Web Development',
     ]
   },
 ];
