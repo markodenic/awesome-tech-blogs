@@ -1201,4 +1201,16 @@ module.exports = [
       'Web Development',
     ]
   },
+    {
+    name: 'Phil McParlane',
+    description: 'Helping Software Developers get a job with a 4 day working week',
+    url: 'https://4dayweek.io/blog',
+    twitter: '@philostar',
+    tags: [
+      'Career',
+      'Self-Development',
+      'Tech',
+      'Jobs'
+    ]
+  }
 ];
