@@ -163,6 +163,24 @@ module.exports = [
     ],
   },
   {
+    name: 'C. Augusto Proiete',
+    description: 'Open-source maintainer: #cakebuild #serilog #exceldna #xlstack',
+    url: 'https://augustoproiete.net',
+    twitter: '@augustoproiete',
+    tags: [
+      'Microsoft',
+      '.NET',
+      'C#',
+      'Software Development',
+      'Software Architecture',
+      'Software Engineering',
+      'Software Engineer',
+      'CakeBuild',
+      'Serilog',
+      'XLStack',
+    ]
+  },
+  {
     name: 'Rahul',
     description: 'Front-end Developer. Helping beginners in coding.',
     url: 'https://blog.rahulism.co',
