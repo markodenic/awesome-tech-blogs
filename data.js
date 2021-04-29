@@ -1201,4 +1201,21 @@ module.exports = [
       'Web Development',
     ]
   },
+    {
+    name: 'Kévin Dunglas',
+    description: 'Kévin writes about the free software he uses and maintains. Most of the posts are about web APIs, Go, PHP and JavaScript.',
+    url: 'https://dunglas.fr',
+    twitter: '@dunglas',
+    tags: [
+      'APIs',
+      'Go',
+      'PHP',
+      'JavaScript',
+      'TypeScript',
+      'Next.js',
+      'Symfony',
+      'API Platform',
+      'Web Development',
+    ]
+  }
 ];
