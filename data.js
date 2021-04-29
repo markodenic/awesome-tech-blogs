@@ -214,6 +214,24 @@ module.exports = [
     ],
   },
   {
+    name: 'Kévin Dunglas',
+    description: 'Kévin writes about the free software he uses and maintains. Most of the posts are about web APIs, Go, PHP and JavaScript.',
+    url: 'https://dunglas.fr',
+    twitter: '@dunglas',
+    tags: [
+      'APIs',
+      'Go',
+      'PHP',
+      'JavaScript',
+      'TypeScript',
+      'React',
+      'Next.js',
+      'Symfony',
+      'API Platform',
+      'Web Development',
+    ]
+  },
+  {
     name: 'Rahul Banerjee',
     description: 'An average Computer Engineering Student who writes How-to tutorials on different technologies',
     url: 'https://www.realpythonproject.com/',
