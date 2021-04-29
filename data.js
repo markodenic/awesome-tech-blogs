@@ -1083,6 +1083,24 @@ module.exports = [
     ]
   },
   {
+    name: 'Unicorn Utterances',
+    description: 'Learning programming from magically majestic words.',
+    url: 'https://unicorn-utterances.com/',
+    twitter: '@UnicornUttrncs',
+    tags: [
+      'HTML',
+      'CSS',
+      'JavaScript',
+      'Web Development',
+      'React',
+      'Angular',
+      'Front End',
+      'Node.js',
+      'Programming',
+      'General Tech',
+    ],
+  },
+  {
     name: 'Saad Ahmad',
     description: 'Frontend developer | Mechanical engineer',
     url: 'https://medium.com/@saadahmadhere',
