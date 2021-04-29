@@ -1266,6 +1266,18 @@ module.exports = [
     ]
   },
   {
+    name: '@litbelb on Medium',
+    description: 'Gopher, Student, Gamer, very unprofessional writer',
+    url: 'https://medium.litbelb.com',
+    twitter: '@Litbelb',
+    tags: [
+      'Golang',
+      'Frontend',
+      'Web Development',
+      'Vue',
+     ]
+  },
+  {
     name: 'Jai Kumar Dewani',
     description: 'Another Tech-nerd trying to make a name for himself.',
     url: 'https://jai-dewani.github.io/blogs/',
