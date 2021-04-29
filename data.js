@@ -278,6 +278,18 @@ module.exports = [
     ]
   },
   {
+    name: 'Phil McParlane',
+    description: 'Helping Software Developers get a job with a 4 day working week',
+    url: 'https://4dayweek.io/blog',
+    twitter: '@philostar',
+    tags: [
+      'Career',
+      'Self-Development',
+      'Tech',
+      'Jobs'
+    ]
+  },
+  {
     name: 'Sam Larsen-Disney',
     description: 'Sam currently works as a UX Engineer at American Express. He has built new ways to refer friends, onboarding experiences and rapid response systems.',
     url: 'https://sld.codes/articles',
@@ -1298,7 +1310,6 @@ module.exports = [
       'Web Development',
     ]
   },
-  
   {
     name: 'Priya Pareek',
     description: 'Used to write about TechSavvy',
