@@ -1,4 +1,15 @@
 module.exports = [
+   {
+    name: 'Kuldip Mochi',
+    description: 'Software engineer, full stack enthusiastic, student',
+    url: 'https://kuldipmochi.hashnode.dev/',
+    tags: [
+      'javascript',
+      'nodejs',
+      'react',
+      'compupter science'
+    ],
+  },
   {
     name: 'Peter Smith',
     description: 'Networking, antique electrical bits, and more. Developer of multiple apps in the Window, including apps to control reverse-engineered Bluetooth devices. Wrote my first network program in 1989, slightly before the WWW.',
@@ -25,6 +36,23 @@ module.exports = [
       'Laravel',
       'TailwindCSS',
       'SEO',
+    ],
+  },
+  {
+    name: 'Shaurya Pratap Singh',
+    description: 'A middle schooler who loves writing about programming.',
+    url: 'https://sblip.medium.com/',
+    twitter: '@Shaurya79145816',
+    tags: [
+      'Python',
+      'HTML',
+      'CSS',
+      'JavaScript',
+      'Web Development',
+      'Backend Development',
+      'PostgreSQL',
+      'Django',
+      'Vue'
     ],
   },
   {
@@ -152,6 +180,24 @@ module.exports = [
     ],
   },
   {
+    name: 'C. Augusto Proiete',
+    description: 'Open-source maintainer: #cakebuild #serilog #exceldna #xlstack',
+    url: 'https://augustoproiete.net',
+    twitter: '@augustoproiete',
+    tags: [
+      'Microsoft',
+      '.NET',
+      'C#',
+      'Software Development',
+      'Software Architecture',
+      'Software Engineering',
+      'Software Engineer',
+      'CakeBuild',
+      'Serilog',
+      'XLStack',
+    ]
+  },
+  {
     name: 'Rahul',
     description: 'Front-end Developer. Helping beginners in coding.',
     url: 'https://blog.rahulism.co',
@@ -229,6 +275,18 @@ module.exports = [
       'Cloud Infrastructure',
       'Productivity',
       'Faster Development',
+    ]
+  },
+  {
+    name: 'Phil McParlane',
+    description: 'Helping Software Developers get a job with a 4 day working week',
+    url: 'https://4dayweek.io/blog',
+    twitter: '@philostar',
+    tags: [
+      'Career',
+      'Self-Development',
+      'Tech',
+      'Jobs'
     ]
   },
   {
@@ -631,6 +689,24 @@ module.exports = [
       'React',
       'Next.js',
       'Node.js'
+    ],
+  },
+  {
+    name: 'Stephan Kämper',
+    description: 'Programming & Software Test 〜 Languages: English, German, Ruby, and some Elixir',
+    url: 'https://seasidetesting.com/',
+    twitter: '@S_2K',
+    tags: [
+      'Ruby',
+      'Rails',
+      'Software Test',
+      'Testing',
+      'Development',
+      'HTML',
+      'TDD',
+      'BDD',
+      'Git',
+      'macOS',
     ],
   },
   {
@@ -1171,6 +1247,24 @@ module.exports = [
     ]
   },
   {
+    name: 'Sakun Pushpitha',
+    description: 'Web development resources, tutorials, tips and tricks for developers.',
+    url: 'https://sakunpushpitha.hashnode.dev',
+    twitter: '@SakunPushpitha',
+    tags: [
+      'Web Development',
+      'Backend',
+      'Git',
+      'Frontend',
+      'React',
+      'Javascript',
+      'APIs',
+      'Node.js',
+      'CSS',
+      'HTML'
+    ]
+  },
+  {
     name: 'Sven Hofmann',
     description: 'Thoughts, resources, and hacks for developers.',
     url: 'https://hofmannsven.com/blog',
@@ -1184,6 +1278,21 @@ module.exports = [
       'Self-Development',
       'Tech',
       'Web Development',
+    ]
+  },
+  {
+    name: 'Filipe Oliveira',
+    description: 'codeperf.io: Blog empowering developers with tools and how-to to make software faster.',
+    url: 'https://codeperf.io',
+    twitter: '@fcosta_oliveira',
+    tags: [
+      'Performance',
+      'Observability',
+      'Monitoring',
+      'C',
+      'Golang',
+      'NOSQL',
+      'Redis',
     ]
   },
   {
@@ -1201,16 +1310,22 @@ module.exports = [
       'Web Development',
     ]
   },
-    {
-    name: 'Phil McParlane',
-    description: 'Helping Software Developers get a job with a 4 day working week',
-    url: 'https://4dayweek.io/blog',
-    twitter: '@philostar',
+  {
+    name: 'Priya Pareek',
+    description: 'Used to write about TechSavvy',
+    url: 'https://techsavvypriya.wordpress.com/',
+    twitter: 'iampriyapareek',
     tags: [
-      'Career',
+      'Frontend',
+      'Git',
+      'Angular',
       'Self-Development',
       'Tech',
-      'Jobs'
+      'Web Development',
+      'Progrmaming',
+      'Artificial Intelligence',
+      'Cheat Sheets',
+      'Technical',
     ]
-  }
+  },
 ];
