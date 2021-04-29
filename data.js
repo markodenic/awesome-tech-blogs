@@ -1181,6 +1181,25 @@ module.exports = [
     ]
   },
   {
+    name: 'Rishab Kumar',
+    description: 'I am a tech entusiast that loves to play in the Cloud and related technologies. Also, try to create nice web experiences.',
+    url: 'https://blog.rishabkumar.com/',
+    twitter: '@rishabk7',
+    tags: [
+      'AWS',
+      'Cloud',
+      'Azure',
+      'HTML',
+      'CSS',
+      'JavaScript',
+      'React',
+      'Node.js',
+      'Git',
+      'General Programming',
+      'Web Development',
+    ]
+  },
+  {
     name: 'Sebastian Hesse',
     description: 'Serverless Cloud Expert - Blogging about everything related to AWS Cloud, Serverless, Java, Node.js and JavaScript.',
     url: 'https://www.sebastianhesse.de/blog',
