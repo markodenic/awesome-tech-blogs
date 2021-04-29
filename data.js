@@ -1198,6 +1198,21 @@ module.exports = [
     ]
   },
   {
+    name: 'Filipe Oliveira',
+    description: 'codeperf.io: Blog empowering developers with tools and how-to to make software faster.',
+    url: 'https://codeperf.io',
+    twitter: '@fcosta_oliveira',
+    tags: [
+      'Performance',
+      'Observability',
+      'Monitoring',
+      'C',
+      'Golang',
+      'NOSQL',
+      'Redis',
+    ]
+  },
+  {
     name: 'Hassan Sani',
     description: 'Writing about frontend and Angular.',
     url: 'https://blog.hassansani.me',
