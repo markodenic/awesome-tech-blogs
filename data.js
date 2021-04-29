@@ -1365,4 +1365,16 @@ module.exports = [
       'Technical',
     ]
   },
+  {
+    name: 'Tshiteej Bhardwaj',
+    description: 'I love to write around Web Development, and related technologies.',
+    url: 'https://www.tshiteej.com/blog',
+    twitter: 'tshiteej',
+    tags: [
+      'JavaScript',
+      'Python',
+      'Web Development',
+      'Automation'
+    ]
+  }
 ];
