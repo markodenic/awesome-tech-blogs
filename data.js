@@ -1348,6 +1348,19 @@ module.exports = [
     ]
   },
   {
+    name: 'Preston Lamb',
+    description: 'Full Stack developer, focusing on Angular and Node',
+    url: 'https://www.prestonlamb.com/blog',
+    twitter: 'prestonjlamb',
+    tags: [
+      'Angular',
+      'JavaScript',
+      'Node.js',
+      'Nest.js',
+      'Web Development',
+    ]
+  },
+  {
     name: 'Priya Pareek',
     description: 'Used to write about TechSavvy',
     url: 'https://techsavvypriya.wordpress.com/',
