@@ -1272,7 +1272,7 @@ module.exports = [
     twitter: '@Litbelb',
     tags: [
       'Golang',
-      'Frontend',
+      'Front End',
       'Web Development',
       'Vue',
      ]
