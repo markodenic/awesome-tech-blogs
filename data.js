@@ -1299,6 +1299,20 @@ module.exports = [
     ]
   },
   {
+  name: 'Peter Lynch',
+    description: 'Full-stack developer and creator of popular chrome extension Garachu. I write about web development and help you level up your coding.',
+    url: 'https://peterlunch.com/articles/',
+    twitter: '@thelynchpinau',
+    tags: [
+      'HTML',
+      'CSS',
+      'JavaScript',
+      'Web Development',
+      'Beginner',
+      'React',
+    ],
+  },
+  {
     name: 'Sakun Pushpitha',
     description: 'Web development resources, tutorials, tips and tricks for developers.',
     url: 'https://sakunpushpitha.hashnode.dev',
@@ -1380,4 +1394,5 @@ module.exports = [
       'Technical',
     ]
   },
+  
 ];
