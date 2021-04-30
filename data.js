@@ -99,6 +99,21 @@ module.exports = [
       'React'
     ],
   },
+    {
+    name: 'Create React App Blog',
+    description: 'Stories About My Journey to Become a Developer. Overview of Best Web Dev Tools & Resources.',
+    url: 'https://create-react-app.com/',
+    twitter: '@crapp_blog',
+    tags: [
+      'HTML',
+      'CSS',
+      'JavaScript',
+      'Web Development',
+      'Front End',
+      'React',
+      'Productivity'
+    ],
+  },
   {
     name: 'Abia Tech Hub',
     description: 'Innovation | Technology | Entrepreneurship',
