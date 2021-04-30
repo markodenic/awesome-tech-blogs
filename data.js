@@ -1019,6 +1019,24 @@ module.exports = [
     ]
   },
   {
+    name: 'Austin Gil',
+    description: 'Writing about web development and life.',
+    url: 'https://austingil.com/blog/',
+    twitter: '@Stegosource',
+    tags: [
+      'HTML',
+      'CSS',
+      'JavaScript',
+      'Vue',
+      'Node',
+      'Accessibility',
+      'Security',
+      'Serverless',
+      'WordPress',
+      'TypeScript',
+    ]
+  },
+  {
     name: 'Silvestar Bistrović',
     description: 'Frontend, JAMstack, WordPress, and freelancing topics.',
     url: 'https://develop.silvestar.codes/articles/',
