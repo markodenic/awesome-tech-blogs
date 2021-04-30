@@ -857,6 +857,24 @@ module.exports = [
     ],
   },
   {
+    name: 'Florian Clanet',
+    description: 'Cloud entusiast who loves to build magical things in the Cloud. I am very curious and I try to share my new learnings with you.',
+    url: 'https://blog.flolight.dev/',
+    twitter: '@FlolightC',
+    tags: [
+      'AWS',
+      'Cloud',
+      'Azure',
+      'Beginner',
+      'Devops',
+      'Cloud Infrastructure',
+      'Machine Learning',
+      'Git',
+      'General Programming',
+      'Web Development',
+    ]
+  },
+  {
     name: 'WP OWls',
     description: 'WP Owls is a place created especially for WordPress fans. Every week you will find the latest news from the world of WordPress.',
     url: 'https://wpowls.co',
