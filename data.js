@@ -1504,4 +1504,15 @@ module.exports = [
       'Technical',
     ]
   },
+  {
+    name: 'Somraj Saha',
+    description: 'Self-taught Economist-turned Developer, documeting his experience with Python, Machine Learning & programming in general',
+    url: 'https://jarmos.netlify.app',
+    twitter: '@Jarmos-san',
+    tags: [
+      'Python',
+      'Machine Learning',
+      'Programming',
+     ]
+  },
 ];
