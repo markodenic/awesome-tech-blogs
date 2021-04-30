@@ -490,6 +490,18 @@ module.exports = [
     ],
   },
   {
+    name: 'Tshiteej Bhardwaj',
+    description: 'I love to write around Web Development, and related technologies.',
+    url: 'https://www.tshiteej.com/blog',
+    twitter: 'tshiteej',
+    tags: [
+      'JavaScript',
+      'Python',
+      'Web Development',
+      'Automation'
+    ]
+  },
+  {
     name: 'Victoria Lo',
     description: 'Victoria is a very curious developer. Her articles on blogging combine great programming skills with enjoyable and insightful technical articles.',
     url: 'https://lo-victoria.com',
@@ -1363,18 +1375,6 @@ module.exports = [
       'Artificial Intelligence',
       'Cheat Sheets',
       'Technical',
-    ]
-  },
-  {
-    name: 'Tshiteej Bhardwaj',
-    description: 'I love to write around Web Development, and related technologies.',
-    url: 'https://www.tshiteej.com/blog',
-    twitter: 'tshiteej',
-    tags: [
-      'JavaScript',
-      'Python',
-      'Web Development',
-      'Automation'
     ]
   }
 ];
