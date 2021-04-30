@@ -1384,6 +1384,20 @@ module.exports = [
     ]
   },
   {
+    name: 'Sarah Drasner',
+    description: 'The author of SVG Animations from O’Reilly and a staff writer for CSS-Tricks.',
+    url: 'https://sarah.dev/writing',
+    twitter: '@sarah_edo',
+    tags: [
+      'SVG',
+      'Vue',
+      'JavaScript',
+      'Self-Development',
+      'Tech',
+      'Web Development',
+    ]
+  },
+  {
     name: 'Sven Hofmann',
     description: 'Thoughts, resources, and hacks for developers.',
     url: 'https://hofmannsven.com/blog',
@@ -1460,5 +1474,4 @@ module.exports = [
       'Technical',
     ]
   },
-  
 ];
