@@ -1,4 +1,15 @@
 module.exports = [
+   {
+    name: 'Kuldip Mochi',
+    description: 'Software engineer, full stack enthusiastic, student',
+    url: 'https://kuldipmochi.hashnode.dev/',
+    tags: [
+      'javascript',
+      'nodejs',
+      'react',
+      'compupter science'
+    ],
+  },
   {
     name: 'Peter Smith',
     description: 'Networking, antique electrical bits, and more. Developer of multiple apps in the Window, including apps to control reverse-engineered Bluetooth devices. Wrote my first network program in 1989, slightly before the WWW.',
@@ -25,6 +36,23 @@ module.exports = [
       'Laravel',
       'TailwindCSS',
       'SEO',
+    ],
+  },
+  {
+    name: 'Shaurya Pratap Singh',
+    description: 'A middle schooler who loves writing about programming.',
+    url: 'https://sblip.medium.com/',
+    twitter: '@Shaurya79145816',
+    tags: [
+      'Python',
+      'HTML',
+      'CSS',
+      'JavaScript',
+      'Web Development',
+      'Backend Development',
+      'PostgreSQL',
+      'Django',
+      'Vue'
     ],
   },
   {
@@ -71,6 +99,21 @@ module.exports = [
       'React'
     ],
   },
+    {
+    name: 'Create React App Blog',
+    description: 'Stories About My Journey to Become a Developer. Overview of Best Web Dev Tools & Resources.',
+    url: 'https://create-react-app.com/',
+    twitter: '@crapp_blog',
+    tags: [
+      'HTML',
+      'CSS',
+      'JavaScript',
+      'Web Development',
+      'Front End',
+      'React',
+      'Productivity'
+    ],
+  },
   {
     name: 'Abia Tech Hub',
     description: 'Innovation | Technology | Entrepreneurship',
@@ -87,6 +130,23 @@ module.exports = [
       'WordPress',
       'Software Development',
       'Software Architecture',
+    ]
+  },
+  {
+    name: 'Alberto Bonacina',
+    description: 'Proud Software Engineer, Flutter enthusiast and Free Software activist',
+    url: 'https://blog.albertobonacina.com/',
+    twitter: 'polilluminato',
+    tags: [
+      'Flutter',
+      'Dart',
+      'Android',
+      'Linux',
+      'Node.js',
+      'APIs',
+      'JavaScript',
+      'Backend Development',
+      'PostgreSQL',
     ]
   },
   {
@@ -152,6 +212,24 @@ module.exports = [
     ],
   },
   {
+    name: 'C. Augusto Proiete',
+    description: 'Open-source maintainer: #cakebuild #serilog #exceldna #xlstack',
+    url: 'https://augustoproiete.net',
+    twitter: '@augustoproiete',
+    tags: [
+      'Microsoft',
+      '.NET',
+      'C#',
+      'Software Development',
+      'Software Architecture',
+      'Software Engineering',
+      'Software Engineer',
+      'CakeBuild',
+      'Serilog',
+      'XLStack',
+    ]
+  },
+  {
     name: 'Rahul',
     description: 'Front-end Developer. Helping beginners in coding.',
     url: 'https://blog.rahulism.co',
@@ -166,6 +244,24 @@ module.exports = [
       'Front End',
       'Productivity',
     ],
+  },
+  {
+    name: 'Kévin Dunglas',
+    description: 'Kévin writes about the free software he uses and maintains. Most of the posts are about web APIs, Go, PHP and JavaScript.',
+    url: 'https://dunglas.fr',
+    twitter: '@dunglas',
+    tags: [
+      'APIs',
+      'Go',
+      'PHP',
+      'JavaScript',
+      'TypeScript',
+      'React',
+      'Next.js',
+      'Symfony',
+      'API Platform',
+      'Web Development',
+    ]
   },
   {
     name: 'Rahul Banerjee',
@@ -229,6 +325,18 @@ module.exports = [
       'Cloud Infrastructure',
       'Productivity',
       'Faster Development',
+    ]
+  },
+  {
+    name: 'Phil McParlane',
+    description: 'Helping Software Developers get a job with a 4 day working week',
+    url: 'https://4dayweek.io/blog',
+    twitter: '@philostar',
+    tags: [
+      'Career',
+      'Self-Development',
+      'Tech',
+      'Jobs'
     ]
   },
   {
@@ -569,6 +677,22 @@ module.exports = [
     ],
   },
   {
+    name: 'Albert Walicki',
+    description: 'Frontend developer, entrepreneur, writer, CSS artist',
+    url: 'https://www.albertwalicki.com/blog',
+    twitter: '@AlbertWalicki',
+    tags: [
+      'CSS',
+      'HTML',
+      'JavaScript',
+      'Next.js',
+      'CSS art',
+      'Accessibility',
+      'Design',
+      'SEO'
+    ]
+  },
+  {
     name: 'Varun Singh',
     description: 'Full-stack Developer',
     url: 'https://varuns.hashnode.dev',
@@ -615,6 +739,24 @@ module.exports = [
       'React',
       'Next.js',
       'Node.js'
+    ],
+  },
+  {
+    name: 'Stephan Kämper',
+    description: 'Programming & Software Test 〜 Languages: English, German, Ruby, and some Elixir',
+    url: 'https://seasidetesting.com/',
+    twitter: '@S_2K',
+    tags: [
+      'Ruby',
+      'Rails',
+      'Software Test',
+      'Testing',
+      'Development',
+      'HTML',
+      'TDD',
+      'BDD',
+      'Git',
+      'macOS',
     ],
   },
   {
@@ -713,6 +855,24 @@ module.exports = [
       'JavaScript',
       'AWS',
     ],
+  },
+  {
+    name: 'Florian Clanet',
+    description: 'Cloud entusiast who loves to build magical things in the Cloud. I am very curious and I try to share my new learnings with you.',
+    url: 'https://blog.flolight.dev/',
+    twitter: '@FlolightC',
+    tags: [
+      'AWS',
+      'Cloud',
+      'Azure',
+      'Beginner',
+      'Devops',
+      'Cloud Infrastructure',
+      'Machine Learning',
+      'Git',
+      'General Programming',
+      'Web Development',
+    ]
   },
   {
     name: 'WP OWls',
@@ -973,6 +1133,24 @@ module.exports = [
     ]
   },
   {
+    name: 'Unicorn Utterances',
+    description: 'Learning programming from magically majestic words.',
+    url: 'https://unicorn-utterances.com/',
+    twitter: '@UnicornUttrncs',
+    tags: [
+      'HTML',
+      'CSS',
+      'JavaScript',
+      'Web Development',
+      'React',
+      'Angular',
+      'Front End',
+      'Node.js',
+      'Programming',
+      'General Tech',
+    ],
+  },
+  {
     name: 'Saad Ahmad',
     description: 'Frontend developer | Mechanical engineer',
     url: 'https://medium.com/@saadahmadhere',
@@ -1071,6 +1249,25 @@ module.exports = [
     ]
   },
   {
+    name: 'Rishab Kumar',
+    description: 'I am a tech entusiast that loves to play in the Cloud and related technologies. Also, try to create nice web experiences.',
+    url: 'https://blog.rishabkumar.com/',
+    twitter: '@rishabk7',
+    tags: [
+      'AWS',
+      'Cloud',
+      'Azure',
+      'HTML',
+      'CSS',
+      'JavaScript',
+      'React',
+      'Node.js',
+      'Git',
+      'General Programming',
+      'Web Development',
+    ]
+  },
+  {
     name: 'Sebastian Hesse',
     description: 'Serverless Cloud Expert - Blogging about everything related to AWS Cloud, Serverless, Java, Node.js and JavaScript.',
     url: 'https://www.sebastianhesse.de/blog',
@@ -1155,6 +1352,52 @@ module.exports = [
     ]
   },
   {
+  name: 'Peter Lynch',
+    description: 'Full-stack developer and creator of popular chrome extension Garachu. I write about web development and help you level up your coding.',
+    url: 'https://peterlunch.com/articles/',
+    twitter: '@thelynchpinau',
+    tags: [
+      'HTML',
+      'CSS',
+      'JavaScript',
+      'Web Development',
+      'Beginner',
+      'React',
+    ],
+  },
+  {
+    name: 'Sakun Pushpitha',
+    description: 'Web development resources, tutorials, tips and tricks for developers.',
+    url: 'https://sakunpushpitha.hashnode.dev',
+    twitter: '@SakunPushpitha',
+    tags: [
+      'Web Development',
+      'Backend',
+      'Git',
+      'Frontend',
+      'React',
+      'Javascript',
+      'APIs',
+      'Node.js',
+      'CSS',
+      'HTML'
+    ]
+  },
+  {
+    name: 'Sarah Drasner',
+    description: 'The author of SVG Animations from O’Reilly and a staff writer for CSS-Tricks.',
+    url: 'https://sarah.dev/writing',
+    twitter: '@sarah_edo',
+    tags: [
+      'SVG',
+      'Vue',
+      'JavaScript',
+      'Self-Development',
+      'Tech',
+      'Web Development',
+    ]
+  },
+  {
     name: 'Sven Hofmann',
     description: 'Thoughts, resources, and hacks for developers.',
     url: 'https://hofmannsven.com/blog',
@@ -1170,18 +1413,65 @@ module.exports = [
       'Web Development',
     ]
   },
-    {
-    name: 'Sarah Drasner',
-    description: 'The author of SVG Animations from O’Reilly and a staff writer for CSS-Tricks.',
-    url: 'https://sarah.dev/writing',
-    twitter: '@sarah_edo',
+  {
+    name: 'Filipe Oliveira',
+    description: 'codeperf.io: Blog empowering developers with tools and how-to to make software faster.',
+    url: 'https://codeperf.io',
+    twitter: '@fcosta_oliveira',
     tags: [
-      'SVG',
-      'Vue',
-      'JavaScript',
+      'Performance',
+      'Observability',
+      'Monitoring',
+      'C',
+      'Golang',
+      'NOSQL',
+      'Redis',
+    ]
+  },
+  {
+    name: 'Hassan Sani',
+    description: 'Writing about frontend and Angular.',
+    url: 'https://blog.hassansani.me',
+    twitter: '@inidaname',
+    tags: [
+      'APIs',
+      'Frontend',
+      'Git',
+      'Angular',
       'Self-Development',
       'Tech',
       'Web Development',
+    ]
+  },
+  {
+    name: 'Preston Lamb',
+    description: 'Full Stack developer, focusing on Angular and Node',
+    url: 'https://www.prestonlamb.com/blog',
+    twitter: 'prestonjlamb',
+    tags: [
+      'Angular',
+      'JavaScript',
+      'Node.js',
+      'Nest.js',
+      'Web Development',
+    ]
+  },
+  {
+    name: 'Priya Pareek',
+    description: 'Used to write about TechSavvy',
+    url: 'https://techsavvypriya.wordpress.com/',
+    twitter: 'iampriyapareek',
+    tags: [
+      'Frontend',
+      'Git',
+      'Angular',
+      'Self-Development',
+      'Tech',
+      'Web Development',
+      'Progrmaming',
+      'Artificial Intelligence',
+      'Cheat Sheets',
+      'Technical',
     ]
   },
 ];
