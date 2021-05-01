@@ -96,8 +96,8 @@ export default {
       // sort and filter for any tags that only have 1
       this.tags = Object.entries(counts)
         .sort(([, countA], [, countB]) => countB - countA)
-        // Show tags that have more then 1 occurrence to keep only the most relevant tags.
-        .filter(([, count]) => count >= 2)
+        // Show tags that have more then 2 occurrence to keep only the most relevant tags.
+        .filter(([, count]) => count >= 3)
         .map(([name, count]) => ({ name, count }));
     },
   }
