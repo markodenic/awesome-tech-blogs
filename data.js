@@ -1,25 +1,26 @@
-module.exports = [  {
+module.exports = [
+  {
     name: 'Johnson-Awah Alfred',
     description: 'Software engineer,Blockchain engineer, student, staff software engineer',
     url: 'https://blog.codemon.me',
     tags: [
-      'javascript',
-      'nodejs',
-      'react',
-      'compupter science',
-      'php',
-      'typescript'
+      'JavaScript',
+      'Node.js',
+      'React',
+      'Computer Science',
+      'PHP',
+      'TypeScript'
     ],
   },
-   {
+  {
     name: 'Kuldip Mochi',
     description: 'Software engineer, full stack enthusiastic, student',
     url: 'https://kuldipmochi.hashnode.dev/',
     tags: [
-      'javascript',
-      'nodejs',
-      'react',
-      'compupter science'
+      'JavaScript',
+      'Node.js',
+      'React',
+      'Computer Science'
     ],
   },
   {
@@ -111,7 +112,7 @@ module.exports = [  {
       'React'
     ],
   },
-    {
+  {
     name: 'Create React App Blog',
     description: 'Stories About My Journey to Become a Developer. Overview of Best Web Dev Tools & Resources.',
     url: 'https://create-react-app.com/',
@@ -1385,7 +1386,7 @@ module.exports = [  {
       'Front End',
       'Web Development',
       'Vue',
-     ]
+    ]
   },
   {
     name: 'Jai Kumar Dewani',
@@ -1406,7 +1407,7 @@ module.exports = [  {
     ]
   },
   {
-  name: 'Peter Lynch',
+    name: 'Peter Lynch',
     description: 'Full-stack developer and creator of popular chrome extension Garachu. I write about web development and help you level up your coding.',
     url: 'https://peterlunch.com/articles/',
     twitter: '@thelynchpinau',
