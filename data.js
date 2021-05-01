@@ -522,6 +522,18 @@ module.exports = [
     ],
   },
   {
+    name: 'Tshiteej Bhardwaj',
+    description: 'I love to write around Web Development, and related technologies.',
+    url: 'https://www.tshiteej.com/blog',
+    twitter: 'tshiteej',
+    tags: [
+      'JavaScript',
+      'Python',
+      'Web Development',
+      'Automation'
+    ]
+  },
+  {
     name: 'Victoria Lo',
     description: 'Victoria is a very curious developer. Her articles on blogging combine great programming skills with enjoyable and insightful technical articles.',
     url: 'https://lo-victoria.com',
@@ -1503,16 +1515,5 @@ module.exports = [
       'Cheat Sheets',
       'Technical',
     ]
-  },
-  {
-    name: 'Somraj Saha',
-    description: 'Self-taught Economist-turned Developer, documeting his experience with Python, Machine Learning & programming in general',
-    url: 'https://jarmos.netlify.app',
-    twitter: '@Jarmos-san',
-    tags: [
-      'Python',
-      'Machine Learning',
-      'Programming',
-     ]
-  },
+  }
 ];
