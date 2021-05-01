@@ -1429,7 +1429,7 @@ module.exports = [
       'Web Development',
       'Backend',
       'Git',
-      'Frontend',
+      'Front End',
       'React',
       'Javascript',
       'APIs',
@@ -1490,7 +1490,7 @@ module.exports = [
     twitter: '@inidaname',
     tags: [
       'APIs',
-      'Frontend',
+      'Front End',
       'Git',
       'Angular',
       'Self-Development',
@@ -1517,7 +1517,7 @@ module.exports = [
     url: 'https://techsavvypriya.wordpress.com/',
     twitter: 'iampriyapareek',
     tags: [
-      'Frontend',
+      'Front End',
       'Git',
       'Angular',
       'Self-Development',

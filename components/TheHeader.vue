@@ -3,12 +3,14 @@
     id="top"
     class="text-center pb-6"
   >
-    <img
-      src="/logo.svg"
-      width="70"
-      height="70"
-      alt="Awesome Tech Blogs"
-    />
+    <a href="/">
+      <img
+        src="/logo.svg"
+        width="70"
+        height="70"
+        alt="Awesome Tech Blogs"
+      />
+    </a>
 
     <h1>
       Tech blogs

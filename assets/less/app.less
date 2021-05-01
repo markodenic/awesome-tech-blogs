@@ -7,16 +7,19 @@
 @import "./helpers";
 
 html {
-  --black: #100e17;
+  --black: #0e141b;
   --orange: #ff8a00;
   --green: #4fc08d;
   --pink: #a84fc0;
+  --rose: #ff0a78;
+  --purple: #6009F0;
+  --blue: #66aacc;
   font-family: monospace;
   scroll-behavior: smooth;
   background-color: var(--black);
   color: #fff;
   ::selection {
-    background: var(--orange);
+    background: var(--purple);
     color: #fff;
   }
   .wrapper {
@@ -29,7 +32,7 @@ html {
     font-size: 1.5rem;
   }
   a {
-    color: var(--orange);
+    color: var(--rose);
     text-decoration-color: var(--green);
   }
   .tag {
@@ -38,15 +41,19 @@ html {
     border: 0;
     color: #fff;
     cursor: pointer;
-    outline: 0;
-    background-color: var(--orange);
-    -webkit-transition: background-color 0.4s;
-    transition: background-color 0.4s;
+    -webkit-transition: background 0.4s;
+    transition: background 0.4s;
     padding: 5px;
     border-radius: 5px;
     font-size: 1.3rem;
+    box-shadow:inset 2px 2px 2px 0 rgba(255,255,255,.5),
+    7px 7px 20px 0 rgba(0,0,0,.1),
+    4px 4px 5px 0 rgba(0,0,0,.1);
+    outline: none;
+    background: var(--purple);
+    background: linear-gradient(0deg, rgba(96, 9, 240, 1) 0%, rgba(129, 5, 240, 1) 100%);
     &--active {
-      background-color: var(--green);
+      background: var(--green);
     }
     &--small {
       cursor: default;
@@ -69,9 +76,6 @@ html {
     border: 1px solid #fff;
     display: flex;
     flex-direction: column;
-    &-link:visited {
-      color: var(--pink);
-    }
     &-header {
       display: flex;
       align-items: center;
@@ -80,9 +84,12 @@ html {
     &-content {
       padding: 15px;
       flex: 1;
+      display: flex;
+      flex-direction: column;
     }
     &-description {
       font-size: 1.5rem;
+      flex: 1;
     }
     &-tags {
       list-style-type: none;
