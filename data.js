@@ -99,6 +99,21 @@ module.exports = [
       'React'
     ],
   },
+    {
+    name: 'Create React App Blog',
+    description: 'Stories About My Journey to Become a Developer. Overview of Best Web Dev Tools & Resources.',
+    url: 'https://create-react-app.com/',
+    twitter: '@crapp_blog',
+    tags: [
+      'HTML',
+      'CSS',
+      'JavaScript',
+      'Web Development',
+      'Front End',
+      'React',
+      'Productivity'
+    ],
+  },
   {
     name: 'Abia Tech Hub',
     description: 'Innovation | Technology | Entrepreneurship',
@@ -115,6 +130,23 @@ module.exports = [
       'WordPress',
       'Software Development',
       'Software Architecture',
+    ]
+  },
+  {
+    name: 'Alberto Bonacina',
+    description: 'Proud Software Engineer, Flutter enthusiast and Free Software activist',
+    url: 'https://blog.albertobonacina.com/',
+    twitter: 'polilluminato',
+    tags: [
+      'Flutter',
+      'Dart',
+      'Android',
+      'Linux',
+      'Node.js',
+      'APIs',
+      'JavaScript',
+      'Backend Development',
+      'PostgreSQL',
     ]
   },
   {
@@ -837,6 +869,24 @@ module.exports = [
     ],
   },
   {
+    name: 'Florian Clanet',
+    description: 'Cloud entusiast who loves to build magical things in the Cloud. I am very curious and I try to share my new learnings with you.',
+    url: 'https://blog.flolight.dev/',
+    twitter: '@FlolightC',
+    tags: [
+      'AWS',
+      'Cloud',
+      'Azure',
+      'Beginner',
+      'Devops',
+      'Cloud Infrastructure',
+      'Machine Learning',
+      'Git',
+      'General Programming',
+      'Web Development',
+    ]
+  },
+  {
     name: 'WP OWls',
     description: 'WP Owls is a place created especially for WordPress fans. Every week you will find the latest news from the world of WordPress.',
     url: 'https://wpowls.co',
@@ -981,6 +1031,24 @@ module.exports = [
     ]
   },
   {
+    name: 'Austin Gil',
+    description: 'Writing about web development and life.',
+    url: 'https://austingil.com/blog/',
+    twitter: '@Stegosource',
+    tags: [
+      'HTML',
+      'CSS',
+      'JavaScript',
+      'Vue',
+      'Node',
+      'Accessibility',
+      'Security',
+      'Serverless',
+      'WordPress',
+      'TypeScript',
+    ]
+  },
+  {
     name: 'Silvestar Bistrović',
     description: 'Frontend, JAMstack, WordPress, and freelancing topics.',
     url: 'https://develop.silvestar.codes/articles/',
@@ -1093,6 +1161,24 @@ module.exports = [
       'DL',
       'Gamedev',
     ]
+  },
+  {
+    name: 'Unicorn Utterances',
+    description: 'Learning programming from magically majestic words.',
+    url: 'https://unicorn-utterances.com/',
+    twitter: '@UnicornUttrncs',
+    tags: [
+      'HTML',
+      'CSS',
+      'JavaScript',
+      'Web Development',
+      'React',
+      'Angular',
+      'Front End',
+      'Node.js',
+      'Programming',
+      'General Tech',
+    ],
   },
   {
     name: 'Saad Ahmad',
@@ -1278,6 +1364,18 @@ module.exports = [
     ]
   },
   {
+    name: '@litbelb on Medium',
+    description: 'Gopher, Student, Gamer, very unprofessional writer',
+    url: 'https://medium.litbelb.com',
+    twitter: '@Litbelb',
+    tags: [
+      'Golang',
+      'Front End',
+      'Web Development',
+      'Vue',
+     ]
+  },
+  {
     name: 'Jai Kumar Dewani',
     description: 'Another Tech-nerd trying to make a name for himself.',
     url: 'https://jai-dewani.github.io/blogs/',
@@ -1296,6 +1394,20 @@ module.exports = [
     ]
   },
   {
+  name: 'Peter Lynch',
+    description: 'Full-stack developer and creator of popular chrome extension Garachu. I write about web development and help you level up your coding.',
+    url: 'https://peterlunch.com/articles/',
+    twitter: '@thelynchpinau',
+    tags: [
+      'HTML',
+      'CSS',
+      'JavaScript',
+      'Web Development',
+      'Beginner',
+      'React',
+    ],
+  },
+  {
     name: 'Sakun Pushpitha',
     description: 'Web development resources, tutorials, tips and tricks for developers.',
     url: 'https://sakunpushpitha.hashnode.dev',
@@ -1311,6 +1423,20 @@ module.exports = [
       'Node.js',
       'CSS',
       'HTML'
+    ]
+  },
+  {
+    name: 'Sarah Drasner',
+    description: 'The author of SVG Animations from O’Reilly and a staff writer for CSS-Tricks.',
+    url: 'https://sarah.dev/writing',
+    twitter: '@sarah_edo',
+    tags: [
+      'SVG',
+      'Vue',
+      'JavaScript',
+      'Self-Development',
+      'Tech',
+      'Web Development',
     ]
   },
   {
@@ -1356,6 +1482,19 @@ module.exports = [
       'Angular',
       'Self-Development',
       'Tech',
+      'Web Development',
+    ]
+  },
+  {
+    name: 'Preston Lamb',
+    description: 'Full Stack developer, focusing on Angular and Node',
+    url: 'https://www.prestonlamb.com/blog',
+    twitter: 'prestonjlamb',
+    tags: [
+      'Angular',
+      'JavaScript',
+      'Node.js',
+      'Nest.js',
       'Web Development',
     ]
   },
