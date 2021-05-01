@@ -1,4 +1,16 @@
-module.exports = [
+module.exports = [  {
+    name: 'Johnson-Awah Alfred',
+    description: 'Software engineer,Blockchain engineer, student, staff software engineer',
+    url: 'https://blog.codemon.me',
+    tags: [
+      'javascript',
+      'nodejs',
+      'react',
+      'compupter science',
+      'php',
+      'typescript'
+    ],
+  },
    {
     name: 'Kuldip Mochi',
     description: 'Software engineer, full stack enthusiastic, student',
