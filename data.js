@@ -2,7 +2,7 @@ module.exports = [
   {
     name: 'Shravan Kumar',
     description: 'Software Engineer | Bibliophilic | Generalizing Specialist | Curious Creature | I, sometimes write blog',
-    url: 'httpshttp://ohmyscript.com/://ohmyscript.com/',
+    url: 'https://ohmyscript.com/',
     tags: [
       'JavaScript',
       'PHP',
