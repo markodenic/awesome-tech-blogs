@@ -1527,7 +1527,7 @@ module.exports = [
       'Artificial Intelligence',
       'Cheat Sheets',
       'Technical',
-    ],
+    ]
   },
     {
   name: 'Vishunbhotla V D V Bharadwaj',
@@ -1539,6 +1539,6 @@ module.exports = [
     'Flutter'
     'Web Development',
     'Computer Science'
-    ],
-  },
+    ]
+    }
 ];
