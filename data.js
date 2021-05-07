@@ -1531,7 +1531,7 @@ module.exports = [
   },
   {
     name: 'Vishunbhotla V D V Bharadwaj',
-    description: 'A Computer Science Engineer who loves Blogging and Sharing Content'
+    description: 'A Computer Science Engineer who loves Blogging and Sharing Content',
     url: 'https://bharadwaj.hashnode.dev/',
     twitter: '@Bharadwaj6262',
     tags: [
