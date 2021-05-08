@@ -1528,5 +1528,25 @@ module.exports = [
       'Cheat Sheets',
       'Technical',
     ]
+  },
+    {
+    name: 'Mehdi Hadeli',
+    description: 'I’m a software engineer with +10 years of experience in developing and designing distributed applications built on top of cutting-edge technologies with interest in Microservices, DDD.',
+    url: 'https://dotnetuniversity.com',
+    twitter: 'mehdi_hadeli',
+    tags: [
+      '.Net',
+      'Microservices',
+      'Modular Monolith',
+      '.Net Core',
+      'Web Development',
+      'Progrmaming',
+      'C#',
+      'DDD',
+      'CQRS',
+      'Event Sourcing',
+      'Backend',
+      'WEB API'
+    ]
   }
 ];
