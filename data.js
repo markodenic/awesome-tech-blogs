@@ -1,5 +1,22 @@
 module.exports = [
   {
+    name: 'Shravan Kumar',
+    description: 'Software Engineer | Bibliophilic | Generalizing Specialist | Curious Creature | I, sometimes write blog',
+    url: 'https://ohmyscript.com/',
+    tags: [
+      'JavaScript',
+      'Python',
+      'TypeScript',
+      'Node.js',
+      'Express.js',
+      'Git',
+      'Tech',
+      'Backend',
+      'Software Development',
+      'Computer Science',
+    ],
+  },
+  {
     name: 'Johnson-Awah Alfred',
     description: 'Software engineer,Blockchain engineer, student, staff software engineer',
     url: 'https://blog.codemon.me',
