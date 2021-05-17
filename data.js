@@ -1346,6 +1346,25 @@ module.exports = [
     ]
   },
   {
+    name: 'Marcel Hauri',
+    description:
+      'Father, husband, software developer and lecturer in application development.',
+    url: 'http://marcelhauri.ch/',
+    twitter: '@mhauri',
+    tags: [
+      'DevOps',
+      'Docker',
+      'Netlify',
+      'Google Cloud Platform',
+      'Laravel',
+      'Symfony',
+      'React',
+      'Next',
+      'Gatsby',
+      'Tailwind CSS',
+    ],
+  },
+  {
     name: 'Chen A',
     description: 'Just another blog about Devops/SRE - blog about infrastructure, software-engineering, et al.',
     url: 'https://devopsian.net',
@@ -1557,29 +1576,5 @@ module.exports = [
       'Web Development',
       'Computer Science',
     ]
-  },
-  {
-    name: 'Marcel Hauri',
-    description:
-      'Father, husband, software developer and lecturer in application development.',
-    url: 'http://marcelhauri.ch/',
-    twitter: '@mhauri',
-    tags: [
-      'Lecturer',
-      'Coach',
-      'Developer',
-      'DevOps',
-      'Docker',
-      'Netlify',
-      'Google Cloud Platform',
-      'PHP',
-      'Magento',
-      'Laravel',
-      'Symfony',
-      'React',
-      'Next',
-      'Gatsby',
-      'Tailwind CSS',
-    ],
-  },
+  }
 ];
