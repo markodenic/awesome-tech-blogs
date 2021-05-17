@@ -262,7 +262,7 @@ module.exports = [
   {
     name: 'Rahul',
     description: 'Front-end Developer. Helping beginners in coding.',
-    url: 'https://blog.rahulism.co',
+    url: 'https://rahulism.hashnode.dev',
     twitter: '@rahxul',
     tags: [
       'HTML',
