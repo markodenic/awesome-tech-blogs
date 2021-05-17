@@ -1557,5 +1557,29 @@ module.exports = [
       'Web Development',
       'Computer Science',
     ]
-  }
+  },
+  {
+    name: 'Marcel Hauri',
+    description:
+      'Father, husband, software developer and lecturer in application development.',
+    url: 'http://marcelhauri.ch/',
+    twitter: '@mhauri',
+    tags: [
+      'Lecturer',
+      'Coach',
+      'Developer',
+      'DevOps',
+      'Docker',
+      'Netlify',
+      'Google Cloud Platform',
+      'PHP',
+      'Magento',
+      'Laravel',
+      'Symfony',
+      'React',
+      'Next',
+      'Gatsby',
+      'Tailwind CSS',
+    ],
+  },
 ];
