@@ -1349,7 +1349,7 @@ module.exports = [
     name: 'Marcel Hauri',
     description:
       'Father, husband, software developer and lecturer in application development.',
-    url: 'http://marcelhauri.ch/',
+    url: 'https://marcelhauri.ch/blog/',
     twitter: '@mhauri',
     tags: [
       'DevOps',
