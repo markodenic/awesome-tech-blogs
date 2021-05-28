@@ -1,4 +1,27 @@
 module.exports = [
+   {
+    name: 'Michael Hoffmann (Mokkapps)',
+    description: '🌴 Freelancer | 👨🏻‍💻 Developer | ✍️ Blogger',
+    url: 'https://mokkapps.de/blog/',
+    tags: [
+      'JavaScript',
+      'TypeScript',
+      'Node.js',
+      'Express.js',
+      'Git',
+      'Tech',
+      'Frontend',
+      'Fullstack',
+      'HTML',
+      'CSS',
+      'Gatsby',
+      'Spring Boot',
+      'Backend',
+      'Freelancing',
+      'Career',
+      'Software Development'
+    ],
+  },
   {
     name: 'Shravan Kumar',
     description: 'Software Engineer | Bibliophilic | Generalizing Specialist | Curious Creature | I, sometimes write blog',
