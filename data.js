@@ -1599,5 +1599,27 @@ module.exports = [
       'Web Development',
       'Computer Science',
     ]
+  },
+  {
+    name: 'Shahed Nasser',
+    description: 'Writing about anything related to Web Development or Personal Opinions.',
+    url: 'https://blog.shahednasser.com/',
+    twitter: '@shahednasserr',
+    tags: [
+      'Front End',
+      'Javascript',
+      'Web Development',
+      'Git',
+      'Technical',
+      'Tech',
+      'Web Development',
+      'Progrmaming',
+      'React',
+      'PHP',
+      'CSS',
+      'Node.js',
+      'Magento',
+      'Computer Science',
+    ]
   }
 ];
