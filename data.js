@@ -64,7 +64,7 @@ module.exports = [
       'PHP',
       'SEO',
       'Digital Marketing',
-      'Agile'
+      'Agile',
       'Scrum',
       'XP'
     ],
