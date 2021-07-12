@@ -1466,6 +1466,25 @@ module.exports = [
     ]
   },
   {
+    name: "ThisDot Blog",
+    description:
+      "Deep knowledge on web topics and tools. Written by many developers",
+    url: "https://labs.thisdot.co/blog",
+    twitter: "@ThisDotLabs",
+    tags: [
+      "Frontend",
+      "JavaScript",
+      "ReactJS",
+      "VueJS",
+      "Angular",
+      "Web Development",
+      "Tech",
+      "GraphQL",
+      "CSS",
+      "AWS"
+    ]
+  },
+  {
     name: "Sarah Drasner",
     description:
       "The author of SVG Animations from O’Reilly and a staff writer for CSS-Tricks.",
@@ -1580,25 +1599,6 @@ module.exports = [
       "Node.js",
       "Magento",
       "Computer Science"
-    ]
-  },
-  {
-    name: "ThisDot Blog",
-    description:
-      "Deep knowledge on web topics and tools. Written by many developers",
-    url: "https://labs.thisdot.co/blog",
-    twitter: "@ThisDotLabs",
-    tags: [
-      "Frontend",
-      "JavaScript",
-      "ReactJS",
-      "VueJS",
-      "Angular",
-      "Web Development",
-      "Tech",
-      "GraphQL",
-      "CSS",
-      "AWS"
     ]
   }
 ];
