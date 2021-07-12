@@ -1298,6 +1298,25 @@ module.exports = [
     ]
   },
   {
+    name: "Dillion Megida",
+    description:
+      "Software Engineer and Content creator passionate about simplifying topics around web development",
+    url: "https://dillionmegida.com/blog",
+    twitter: "@iamdillion",
+    tags: [
+      "Frontend",
+      "JavaScript",
+      "ReactJS",
+      "NextJS",
+      "GatsbyJS",
+      "Web Development",
+      "Tech",
+      "Node.JS",
+      "CSS",
+      "TypeScript"
+    ]
+  },
+  {
     name: 'Steven Spads',
     description: 'Full-stack Web Developer from Canada. Sharing web development tips, techniques, and tutorials to help you become a better web developer.',
     url: 'https://lumin8media.com',
