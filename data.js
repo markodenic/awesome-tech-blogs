@@ -53,6 +53,23 @@ module.exports = [
     ],
   },
   {
+    name: 'William Chin',
+    description: 'Product Manager, Digital Marketer, Agile Consultant, Web Developer - Looking to make the world more digitally friendly one post at a time.',
+    url: 'https://yourdigitalaid.com/category/blog/',
+    tags: [
+      'HTML',
+      'CSS',
+      'JavaScript',
+      'WordPress',
+      'PHP',
+      'SEO',
+      'Digital Marketing',
+      'Agile',
+      'Scrum',
+      'XP'
+    ],
+  },
+  {
     name: 'Kuldip Mochi',
     description: 'Software engineer, full stack enthusiastic, student',
     url: 'https://kuldipmochi.hashnode.dev/',
