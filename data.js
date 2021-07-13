@@ -742,6 +742,25 @@ module.exports = [
     ],
   },
   {
+    name: "ThisDot Blog",
+    description:
+      "Deep knowledge on web topics and tools. Written by many developers",
+    url: "https://labs.thisdot.co/blog",
+    twitter: "@ThisDotLabs",
+    tags: [
+      "Frontend",
+      "JavaScript",
+      "ReactJS",
+      "VueJS",
+      "Angular",
+      "Web Development",
+      "Tech",
+      "GraphQL",
+      "CSS",
+      "AWS"
+    ]
+  },
+  {
     name: 'Albert Walicki',
     description: 'Frontend developer, entrepreneur, writer, CSS artist',
     url: 'https://www.albertwalicki.com/blog',
