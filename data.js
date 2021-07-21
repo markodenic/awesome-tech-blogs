@@ -1675,5 +1675,16 @@ module.exports = [
       'Magento',
       'Computer Science',
     ]
+  },
+  {
+    name: 'Alex Lakatos',
+    description: 'Reformed JavaScript person. Tech Lead by day, Developer Avocado 🥑 by night.',
+    url: 'https://alexlakatos.com/',
+    twitter: '@lakatos88',
+    tags: [
+      'JavaScript',
+      'DevTools',
+      'DevRel'
+    ]
   }
 ];
