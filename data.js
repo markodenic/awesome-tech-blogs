@@ -1656,6 +1656,17 @@ module.exports = [
     ]
   },
   {
+    name: 'Alex Lakatos',
+    description: 'Reformed JavaScript person. Tech Lead by day, Developer Avocado 🥑 by night.',
+    url: 'https://alexlakatos.com/',
+    twitter: '@lakatos88',
+    tags: [
+      'JavaScript',
+      'DevTools',
+      'DevRel'
+    ]
+  },
+  {
     name: 'Shahed Nasser',
     description: 'Writing about anything related to Web Development or Personal Opinions.',
     url: 'https://blog.shahednasser.com/',
