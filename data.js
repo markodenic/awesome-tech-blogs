@@ -1686,5 +1686,19 @@ module.exports = [
       'Magento',
       'Computer Science',
     ]
+  },
+ {
+  name: 'Adithya',
+  description: 'I write about solutions to problems that I face on a daily basis | PHP, Laravel developer in Berlin, Germany',
+  url: 'https://adithya.dev/',
+  twitter: '@adithya_srini',
+  tags: [
+    'PHP',
+    'Laravel',
+    'Backend',
+    'Full Stack',
+    'Elasticsearch',
+    'Tailwind'
+  ]
   }
 ];
