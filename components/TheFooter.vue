@@ -5,6 +5,10 @@
     </p>
 
     <p>
+      Marko also made <a href="https://javascriptquiz.com">JavaScript Quiz</a> and <a href="https://freecodetools.org">Free Code Tools</a>.
+    </p>
+
+    <p>
       Source on <a href="https://github.com/MarkoDenic/awesome-tech-blogs">GitHub</a>. Add yourself!
     </p>
 
