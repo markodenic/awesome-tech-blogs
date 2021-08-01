@@ -29,7 +29,7 @@ module.exports = [
   },
   {
     name: 'Karl Koch',
-    description: 'Product Designer and Developer.',
+    description: 'Product Designer and UI Developer.',
     url: 'https://www.kejk.tech/thoughts',
     twitter: '@_kejk',
     tags: [
@@ -37,8 +37,10 @@ module.exports = [
       'CSS',
       'JavaScript',
       'Vue',
+      'Nuxt',
       'Swift',
       'SwiftUI',
+      'Figma API',
       'Figma plugins',
       'Product design'
     ],
