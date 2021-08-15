@@ -1702,5 +1702,20 @@ module.exports = [
     'Elasticsearch',
     'Tailwind'
   ]
+  },
+  {
+  name: 'Kolawole Mangabo',
+  description: 'I write about JavaScript and Python | React, Django developer ',
+  url: 'https://koladev.xyz/',
+  twitter: '@koladev32',
+  tags: [
+    'JavaScript',
+    'TypeScript',
+    'Python',
+    'Django',
+    'React',
+    'Docker',
+    'Tailwind'
+  ]
   }
 ];
