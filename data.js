@@ -528,13 +528,13 @@ module.exports = [
     tags: [
       'TailwindCSS',
       'React',
-      'Next.js'
-      'Resources'
+      'Next.js',
+      'Resources',
       'Front End',
       'JavaScript',
       'Web Development',
       'CSS',
-      'HTML',
+      'HTML'
     ]
   },
   {
