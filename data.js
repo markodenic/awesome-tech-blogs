@@ -1617,6 +1617,31 @@ module.exports = [
     ]
   },
   {
+    name: 'Ravgeet Dhillon',
+    description: 'Full Stack Developer and Technical Content Writer',
+    url: 'https://www.ravgeet.in/blog/',
+    twitter: '@ravgeetdhillon',
+    tags: [
+      'React',
+      'Vue',
+      'Flutter',
+      'Laravel',
+      'Python',
+      'Integration',
+      'API',
+      'Strapi',
+      'Node',
+      'Automation',
+      'Google Apps Script',
+      'Javascript',
+      'Frontend',
+      'Fullstack',
+      'Freelancing',
+      'Career',
+      'Software Development'
+    ]
+  },
+  {
     name: 'Hassan Sani',
     description: 'Writing about frontend and Angular.',
     url: 'https://blog.hassansani.me',
