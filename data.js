@@ -1744,5 +1744,20 @@ module.exports = [
     'Elasticsearch',
     'Tailwind'
   ]
+  },
+  {
+    name: 'The Trojan',
+    description: 'I write about algorithmic solutions for Software Engineering problems, interesting programming tips & tricks. May also include Machine Learning and Blockchain',
+    url: 'https://apoorvtyagi.tech/',
+    twitter: '@apoorv__tyagi',
+    tags: [
+      'Python',
+      'Javascript',
+      'Backend',
+      'Web Development',
+      'Git',
+      'Programming',
+      'Computer Science'
+    ]
   }
 ];
