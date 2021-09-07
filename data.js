@@ -1706,7 +1706,7 @@ module.exports = [
   {
   name: 'Kolawole Mangabo',
   description: 'I write about JavaScript and Python | React, Django developer ',
-  url: 'https://koladev.xyz/',
+  url: 'https://koladev.xyz/blog/',
   twitter: '@koladev32',
   tags: [
     'JavaScript',
