@@ -109,6 +109,23 @@ module.exports = [
     ],
   },
   {
+    name: 'The Trojan',
+    description: 'I write about algorithmic solutions for Software Engineering problems, interesting programming tips & tricks. May also include Machine Learning and Blockchain',
+    url: 'https://apoorvtyagi.tech/',
+    twitter: '@apoorv__tyagi',
+    tags: [
+      'Python',
+      'Javascript',
+      'Node.js',
+      'Clean Code',
+      'Backend',
+      'Web Development',
+      'Git',
+      'Programming',
+      'Computer Science'
+    ]
+  },
+  {
     name: 'Shaurya Pratap Singh',
     description: 'A middle schooler who loves writing about programming.',
     url: 'https://sblip.medium.com/',
