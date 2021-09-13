@@ -6,11 +6,10 @@ jobs:
   eslint:
     runs-on: ubuntu-latest
     steps:
-      - run: ls
       - uses: actions/checkout@v1
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v1
         with:
           node-version: ${{ matrix.node-version }}
-      - run: npm install eslint
+      - run: npm i -g eslint
       - run: eslint data.js
