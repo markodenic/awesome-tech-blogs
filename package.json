@@ -12,7 +12,7 @@
     "core-js": "^3.6.5",
     "normalize.css": "^8.0.1",
     "nuxt": "^2.14.6",
-    "eslint"
+    "eslint": "^7.32.0"
   },
   "devDependencies": {
     "less": "^4.0.0",
