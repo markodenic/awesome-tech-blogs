@@ -13,4 +13,4 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
       - run: npm install eslint
-      - uses: stefanoeb/eslint-action@1.0.2
+      - run: eslist data.js
