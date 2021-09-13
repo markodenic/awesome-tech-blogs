@@ -9,5 +9,3 @@ jobs:
       - run: ls
       - uses: actions/checkout@v1
       - uses: stefanoeb/eslint-action@1.0.2
-        with:
-          files: ./data.js
