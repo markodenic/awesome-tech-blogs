@@ -1776,5 +1776,16 @@ module.exports = [
     'Docker',
     'Tailwind'
   ]
+  },
+  {
+  name: 'Peter Witham',
+  description: 'Swift and Apple development articles',
+  url: 'https://compileswift.com',
+  twitter: '@compileswift',
+  tags: [
+    'Swift',
+    'Objective-C',
+    'SwiftUI'
+  ]
   }
 ];
