@@ -1776,5 +1776,23 @@ module.exports = [
     'Docker',
     'Tailwind'
   ]
-  }
+  },
+  {
+    name: 'Shane Lee',
+    description: 'Staff engineer -  write about tech and sometimes sustainability 🌎',
+    url: 'https://blog.shanelee.name/',
+    twitter: '@shavo27',
+    tags: [
+      'TypeScript',
+      'Spring Boot',
+      'Kubernetes',
+      'React',
+      'Docker',
+      'Cloud native',
+      'API first',
+      'Tech',
+      'AWS',
+      'Cloud infra'
+    ]
+    },
 ];
