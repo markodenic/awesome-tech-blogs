@@ -8,7 +8,8 @@
     "start": "nuxt start",
     "generate": "nuxt generate",
     "test:unit": "jest",
-    "format": "prettier --write ./data.js"
+    "format": "prettier --write ./data.js",
+    "lint": "prettier --write ./data.js"
   },
   "dependencies": {
     "core-js": "^3.6.5",
