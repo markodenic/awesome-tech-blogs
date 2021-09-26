@@ -1728,6 +1728,19 @@ module.exports = [
     ]
   },
   {
+    name: 'Akanksha Raghav',
+    description: 'A tech enthusiast who enjoy exploring new technologies and leverage them to solve real-life problem',
+    url: 'https://akanksharaghav.medium.com/',
+    twitter: '@akanksharaghav9',
+    tags: [
+      'Voice user Interface',
+      'Javascript',
+      'Hosting',
+      'Github',
+      'MERN',
+    ]
+  },
+  {
     name: 'Shahed Nasser',
     description: 'Writing about anything related to Web Development or Personal Opinions.',
     url: 'https://blog.shahednasser.com/',
