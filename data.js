@@ -157,6 +157,48 @@ module.exports = [
     ],
   },
   {
+    name: 'Shane Lee',
+    description: 'Staff engineer -  write about tech and sometimes sustainability 🌎',
+    url: 'https://blog.shanelee.name/',
+    twitter: '@shavo27',
+    tags: [
+      'TypeScript',
+      'Spring Boot',
+      'Kubernetes',
+      'React',
+      'Docker',
+      'Cloud native',
+      'API first',
+      'Tech',
+      'AWS',
+      'Cloud infra'
+    ]
+  },
+  {
+    name: 'Akanksha Raghav',
+    description: 'A tech enthusiast who enjoy exploring new technologies and leverage them to solve real-life problem',
+    url: 'https://akanksharaghav.medium.com/',
+    twitter: '@akanksharaghav9',
+    tags: [
+      'Voice user Interface',
+      'Javascript',
+      'Hosting',
+      'Github',
+      'MERN',
+    ]
+  },
+  {
+    name: 'Peter Witham',
+    description: 'Swift and Apple development articles',
+    url: 'https://compileswift.com/journal/',
+    twitter: '@compileswift',
+    tags: [
+      'Swift',
+      'Objective-C',
+      'SwiftUI'
+    ]
+  },
+  {
     name: "Tosin Fashanu",
     description: "Portfolio | Tutorial | Agency for web development.",
     url: "https://apluswebmaker.com",
