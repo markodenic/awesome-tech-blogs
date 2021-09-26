@@ -86,12 +86,11 @@ module.exports = [
     tags: ["Networking", "Bluetooth", "Programming Languages"],
   },
   {
-  name: "Marko ⚡ Denic",
+    name: "Marko ⚡ Denic",
     description: "Web developer. IT consultant and trainer.",
     url: "https://markodenic.com/blog/",
     twitter: "@denicmarko",
     tags: [
-
       "HTML",
       "CSS",
       "JavaScript",
