@@ -1,3 +1,15 @@
+/**
+    * @description      : 
+    * @author           : Michael
+    * @group            : 
+    * @created          : 27/09/2021 - 10:16:37
+    * 
+    * MODIFICATION LOG
+    * - Version         : 1.0.0
+    * - Date            : 27/09/2021
+    * - Author          : Michael
+    * - Modification    : 
+**/
 module.exports = [
   {
     name: "Michael Hoffmann (Mokkapps)",
@@ -609,6 +621,25 @@ module.exports = [
       "StencilJS",
       "Svelte",
       "Angular",
+    ],
+  },
+  {
+    name: "Michael Asiedu",
+    description: "A blog suited to  make you better and grow as software developer. Also, market and leverage your coding skills ",
+    url: "https://asiedu-dev.hashnode.dev",
+    twitter: "@asiedu_dev",
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Tailwind",
+      "UI/UX Design",
+      "Node.js",
+      "Web3.0",
+      "React",
+      "Digital Marketing",
+      "Personal Branding for developers",
+      "APIs",
     ],
   },
   {
