@@ -56,7 +56,7 @@ module.exports = [
   {
     name: 'Ramya Chinnadurai (Rams)',
     description: 'Full stack web developer. Passionate programmer and curious learner. Building http://100daysof.codes ',
-    url: 'http://rams.codes/',
+    url: 'http://ramyachinnadurai.in/',
     twitter: '@code_rams',
     tags: [
       'HTML', 
