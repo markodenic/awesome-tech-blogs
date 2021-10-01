@@ -1667,7 +1667,8 @@ module.exports = [
   },
   {
     name: "Bisrategebriel Fisseha",
-    description: "Software Engineer| Graphic Designer | Tech Entrepreneur | Cofounder at Kuraztech",
+    description:
+      "Software Engineer| Graphic Designer | Tech Entrepreneur | Cofounder at Kuraztech",
     url: "https://bisrate22.medium.com/",
     twitter: "@Bisrate22Fish",
     tags: [
