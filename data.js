@@ -45,11 +45,7 @@ module.exports = [
     description:
       "I'm a CS Under Grad who is passionate about sharing my ideas and experiences through blogs!",
     url: "https://xshyam.hashnode.dev",
-    tags: [
-      "Computer Science",
-      "Tech",
-      "Cybersecurity",
-    ],
+    tags: ["Computer Science", "Tech", "Cybersecurity"],
   },
   {
     name: "Johnson-Awah Alfred",
