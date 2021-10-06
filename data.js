@@ -1793,4 +1793,21 @@ module.exports = [
       "Tailwind",
     ],
   },
+  {
+    name: "Sushmita Pandey",
+    description:
+      "Frontend Developer 👩‍💻 | Tech Blogger ✍ | JavaScript Fanatic 🚀",
+    url: "https://sushmita.hashnode.dev/",
+    twitter: "@sushmitacodes",
+    tags: [
+      "JavaScript",
+      "Web Development",
+      "React",
+      "CSS",
+      "HTML",
+      "Front End",
+      "TypeScript",
+      "TailwindCSS"
+    ],
+  },
 ];
