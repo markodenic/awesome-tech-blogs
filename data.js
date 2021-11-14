@@ -24,20 +24,10 @@ module.exports = [
   },
   {
     name: "Alula Kibrom",
-    description:
-      "Fullstack Developer | Entrepreneur | Blogger",
+    description: "Fullstack Developer | Entrepreneur | Blogger",
     url: "https://businesstyc.com/blog/",
-    tags: [
-      'JavaScript',
-      'HTML',
-      'CSS',
-      'Java',
-      'PHP',
-      'Laravel',
-      'Vue',
-      'Angular',
-      'Git'
-    ],
+    twitter: "@altsyset",
+    tags: ["JavaScript", "HTML", "CSS", "PHP", "Laravel", "Vue", "Angular", "Git"],
   },
   {
     name: "Shravan Kumar",
