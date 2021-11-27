@@ -633,7 +633,7 @@ module.exports = [
   {
     name: "Michael Asiedu",
     description: "A blog suited to  make you better and grow as software developer. Also, market and leverage your coding skills ",
-    url: "https://asiedu-dev.hashnode.dev",
+    url: "https://blog.michaelasiedu.com",
     twitter: "@asiedu_dev",
     tags: [
       "HTML",
