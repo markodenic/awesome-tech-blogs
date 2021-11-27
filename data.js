@@ -53,6 +53,13 @@ module.exports = [
     ],
   },
   {
+    name: "Shyam Manohar",
+    description:
+      "I'm a CS Under Grad who is passionate about sharing my ideas and experiences through blogs!",
+    url: "https://xshyam.hashnode.dev",
+    tags: ["Computer Science", "Tech", "Cybersecurity"],
+  },
+  {
     name: "Johnson-Awah Alfred",
     description:
       "Software engineer,Blockchain engineer, student, staff software engineer",
@@ -591,7 +598,7 @@ module.exports = [
     name: "Ramya Chinnadurai (Rams)",
     description:
       "Full stack web developer. Passionate programmer and curious learner. Building http://100daysof.codes ",
-    url: "http://rams.codes/",
+    url: "http://ramyachinnadurai.in/",
     twitter: "@code_rams",
     tags: [
       "HTML",
@@ -1694,6 +1701,25 @@ module.exports = [
       "Freelancing",
       "Career",
       "Software Development",
+    ],
+  },
+  {
+    name: "Bisrategebriel Fisseha",
+    description:
+      "Software Engineer| Graphic Designer | Tech Entrepreneur | Cofounder at Kuraztech",
+    url: "https://bisrate22.medium.com/",
+    twitter: "@Bisrate22Fish",
+    tags: [
+      "Tech",
+      "Software Development",
+      "Freelancing",
+      "Career",
+      "Git",
+      "JavaScript",
+      "Frontend",
+      "Gaming",
+      "Blender",
+      "Unreal",
     ],
   },
   {
