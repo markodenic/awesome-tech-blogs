@@ -1161,7 +1161,7 @@ module.exports = [
       "Business Analysis",
     ],
   },
-   {
+  {
     name: "Sushmita Pandey",
     description:
       "Frontend Developer 👩‍💻 | Tech Blogger ✍ | JavaScript Fanatic 🚀",
@@ -1175,7 +1175,7 @@ module.exports = [
       "HTML",
       "Front End",
       "TypeScript",
-      "TailwindCSS"
+      "TailwindCSS",
     ],
   },
   {
@@ -1817,5 +1817,4 @@ module.exports = [
       "Tailwind",
     ],
   },
- 
 ];
