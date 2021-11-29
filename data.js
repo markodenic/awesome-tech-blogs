@@ -1817,4 +1817,11 @@ module.exports = [
       "Tailwind",
     ],
   },
+  {
+    name: "Bogdan Alexandru Militaru",
+    description: "I write about programming, devops and my startup journey. | Software Engineer",
+    url: "https://boobo94.github.io/",
+    twitter: "@militaru_bogdan",
+    tags: ["programming", "APIs", "backend", "frontend", "JavaScript", "Nodejs", "Vuejs", "devops"],
+  },
 ];
