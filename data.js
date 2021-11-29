@@ -27,7 +27,16 @@ module.exports = [
     description: "Fullstack Developer | Entrepreneur | Blogger",
     url: "https://businesstyc.com/blog/",
     twitter: "@altsyset",
-    tags: ["JavaScript", "HTML", "CSS", "PHP", "Laravel", "Vue", "Angular", "Git"],
+    tags: [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "PHP",
+      "Laravel",
+      "Vue",
+      "Angular",
+      "Git",
+    ],
   },
   {
     name: "Shravan Kumar",
@@ -1826,9 +1835,19 @@ module.exports = [
   },
   {
     name: "Bogdan Alexandru Militaru",
-    description: "I write about programming, devops and my startup journey. | Software Engineer",
+    description:
+      "I write about programming, devops and my startup journey. | Software Engineer",
     url: "https://boobo94.github.io/",
     twitter: "@militaru_bogdan",
-    tags: ["programming", "APIs", "backend", "frontend", "JavaScript", "Nodejs", "Vuejs", "devops"],
+    tags: [
+      "programming",
+      "APIs",
+      "backend",
+      "frontend",
+      "JavaScript",
+      "Nodejs",
+      "Vuejs",
+      "devops",
+    ],
   },
 ];
