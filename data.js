@@ -23,6 +23,13 @@ module.exports = [
     ],
   },
   {
+    name: "Alula Kibrom",
+    description: "Fullstack Developer | Entrepreneur | Blogger",
+    url: "https://businesstyc.com/blog/",
+    twitter: "@altsyset",
+    tags: ["JavaScript", "HTML", "CSS", "PHP", "Laravel", "Vue", "Angular", "Git"],
+  },
+  {
     name: "Shravan Kumar",
     description:
       "Software Engineer | Bibliophilic | Generalizing Specialist | Curious Creature | I, sometimes write blog",
