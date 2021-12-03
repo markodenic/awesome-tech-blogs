@@ -471,7 +471,7 @@ module.exports = [
     name: "Danny Steenman",
     description:
       "I’m an AWS Cloud Consultant who likes to build things in the Cloud. I write about my learnings on this Blog and on Twitter.",
-    url: "https://dannys.cloud/",
+    url: "https://towardsthecloud.com/",
     twitter: "@dannysteenman",
     tags: ["AWS", "Certification", "Cloud", "Infrastructure", "Python"],
   },
