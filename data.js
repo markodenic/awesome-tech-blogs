@@ -964,6 +964,23 @@ module.exports = [
     ],
   },
   {
+    name: "Jason Ross",
+    description: "👨🏻‍💻 Developer | ✍️ Blogger - I write about software engineering, algorithms and languages.",
+    url: "https://www.softwarepragmatism.com/",
+    tags: [
+      "Python",
+      "C#",
+      "SQL",
+      "C++",
+      "Windows",
+      "Linux",
+      "Backend",
+      "Fullstack",
+      "HTML",
+      "CSS",
+    ],
+  },
+  {
     name: "Stephan Kämper",
     description:
       "Programming & Software Test 〜 Languages: English, German, Ruby, and some Elixir",
