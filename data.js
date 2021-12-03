@@ -1,15 +1,3 @@
-/**
- * @description      :
- * @author           : Michael
- * @group            :
- * @created          : 27/09/2021 - 10:16:37
- *
- * MODIFICATION LOG
- * - Version         : 1.0.0
- * - Date            : 27/09/2021
- * - Author          : Michael
- * - Modification    :
- **/
 module.exports = [
   {
     name: "Michael Hoffmann (Mokkapps)",
