@@ -965,7 +965,8 @@ module.exports = [
   },
   {
     name: "Jason Ross",
-    description: "👨🏻‍💻 Developer | ✍️ Blogger - I write about software engineering, algorithms and languages.",
+    description:
+      "👨🏻‍💻 Developer | ✍️ Blogger - I write about software engineering, algorithms and languages.",
     url: "https://www.softwarepragmatism.com/",
     tags: [
       "Python",
