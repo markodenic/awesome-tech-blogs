@@ -1,15 +1,15 @@
 /**
-    * @description      : 
-    * @author           : Michael
-    * @group            : 
-    * @created          : 27/09/2021 - 10:16:37
-    * 
-    * MODIFICATION LOG
-    * - Version         : 1.0.0
-    * - Date            : 27/09/2021
-    * - Author          : Michael
-    * - Modification    : 
-**/
+ * @description      :
+ * @author           : Michael
+ * @group            :
+ * @created          : 27/09/2021 - 10:16:37
+ *
+ * MODIFICATION LOG
+ * - Version         : 1.0.0
+ * - Date            : 27/09/2021
+ * - Author          : Michael
+ * - Modification    :
+ **/
 module.exports = [
   {
     name: "Michael Hoffmann (Mokkapps)",
@@ -667,7 +667,8 @@ module.exports = [
   },
   {
     name: "Michael Asiedu",
-    description: "A blog suited to  make you better and grow as software developer. Also, market and leverage your coding skills ",
+    description:
+      "A blog suited to  make you better and grow as software developer. Also, market and leverage your coding skills ",
     url: "https://blog.michaelasiedu.com",
     twitter: "@asiedu_dev",
     tags: [
