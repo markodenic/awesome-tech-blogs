@@ -126,6 +126,24 @@ module.exports = [
       "SEO",
     ],
   },
+   {
+    name: "Suhail Kakar",
+    description: "Full Stack Software Developer | Tech Blogger | Writes about JavaScript, Python, Open Source, and Software Development",
+    url: "http://blog.suhailkakar.com/",
+    twitter: "@SuhailKakar",
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Web Development",
+      "Software Development",
+      "Open Source",
+      "Front End",
+      "Next",
+      "Python,
+      "SEO",
+    ],
+  },
   {
     name: "The Trojan",
     description:
