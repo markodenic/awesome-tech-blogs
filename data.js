@@ -1,5 +1,22 @@
 module.exports = [
   {
+    name: "Yannick Mougin",
+    description: "Just a dev enthusiast who enjoys building user-engaging apps and sharing them through step-by-step tutorials.",
+    url: "https://code-with-yannick.com",
+    twitter: "@dpnick_",
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "React Native",
+      "Expo",
+      "GraphQL",
+      "Node.js",
+      "Clean Code",
+    ],
+  },
+  {
     name: "Michael Hoffmann (Mokkapps)",
     description: "🌴 Freelancer | 👨🏻‍💻 Developer | ✍️ Blogger",
     url: "https://mokkapps.de/blog/",
