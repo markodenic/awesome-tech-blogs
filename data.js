@@ -1,7 +1,8 @@
 module.exports = [
   {
     name: "Yannick Mougin",
-    description: "Just a dev enthusiast who enjoys building user-engaging apps and sharing them through step-by-step tutorials.",
+    description:
+      "Just a dev enthusiast who enjoys building user-engaging apps and sharing them through step-by-step tutorials.",
     url: "https://code-with-yannick.com",
     twitter: "@dpnick_",
     tags: [
