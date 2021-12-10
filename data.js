@@ -1931,11 +1931,6 @@ module.exports = [
       "Writing about everything related to the Cloud | powered by Cloud architects",
     url: "https://www.brainboard.co",
     twitter: "@brainboard_co",
-    tags: [
-      "devops",
-      "cloud",
-      "terraform",
-      "cloud native",
-    ],
+    tags: ["devops", "cloud", "terraform", "cloud native"],
   },
 ];
