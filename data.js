@@ -1933,4 +1933,12 @@ module.exports = [
     twitter: "@brainboard_co",
     tags: ["devops", "cloud", "terraform", "cloud native"],
   },
+   {
+    name: "Franklin Ohaegbulam",
+    description:
+      "Frontend/UI Engineer and Visual Design passionate about Blockchain technology, Open Source, User Experience, Acessibility and Inclusive Design",
+    url: "https://frankiefab.hashnode.dev/",
+    twitter: "@frankiefab100",
+    tags: ["HTML", "CSS", "JavaScript", "React", "Solidity", "Node", "Figma", "Photoshop"],
+  },
 ];
