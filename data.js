@@ -19,7 +19,7 @@ module.exports = [
   },
   {
     name: "Michael Hoffmann (Mokkapps)",
-    description: "🌴 Freelancer | 👨🏻‍💻 Developer | ✍️ Blogger",
+    description: "🌴 Freelancer | 👨🏻‍💻 Developer | ✍️ Blogger",
     url: "https://mokkapps.de/blog/",
     tags: [
       "JavaScript",
@@ -635,6 +635,25 @@ module.exports = [
       "HTML",
     ],
   },
+  
+{
+  name: "Ozer Tayiz",
+  description:
+    "A cryptocurrency enthusiast who is learning to code to get a web3 blockchain developer job",
+  url: "https://ozercodesblockchain.hashnode.dev/",
+  twitter: "@OzerCodesCrypto",
+  tags: [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React",
+    "web3.js",
+    "ethers.js",
+    "GraphQL",
+    "Solidity",
+    "NFTs",
+  ],
+},
   {
     name: "Ramya Chinnadurai (Rams)",
     description:
@@ -972,7 +991,7 @@ module.exports = [
   {
     name: "Jason Ross",
     description:
-      "👨🏻‍💻 Developer | ✍️ Blogger - I write about software engineering, algorithms and languages.",
+      "👨🏻‍💻 Developer | ✍️ Blogger - I write about software engineering, algorithms and languages.",
     url: "https://www.softwarepragmatism.com/",
     tags: [
       "Python",
@@ -1790,7 +1809,7 @@ module.exports = [
   {
     name: "Bisrategebriel Fisseha",
     description:
-      "Software Engineer| Graphic Designer | Tech Entrepreneur | Cofounder at Kuraztech",
+      "Software Engineer| Graphic Designer | Tech Entrepreneur | Cofounder at Kuraztech",
     url: "https://bisrate22.medium.com/",
     twitter: "@Bisrate22Fish",
     tags: [
