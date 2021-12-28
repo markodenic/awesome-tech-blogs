@@ -635,25 +635,25 @@ module.exports = [
       "HTML",
     ],
   },
-  
-{
-  name: "Ozer Tayiz",
-  description:
-    "A cryptocurrency enthusiast who is learning to code to get a web3 blockchain developer job",
-  url: "https://ozercodesblockchain.hashnode.dev/",
-  twitter: "@OzerCodesCrypto",
-  tags: [
-    "HTML",
-    "CSS",
-    "JavaScript",
-    "React",
-    "web3.js",
-    "ethers.js",
-    "GraphQL",
-    "Solidity",
-    "NFTs",
-  ],
-},
+
+  {
+    name: "Ozer Tayiz",
+    description:
+      "A cryptocurrency enthusiast who is learning to code to get a web3 blockchain developer job",
+    url: "https://ozercodesblockchain.hashnode.dev/",
+    twitter: "@OzerCodesCrypto",
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "web3.js",
+      "ethers.js",
+      "GraphQL",
+      "Solidity",
+      "NFTs",
+    ],
+  },
   {
     name: "Ramya Chinnadurai (Rams)",
     description:
