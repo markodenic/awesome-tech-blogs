@@ -1957,4 +1957,21 @@ module.exports = [
       "Photoshop",
     ],
   },
+  {
+    name: "Tapas Adhikary(GreenRoots Blog)",
+    description:
+      "Articles about Tech, JavaScript, Web Technologies, and Career development. ",
+    url: "https://blog.greenroots.info/",
+    twitter: "@tapasadhikary",
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Career",
+      "Jamstack",
+      "Next.js",
+      "Content Creation",
+    ],
+  },
 ];
