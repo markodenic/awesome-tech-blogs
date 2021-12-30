@@ -1,5 +1,27 @@
 module.exports = [
   {
+    name: "Mick Patterson",
+    description: "Fullstack developer | Web and Mobile App Development Tips and Tricks",
+    url: "https://www.mickpatterson.com.au",
+    twitter: "@Mick_Patterson_",
+    tags: [
+      "HTML",
+      "JavaScript",
+      "TypeScript",
+      "Angular",
+      "React",
+      "Ionic",
+      "Node.js",
+      "API",
+      "SQL",
+      "Fullstack",
+      "Android",
+      "iOS",
+      "Git",
+      "Azure"
+    ]
+  },
+  {
     name: "Solidity Tips",
     description:
       "The go-to place to learn Solidity and web 3. Articles, step-by-step guides, and quick tips.",
