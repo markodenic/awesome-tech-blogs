@@ -1,5 +1,14 @@
 module.exports = [
   {
+    name: "Ashish Yadav",
+    description:
+      "Software engineer writing TypeScript at scale. Talks about #react, #nodejs, #javascript, #typescript, and #softwareengineering",
+    url: "https://ashiish.me",
+    twitter: "@ashiishme",
+    github: "ashiishme",
+    tags: ["Ashish", "React", "Web Development", "Node.js", "GraphQL", "Clean Code", "JavaScript", "TypeScript", "Software Engineer", "Gatsby", "Algorithms"],
+  },
+  {
     name: "Solidity Tips",
     description:
       "The go-to place to learn Solidity and web 3. Articles, step-by-step guides, and quick tips.",
