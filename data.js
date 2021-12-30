@@ -1992,5 +1992,19 @@ module.exports = [
       "Next.js",
       "Content Creation",
     ],
+    {
+    name: "Mbaziira Ronald",
+    description:
+      "Articles about Tech, JavaScript, Web Technologies, and WordPress ",
+    url: "https://mbaziira.hashnode.dev",
+    twitter: "@mbaziiraronn",
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "WordPress",
+      "Content Creation",
+    ],
   },
 ];
