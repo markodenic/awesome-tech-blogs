@@ -1977,6 +1977,25 @@ module.exports = [
     ],
   },
   {
+    name: "Pankaj Patel (Time to Hack)",
+    description:
+      "Articles about JavaScript, FrontEnd, Backend, Docker, Blogging and Tech",
+    url: "https://time2hack.com/",
+    twitter: "@heypankaj_",
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Front End",
+      "Backend",
+      "Docker",
+      "Nodejs",
+      "Blogging",
+      "Tech",
+    ],
+  },
+  {
     name: "Tapas Adhikary(GreenRoots Blog)",
     description:
       "Articles about Tech, JavaScript, Web Technologies, and Career development. ",
