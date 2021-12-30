@@ -1,5 +1,12 @@
 module.exports = [
   {
+    name: "Solidity Tips",
+    description: "The go-to place to learn Solidity and web 3",
+    url: "https://soliditytips.com",
+    twitter: "@uf4no",
+    tags:["Solidity", "Web3", "Blockchain", "Ethereum"]
+  },
+  {
     name: "Yannick Mougin",
     description:
       "Just a dev enthusiast who enjoys building user-engaging apps and sharing them through step-by-step tutorials.",
