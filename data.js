@@ -47,24 +47,27 @@ module.exports = [
       "Career",
       "Software Development",
     ],
-  },{
-    name: 'Bob Fornal',
-    description: 'Senior Frontend Developer, focused on writing about anything that takes me more than a few minutes to accomplish,',
-    url: 'https://dev.to/rfornal',
-    twitter: '@rfornal',
+  },
+  {
+    name: "Bob Fornal",
+    description:
+      "Senior Frontend Developer, focused on writing about anything that takes me more than a few minutes to accomplish,",
+    url: "https://dev.to/rfornal",
+    twitter: "@rfornal",
     tags: [
-      'Frontend',
-      'Front End',
-      'Web Development',
-      'HTML',
-      'CSS',
-      'JavaScript',
-      'TypeScript',
-      'Angular',
-      'React',
-      'React Native'
-    ]
-  },{
+      "Frontend",
+      "Front End",
+      "Web Development",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "TypeScript",
+      "Angular",
+      "React",
+      "React Native",
+    ],
+  },
+  {
     name: "Alula Kibrom",
     description: "Fullstack Developer | Entrepreneur | Blogger",
     url: "https://businesstyc.com/blog/",
