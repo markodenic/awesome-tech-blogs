@@ -261,6 +261,24 @@ module.exports = [
     ],
   },
   {
+    name: "Ivan Kahl",
+    description:
+      "Write about all things .NET, AWS, Web and any other new tech that might interest me.",
+    url: "https://blog.ivankahl.com/",
+    twitter: "@ivankahl",
+    tags: [
+      "Sage",
+      "Software Developer",
+      "C#",
+      ".NET",
+      "Csharp",
+      "Web Development",
+      "Windows",
+      "AWS",
+      "Amazon Web Services"
+    ],
+  },
+  {
     name: "Akanksha Raghav",
     description:
       "A tech enthusiast who enjoy exploring new technologies and leverage them to solve real-life problem",
