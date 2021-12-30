@@ -730,7 +730,7 @@ module.exports = [
       "Tech",
       "Software Development",
       "Productivity",
-      "AI"
+      "AI",
     ],
   },
   {
