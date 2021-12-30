@@ -1,5 +1,30 @@
 module.exports = [
   {
+    name: 'Bob Fornal',
+    description: 'Senior Frontend Developer, focused on writing about anything that takes me more than a few minutes to accomplish,',
+    url: 'https://dev.to/rfornal',
+    twitter: '@rfornal',
+    tags: [
+      'Frontend',
+      'Front End',
+      'Beginner',
+      'Career',
+      'Web Development',
+      'Software Development',
+      'AWS',
+      'Cloud',
+      'HTML',
+      'CSS',
+      'Sass',
+      'SCSS',
+      'JavaScript',
+      'TypeScript',
+      'Angular',
+      'React',
+      'React Native'
+    ]
+  },
+  {
     name: "Yannick Mougin",
     description:
       "Just a dev enthusiast who enjoys building user-engaging apps and sharing them through step-by-step tutorials.",
