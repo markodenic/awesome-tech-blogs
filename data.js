@@ -75,6 +75,23 @@ module.exports = [
     ],
   },
   {
+    name: "LambdaTest Blogs",
+    description:
+      "Learn all you want to around software testing, mobile app testing, website testing and more",
+    url: "https://www.lambdatest.com/blog/",
+    tags: [
+      "JavaScript",
+      "Python",
+      "TypeScript",
+      "Node.js",
+      "Express.js",
+      "Git",
+      "Tech",
+      "Backend",
+      "Software Development",
+    ],
+  },
+  {
     name: "Shyam Manohar",
     description:
       "I'm a CS Under Grad who is passionate about sharing my ideas and experiences through blogs!",
