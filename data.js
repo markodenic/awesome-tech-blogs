@@ -1993,4 +1993,24 @@ module.exports = [
       "Content Creation",
     ],
   },
+  {
+    name: "Osama Mohamed Ammar",
+    description:
+      "Self-taught front-end developer, single threaded, non-blocking person. Trying to become a software engineer.",
+    url: "https://dev.to/osamamammar",
+    twitter: "@osamamammar",
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "BehindTheScenes",
+      "WebDev",
+      "Tech",
+      "Programming",
+      "Web Development",
+      "Front End",
+      "Git",
+    ],
+  },
 ];
