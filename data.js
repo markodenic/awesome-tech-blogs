@@ -275,7 +275,7 @@ module.exports = [
       "Web Development",
       "Windows",
       "AWS",
-      "Amazon Web Services"
+      "Amazon Web Services",
     ],
   },
   {
