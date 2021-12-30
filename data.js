@@ -716,6 +716,24 @@ module.exports = [
     ],
   },
   {
+    name: "Leon AI",
+    description:
+      "I'm building Leon, your open-source personal assistant. I share my tips and creativity along the way.",
+    url: "https://blog.getleon.ai",
+    twitter: "@louistiti_fr",
+    tags: [
+      "Tech",
+      "Web Development",
+      "JavaScript",
+      "Node.js",
+      "Python",
+      "Tech",
+      "Software Development",
+      "Productivity",
+      "AI"
+    ],
+  },
+  {
     name: "Michael Asiedu",
     description:
       "A blog suited to  make you better and grow as software developer. Also, market and leverage your coding skills ",
