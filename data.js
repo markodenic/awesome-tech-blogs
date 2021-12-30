@@ -1,13 +1,5 @@
 module.exports = [
   {
-    name: "Solidity Tips",
-    description:
-      "The go-to place to learn Solidity and web 3. Articles, step-by-step guides, and quick tips.",
-    url: "https://soliditytips.com",
-    twitter: "@uf4no",
-    tags: ["Solidity", "Web3", "Smart Contracts", "Blockchain", "Ethereum"],
-  },
-  {
     name: "Yannick Mougin",
     description:
       "Just a dev enthusiast who enjoys building user-engaging apps and sharing them through step-by-step tutorials.",
@@ -49,25 +41,6 @@ module.exports = [
     ],
   },
   {
-    name: "Bob Fornal",
-    description:
-      "Senior Frontend Developer, focused on writing about anything that takes me more than a few minutes to accomplish,",
-    url: "https://dev.to/rfornal",
-    twitter: "@rfornal",
-    tags: [
-      "Frontend",
-      "Front End",
-      "Web Development",
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "TypeScript",
-      "Angular",
-      "React",
-      "React Native",
-    ],
-  },
-  {
     name: "Alula Kibrom",
     description: "Fullstack Developer | Entrepreneur | Blogger",
     url: "https://businesstyc.com/blog/",
@@ -99,23 +72,6 @@ module.exports = [
       "Backend",
       "Software Development",
       "Computer Science",
-    ],
-  },
-  {
-    name: "LambdaTest Blogs",
-    description:
-      "Learn all you want to around software testing, mobile app testing, website testing and more",
-    url: "https://www.lambdatest.com/blog/",
-    tags: [
-      "JavaScript",
-      "Python",
-      "TypeScript",
-      "Node.js",
-      "Express.js",
-      "Git",
-      "Tech",
-      "Backend",
-      "Software Development",
     ],
   },
   {
@@ -277,24 +233,6 @@ module.exports = [
       "Tech",
       "AWS",
       "Cloud infra",
-    ],
-  },
-  {
-    name: "Ivan Kahl",
-    description:
-      "Write about all things .NET, AWS, Web and any other new tech that might interest me.",
-    url: "https://blog.ivankahl.com/",
-    twitter: "@ivankahl",
-    tags: [
-      "Sage",
-      "Software Developer",
-      "C#",
-      ".NET",
-      "Csharp",
-      "Web Development",
-      "Windows",
-      "AWS",
-      "Amazon Web Services",
     ],
   },
   {
@@ -750,24 +688,6 @@ module.exports = [
       "StencilJS",
       "Svelte",
       "Angular",
-    ],
-  },
-  {
-    name: "Leon AI",
-    description:
-      "I'm building Leon, your open-source personal assistant. I share my tips and creativity along the way.",
-    url: "https://blog.getleon.ai",
-    twitter: "@louistiti_fr",
-    tags: [
-      "Tech",
-      "Web Development",
-      "JavaScript",
-      "Node.js",
-      "Python",
-      "Tech",
-      "Software Development",
-      "Productivity",
-      "AI",
     ],
   },
   {
@@ -2074,23 +1994,20 @@ module.exports = [
     ],
   },
   {
-    name: "Osama Mohamed Ammar",
+    name: "Pankaj Patel (Time to Hack)",
     description:
-      "Self-taught front-end developer, single threaded, non-blocking person. Trying to become a software engineer.",
-    url: "https://dev.to/osamamammar",
-    twitter: "@osamamammar",
+      "Articles about Tech, JavaScript, Web Technologies, and Career development. ",
+    url: "https://time2hack.com/",
+    twitter: "@heypankaj_",
     tags: [
       "HTML",
       "CSS",
       "JavaScript",
       "React",
-      "BehindTheScenes",
-      "WebDev",
-      "Tech",
-      "Programming",
-      "Web Development",
       "Front End",
-      "Git",
+      "Docker",
+      "Nodejs",
+      "Content Creation",
     ],
   },
 ];
