@@ -140,6 +140,19 @@ module.exports = [
     ],
   },
   {
+    name: "James Turner",
+    description:
+      "A programmer and entrepreneur with a love of cars, music and technology.",
+    url: "https://turnerj.com/blog",
+    twitter: "@MrTurnerj",
+    tags: [
+      "C#",
+      ".NET",
+      "Tech",
+      "Programming",
+    ],
+  },
+  {
     name: "William Chin",
     description:
       "Product Manager, Digital Marketer, Agile Consultant, Web Developer - Looking to make the world more digitally friendly one post at a time.",
