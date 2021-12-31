@@ -2093,4 +2093,20 @@ module.exports = [
       "Git",
     ],
   },
+  {
+    name: "Alexandria's Tech",
+    description: "Developer Advocate Intern | Learning in Public | Cybersecurity | Technical Writer 👩🏽‍💻 ",
+    url: "https://alexandriastech.com/",
+    tags: [
+      "Cybersecurity",
+      "Networking",
+      "Freelancing",
+      "Git",
+      "Tech",
+      "HTML",
+      "CSS",
+      "Freelancing",
+      "Career",
+    ],
+  }
 ];
