@@ -2073,6 +2073,26 @@ module.exports = [
       "Content Creation",
     ],
   },
+
+  {
+    name: "Alexandria's Tech",
+    description: "Developer Advocate Intern | Learning in Public | Cybersecurity | Technical Writer 👩🏽<200d>💻 ",
+    url: "https://alexandriastech.com/",
+    twitter:"https://twitter.com/AlexandriasTech",
+    tags: [
+      "Cybersecurity",
+      "Networking",
+      "Freelancing",
+      "Technical Writing",
+      "Git",
+      "Tech",
+      "HTML",
+      "CSS",
+      "Freelancing",
+      "Career",
+    ],
+  },
+
   {
     name: "Osama Mohamed Ammar",
     description:
@@ -2093,20 +2113,4 @@ module.exports = [
       "Git",
     ],
   },
-  {
-    name: "Alexandria's Tech",
-    description: "Developer Advocate Intern | Learning in Public | Cybersecurity | Technical Writer 👩🏽‍💻 ",
-    url: "https://alexandriastech.com/",
-    tags: [
-      "Cybersecurity",
-      "Networking",
-      "Freelancing",
-      "Git",
-      "Tech",
-      "HTML",
-      "CSS",
-      "Freelancing",
-      "Career",
-    ],
-  }
 ];
