@@ -2096,7 +2096,7 @@ module.exports = [
   {
     name: "Anish De",
     description:
-      "Articles on JavaScript, React, Node.js, Frontend, other libraries, Git and GitHub, and more.",
+      "Articles on Web Development, DevOps, Personal Experiences, Open Source, and more.",
     url: "https://blog.anishde.dev/",
     twitter: "@anishde12020",
     tags: [
