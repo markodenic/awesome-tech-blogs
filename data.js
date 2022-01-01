@@ -307,6 +307,24 @@ module.exports = [
     ],
   },
   {
+    name: "Mick Patterson",
+    description: "Fullstack developer | Web and Mobile App Development Tips and Tricks",
+    url: "https://www.mickpatterson.com.au",
+    twitter: "@Mick_Patterson_",
+    tags: [
+      "HTML",
+      "JavaScript",
+      "TypeScript",
+      "Angular",
+      "React",
+      "Ionic",
+      "Node.js",
+      "API",
+      "SQL",
+      "Fullstack"
+    ]
+  },
+  {
     name: "Ivan Kahl",
     description:
       "Write about all things .NET, AWS, Web and any other new tech that might interest me.",
