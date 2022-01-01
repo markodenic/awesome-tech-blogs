@@ -2166,4 +2166,25 @@ module.exports = [
       "Git",
     ],
   },
+  {
+    name: "Mr. Ånand",
+    description:
+      "Student | Content Creator | Explorer and Learner",
+    url: "https://astrodevil.hashnode.dev/",
+    twitter: "@Astrodevil_",
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "NoCode",
+      "Content Creation",
+      "Computer Science",
+      "Tech",
+      "Programming",
+      "Web Development",
+      "DevTools",
+      "Beginner",
+      "Git",
+    ],
+  },
 ];
