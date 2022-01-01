@@ -2078,7 +2078,7 @@ module.exports = [
     name: "Alexandria's Tech",
     description: "Developer Advocate Intern | Learning in Public | Cybersecurity | Technical Writer 👩🏽<200d>💻 ",
     url: "https://alexandriastech.com/",
-    twitter:"https://twitter.com/AlexandriasTech",
+    twitter:"@alexandriastech",
     tags: [
       "Cybersecurity",
       "Networking",
