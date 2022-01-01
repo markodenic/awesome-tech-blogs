@@ -2093,4 +2093,16 @@ module.exports = [
       "Git",
     ],
   },
+  {
+    name: "Roberto Robles",
+    description:
+      "I write about SEO, Marketing, Digital Products, SaaS and Cats.",
+    url: "https://roberto.digital/",
+    twitter: "@robertodigital_",
+    tags: [
+      "SEO",
+      "SaaS",
+      "Marketing",
+    ],
+  },
 ];
