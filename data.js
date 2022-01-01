@@ -2097,7 +2097,7 @@ module.exports = [
     name: "Roberto Robles",
     description:
       "I write about SEO, Marketing, Digital Products, SaaS and Cats.",
-    url: "https://roberto.digital/",
+    url: "https://roberto.digital/newsletter/issues/",
     twitter: "@robertodigital_",
     tags: [
       "SEO",
