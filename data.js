@@ -2172,11 +2172,7 @@ module.exports = [
       "I write about SEO, Marketing, Digital Products, SaaS and Cats.",
     url: "https://roberto.digital/newsletter/issues/",
     twitter: "@robertodigital_",
-    tags: [
-      "SEO",
-      "SaaS",
-      "Marketing",
-          ],
+    tags: ["SEO", "SaaS", "Marketing"],
   },
   {
     name: "Anish De",
