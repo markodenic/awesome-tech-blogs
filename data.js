@@ -2167,6 +2167,18 @@ module.exports = [
     ],
   },
   {
+    name: "Roberto Robles",
+    description:
+      "I write about SEO, Marketing, Digital Products, SaaS and Cats.",
+    url: "https://roberto.digital/newsletter/issues/",
+    twitter: "@robertodigital_",
+    tags: [
+      "SEO",
+      "SaaS",
+      "Marketing",
+          ],
+  },
+  {
     name: "Anish De",
     description:
       "Articles on Web Development, DevOps, Personal Experiences, Open Source, and more.",
