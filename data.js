@@ -19,6 +19,14 @@ module.exports = [
     ],
   },
   {
+    name: "UnEncrypted",
+    description:
+      "Hey There, I'm Reda BELHAJ a fourth year Computer Science Student at the International University of Rabat. Welcome to my corner of the internet. I'm glad you're here!",
+    url: "https://unencrypted.vercel.app/",
+    twitter: "@RedatoB",
+    tags: ["Computer Science", "Networking", "Tailwind", "Next.js"],
+  },
+  {
     name: "Solidity Tips",
     description:
       "The go-to place to learn Solidity and web 3. Articles, step-by-step guides, and quick tips.",
