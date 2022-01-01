@@ -172,12 +172,7 @@ module.exports = [
       "A programmer and entrepreneur with a love of cars, music and technology.",
     url: "https://turnerj.com/blog",
     twitter: "@MrTurnerj",
-    tags: [
-      "C#",
-      ".NET",
-      "Tech",
-      "Programming",
-    ],
+    tags: ["C#", ".NET", "Tech", "Programming"],
   },
   {
     name: "William Chin",
