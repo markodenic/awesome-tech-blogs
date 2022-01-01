@@ -1,5 +1,32 @@
 module.exports = [
   {
+    name: "Ashish Yadav",
+    description:
+      "Software engineer writing TypeScript at scale. Talks about #react, #nodejs, #javascript, #typescript, and #softwareengineering",
+    url: "https://ashiish.me/blog",
+    twitter: "@ashiishme",
+    tags: [
+      "Ashish",
+      "React",
+      "Security",
+      "Node.js",
+      "GraphQL",
+      "Clean Code",
+      "JavaScript",
+      "TypeScript",
+      "Software Engineer",
+      "Gatsby",
+    ],
+  },
+  {
+    name: "UnEncrypted",
+    description:
+      "Hey There, I'm Reda BELHAJ a fourth year Computer Science Student at the International University of Rabat. Welcome to my corner of the internet. I'm glad you're here!",
+    url: "https://unencrypted.vercel.app/",
+    twitter: "@RedatoB",
+    tags: ["Computer Science", "Networking", "Tailwind", "Next.js"],
+  },
+  {
     name: "Solidity Tips",
     description:
       "The go-to place to learn Solidity and web 3. Articles, step-by-step guides, and quick tips.",
@@ -140,6 +167,14 @@ module.exports = [
     ],
   },
   {
+    name: "James Turner",
+    description:
+      "A programmer and entrepreneur with a love of cars, music and technology.",
+    url: "https://turnerj.com/blog",
+    twitter: "@MrTurnerj",
+    tags: ["C#", ".NET", "Tech", "Programming"],
+  },
+  {
     name: "William Chin",
     description:
       "Product Manager, Digital Marketer, Agile Consultant, Web Developer - Looking to make the world more digitally friendly one post at a time.",
@@ -277,6 +312,25 @@ module.exports = [
       "Tech",
       "AWS",
       "Cloud infra",
+    ],
+  },
+  {
+    name: "Mick Patterson",
+    description:
+      "Fullstack developer | Web and Mobile App Development Tips and Tricks",
+    url: "https://www.mickpatterson.com.au",
+    twitter: "@Mick_Patterson_",
+    tags: [
+      "HTML",
+      "JavaScript",
+      "TypeScript",
+      "Angular",
+      "React",
+      "Ionic",
+      "Node.js",
+      "API",
+      "SQL",
+      "Fullstack",
     ],
   },
   {
@@ -2057,6 +2111,25 @@ module.exports = [
     ],
   },
   {
+    name: "Pankaj Patel (Time to Hack)",
+    description:
+      "Articles about JavaScript, FrontEnd, Backend, Docker, Blogging and Tech",
+    url: "https://time2hack.com/",
+    twitter: "@heypankaj_",
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Front End",
+      "Backend",
+      "Docker",
+      "Nodejs",
+      "Blogging",
+      "Tech",
+    ],
+  },
+  {
     name: "Tapas Adhikary(GreenRoots Blog)",
     description:
       "Articles about Tech, JavaScript, Web Technologies, and Career development. ",
@@ -2110,6 +2183,26 @@ module.exports = [
       "Svelte",
       "Next.js",
       "DevOps",
+    ],
+  },
+  {
+    name: "Mr. Ånand",
+    description: "Student | Content Creator | Explorer and Learner",
+    url: "https://astrodevil.hashnode.dev/",
+    twitter: "@Astrodevil_",
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "NoCode",
+      "Content Creation",
+      "Computer Science",
+      "Tech",
+      "Programming",
+      "Web Development",
+      "DevTools",
+      "Beginner",
+      "Git",
     ],
   },
 ];
