@@ -2167,6 +2167,25 @@ module.exports = [
     ],
   },
   {
+    name: "Anish De",
+    description:
+      "Articles on Web Development, DevOps, Personal Experiences, Open Source, and more.",
+    url: "https://blog.anishde.dev/",
+    twitter: "@anishde12020",
+    tags: [
+      "HTML",
+      "CSS",
+      "TypeScript",
+      "React",
+      "Frontend",
+      "GitHub",
+      "Web Development",
+      "Svelte",
+      "Next.js",
+      "DevOps",
+    ],
+  },
+  {
     name: "Mr. Ånand",
     description: "Student | Content Creator | Explorer and Learner",
     url: "https://astrodevil.hashnode.dev/",
