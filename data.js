@@ -1,5 +1,24 @@
 module.exports = [
   {
+    name: "Ashish Yadav",
+    description:
+      "Software engineer writing TypeScript at scale. Talks about #react, #nodejs, #javascript, #typescript, and #softwareengineering",
+    url: "https://ashiish.me/blog",
+    twitter: "@ashiishme",
+    tags: [
+      "Ashish",
+      "React",
+      "Security",
+      "Node.js",
+      "GraphQL",
+      "Clean Code",
+      "JavaScript",
+      "TypeScript",
+      "Software Engineer",
+      "Gatsby",
+    ],
+  },
+  {
     name: "UnEncrypted",
     description:
       "Hey There, I'm Reda BELHAJ a fourth year Computer Science Student at the International University of Rabat. Welcome to my corner of the internet. I'm glad you're here!",
@@ -2062,6 +2081,25 @@ module.exports = [
       "Node",
       "Figma",
       "Photoshop",
+    ],
+  },
+  {
+    name: "Pankaj Patel (Time to Hack)",
+    description:
+      "Articles about JavaScript, FrontEnd, Backend, Docker, Blogging and Tech",
+    url: "https://time2hack.com/",
+    twitter: "@heypankaj_",
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Front End",
+      "Backend",
+      "Docker",
+      "Nodejs",
+      "Blogging",
+      "Tech",
     ],
   },
   {
