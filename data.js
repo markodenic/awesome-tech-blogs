@@ -2093,4 +2093,28 @@ module.exports = [
       "Git",
     ],
   },
+  {
+    name: "Anish De",
+    description:
+      "Articles on JavaScript, React, Node.js, Frontend, other libraries, Git and GitHub, and more.",
+    url: "https://blog.anishde.dev/",
+    twitter: "@anishde12020",
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Node.js",
+      "Frontend",
+      "Git",
+      "GitHub",
+      "Programming",
+      "Web Development",
+      "WebDev",
+      "Svelte",
+      "Linux",
+      "Next.js",
+      "DevOps",
+    ],
+  },
 ];
