@@ -2213,4 +2213,21 @@ module.exports = [
       "Git",
     ],
   },
+  {
+    name: "Maximiliano Contieri",
+    description: "Maximiliano Contieri | Software Engineer",
+    url: "https://maximilianocontieri.com/",
+    twitter: "@mcsee1",
+    tags: [
+      "Refactoring",
+      "Clean Code",
+      "Code Smells",
+      "Design Patterns",
+      "Content Creation",
+      "Computer Science",
+      "Tech",
+      "Programming",
+      "Web Development",
+    ],
+  },
 ];
