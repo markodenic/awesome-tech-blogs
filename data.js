@@ -2168,8 +2168,7 @@ module.exports = [
   },
   {
     name: "Mr. Ånand",
-    description:
-      "Student | Content Creator | Explorer and Learner",
+    description: "Student | Content Creator | Explorer and Learner",
     url: "https://astrodevil.hashnode.dev/",
     twitter: "@Astrodevil_",
     tags: [
