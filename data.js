@@ -2230,4 +2230,29 @@ module.exports = [
       "Web Development",
     ],
   },
+  {
+    name: "Sachin Chaurasiya",
+    description:
+      "Software Engineer | Freelancer | Open-Source Contributor | Technical Blogger",
+    url: "https://blog.sachinchaurasiya.dev/",
+    twitter: "@sachindotcom",
+    tags: [
+      "Sachin",
+      "React",
+      "Django",
+      "Python",
+      "Git",
+      "GitHub",
+      "Clean Code",
+      "JavaScript",
+      "TypeScript",
+      "Software Engineer",
+      "Material UI",
+      "Tailwind CSS",
+      "Bootstrap",
+      "Docker",
+      "OpenSource",
+      "Freelancing"
+    ],
+  },
 ];
