@@ -2149,9 +2149,10 @@ module.exports = [
 
   {
     name: "Alexandria's Tech",
-    description: "Developer Advocate Intern | Learning in Public | Cybersecurity | Technical Writer 👩🏽<200d>💻 ",
+    description:
+      "Developer Advocate Intern | Learning in Public | Cybersecurity | Technical Writer 👩🏽<200d>💻 ",
     url: "https://alexandriastech.com/",
-    twitter:"@alexandriastech",
+    twitter: "@alexandriastech",
     tags: [
       "Cybersecurity",
       "Networking",
