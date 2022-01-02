@@ -2055,7 +2055,7 @@ module.exports = [
    {
     name: "Sachin Chaurasiya",
     description:
-      "Software Engineer | Freelancer | Open-Source Contributor | Technical Blogger",
+      "Software Engineer, Freelancer, Open-Source Contributor, Technical Blogger",
     url: "https://blog.sachinchaurasiya.dev/",
     twitter: "@sachindotcom",
     tags: [
