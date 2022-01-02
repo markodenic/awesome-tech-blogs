@@ -2251,4 +2251,23 @@ module.exports = [
       "Web Development",
     ],
   },
+  {
+    name: 'Niraj Khatiwada',
+    description:
+      'A young, energetic person who is passionate about the software and technologies. Software Engineer by day, hustler by night.',
+    url: 'https://nirajkhatiwada.com/',
+    twitter: '@codeforreal_',
+    tags: [
+      'JavaScript',
+      'TypeScript',
+      'React',
+      'MySQL',
+      'GraphQL',
+      'Content Creation',
+      'Tech',
+      'Programming',
+      'Web Development',
+      'Software Engineering',
+    ],
+  },
 ];
