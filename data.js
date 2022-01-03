@@ -1,5 +1,21 @@
 module.exports = [
   {
+    name: "Sagar Paul",
+    description: "Fullstack developer. Self-taught.",
+    url: "https://sagarpaul.netlify.app",
+    twitter: "@iamSagarPaul",
+    tags: [
+      "Web Development",
+      "React",
+      "Node.js",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Algorithms",
+      "Git",
+    ],
+  },
+  {
     name: "Solidity Tips",
     description:
       "The go-to place to learn Solidity and web 3. Articles, step-by-step guides, and quick tips.",
