@@ -2,7 +2,7 @@ module.exports = [
   {
     name: "Sagar Paul",
     description: "Fullstack developer. Self-taught.",
-    url: "https://sagarpaul.netlify.app",
+    url: "https://sagarpaul.netlify.app/blogs",
     twitter: "@iamSagarPaul",
     tags: [
       "Web Development",
