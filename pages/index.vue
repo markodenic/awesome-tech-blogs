@@ -3,36 +3,23 @@
     <div class="tags mb-6">
       <button
         class="tag"
-        :class="{ 'tag--active': activeTag === 'all' }"
-        @click="activeTag = 'all'"
-      >
-        All
-        <span class="number">{{ '' | blogsByTag }}</span>
-      </button>
-
-      <button
-        class="tag"
         :class="{ 'tag--active': activeTag === tag.name }"
         v-for="(tag, index) in tags"
         :key="index"
         @click="activeTag = tag.name"
       >
         {{ tag.name }}
-        <span class="number">{{ tag.name | blogsByTag }}</span>
+        <span class="number">{{ tag.count }}</span>
       </button>
     </div>
 
     <div class="blogs mb-6">
-      <template
-        v-for="(blog, index) in blogs"
-      >
-        <Blog
-          v-if="blog.tags.includes(activeTag) || activeTag === 'all'"
-          :key="index"
-          :blog="blog"
-          :active-tag="activeTag"
-        />
-      </template>
+      <Blog
+        v-for="blog in filteredBlogs"
+        :key="blog.index"
+        :blog="blog"
+        :active-tag="activeTag"
+      />
     </div>
   </div>
 </template>
@@ -40,67 +27,97 @@
 <script>
 import blogs from '../data.js';
 
-function merge(prop) {
-  return function(acc, obj) {
-    const values = [...new Set(obj[prop])];
-    return [...values, ...acc];
-  };
-}
-
-function countInstances(acc, tag) {
-  acc[tag] = acc[tag] ? acc[tag] + 1 : 1;
-  return acc;
-}
-
-function shuffle(array) {
-  const length = array == null ? 0 : array.length;
-  if (!length) {
-    return []
-  }
-  let index = -1;
-  const lastIndex = length - 1;
-  const result = array;
-  while (++index < length) {
-    const rand = index + Math.floor(Math.random() * (lastIndex - index + 1));
-    const value = result[rand];
-    result[rand] = result[index];
-    result[index] = value
-  }
-  return result
-}
-
 export default {
-  data () {
+  data() {
     return {
       tags: [],
       activeTag: 'all',
       blogs: [],
-    }
+      minTagCount: 2,
+    };
   },
-  filters: {
-    blogsByTag: (tag) => {
-      if (!tag) return blogs.length
-      return blogs.filter(blog => blog.tags.includes(tag)).length
-    }
-  },
-  created () {
-    this.getTags();
-    this.blogs = shuffle(blogs);
-  },
-  methods: {
-    getTags () {
-      // Get all tags
-      let allTags = blogs.reduce(merge('tags'), []);
 
-      let counts = allTags.reduce(countInstances, {});
-      // sort and filter for any tags that only have 1
-      this.tags = Object.entries(counts)
-        .sort(([, countA], [, countB]) => countB - countA)
-        // Show tags that have more then 2 occurrence to keep only the most relevant tags.
-        .filter(([, count]) => count >= 3)
-        .map(([name, count]) => ({ name, count }));
+  computed: {
+    filteredBlogs() {
+      if (this.activeTag === 'all') {
+        return this.blogs;
+      }
+
+      // filter by tag name (case insensitive)
+      return this.blogs.filter((blog) =>
+        blog.tags.some((tag) => tag.name.toLowerCase() === this.activeTag)
+      );
     },
-  }
-}
-</script>
+  },
 
+  created() {
+    this.getBlogs();
+    this.getTags();
+  },
+
+  methods: {
+    getBlogs() {
+      this.blogs = blogs;
+      this.removeDuplicateTags();
+      this.shuffleBlogs();
+      this.assignIndexToBlogs();
+    },
+
+    removeDuplicateTags() {
+      this.blogs = this.blogs.forEach((blog) => {
+        blog.tags = blog.tags.filter(
+          (tag, index, self) =>
+            index ===
+            self.findIndex((t) => t.toLowerCase() === tag.toLowerCase())
+        );
+      });
+    },
+
+    shuffleBlogs() {
+      this.blogs = blogs.sort(() => 0.5 - Math.random());
+    },
+
+    assignIndexToBlogs() {
+      this.blogs = this.blogs.map((blog, index) => {
+        return { ...blog, index };
+      });
+    },
+
+    getTags() {
+      this.getUniqueTagsWithCount();
+      this.sortAndFilterTagsByCount();
+    },
+
+    getUniqueTagsWithCount() {
+      this.tags = [
+        {
+          name: 'all',
+          count: this.blogs.length,
+        },
+      ];
+
+      this.blogs.forEach((blog) => {
+        blog.tags.forEach((tag) => {
+          if (
+            !this.tags.find((t) => t.name.toLowerCase() === tag.toLowerCase())
+          ) {
+            this.tags.push({ name: tag, count: 1 });
+          } else {
+            this.tags.find((t) => t.name.toLowerCase() === tag.toLowerCase())
+              .count++;
+          }
+        });
+      });
+    },
+
+    sortAndFilterTagsByCount() {
+      // filter out tags with count less than this.minTagCount
+      // Sort by name and then count
+      this.tags = this.tags
+        .filter((tag) => tag.count > this.minTagCount)
+        .sort((a, b) => a.name.localeCompare(b.name))
+        .sort((a, b) => b.count - a.count);
+    },
+  },
+};
+</script>
