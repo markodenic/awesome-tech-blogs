@@ -2251,4 +2251,22 @@ module.exports = [
       "Web Development",
     ],
   },
+  {
+    name: "Ankur Tyagi",
+    description: "Ankur Tyagi | Software Engineer | Content Creator | Developer Advocate",
+    url: "https://theankurtyagi.com/",
+    twitter: "@TheAnkurTyagi",
+    tags: [
+      "JavaScript",
+      "DevTools",
+      "Open Source",
+      "Career",
+      "Content Creation",
+      "React",
+      "Tech Hidden Truths",
+      "Technical Writing",
+      "Programming",
+      "Web Development",
+    ],
+  },
 ];
