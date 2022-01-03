@@ -1,5 +1,14 @@
 <template>
   <div>
+    <div class="search">
+      <input
+        class="search-input"
+        type="search"
+        v-model.trim="searchKeywords"
+        :placeholder="searchInputPlaceholder"
+      />
+    </div>
+
     <div class="tags mb-6">
       <button
         class="tag"
@@ -13,6 +22,11 @@
       </button>
     </div>
 
+    <!-- Show matched result count -->
+    <div class="search-result-count" v-if="resultCount && searchKeywords">
+      {{ resultString }}
+    </div>
+
     <div class="blogs mb-6">
       <Blog
         v-for="blog in filteredBlogs"
@@ -21,6 +35,10 @@
         :active-tag="activeTag"
         @filter-tags="(tag) => (activeTag = tag)"
       />
+
+      <div class="no-result" v-if="searchKeywords && !filteredBlogs.length">
+        No blogs found!
+      </div>
     </div>
   </div>
 </template>
@@ -35,21 +53,53 @@ export default {
       activeTag: 'all',
       blogs: [],
       minTagCount: 2,
+      searchKeywords: '',
+      searchKeys: ['name', 'description', 'url', 'twitter', 'tags'],
     };
   },
 
   computed: {
     filteredBlogs() {
-      if (this.activeTag === 'all') {
-        return this.blogs;
-      }
+      let blogs = Object.assign([], this.blogs);
 
       // filter by tag name (case insensitive)
-      return this.blogs.filter((blog) =>
-        blog.tags.some(
-          (tag) => tag.toLowerCase() === this.activeTag.toLowerCase()
-        )
-      );
+      if (this.activeTag !== 'all') {
+        blogs = blogs.filter((blog) =>
+          blog.tags.some(
+            (tag) => tag.toLowerCase() === this.activeTag.toLowerCase()
+          )
+        );
+      }
+
+      // filter blogs by search keywords (case insensitive)
+      if (this.searchKeywords) {
+        blogs = blogs.filter((blog) =>
+          this.searchKeys.some((key) => this.searchBy(key, blog))
+        );
+      }
+
+      return blogs;
+    },
+
+    searchInputPlaceholder() {
+      // Comma separated list of search keywords
+      // and add an 'or' before the last one
+      const keywords =
+        this.searchKeys.slice(0, -1).join(', ') +
+        (this.searchKeys.length > 1 ? ' or ' : '') +
+        this.searchKeys[this.searchKeys.length - 1];
+
+      return `Search by ${keywords}`;
+    },
+
+    resultCount() {
+      return this.filteredBlogs.length;
+    },
+
+    resultString() {
+      const resultString = this.resultCount === 1 ? 'result' : 'results';
+
+      return `Showing ${this.resultCount} ${resultString} for '${this.searchKeywords}'`;
     },
   },
 
@@ -120,6 +170,23 @@ export default {
         .filter((tag) => tag.count > this.minTagCount)
         .sort((a, b) => a.name.localeCompare(b.name))
         .sort((a, b) => b.count - a.count);
+    },
+
+    searchBy(key, blog) {
+      const searchKeywords = this.searchKeywords.toLowerCase();
+
+      // Check if key exists
+      if (!(key in blog)) {
+        return false;
+      }
+
+      if (key === 'tags') {
+        return blog.tags.some((tag) =>
+          tag.toLowerCase().includes(searchKeywords)
+        );
+      }
+
+      return blog[key].toLowerCase().includes(searchKeywords);
     },
   },
 };
