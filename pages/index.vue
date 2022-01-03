@@ -46,7 +46,9 @@ export default {
 
       // filter by tag name (case insensitive)
       return this.blogs.filter((blog) =>
-        blog.tags.some((tag) => tag.name.toLowerCase() === this.activeTag)
+        blog.tags.some(
+          (tag) => tag.toLowerCase() === this.activeTag.toLowerCase()
+        )
       );
     },
   },
