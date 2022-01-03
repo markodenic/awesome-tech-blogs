@@ -19,6 +19,7 @@
         :key="blog.index"
         :blog="blog"
         :active-tag="activeTag"
+        @filter-tags="(tag) => (activeTag = tag)"
       />
     </div>
   </div>

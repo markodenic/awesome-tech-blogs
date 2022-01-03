@@ -31,6 +31,7 @@
           :class="{ 'tag--active': activeTag === tag }"
           v-for="(tag, index) in blog.tags"
           :key="index"
+          @click="() => $emit('filter-tags', tag)"
         >
           {{ tag }}
         </li>
