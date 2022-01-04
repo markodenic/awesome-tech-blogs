@@ -8,7 +8,7 @@ module.exports = [
     tags: [
       "React",
       "Nodejs",
-      "Nodej.js",
+      "Node.js",
       "Clean Code",
       "JavaScript",
       "TypeScript",
