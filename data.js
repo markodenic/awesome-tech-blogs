@@ -2251,4 +2251,24 @@ module.exports = [
       "Web Development",
     ],
   },
+  {
+    name: "Avneesh Agarwal",
+    description:
+      "I am a fullstack web developer. I love to make beautiful websites and also teach others how to make them by writing blogs",
+    url: "https://blog.avneesh.tech/",
+    twitter: "@avneesh0612",
+    tags: [
+      "React",
+      "Javascript",
+      "Open source",
+      "Typescript",
+      "Next.js",
+      "CSS",
+      "Fullstack",
+      "Content Creation",
+      "Tech",
+      "Programming",
+      "Web Development",
+    ],
+  },
 ];
