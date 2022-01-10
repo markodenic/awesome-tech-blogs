@@ -1916,6 +1916,25 @@ module.exports = [
     ],
   },
   {
+    name: "Omar Elhawary",
+    description:
+      "Software developer and linux enthusiast interested in user/dev experience, software architecture, design systems, statically typed languages and functional programming.",
+    url: "https://omarelhawary.me/blog",
+    twitter: "@oedotme",
+    tags: [
+      "TypeScript",
+      "React",
+      "React Native",
+      "Node.js",
+      "GraphQL",
+      "MongoDB",
+      "Tailwind",
+      "Productivity",
+      "Linux",
+      "VIM",
+    ],
+  },
+  {
     name: "Ravgeet Dhillon",
     description: "Full Stack Developer and Technical Content Writer",
     url: "https://www.ravgeet.in/blog/",
