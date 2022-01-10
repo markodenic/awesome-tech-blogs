@@ -2253,7 +2253,7 @@ module.exports = [
   },
   {
     name: "Unbiased Coder",
-    description: "Full-stack with have experience in: entertainment, broadcasting, healthcare, security, education, retail and finance.",
+    description: "Full-stack with experience in: entertainment, broadcasting, healthcare, security, education, retail and finance.",
     url: "https://unbiased-coder.com",
     twitter: "@UnbiasedCoder",
     tags: [
