@@ -2251,4 +2251,19 @@ module.exports = [
       "Web Development",
     ],
   },
+  {
+    name: "Dmitriy Dubovetzky",
+    description: "Helping developers be more productive, successful, and happy",
+    url: "https://thedoubled.dev/",
+    twitter: "@dubovetzky",
+    tags: [
+      "Clean Code",
+      "Design Patterns",
+      "Software Architecture",
+      "Self-Development",
+      "Productivity",
+      "Career",
+      "Web Development",
+    ],
+  },
 ];
