@@ -2251,4 +2251,21 @@ module.exports = [
       "Web Development",
     ],
   },
+  {
+    name: "Prémices Kamasuwa",
+    description: "Articles on web, personal experiences and more",
+    url: "https://nkpremices.com/tag/blog/",
+    twitter: "@nkpremices",
+    tags: [
+      "Typescript",
+      "React",
+      "Angular",
+      "Software Architecture",
+      "Python",
+      "GoLang",
+      "Tech",
+      "Programming",
+      "Web Development",
+    ],
+  },
 ];
