@@ -2251,4 +2251,23 @@ module.exports = [
       "Web Development",
     ],
   },
+  {
+    name: "Abhiraj Bhowmick",
+    description: "Daily threads and blogs to make web development easy for everyone",
+    url: "https://blog.abhiraj.co",
+    twitter: "@rainboestrykr",
+    tags: [
+      "HTML",
+      "CSS",
+      "Next.js",
+      "Tailwind",
+      "TailwindCSS",
+      "Front End",
+      "Content Creation",
+      "JavaScript",
+      "Tech",
+      "Programming",
+      "Web Development",
+    ],
+  },
 ];
