@@ -13,7 +13,6 @@ module.exports = [
       "GraphQL",
       "Gatsby",
       "JavaScript",
-      "nextjs",
       "TypeScript",
       "Software Engineer",
       "Contentful",
