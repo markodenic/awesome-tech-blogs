@@ -2250,5 +2250,23 @@ module.exports = [
       "Programming",
       "Web Development",
     ],
-  },
+  }
+  {
+    name: "Timonwa's Notes",
+    description: "Timonwa is a Frontend Developer and Technical Writer who writes notes on web development that help beginners have an easier learning journey.",
+    url: "https://blog.timonwa.com",
+    twitter: "@timonwa_",
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Git",
+      "GitHub",
+      "VsCode",
+      "Frontend",
+      "Web Development",
+      "Self-Development",
+    ],
+  }
 ];
