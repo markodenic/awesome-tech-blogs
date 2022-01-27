@@ -2251,4 +2251,12 @@ module.exports = [
       "Web Development",
     ],
   },
+  {
+    name: "Margo McCabe",
+    description:
+      "Women in Tech | DevRel | Databases | Tech Blogger | Podcast Host",
+    url: "https://dev.to/margo_hdb",
+    twitter: "@margo_hdb",
+    tags: ["databases", "data management", "node.js", "javascript", "software development", "edge computing", "hybrid cloud", "tech"],
+  },
 ];
