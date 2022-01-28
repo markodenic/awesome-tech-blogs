@@ -1,8 +1,7 @@
 module.exports = [
-   {
+  {
     name: "Manish Prasad",
-    description:
-      "Founding Team Member | 👨🏻‍💻 Developer | ✍️ Blogger",
+    description: "Founding Team Member | 👨🏻‍💻 Developer | ✍️ Blogger",
     url: "https://techinsights.manisuec.com",
     twitter: "@_manish25",
     tags: [
