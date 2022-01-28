@@ -897,6 +897,20 @@ module.exports = [
       "Angular",
     ],
   },
+  { 
+    name: "Nikita Grechino", 
+    description: "A business oriented frontend developer. | I do boxing, play badminton, blog about tech, read books and comics.", 
+    url: "https://blog.fromaline.com/", 
+    twitter: "@fromaline", 
+    tags: [ 
+      "JavaScript", 
+      "Web Development", 
+      "React", 
+      "Front End", 
+      "Frontend", 
+      "Javascript", 
+    ], 
+  },
   {
     name: "Leon AI",
     description:
