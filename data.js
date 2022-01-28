@@ -35,6 +35,23 @@ module.exports = [
     tags: ["Solidity", "Web3", "Smart Contracts", "Blockchain", "Ethereum"],
   },
   {
+    name: "Unclebigbay",
+    description: "Ayodele Samuel Adebayo | Software Engineer",
+    url: "https://unclebigbay.com",
+    twitter: "@unclebigbay143",
+    tags: [
+      "JavaScript",
+      "Project Based",
+      "React",
+      "NodeJS",
+      "Content Creation",
+      "Backend",
+      "Frontend",
+      "Programming",
+      "Web Development",
+    ],
+  },
+  {
     name: "Yannick Mougin",
     description:
       "Just a dev enthusiast who enjoys building user-engaging apps and sharing them through step-by-step tutorials.",
