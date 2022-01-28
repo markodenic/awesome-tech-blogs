@@ -52,7 +52,7 @@ export default {
       tags: [],
       activeTag: 'all',
       blogs: [],
-      minTagCount: 2,
+      minTagCount: 4,
       searchKeywords: '',
       searchKeys: ['name', 'description', 'url', 'twitter', 'tags'],
     };
