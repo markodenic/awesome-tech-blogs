@@ -1188,6 +1188,14 @@ module.exports = [
     ],
   },
   {
+    name: "Margo McCabe",
+    description:
+      "Women in Tech | DevRel | Databases | Tech Blogger | Podcast Host",
+    url: "https://dev.to/margo_hdb",
+    twitter: "@margo_hdb",
+    tags: ["databases", "data management", "node.js", "javascript", "software development", "edge computing", "hybrid cloud", "tech"],
+  },
+  {
     name: "Albert Walicki",
     description: "Frontend developer, entrepreneur, writer, CSS artist",
     url: "https://www.albertwalicki.com/blog",
