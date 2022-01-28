@@ -34,7 +34,7 @@ export default {
       tags: [],
       activeTag: 'all',
       blogs: [],
-      minTagCount: 2,
+      minTagCount: 4,
     };
   },
 
