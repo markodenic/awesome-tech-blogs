@@ -1,4 +1,21 @@
 module.exports = [
+   {
+    name: "Manish Prasad",
+    description:
+      "Founding Team Member | 👨🏻‍💻 Developer | ✍️ Blogger",
+    url: "https://techinsights.manisuec.com",
+    twitter: "@_manish25",
+    tags: [
+      "React",
+      "Nodejs",
+      "Node.js",
+      "Clean Code",
+      "JavaScript",
+      "TypeScript",
+      "Mongodb",
+      "Reactjs",
+    ],
+  },
   {
     name: "Ashish Yadav",
     description:
