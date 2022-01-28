@@ -1,5 +1,21 @@
 module.exports = [
   {
+    name: "Manish Prasad",
+    description: "Founding Team Member | 👨🏻‍💻 Developer | ✍️ Blogger",
+    url: "https://techinsights.manisuec.com",
+    twitter: "@_manish25",
+    tags: [
+      "React",
+      "Nodejs",
+      "Node.js",
+      "Clean Code",
+      "JavaScript",
+      "TypeScript",
+      "Mongodb",
+      "Reactjs",
+    ],
+  },
+  {
     name: "Ashish Yadav",
     description:
       "Software engineer writing TypeScript at scale. Talks about #react, #nodejs, #javascript, #typescript, and #softwareengineering",
@@ -33,6 +49,23 @@ module.exports = [
     url: "https://soliditytips.com",
     twitter: "@uf4no",
     tags: ["Solidity", "Web3", "Smart Contracts", "Blockchain", "Ethereum"],
+  },
+  {
+    name: "Unclebigbay",
+    description: "Ayodele Samuel Adebayo | Software Engineer",
+    url: "https://unclebigbay.com",
+    twitter: "@unclebigbay143",
+    tags: [
+      "JavaScript",
+      "Project Based",
+      "React",
+      "NodeJS",
+      "Content Creation",
+      "Backend",
+      "Frontend",
+      "Programming",
+      "Web Development",
+    ],
   },
   {
     name: "Yannick Mougin",
@@ -76,6 +109,22 @@ module.exports = [
     ],
   },
   {
+    name: "Sagar Paul",
+    description: "Fullstack developer. Self-taught.",
+    url: "https://sagarpaul.netlify.app/blogs",
+    twitter: "@iamSagarPaul",
+    tags: [
+      "Web Development",
+      "React",
+      "Node.js",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Algorithms",
+      "Git",
+    ],
+  },
+  {
     name: "Bob Fornal",
     description:
       "Senior Frontend Developer, focused on writing about anything that takes me more than a few minutes to accomplish,",
@@ -92,6 +141,29 @@ module.exports = [
       "Angular",
       "React",
       "React Native",
+    ],
+  },
+  {
+    name: "Muthu Annamalai",
+    description:
+      "Articles on Web Development, Programming, Open-Source, Technology, Tips and Tricks to make your life easier, and more.",
+    url: "https://muthuannamalai.tech/",
+    twitter: "@muthuannamalai_",
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Content Creation",
+      "Computer Science",
+      "Tech",
+      "Web Development",
+      "Front End",
+      "Programming",
+      "Web Development",
+      "DevTools",
+      "Beginner",
+      "Blogging",
+      "Git",
     ],
   },
   {
@@ -421,6 +493,25 @@ module.exports = [
       "WordPress",
       "Software Development",
       "Software Architecture",
+    ],
+  },
+  {
+    name: "Davide Mandelli | Th3Wall",
+    description:
+      "I'm a passionate Front-End Web Developer, and I'm interested in building side projects and Saas apps. I've recently launched Fakeflix (https://fakeflix-clone.vercel.app) 🎥🍿",
+    url: "https://th3wall.hashnode.dev/",
+    twitter: "@th3wall25",
+    tags: [
+      "Web Development",
+      "Productivity",
+      "Front End",
+      "HTML",
+      "SCSS",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Git",
+      "Pug",
     ],
   },
   {
@@ -2053,6 +2144,31 @@ module.exports = [
     ],
   },
   {
+    name: "Sachin Chaurasiya",
+    description:
+      "Software Engineer, Freelancer, Open-Source Contributor, Technical Blogger",
+    url: "https://blog.sachinchaurasiya.dev/",
+    twitter: "@sachindotcom",
+    tags: [
+      "Sachin",
+      "React",
+      "Django",
+      "Python",
+      "Git",
+      "GitHub",
+      "Clean Code",
+      "JavaScript",
+      "TypeScript",
+      "Software Engineer",
+      "Material UI",
+      "Tailwind CSS",
+      "Bootstrap",
+      "Docker",
+      "OpenSource",
+      "Freelancing",
+    ],
+  },
+  {
     name: "Kolawole Mangabo",
     description:
       "I write about JavaScript and Python | React, Django developer ",
@@ -2265,10 +2381,26 @@ module.exports = [
       "Next.js",
       "CSS",
       "Fullstack",
+      "Software Engineering",
+    ],
+  },
+  {
+    name: "Niraj Khatiwada",
+    description:
+      "A young, energetic person who is passionate about the software and technologies. Software Engineer by day, hustler by night.",
+    url: "https://nirajkhatiwada.com/",
+    twitter: "@codeforreal_",
+    tags: [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "MySQL",
+      "GraphQL",
       "Content Creation",
       "Tech",
       "Programming",
       "Web Development",
+      "Software Engineering",
     ],
   },
 ];
