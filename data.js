@@ -2530,6 +2530,13 @@ module.exports = [
     ],
   },
   {
+    name: 'Mike Driscoll',
+    description: 'Python news, beginner to advanced tutorials, interviews and more',
+    url: 'https://www.blog.pythonlibrary.org/',
+    twitter: '@driscollis',
+    tags: ['Python', 'Programming', 'Backend', 'Frontend],
+  },
+  {
     name: "Avneesh Agarwal",
     description:
       "I am a fullstack web developer. I love to make beautiful websites and also teach others how to make them by writing blogs",
@@ -2546,6 +2553,13 @@ module.exports = [
       "Software Engineering",
     ],
   },
+  {
+    name: 'Mike Driscoll',
+    description: 'Python news, beginner to advanced tutorials, interviews and more',
+    url: 'https://www.blog.pythonlibrary.org/',
+    twitter: '@driscollis',
+    tags: ['Python', 'Programming', 'Backend', 'Frontend'],
+   }
   {
     name: "Niraj Khatiwada",
     description:
