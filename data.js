@@ -53,6 +53,14 @@ module.exports = [
     ],
   },
   {
+    name: "Shivashish Yadav",
+    description:
+      "👋 Hello world! My name is Shivashish. I'm a passionate Technical Writer and a Software Engineer. I write beginner-friendly programming tutorials, theory, opinions and publish research articles on Blockchain and Cryptocurrency and various web development and SEO tips to help newbies get started.",
+    url: "https://shiva.hashnode.dev/",
+    twitter: "@ShivashishYadav",
+    tags: ["Web3", "Web Development", "Blockchain", "Cryptocurrency", "Bitcoing", "Smart Contract", "Ethereum", "SEO"],
+  },
+  {
     name: "UnEncrypted",
     description:
       "Hey There, I'm Reda BELHAJ a fourth year Computer Science Student at the International University of Rabat. Welcome to my corner of the internet. I'm glad you're here!",
