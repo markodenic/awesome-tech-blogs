@@ -96,7 +96,8 @@ module.exports = [
   },
   {
     name: "Muthu Annamalai",
-    description: "Articles on Web Development, Programming, Open-Source, Technology, Tips and Tricks to make your life easier, and more.",
+    description:
+      "Articles on Web Development, Programming, Open-Source, Technology, Tips and Tricks to make your life easier, and more.",
     url: "https://muthuannamalai.tech/",
     twitter: "@muthuannamalai_",
     tags: [
