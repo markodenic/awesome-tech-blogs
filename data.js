@@ -109,6 +109,22 @@ module.exports = [
     ],
   },
   {
+    name: "Sagar Paul",
+    description: "Fullstack developer. Self-taught.",
+    url: "https://sagarpaul.netlify.app/blogs",
+    twitter: "@iamSagarPaul",
+    tags: [
+      "Web Development",
+      "React",
+      "Node.js",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Algorithms",
+      "Git",
+    ],
+  },
+  {
     name: "Bob Fornal",
     description:
       "Senior Frontend Developer, focused on writing about anything that takes me more than a few minutes to accomplish,",
