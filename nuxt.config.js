@@ -51,6 +51,10 @@ export default {
       },
       { rel: 'apple-touch-icon', sizes: '180x180', href: '/icon.png' },
       { rel: 'mask-icon', color: '#a3e635', href: '/safari-pinned-tab.svg' },
+      {
+        rel: "stylesheet",
+        href: "https://fonts.googleapis.com/css2?family=Inter:wght@200;400&display=swap",
+      },
     ]
   },
 
