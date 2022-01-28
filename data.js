@@ -1,5 +1,23 @@
 module.exports = [
   {
+    name: "Ashish Patel",
+    description:
+      "A space enthusiast software engineer, building amazing user interfaces, websites, web apps and APIs primarily using react, JamStack and express as key technologies.",
+    url: "https://worldsofashishpatel.com/blogs",
+    twitter: "@developer_ash",
+    tags: [
+      "Ashish",
+      "React",
+      "Jamstack",
+      "headless Cms",
+      "GraphQL",
+      "Gatsby",
+      "JavaScript",
+      "TypeScript",
+      "Software Engineer",
+      "Contentful",
+    ],
+  },
     name: "Manish Prasad",
     description: "Founding Team Member | 👨🏻‍💻 Developer | ✍️ Blogger",
     url: "https://techinsights.manisuec.com",
