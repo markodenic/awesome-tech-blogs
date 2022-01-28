@@ -497,7 +497,8 @@ module.exports = [
   },
   {
     name: "Davide Mandelli | Th3Wall",
-    description: "I'm a passionate Front-End Web Developer, and I'm interested in building side projects and Saas apps. I've recently launched Fakeflix (https://fakeflix-clone.vercel.app) 🎥🍿",
+    description:
+      "I'm a passionate Front-End Web Developer, and I'm interested in building side projects and Saas apps. I've recently launched Fakeflix (https://fakeflix-clone.vercel.app) 🎥🍿",
     url: "https://th3wall.hashnode.dev/",
     twitter: "@th3wall25",
     tags: [
@@ -510,7 +511,7 @@ module.exports = [
       "JavaScript",
       "React",
       "Git",
-      "Pug"
+      "Pug",
     ],
   },
   {
