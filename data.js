@@ -2387,6 +2387,23 @@ module.exports = [
     ],
   },
   {
+    name: "Prémices Kamasuwa",
+    description: "Articles on web, personal experiences and more",
+    url: "https://nkpremices.com/tag/blog/",
+    twitter: "@nkpremices",
+    tags: [
+      "Typescript",
+      "React",
+      "Angular",
+      "Software Architecture",
+      "Python",
+      "GoLang",
+      "Tech",
+      "Programming",
+      "Web Development",
+    ],
+  },
+  {
     name: "Dmitriy Dubovetzky",
     description: "Helping developers be more productive, successful, and happy",
     url: "https://thedoubled.dev/",
