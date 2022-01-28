@@ -2387,6 +2387,21 @@ module.exports = [
     ],
   },
   {
+    name: "Dmitriy Dubovetzky",
+    description: "Helping developers be more productive, successful, and happy",
+    url: "https://thedoubled.dev/",
+    twitter: "@dubovetzky",
+    tags: [
+      "Clean Code",
+      "Design Patterns",
+      "Software Architecture",
+      "Self-Development",
+      "Productivity",
+      "Career",
+      "Web Development",
+    ],
+  },
+  {
     name: "Unbiased Coder",
     description:
       "Full-stack with experience in: entertainment, broadcasting, healthcare, security, education, retail and finance.",
