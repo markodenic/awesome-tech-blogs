@@ -938,13 +938,7 @@ module.exports = [
       "A business oriented frontend developer. | I do boxing, play badminton, blog about tech, read books and comics.",
     url: "https://blog.fromaline.com/",
     twitter: "@fromaline",
-    tags: [
-      "JavaScript",
-      "Web Development",
-      "React",
-      "Front End",
-      "JavaScript",
-    ],
+    tags: ["JavaScript", "Web Development", "React", "Front End", "JavaScript"],
   },
   {
     name: "Leon AI",
@@ -1037,13 +1031,7 @@ module.exports = [
       "I am a Front-end Developer passionate about developing and designing user friendly web applications.i write technical contents and articles.",
     url: "https://abiolafarounbiblog.hashnode.dev/",
     twitter: "@abiolaesther_",
-    tags: [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "Web Development",
-      "Front End",
-    ],
+    tags: ["HTML", "CSS", "JavaScript", "Web Development", "Front End"],
   },
   {
     name: "Aadhithyan Suresh",
