@@ -2075,7 +2075,7 @@ module.exports = [
       "Tailwind",
     ],
   },
-   {
+  {
     name: "Sachin Chaurasiya",
     description:
       "Software Engineer, Freelancer, Open-Source Contributor, Technical Blogger",
@@ -2097,7 +2097,7 @@ module.exports = [
       "Bootstrap",
       "Docker",
       "OpenSource",
-      "Freelancing"
+      "Freelancing",
     ],
   },
   {
