@@ -18,6 +18,7 @@ module.exports = [
       "Contentful",
     ],
   },
+  {
     name: "Manish Prasad",
     description: "Founding Team Member | 👨🏻‍💻 Developer | ✍️ Blogger",
     url: "https://techinsights.manisuec.com",
