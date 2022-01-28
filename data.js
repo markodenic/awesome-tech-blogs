@@ -2387,6 +2387,24 @@ module.exports = [
     ],
   },
   {
+    name: "Unbiased Coder",
+    description: "Full-stack with experience in: entertainment, broadcasting, healthcare, security, education, retail and finance.",
+    url: "https://unbiased-coder.com",
+    twitter: "@UnbiasedCoder",
+    tags: [
+      "AWS",
+      "Linux",
+      "Django",
+      "Python",
+      "JavaScript",
+      "Git",
+      "Backend",
+      "Git",
+      "APIs",
+      "PHP",
+    ],
+ },
+  {
     name: "Avneesh Agarwal",
     description:
       "I am a fullstack web developer. I love to make beautiful websites and also teach others how to make them by writing blogs",
