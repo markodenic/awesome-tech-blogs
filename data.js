@@ -2388,7 +2388,8 @@ module.exports = [
   },
   {
     name: "Abhiraj Bhowmick",
-    description: "Daily threads and blogs to make web development easy for everyone",
+    description:
+      "Daily threads and blogs to make web development easy for everyone",
     url: "https://blog.abhiraj.co",
     twitter: "@rainboestrykr",
     tags: [
