@@ -59,7 +59,16 @@ module.exports = [
       "👋 Hello world! My name is Shivashish. I'm a passionate Technical Writer and a Software Engineer. I write beginner-friendly programming tutorials, theory, opinions and publish research articles on Blockchain and Cryptocurrency and various web development and SEO tips to help newbies get started.",
     url: "https://shiva.hashnode.dev/",
     twitter: "@ShivashishYadav",
-    tags: ["Web3", "Web Development", "Blockchain", "Cryptocurrency", "Bitcoing", "Smart Contract", "Ethereum", "SEO"],
+    tags: [
+      "Web3",
+      "Web Development",
+      "Blockchain",
+      "Cryptocurrency",
+      "Bitcoing",
+      "Smart Contract",
+      "Ethereum",
+      "SEO",
+    ],
   },
   {
     name: "UnEncrypted",
@@ -1194,7 +1203,16 @@ module.exports = [
       "Women in Tech | DevRel | Databases | Tech Blogger | Podcast Host",
     url: "https://dev.to/margo_hdb",
     twitter: "@margo_hdb",
-    tags: ["databases", "data management", "node.js", "javascript", "software development", "edge computing", "hybrid cloud", "tech"],
+    tags: [
+      "databases",
+      "data management",
+      "node.js",
+      "javascript",
+      "software development",
+      "edge computing",
+      "hybrid cloud",
+      "tech",
+    ],
   },
   {
     name: "Albert Walicki",
@@ -2353,7 +2371,8 @@ module.exports = [
   },
   {
     name: "Timonwa's Notes",
-    description: "Timonwa is a Frontend Developer and Technical Writer who writes notes on web development that help beginners have an easier learning journey.",
+    description:
+      "Timonwa is a Frontend Developer and Technical Writer who writes notes on web development that help beginners have an easier learning journey.",
     url: "https://blog.timonwa.com",
     twitter: "@timonwa_",
     tags: [
