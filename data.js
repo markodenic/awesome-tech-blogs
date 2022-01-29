@@ -2565,4 +2565,23 @@ module.exports = [
       "Software Engineering",
     ],
   },
+ {
+    name: "Rajanand Ilangovan",
+    description:
+      "I am a Business Intelligence developer with over a decade of experience in design and development of database, data warehouse, business intelligence and reporting/data visualization solutions. I'm also a Microsoft certified trainer and MCSE - data management and analytics.",
+    url: "https://blog.rajanand.org",
+    twitter: "@iRajanand",
+    tags: [
+      "Business Intelligence",
+      "Cloud",
+      "Data",
+      "SQL Server",
+      "Power BI",
+      "Tableau",
+      "Database",
+      "Azure",
+      "ETL",
+      "SSIS",
+    ],
+  },  
 ];
