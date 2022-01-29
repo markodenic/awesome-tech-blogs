@@ -2580,7 +2580,6 @@ module.exports = [
       "Tableau",
       "Database",
       "Azure",
-      "Google Cloud",
       "ETL",
       "SSIS",
     ],
