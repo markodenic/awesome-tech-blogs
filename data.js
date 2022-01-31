@@ -1,10 +1,11 @@
 module.exports = [
-   {
+  {
     name: "Gaurav Pandey",
-    description: '14 y/o Developer working on Python & Machine Learning, writing about Web and AI + Research!.',
-    url: 'https://blog.giyednap.me',
-    twitter: '@giyednap',
-    tags: ['Python', 'Git', 'Machine Learning'],
+    description:
+      "14 y/o Developer working on Python & Machine Learning, writing about Web and AI + Research!.",
+    url: "https://blog.giyednap.me",
+    twitter: "@giyednap",
+    tags: ["Python", "Git", "Machine Learning"],
   },
   {
     name: "Ashish Patel",
