@@ -2560,7 +2560,7 @@ module.exports = [
     url: 'https://www.blog.pythonlibrary.org/',
     twitter: '@driscollis',
     tags: ['Python', 'Programming', 'Backend', 'Front end'],
-   }
+  },
   {
     name: "Niraj Khatiwada",
     description:
