@@ -2600,4 +2600,11 @@ module.exports = [
       "SSIS",
     ],
   },
+  {
+    name: 'Abdur-Rahmaan Janhangeer',
+    description: 'Python articles with a nook and in-depth touch',
+    url: 'https://www.pythonkitchen.com/',
+    twitter: '@osdotsystem',
+    tags: ['Python', 'Flask', 'Compiler', 'Interpreter', 'Django', 'FastAPI', 'Shopyo'],
+  }
 ];
