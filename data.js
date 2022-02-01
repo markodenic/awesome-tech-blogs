@@ -1,4 +1,11 @@
 module.exports = [
+    {
+      name: 'Vivek',
+      description: 'Magical JavaScript Libraries',
+      url: 'https://vivekon.hashnode.dev/5-javascript-libraries-that-makes-working-with-js-magical',
+      twitter: '@vivekthedev',
+      tags: ['Resources', 'Web Development', 'JavaScript'],
+  },
   {
     name: "Gaurav Pandey",
     description:
