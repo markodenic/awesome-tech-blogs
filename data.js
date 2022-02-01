@@ -2600,4 +2600,25 @@ module.exports = [
       "SSIS",
     ],
   },
+  {
+    name: "Andrew Baisden",
+    description:
+      "Software Developer | Technical Writer | Content Creator",
+    url: "https://dev.to/andrewbaisden",
+    twitter: "@andrewbaisden",
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "React Native",
+      "Redux",
+      "Node",
+      "Python",
+      "SQL",
+      "NoSQL",
+      "Docker",
+    ],
+  },
 ];
