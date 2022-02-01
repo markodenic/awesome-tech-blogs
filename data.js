@@ -2582,6 +2582,24 @@ module.exports = [
     ],
   },
   {
+    name: "Helmer Davila",
+    description:
+      "My public technical 📘 notebook (blog), where I publish ✍️ in 3 different languages: english, spanish and french.",
+    url: "https://helmerdavila.com/blog",
+    twitter: "@helmerdavila",
+    tags: [
+      "Javascript",
+      "Typescript",
+      "Shell configs",
+      "Python",
+      "PHP",
+      "React",
+      "Developers",
+      "Ruby",
+      "Docker",
+    ],
+  },
+  {
     name: "Rajanand Ilangovan",
     description:
       "I am a Business Intelligence developer with over a decade of experience in design and development of database, data warehouse, business intelligence and reporting/data visualization solutions. I'm also a Microsoft certified trainer and MCSE - data management and analytics.",
