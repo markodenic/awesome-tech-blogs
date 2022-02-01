@@ -1,4 +1,12 @@
 module.exports = [
+    {
+    name: "Sandro Volpicella",
+    description:
+      "At the intersection of building SaaS and Serverless. Fullstack Engineer @Hashnode",
+    url: "https://sandro.volpee.de",
+    twitter: "@sandro_vol",
+    tags: ["Serverless", "AWS","Cloud", "Amplify", "TypeScript","JavaScript"],
+  },
   {
     name: "Gaurav Pandey",
     description:
