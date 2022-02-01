@@ -1,5 +1,12 @@
 module.exports = [
   {
+    name: 'Alexander Weichart',
+    description: '👨‍🌾 Digital gardener | 🤓 Developer | 👨‍🎓 Student',
+    url: 'https://www.alexanderweichart.de/',
+    twitter: '@AlexWeichart',
+    tags: ['Productivity', 'Tech', 'Self-Development'],
+  },
+  {
     name: "Gaurav Pandey",
     description:
       "14 y/o Developer working on Python & Machine Learning, writing about Web and AI + Research!.",
