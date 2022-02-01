@@ -2600,4 +2600,18 @@ module.exports = [
       "SSIS",
     ],
   },
+  {
+    name: "Aymane Mimouni",
+    description:
+      "I am Aymane MIMOUNI a Software Engineer and a passionate Python developer from Morocco who loves to build and deliver quality products.",
+    url: "https://aymanemx.com",
+    twitter: "https://twitter.com/aymane_max",
+    tags: [
+      "Python",
+      "Django",
+      "Vue",
+      "Elastic Search",
+      "GraphQL",
+    ],
+  },
 ];
