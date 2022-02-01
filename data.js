@@ -2563,6 +2563,13 @@ module.exports = [
     tags: ["Python", "Programming", "Backend", "Front end"],
   },
   {
+    name: 'Seth Michael Larson',
+    description: 'Articles about Python, API design, open source, and internet technologies.',
+    url: 'https://sethmlarson.dev/blog',
+    twitter: '@sethmlarson',
+    tags: ['Open Source', 'Python', 'HTTP', 'APIs', 'Internet'],
+  },
+  {
     name: "Niraj Khatiwada",
     description:
       "A young, energetic person who is passionate about the software and technologies. Software Engineer by day, hustler by night.",
