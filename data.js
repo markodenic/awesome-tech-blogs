@@ -2619,9 +2619,6 @@ module.exports = [
       "Tech",
       "Programming",
       "SEO",
-      "Productivity",
-      "Software Engineer",
-      "Freelancing",
     ],
   },
 ];
