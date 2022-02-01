@@ -2604,7 +2604,7 @@ module.exports = [
     name: "Simon Wicki",
     description:
       "Freelance Developer in Berlin. Worked on Web and Mobile apps at JustWatch. Fluent in Vue, Angular, React and Ionic. Passionate about Frontend, tech, web perf & non-fiction books.",
-    url: "https://wicki.io",
+    url: "https://wicki.io/posts/",
     twitter: "@zwacky",
     tags: [
       "JavaScript",
