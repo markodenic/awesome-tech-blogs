@@ -2600,4 +2600,23 @@ module.exports = [
       "SSIS",
     ],
   },
+  {
+    name: "AutoSysOps",
+    description:
+      "Blog by Leo Visser about automating the boring things in SysOps and Devops work by using cloud technologies.",
+    url: "https://www.autosysops.com",
+    twitter: "@AutoSysOps",
+    tags: [
+      "Azure",
+      "Cloud",
+      "DevOps",
+      "SysOps",
+      "Automation",
+      "Powershell",
+      "Yaml",
+      "ARM",
+      "Bicep",
+      "Policies",
+    ],
+  },
 ];
