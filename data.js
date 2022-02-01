@@ -2555,11 +2555,12 @@ module.exports = [
     ],
   },
   {
-    name: 'Mike Driscoll',
-    description: 'Python news, beginner to advanced tutorials, interviews and more',
-    url: 'https://www.blog.pythonlibrary.org/',
-    twitter: '@driscollis',
-    tags: ['Python', 'Programming', 'Backend', 'Front end'],
+    name: "Mike Driscoll",
+    description:
+      "Python news, beginner to advanced tutorials, interviews and more",
+    url: "https://www.blog.pythonlibrary.org/",
+    twitter: "@driscollis",
+    tags: ["Python", "Programming", "Backend", "Front end"],
   },
   {
     name: "Niraj Khatiwada",
