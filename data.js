@@ -2603,8 +2603,8 @@ module.exports = [
   {
     name: "Aymane Mimouni",
     description:
-      "I am Aymane MIMOUNI a Software Engineer and a passionate Python developer from Morocco who loves to build and deliver quality products.",
-    url: "https://aymanemx.com",
+      "Software Engineer and a passionate Python developer from Morocco who loves to build and deliver quality products.",
+    url: "https://aymanemx.com/posts",
     twitter: "https://twitter.com/aymane_max",
     tags: [
       "Python",
