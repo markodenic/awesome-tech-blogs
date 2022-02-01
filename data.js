@@ -5,7 +5,7 @@ module.exports = [
     url: 'https://rishimohan.me',
     twitter: '@thelifeofrishi',
     tags: ['HTML', 'CSS', 'JavaScript', 'React.js', 'TailwindCSS', 'Node.js'],
-},
+  },
   {
     name: "Gaurav Pandey",
     description:
