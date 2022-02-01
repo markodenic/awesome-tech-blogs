@@ -2600,4 +2600,24 @@ module.exports = [
       "SSIS",
     ],
   },
+  {
+    name: "Thanga Mariappan",
+    description:
+      "A passionate  Software Developer 🚀 I have an experience of building Web applications with JavaScript, Angular,NextJs,Reactjs and some other cool libraries",
+    url: "https://techsheet.vercel.app/",
+    twitter: "@iamthangam",
+    tags: [
+      "Thanga",
+      "Web Development",
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Next.js",
+      "GraphQL",
+      "TailwindCSS",
+      "Front End",
+      "HTML",
+      "CSS",
+    ],
+  },
 ];
