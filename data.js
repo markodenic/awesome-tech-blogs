@@ -2555,6 +2555,13 @@ module.exports = [
     ],
   },
   {
+    name: 'Mike Driscoll',
+    description: 'Python news, beginner to advanced tutorials, interviews and more',
+    url: 'https://www.blog.pythonlibrary.org/',
+    twitter: '@driscollis',
+    tags: ['Python', 'Programming', 'Backend', 'Front end'],
+   }
+  {
     name: "Niraj Khatiwada",
     description:
       "A young, energetic person who is passionate about the software and technologies. Software Engineer by day, hustler by night.",
