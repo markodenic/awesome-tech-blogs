@@ -1,4 +1,22 @@
 module.exports = [
+   {
+    name: "Renan Moura",
+    description:
+      "Posts for anyone looking to go deeper into Python and find practical ways to apply it in the fields of Web Development, Data Science and Machine Learning.",
+    url: "https://renanmf.com/",
+    twitter: "@renanmouraf",
+    tags: [
+      "Python",
+      "Cloud",
+      "Data",
+      "Machine Learning",
+      "Web Development",
+      "Software Engineering",
+      "Databases",
+      "Containers",
+      "Linux",
+    ],
+  },
   {
     name: "Gaurav Pandey",
     description:
@@ -2598,24 +2616,6 @@ module.exports = [
       "Azure",
       "ETL",
       "SSIS",
-    ],
-  },
-  {
-    name: "Renan Moura",
-    description:
-      "Posts for anyone looking to go deeper into Python and find practical ways to apply it in the fields of Web Development, Data Science and Machine Learning.",
-    url: "https://renanmf.com/",
-    twitter: "@renanmouraf",
-    tags: [
-      "Python",
-      "Cloud",
-      "Data",
-      "Machine Learning",
-      "Web Development",
-      "Software Engineering",
-      "Databases",
-      "Containers",
-      "Linux",
     ],
   },
 ];
