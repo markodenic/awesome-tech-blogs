@@ -2600,4 +2600,18 @@ module.exports = [
       "SSIS",
     ],
   },
+  {
+    name: "Mohammad Humayun Khan",
+    description:
+      "I am a Computer Engineering Student from India. I love Software Development, Cybersecurity and Cloud Computing.",
+    url: "https://damianarado.medium.com/",
+    twitter: "@damianarado",
+    tags: [
+      "Computer Networking",
+      "Operating Systems",
+      "TCP/IP",
+      "Cybersecurity",
+      "Encryption",
+    ],
+  }
 ];
