@@ -2600,4 +2600,22 @@ module.exports = [
       "SSIS",
     ],
   },
+  {
+    name: 'NaveenKumar Namachivayam',
+    description: 'Performance Engineering and Testing',
+    url: 'https://qainsights.com',
+    twitter: '@qainsights',
+    tags: [
+      'Performance', 
+      'Performance Engineering', 
+      'DevOps',
+      'Testing',
+      'SRE',
+      'Cloud',
+      'AWS',
+      'Load Testing',
+      'JMeter',
+      'k6',
+      'Performance Testing'],
+}
 ];
