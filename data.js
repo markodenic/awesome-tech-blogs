@@ -2600,4 +2600,18 @@ module.exports = [
       "SSIS",
     ],
   },
+    {
+    name: "Stack Diary",
+    description:
+      "Sharing helpful resources in the Web Development space.",
+    url: "https://stackdiary.com/",
+    twitter: "@stackdiary",
+    tags: [
+      "JavaScript",
+      "Content Creation",
+      "Tech",
+      "Programming",
+      "Web Development",
+    ],
+  },
 ];
