@@ -2600,4 +2600,19 @@ module.exports = [
       "SSIS",
     ],
   },
+  {
+    name: "Alessandro Marino",
+    description: "I'm a consultant Cloud Architect and Devops focused on AWS. I write about AWS, Go and Terraform.",
+    url: "https://alessandromarinoac.com",
+    twitter: "@alessmarinoac",
+    tags: [
+      "Cloud",
+      "AWS",
+      "Terraform",
+      "Serverless",
+      "Docker",
+      "Go",
+      "Containers",
+    ],
+  },
 ];
