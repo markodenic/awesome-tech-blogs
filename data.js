@@ -2600,4 +2600,18 @@ module.exports = [
       "SSIS",
     ],
   },
+  {
+    name: "All-in-One Person (RU)",
+    description: "Ежедневно публикуем самые полезные сервисы и приложения для мобильных ОС, Windows, Mac. Поручи программе то, что не хочешь делать сам.",
+    url: "https://blog.themarfa.name/",
+    twitter: "@themarfa",
+    tags: ["Windows", "Mac", "Android", "IOS", "apps", "software"],
+},
+  {
+    name: "All-in-One Person (EN)",
+    description: "We find and share most useful apps and services for your lazy existence.",
+    url: "https://en.blog.themarfa.name/",
+    twitter: "themarfaen",
+    tags: ["Windows", "Mac", "Android", "IOS", "apps", "software"],
+},
 ];
