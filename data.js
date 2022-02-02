@@ -1119,6 +1119,25 @@ module.exports = [
     ],
   },
   {
+    name: "Sabe.io",
+    description:
+      "Learn to code with high-quality classes and tutorials on HTML, CSS, JavaScript, TypeScript, Vue, React, Node, Java, PHP, Python, Docker, Deno, and more.",
+    url: "https://sabe.io",
+    twitter: "@sabe_io",
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "TypeScript",
+      "Vue",
+      "React",
+      "Node",
+      "Java",
+      "PHP",
+      "Python"
+    ],
+  },
+  {
     name: "Kumusta Mundo",
     description:
       "Tech tutorials and stories from Adrienne Tacke, a Filipina software engineer.",
@@ -2598,27 +2617,6 @@ module.exports = [
       "Azure",
       "ETL",
       "SSIS",
-    ],
-  },
-  {
-    name: "Sabe.io",
-    description:
-      "Learn to code with high-quality classes and tutorials on HTML, CSS, JavaScript, TypeScript, Vue, React, Node, Java, PHP, Python, Docker, Deno, and more.",
-    url: "https://sabe.io",
-    twitter: "@sabe_io",
-    tags: [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "TypeScript",
-      "Vue",
-      "React",
-      "Node",
-      "Java",
-      "PHP",
-      "Python",
-      "Docker",
-      "Deno"
     ],
   },
 ];
