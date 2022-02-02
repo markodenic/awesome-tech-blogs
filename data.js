@@ -2600,4 +2600,19 @@ module.exports = [
       "SSIS",
     ],
   },
+  {
+    name: "Donald Feury",
+    description:
+      "Appalachian man that writes about Go, MongoDB, FFmpeg, Linux and games",
+    url: "https://donaldfeury.xyz",
+    twitter: "@FeuryDonald",
+    tags: [
+      "Go",
+      "MongoDB",
+      "Linux",
+      "FFmpeg",
+      "Video Games",
+      "Bash",
+    ]
+  }
 ];
