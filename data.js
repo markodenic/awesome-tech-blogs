@@ -1,5 +1,12 @@
 module.exports = [
   {
+    name: 'Manu Arora',
+    description: 'I build products and web apps with an aim of impacting millions of lives.',
+    url: 'https://manuarora.in/blog',
+    twitter: '@mannupaaji',
+    tags: ['React', 'Nextjs', 'HTML', 'CSS', 'TailwindCSS', 'Nodejs', 'JAMStack', 'Next.js', 'React.js', 'Node.js'],
+},
+  {
     name: "Gaurav Pandey",
     description:
       "14 y/o Developer working on Python & Machine Learning, writing about Web and AI + Research!.",
