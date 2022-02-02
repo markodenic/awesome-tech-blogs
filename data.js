@@ -27,6 +27,22 @@ module.exports = [
     ],
   },
   {
+    name: "Mohamad Fadhil
+    description: "",
+    url: "https://fadhil-blog.dev
+    twitter: "@sdil
+    tags: [
+      "Django
+      "Web Devlopment
+      "Python
+      "API
+      "Backend
+      "Programming
+      "Cloud Infrastructure
+      "Software Engineering
+    ],
+  },
+  {
     name: "Manish Prasad",
     description: "Founding Team Member | 👨🏻‍💻 Developer | ✍️ Blogger",
     url: "https://techinsights.manisuec.com",
