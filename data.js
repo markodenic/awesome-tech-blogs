@@ -2333,7 +2333,7 @@ module.exports = [
     twitter: "@TechWatching",
     tags: [
       "C#",
-      ".NET"",
+      ".NET",
       "Azure",
       "Cloud",
       "Software Development",
