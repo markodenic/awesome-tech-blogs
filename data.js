@@ -2600,4 +2600,20 @@ module.exports = [
       "SSIS",
     ],
   },
+  {
+    name: "Pritam Bera",
+    description: "Self-taugth web-developer developer & Technical writer, with a keen interest in Linux & CyberSecurity.",
+    url:"https://pritambera2000.hashnode.dev",
+    twitter: "@dotslashpritam",
+    tags: [
+      "CSS",
+      "SCSS",
+      "JavaScript",
+      "Linux",
+      "BootStrap",
+      "React",
+      "Node",
+      "Tech",
+    ],
+  },
 ];
