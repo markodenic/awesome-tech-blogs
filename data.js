@@ -497,6 +497,20 @@ module.exports = [
     ],
   },
   {
+    name: "Alexey Berezin",
+    description:
+      "I am a frontend developer who loves TypeScript and video players",
+    url: "https://blog.beraliv.dev",
+    twitter: "@beraliv",
+    tags: [
+      "Video",
+      "Players",
+      "TypeScript",
+      "CSS",
+      "JavaScript",
+    ],
+  },
+  {
     name: "Olena Drugalya",
     description:
       "Olena is self-taught web developer and she writes her beginner-friendly and simply explained tech blogs along the way.",
