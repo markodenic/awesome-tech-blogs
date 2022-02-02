@@ -28,7 +28,7 @@ module.exports = [
   },
   {
     name: "Mohamad Fadhil
-    description: "",
+    description: "T-shaped engineer, DevOps enthusiast",
     url: "https://fadhil-blog.dev
     twitter: "@sdil
     tags: [
