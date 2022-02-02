@@ -2600,4 +2600,23 @@ module.exports = [
       "SSIS",
     ],
   },
+  {
+    name: 'Madza',
+    description: 'I build custom WEB solutions and write about DEV',
+    url: 'https://madza.dev/blog',
+    twitter: '@madzadev',
+    tags: [
+      "HTML",
+      "CSS",
+      "TypeScript",
+      "React",
+      "Front End",
+      "GitHub",
+      "Web Development",
+      "Career",
+      "Jamstack",
+      "Svelte",
+      "Next.js",
+    ]
+}
 ];
