@@ -43,6 +43,24 @@ module.exports = [
     ],
   },
   {
+    name: "Siddhartha D",
+    description: "I write about interesting devops solution for cloud infrastructure. Most of the tutorials will be focused on Python Automation, DevOps and SRE concepts | 👨🏻‍💻 Developer | ✍️ Blogger",
+    url: "https://techwithsidz.hashnode.dev/",
+    twitter: "@Sidz7",
+    tags: [
+      "DevOps",
+      "SRE",
+      "AWS",
+      "Kubernetes",
+      "Docker",
+      "Security",
+      "Python",
+      "Networking",
+      "Career",
+      "Tech Videos",
+    ],
+  },
+  {
     name: "Ashish Yadav",
     description:
       "Software engineer writing TypeScript at scale. Talks about #react, #nodejs, #javascript, #typescript, and #softwareengineering",
