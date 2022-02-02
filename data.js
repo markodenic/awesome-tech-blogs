@@ -2069,6 +2069,25 @@ module.exports = [
     ],
   },
   {
+    name: "Bart Zalewski",
+    description:
+      "Full-Stack Developer. I helped hundreds of thousands of people around the world with programming.",
+    url: "https://bartzalewski.com/blog/?ref=tech-blogs.dev",
+    twitter: "@bart_coder",
+    tags: [
+      "JavaScript",
+      "Web Development",
+      "React",
+      "React Native",
+      "Node.js",
+      "TypeScript",
+      "Python",
+      "GraphQL",
+      "AWS",
+      "Fullstack",
+    ],
+  },
+  {
     name: "Omar Elhawary",
     description:
       "Software developer and linux enthusiast interested in user/dev experience, software architecture, design systems, statically typed languages and functional programming.",
@@ -2598,31 +2617,6 @@ module.exports = [
       "Azure",
       "ETL",
       "SSIS",
-    ],
-  },
-  {
-    name: "Bart Zalewski",
-    description:
-      "Full-Stack Developer. I helped hundreds of thousands of people around the world with programming.",
-    url: "https://bartzalewski.com/blog/?ref=tech-blogs.dev",
-    twitter: "@bart_coder",
-    tags: [
-      "JavaScript",
-      "Web Development",
-      "React",
-      "React Native",
-      "CSS",
-      "HTML",
-      "Front End",
-      "Node.js",
-      "TypeScript",
-      "Tech",
-      "Python",
-      "Vue",
-      "GraphQL",
-      "AWS",
-      "Backend",
-      "Fullstack",
     ],
   },
 ];
