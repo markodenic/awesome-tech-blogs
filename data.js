@@ -2600,4 +2600,16 @@ module.exports = [
       "SSIS",
     ],
   },
+    {
+    name: "The WP Weekly",
+    description:
+      "The Weekly Newsletter for WordPress Professionals bringing the best bits from the WP ecosystem that should not take more than 10 minutes of reading time.",
+    url: "https://thewpweekly.com/",
+    twitter: "@thewpweekly",
+    tags: [
+      "Tech",
+      "WordPress",
+      "Web Development",
+    ],
+  },
 ];
