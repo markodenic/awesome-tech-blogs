@@ -8,6 +8,13 @@ module.exports = [
     tags: ["Python", "Git", "Machine Learning"],
   },
   {
+    name: 'Elton Minetto',
+    description: 'I’m a software developer, teacher, speaker and writer',
+    url: 'https://eltonminetto.dev/en/',
+    twitter: '@eminetto',
+    tags: ['Go', 'Golang', 'Software Architecture'],
+  },
+  {
     name: "Ashish Patel",
     description:
       "A space enthusiast software engineer, building amazing user interfaces, websites, web apps and APIs primarily using react, JamStack and express as key technologies.",
