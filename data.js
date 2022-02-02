@@ -27,19 +27,19 @@ module.exports = [
     ],
   },
   {
-    name: "Mohamad Fadhil
+    name: "Mohamad Fadhil",
     description: "T-shaped engineer, DevOps enthusiast",
-    url: "https://fadhil-blog.dev
-    twitter: "@sdil
+    url: "https://fadhil-blog.dev",
+    twitter: "@sdil",
     tags: [
-      "Django
-      "Web Devlopment
-      "Python
-      "API
-      "Backend
-      "Programming
-      "Cloud Infrastructure
-      "Software Engineering
+      "Django",
+      "Web Devlopment",
+      "Python",
+      "API",
+      "Backend",
+      "Programming",
+      "Cloud Infrastructure",
+      "Software Engineering"
     ],
   },
   {
