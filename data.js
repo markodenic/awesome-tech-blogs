@@ -1,5 +1,12 @@
 module.exports = [
   {
+    name: 'Dev Apt',
+    description: 'A web magazine demystifying web development, programming and technology with tips, tricks and tweaks.',
+    url: 'https://devapt.com/',
+    twitter: '@dev_apt',
+    tags: ['HTML', 'CSS', 'JavaScript', 'Web Development', 'Node.js', 'React', 'Tech', 'Git', 'Programming', 'AWS'],
+  },
+  {
     name: "Gaurav Pandey",
     description:
       "14 y/o Developer working on Python & Machine Learning, writing about Web and AI + Research!.",
