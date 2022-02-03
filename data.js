@@ -2582,6 +2582,13 @@ module.exports = [
     ],
   },
   {
+    name: 'Daniellop Blog',
+    description: 'Thoughts, stories and ideas.',
+    url: 'https://blog.daniellop.me',
+    twitter: '@daniellop1_',
+    tags: ['HTML', 'CSS', 'JavaScript'],
+  },
+  {
     name: "Rajanand Ilangovan",
     description:
       "I am a Business Intelligence developer with over a decade of experience in design and development of database, data warehouse, business intelligence and reporting/data visualization solutions. I'm also a Microsoft certified trainer and MCSE - data management and analytics.",
