@@ -1,11 +1,20 @@
 module.exports = [
   {
-    name: 'Webdevolution',
-    description: 'Web dev tips, tutorials and solutions for common problems.',
-    url: 'https://www.webdevolution.com',
-    twitter: '@webdevolution_',
-    tags: ['HTML', 'CSS', 'JavaScript', 'React', 'Typescript', 'APIs', '.NET', 'Web Development'],
-},
+    name: "Webdevolution",
+    description: "Web dev tips, tutorials and solutions for common problems.",
+    url: "https://www.webdevolution.com",
+    twitter: "@webdevolution_",
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Typescript",
+      "APIs",
+      ".NET",
+      "Web Development",
+    ],
+  },
   {
     name: "Gaurav Pandey",
     description:
