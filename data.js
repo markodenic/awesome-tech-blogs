@@ -87,6 +87,24 @@ module.exports = [
     tags: ["Computer Science", "Networking", "Tailwind", "Next.js"],
   },
   {
+      name: "AlterClass by Greg D'Angelo",
+      description: 'Learn about the next-generation frameworks, tools, and techniques of modern web development.',
+      url: 'https://alterclass.io/tutorials',
+      twitter: '@AlterClasssIO',
+      tags: [
+        'React',
+        'Next.js',
+        'JavaScript',
+        'TypeScript',
+        'Fauna',
+        'Mongodb',
+        'GraphQL',
+        'Tailwind CSS',
+        'Web3',
+        'Web Development'
+      ],
+  },
+  {
     name: "Solidity Tips",
     description:
       "The go-to place to learn Solidity and web 3. Articles, step-by-step guides, and quick tips.",
