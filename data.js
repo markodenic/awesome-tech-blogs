@@ -20,6 +20,7 @@ module.exports = [
       "APIs",
       ".NET",
       "Web Development",
+    ]
   },
   {
     name: "Gaurav Pandey",
