@@ -944,7 +944,7 @@ module.exports = [
     name: "AutoSysOps",
     description:
       "Blog by Leo Visser about automating the boring things in SysOps and Devops work by using cloud technologies.",
-    url: "https://www.autosysops.com",
+    url: "https://www.autosysops.com/blog",
     twitter: "@AutoSysOps",
     tags: [
       "Azure",
