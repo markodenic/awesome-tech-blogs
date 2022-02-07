@@ -165,6 +165,22 @@ module.exports = [
     ],
   },
   {
+    name: 'Priyanshu Kumawat',
+    description: 'A Wev Developer | Content Creator | Tech Blogger. Talks about Web Development, Open Source, JavaScript and Developer Resources.',
+    url: 'https://kumarsonsoff.hashnode.dev',
+    twitter: '@Kumar_Sons_off',
+    tags: [
+      'HTML',
+      'CSS',
+      'JavaScript',
+      'Front End',
+      'Web Development',
+      'Git',
+      'Productivity',
+      'TailwindCSS',
+    ],
+  },
+  {
     name: "Michael Hoffmann (Mokkapps)",
     description: "🌴 Freelancer | 👨🏻‍💻 Developer | ✍️ Blogger",
     url: "https://mokkapps.de/blog/",
