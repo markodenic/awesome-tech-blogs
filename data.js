@@ -1,4 +1,12 @@
 module.exports = [
+    {
+    name: "FlutterBeads",
+    description:
+      "A treasure of high quality Flutter tutorials",
+    url: "https://flutterbeads.com/",
+    twitter: "@flutter_beads",
+    tags: ["Flutter", "Animation", "Design", "Firebase","State Management","Web","Desktop","Widgets"],
+  },
   {
     name: "Webdevolution",
     description: "Web dev tips, tutorials and solutions for common problems.",
