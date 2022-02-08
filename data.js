@@ -2480,7 +2480,6 @@ module.exports = [
     twitter: "@robertodigital_",
     tags: ["SEO", "SaaS", "Marketing"],
   },
-  
   {
     name: "Anish De",
     description:
