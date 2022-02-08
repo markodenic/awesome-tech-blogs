@@ -1,12 +1,5 @@
 module.exports = [
   {
-    name: "Dan M. Kazimoto",
-    description:"UI designer and content creator writing about design and frontend development",
-    url: "https://khazifire.com/blog",
-    twitter: "@khazifire",
-    tags: ["Javascript", "Html", "Css", "Next.js", "TailwindCss", "Figma"],
-  },
-  {
     name: "Webdevolution",
     description: "Web dev tips, tutorials and solutions for common problems.",
     url: "https://www.webdevolution.com",
@@ -21,6 +14,13 @@ module.exports = [
       ".NET",
       "Web Development",
     ],
+  },
+  {
+    name: 'Dan M. Kazimoto',
+    description:'UI designer and content creator writing about design and frontend development',
+    url: 'https://khazifire.com/blog',
+    twitter: '@khazifire',
+    tags: ['Javascript', 'Html', 'Css', 'Next.js', 'TailwindCss', 'Figma','web design', 'frontend'],
   },
   {
     name: "Gaurav Pandey",
