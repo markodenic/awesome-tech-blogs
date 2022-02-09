@@ -291,7 +291,7 @@ module.exports = [
       "At the intersection of building SaaS and Serverless. Fullstack Engineer @Hashnode",
     url: "https://sandro.volpee.de",
     twitter: "@sandro_vol",
-    tags: ["Serverless", "AWS","Cloud", "Amplify", "TypeScript","JavaScript"],
+    tags: ["Serverless", "AWS", "Cloud", "Amplify", "TypeScript", "JavaScript"],
   },
   {
     name: "LambdaTest Blogs",
