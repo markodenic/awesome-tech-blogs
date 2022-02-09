@@ -792,7 +792,8 @@ module.exports = [
   },
   {
     name: "John Wright Stanly",
-    description: "Articles from a startup co-founder about AWS, React, TypeScript, Next.js, Serverless, and more",
+    description:
+      "Articles from a startup co-founder about AWS, React, TypeScript, Next.js, Serverless, and more",
     url: "https://jwstanly.com/blog",
     twitter: "@jwstanly",
     tags: [
