@@ -139,13 +139,14 @@ module.exports = [
     ],
   },
   {
-    name: 'Tecroxy',
-    description: 'Tecroxy is a Technology media company that wants to make people’s lives better through tech education. Since 2020, Tecroxy has been publishing content on its Website to educate readers on how to use their tech product(s) in the most efficient way possible..',
-    url: 'https://tecroxy.com',
-    twitter: '@tecroxy',
-    tags: ['Android', 'Apple', 'Google', 'Blockchain', 'Website',],
-},
-{
+    name: "Tecroxy",
+    description:
+      "Tecroxy is a Technology media company that wants to make people’s lives better through tech education. Since 2020, Tecroxy has been publishing content on its Website to educate readers on how to use their tech product(s) in the most efficient way possible..",
+    url: "https://tecroxy.com",
+    twitter: "@tecroxy",
+    tags: ["Android", "Apple", "Google", "Blockchain", "Website"],
+  },
+  {
     name: "UnEncrypted",
     description:
       "Hey There, I'm Reda BELHAJ a fourth year Computer Science Student at the International University of Rabat. Welcome to my corner of the internet. I'm glad you're here!",
