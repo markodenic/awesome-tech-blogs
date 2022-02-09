@@ -23,6 +23,13 @@ module.exports = [
     ],
   },
   {
+    name: 'Dan M. Kazimoto',
+    description:'UI designer and content creator writing about design and frontend development',
+    url: 'https://khazifire.com/blog',
+    twitter: '@khazifire',
+    tags: ['JavaScript', 'Html', 'Css', 'Next.js', 'TailwindCss', 'Figma','web design', 'frontend'],
+  },
+  {
     name: "The Ryan Furrer Blog",
     description: "Front-End Web Development Blogs For All",
     url: "https://www.theryanfurrer.blog",
