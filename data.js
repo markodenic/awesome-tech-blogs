@@ -2662,6 +2662,21 @@ module.exports = [
       "Web Development",
     ],
   },
+  { name: "Ayesha Sahar", 
+  description: "I write articles and share tips + tricks about Python, C++, UI/UX & Web Development to make your learning journey easier✨", 
+  url: "https://thecodingcompany.hashnode.dev/", 
+  twitter: "@IAyeshaSahar", 
+  tags: [ 
+    "C++",
+     "JavaScript", 
+     "Web Development", 
+     "UI/UX", 
+     "Python", 
+     "CSS", 
+     "HTML", 
+     "Front End", 
+    ], 
+  },
   {
     name: "Abhiraj Bhowmick",
     description:
@@ -2803,20 +2818,5 @@ module.exports = [
       "ETL",
       "SSIS",
     ],
-  },
-  {
-    name: "Abdur-Rahmaan Janhangeer",
-    description: "Python articles with a nook and in-depth touch",
-    url: "https://www.pythonkitchen.com/",
-    twitter: "@osdotsystem",
-    tags: [
-      "Python",
-      "Flask",
-      "Compiler",
-      "Interpreter",
-      "Django",
-      "FastAPI",
-      "Shopyo",
-    ],
-  },
+  }
 ];
