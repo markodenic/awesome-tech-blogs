@@ -364,11 +364,22 @@ module.exports = [
     tags: ["JavaScript", "Node.js", "React", "Computer Science"],
   },
   {
-    name: 'TerminusDB',
-    description: 'An open-source in-memory document graph database helping you build collaborative applications.',
-    url: 'https://terminusdb.com/blog/',
-    twitter: '@TerminusDB',
-    tags: ['Graph Databases', 'Open Source', 'Python', 'JavaScript', 'Knowledge Graphs', 'Data Management', 'Document Database', 'Database Version Control', 'Data Collaboration'],
+    name: "TerminusDB",
+    description:
+      "An open-source in-memory document graph database helping you build collaborative applications.",
+    url: "https://terminusdb.com/blog/",
+    twitter: "@TerminusDB",
+    tags: [
+      "Graph Databases",
+      "Open Source",
+      "Python",
+      "JavaScript",
+      "Knowledge Graphs",
+      "Data Management",
+      "Document Database",
+      "Database Version Control",
+      "Data Collaboration",
+    ],
   },
   {
     name: "Peter Smith",
