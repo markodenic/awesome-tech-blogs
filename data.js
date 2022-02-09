@@ -18,7 +18,7 @@ module.exports = [
   {
     name: 'The Ryan Furrer Blog',
     description: 'Front-End Web Development Blogs For All',
-    url: 'https://www.theryanfurrer.blog/com',
+    url: 'https://www.theryanfurrer.blog',
     twitter: '@theryanfurrer',
     tags: ['JavaScript', 'Web Development', 'React', 'CSS', 'HTML', 'Front End', 'Tech', 'TailwindCSS', 'Programming', 'Productivity'],
   },
