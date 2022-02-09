@@ -67,6 +67,13 @@ module.exports = [
       "Contentful",
     ],
   },
+    {
+    name: "Estee Tey's Tech Blog",
+    description: 'Refine your thinking, designing and development processes. Learn about concepts from a value-driven perspective. Focused on app development, developer productivity & open source technologies.',
+    url: 'https://blog.esteetey.dev',
+    twitter: '@estee_tey',
+    tags: ['HTML', 'CSS', 'JavaScript', 'Web Development', 'Front End', 'React', 'React Native', 'Open Source', 'Design', 'Productivity'],
+  },
   {
     name: "Manish Prasad",
     description: "Founding Team Member | 👨🏻‍💻 Developer | ✍️ Blogger",
