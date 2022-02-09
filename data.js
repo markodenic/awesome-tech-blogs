@@ -1186,16 +1186,11 @@ module.exports = [
   },
   {
     name: "Nikita Hlopov",
-    description: "In this blog I post my observations and share experience related to frontend web development.",
+    description:
+      "In this blog I post my observations and share experience related to frontend web development.",
     url: "https://nikitahl.com",
     twitter: "@nikita_hlopov",
-    tags: [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "React",
-      "Web Development",
-    ],
+    tags: ["HTML", "CSS", "JavaScript", "React", "Web Development"],
   },
   {
     name: "Christoph Werner",
