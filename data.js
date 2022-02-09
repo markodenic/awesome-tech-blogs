@@ -286,6 +286,14 @@ module.exports = [
     ],
   },
   {
+    name: "Sandro Volpicella",
+    description:
+      "At the intersection of building SaaS and Serverless. Fullstack Engineer @Hashnode",
+    url: "https://sandro.volpee.de",
+    twitter: "@sandro_vol",
+    tags: ["Serverless", "AWS","Cloud", "Amplify", "TypeScript","JavaScript"],
+  },
+  {
     name: "LambdaTest Blogs",
     description:
       "Learn all you want to around software testing, mobile app testing, website testing and more",
