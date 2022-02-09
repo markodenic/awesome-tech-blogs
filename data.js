@@ -1,10 +1,10 @@
 module.exports = [
-    {
-      name: 'Vivek',
-      description: 'Awesome JavaScript Libraries and developer resources',
-      url: 'https://vivekon.hashnode.dev/',
-      twitter: '@vivekthedev',
-      tags: ['Resources', 'Web Development', 'JavaScript'],
+  {
+    name: "Vivek",
+    description: "Awesome JavaScript Libraries and developer resources",
+    url: "https://vivekon.hashnode.dev/",
+    twitter: "@vivekthedev",
+    tags: ["Resources", "Web Development", "JavaScript"],
   },
   {
     name: "Webdevolution",
