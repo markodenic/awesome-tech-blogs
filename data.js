@@ -1,5 +1,5 @@
 module.exports = [
-   {
+  {
     name: "Vivek",
     description: "Awesome JavaScript Libraries and developer resources",
     url: "https://vivekon.hashnode.dev/",
@@ -20,7 +20,7 @@ module.exports = [
       "APIs",
       ".NET",
       "Web Development",
-    ]
+    ],
   },
   {
     name: "The Ryan Furrer Blog",
@@ -283,11 +283,12 @@ module.exports = [
     ],
   },
   {
-    name: 'Rishi Mohan',
-    description: 'Writing on Next.js, React, Tailwind and building apps using these.',
-    url: 'https://rishimohan.me/blog',
-    twitter: '@thelifeofrishi',
-    tags: ['HTML', 'CSS', 'JavaScript', 'React.js', 'TailwindCSS', 'Node.js'],
+    name: "Rishi Mohan",
+    description:
+      "Writing on Next.js, React, Tailwind and building apps using these.",
+    url: "https://rishimohan.me/blog",
+    twitter: "@thelifeofrishi",
+    tags: ["HTML", "CSS", "JavaScript", "React.js", "TailwindCSS", "Node.js"],
   },
   {
     name: "Muthu Annamalai",
