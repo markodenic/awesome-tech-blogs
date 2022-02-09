@@ -1071,6 +1071,25 @@ module.exports = [
     ],
   },
   {
+    name: "AutoSysOps",
+    description:
+      "Blog by Leo Visser about automating the boring things in SysOps and Devops work by using cloud technologies.",
+    url: "https://www.autosysops.com/blog",
+    twitter: "@AutoSysOps",
+    tags: [
+      "Azure",
+      "Cloud",
+      "DevOps",
+      "SysOps",
+      "Automation",
+      "Powershell",
+      "Yaml",
+      "ARM",
+      "Bicep",
+      "Policies",
+    ],
+  },
+  {
     name: "Nikita Grechino",
     description:
       "A business oriented frontend developer. | I do boxing, play badminton, blog about tech, read books and comics.",
