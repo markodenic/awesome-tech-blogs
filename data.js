@@ -1381,13 +1381,23 @@ module.exports = [
       "SEO",
     ],
   },
-   {
-    name: 'Cameron Armstrong',
-    description: 'Web3, startup, and leadership thoughts from a post-exit e-commerce startup founder building in DeFi (with a healthy spritz of Army and economics thrown in for flavor).',
-    url: 'https://www.wysr.xyz',
-    twitter: '@frozenfire42',
-    tags: ['web3', 'crypto', 'physics', 'math', 'economics', 'product', 'solidity', 'productivity'],
-},
+  {
+    name: "Cameron Armstrong",
+    description:
+      "Web3, startup, and leadership thoughts from a post-exit e-commerce startup founder building in DeFi (with a healthy spritz of Army and economics thrown in for flavor).",
+    url: "https://www.wysr.xyz",
+    twitter: "@frozenfire42",
+    tags: [
+      "web3",
+      "crypto",
+      "physics",
+      "math",
+      "economics",
+      "product",
+      "solidity",
+      "productivity",
+    ],
+  },
   {
     name: "Varun Singh",
     description: "Full-stack Developer",
@@ -2828,5 +2838,4 @@ module.exports = [
       "SSIS",
     ],
   },
- 
 ];
