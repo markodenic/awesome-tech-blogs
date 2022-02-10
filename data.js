@@ -71,7 +71,17 @@ module.exports = [
       "I am a 15 year old student who likes to code and blog. I'm a cool minded but logical and pragmatic person. I try to be thorough with my work and am a perfectionist at heart.",
     url: "https://hackersreboot.tech/",
     twitter: "@HackersReboot",
-    tags: ["Python", "Blockchain", "Web3", "Computer Science", "Algorithms", "Programming", "Student", "JavaScript", "Go"],
+    tags: [
+      "Python",
+      "Blockchain",
+      "Web3",
+      "Computer Science",
+      "Algorithms",
+      "Programming",
+      "Student",
+      "JavaScript",
+      "Go",
+    ],
   },
   {
     name: "Ashish Patel",
