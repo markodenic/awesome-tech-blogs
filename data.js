@@ -2593,17 +2593,11 @@ module.exports = [
   },
   {
     name: "Alexandre Nédélec",
-    description: "Software developer living in Bordeaux, France ⋅ Working mainly in C# / .NET on Azure ⋅ Love discovering new tools and technologies",
+    description:
+      "Software developer living in Bordeaux, France ⋅ Working mainly in C# / .NET on Azure ⋅ Love discovering new tools and technologies",
     url: "https://www.techwatching.dev/",
     twitter: "@TechWatching",
-    tags: [
-      "C#",
-      ".NET",
-      "Azure",
-      "Cloud",
-      "Software Development",
-      "DevOps"
-    ],
+    tags: ["C#", ".NET", "Azure", "Cloud", "Software Development", "DevOps"],
   },
   {
     name: "Tapas Adhikary(GreenRoots Blog)",
