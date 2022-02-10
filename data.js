@@ -66,6 +66,14 @@ module.exports = [
     tags: ["Python", "Git", "Machine Learning"],
   },
   {
+    name: "Arpan Pandey",
+    description:
+      "I am a 15 year old student who likes to code and blog. I'm a cool minded but logical and pragmatic person. I try to be thorough with my work and am a perfectionist at heart.",
+    url: "https://hackersreboot.tech/",
+    twitter: "@HackersReboot",
+    tags: ["Python", "Blockchain", "Web3", "Computer Science", "Algorithms", "Programming", "Student", "JavaScript", "Go"],
+  },
+  {
     name: "Ashish Patel",
     description:
       "A space enthusiast software engineer, building amazing user interfaces, websites, web apps and APIs primarily using react, JamStack and express as key technologies.",
