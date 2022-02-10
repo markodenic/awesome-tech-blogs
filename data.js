@@ -2909,10 +2909,20 @@ module.exports = [
     ],
   },
   {
-    name: 'Raj KB',
-    description: 'Technical Project Manager ~ PHP & Magento Certified ~ <3 Symfony, React, Node, PWA/GraphQL, Web3 ~ DBA ~ DevOps ~ Blogger ~ Indie Hacker',
-    url: 'https://blog.magepsycho.com',
-    twitter: '@rajkbnp',
-    tags: ['PHP', 'Symfony', 'Magento', 'Linux', 'Database', 'DevOps', 'React', 'Web Development'],
-  }
+    name: "Raj KB",
+    description:
+      "Technical Project Manager ~ PHP & Magento Certified ~ <3 Symfony, React, Node, PWA/GraphQL, Web3 ~ DBA ~ DevOps ~ Blogger ~ Indie Hacker",
+    url: "https://blog.magepsycho.com",
+    twitter: "@rajkbnp",
+    tags: [
+      "PHP",
+      "Symfony",
+      "Magento",
+      "Linux",
+      "Database",
+      "DevOps",
+      "React",
+      "Web Development",
+    ],
+  },
 ];
