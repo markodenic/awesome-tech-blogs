@@ -2948,6 +2948,7 @@ module.exports = [
     twitter: "themarfaen",
     tags: ["Windows", "Mac", "Android", "IOS", "apps", "software"],
 },
+{
     name: "Raj KB",
     description:
       "Technical Project Manager ~ PHP & Magento Certified ~ <3 Symfony, React, Node, PWA/GraphQL, Web3 ~ DBA ~ DevOps ~ Blogger ~ Indie Hacker",
