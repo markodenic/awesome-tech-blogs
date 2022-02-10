@@ -2102,6 +2102,20 @@ module.exports = [
     ],
   },
   {
+    name: 'Donald Feury',
+    description:
+      'Appalachian man that writes about Go, MongoDB, FFmpeg, Linux and games',
+    url: 'https://donaldfeury.xyz',
+    twitter: '@FeuryDonald',
+    tags: [
+      'Go',
+      'MongoDB',
+      'Linux',
+      'FFmpeg',
+      'Bash',
+    ]
+  },
+  {
     name: "Rishab Kumar",
     description:
       "I am a tech entusiast that loves to play in the Cloud and related technologies. Also, try to create nice web experiences.",
