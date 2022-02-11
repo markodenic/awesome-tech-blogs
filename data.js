@@ -2929,6 +2929,20 @@ module.exports = [
     ],
   },
   {
+    name: "iRead Blog",
+    description:"iRead is a multi-user blogging platform where you'll find technical articles and project tutorials related to Python, Javascript, Flutter and much more ",
+    url: "https://ireadblog.com",
+    twitter: "@iReadBot",
+    tags: [
+      "Python",
+      "Java",
+      "DSA",
+      "Javascript",
+      "Flutter",
+      "Web Development",
+    ],
+  },
+  {
     name: "Helmer Davila",
     description:
       "My public technical 📘 notebook (blog), where I publish ✍️ in 3 different languages: english, spanish and french.",
@@ -2995,20 +3009,6 @@ module.exports = [
       "Database",
       "DevOps",
       "React",
-      "Web Development",
-    ],
-  },
-  {
-    name: "iRead Blog",
-    description:"iRead is a multi-user blogging platform where you'll find technical articles and project tutorials related to Python, Javascript, Flutter and much more ",
-    url: "https://ireadblog.com",
-    twitter: "@iReadBot",
-    tags: [
-      "Python",
-      "Java",
-      "DSA",
-      "Javascript",
-      "Flutter",
       "Web Development",
     ],
   },
