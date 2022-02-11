@@ -548,6 +548,14 @@ module.exports = [
       "Computer Science",
     ],
   },
+     {
+    name: "FlutterBeads",
+    description:
+      "A treasure of high quality Flutter tutorials",
+    url: "https://flutterbeads.com/",
+    twitter: "@flutter_beads",
+    tags: ["Flutter", "Animation", "Design", "Firebase","State Management","Web","Desktop","Widgets"],
+  },
   {
     name: "Shaurya Pratap Singh",
     description: "A middle schooler who loves writing about programming.",
