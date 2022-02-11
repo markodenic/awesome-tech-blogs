@@ -2772,6 +2772,21 @@ module.exports = [
     ],
   },
   {
+    name: "Coderflex",
+    description: "Integrate Code Reviews, Tutorials, Frameworks, Security Updates, etc.",
+    url: "https://coderflex.com/blog",
+    twitter: "@coderflex",
+    tags: [
+      "PHP",
+      "Laravel",
+      "Livewire",
+      "Linux",
+      "Javascript",
+      "Web Development",
+      "Open Source",
+    ],
+  },
+  {
     name: "Maximiliano Contieri",
     description: "Maximiliano Contieri | Software Engineer",
     url: "https://maximilianocontieri.com/",
@@ -2996,21 +3011,6 @@ module.exports = [
       "DevOps",
       "React",
       "Web Development",
-    ],
-  },
-  {
-    name: "Coderflex",
-    description: "Integrate Code Reviews, Tutorials, Frameworks, Security Updates, etc.",
-    url: "https://coderflex.com/blog",
-    twitter: "@coderflex",
-    tags: [
-      "PHP",
-      "Laravel",
-      "Livewire",
-      "Linux",
-      "Javascript",
-      "Web Development",
-      "Open Source",
     ],
   },
 ];
