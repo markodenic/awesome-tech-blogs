@@ -2998,4 +2998,19 @@ module.exports = [
       "Web Development",
     ],
   },
+  {
+    name: "Coderflex",
+    description: "Integrate Code Reviews, Tutorials, Frameworks, Security Updates, etc.",
+    url: "https://coderflex.com/blog",
+    twitter: "@coderflex",
+    tags: [
+      "PHP",
+      "Laravel",
+      "Livewire",
+      "Linux",
+      "Javascript",
+      "Web Development",
+      "Open Source",
+    ],
+  },
 ];
