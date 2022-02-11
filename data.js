@@ -1168,11 +1168,19 @@ module.exports = [
     ],
   },
   {
-    name: 'Aleksej Komnenovic',
-    description: 'Read mostly about web development, tools that help you finish the job faster, also algorithms, data structures, and occasionally tips&tricks, along with funny projects. Welcome to Bllog | by kaumnen.',
-    url: 'https://akom.me',
-    twitter: '@kaumnen',
-    tags: ['JavaScript', 'Node.js', 'Git', 'Web development', 'Programming', 'Backend'],
+    name: "Aleksej Komnenovic",
+    description:
+      "Read mostly about web development, tools that help you finish the job faster, also algorithms, data structures, and occasionally tips&tricks, along with funny projects. Welcome to Bllog | by kaumnen.",
+    url: "https://akom.me",
+    twitter: "@kaumnen",
+    tags: [
+      "JavaScript",
+      "Node.js",
+      "Git",
+      "Web development",
+      "Programming",
+      "Backend",
+    ],
   },
   {
     name: "Nikita Grechino",
