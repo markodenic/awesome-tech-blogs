@@ -23,6 +23,26 @@ module.exports = [
     ],
   },
   {
+    name: "Canopas Software",
+    description: "We aim to help you become better software engineer. Sharing tips and tricks on android, iOS, web, and programming",
+    url: "https://blog.canopas.com/",
+    twitter: "@canopassoftware",
+    tags: [
+      "Vue",
+      "iOS",
+      "Android",
+      "Flutter",
+      "Jetpack Compose",
+      "SwiftUI",
+      "Web Development",
+      "Android Dev",
+      "Kotlin",
+      "GoLang",
+      "Swift",
+      "AWS"
+    ],
+  },
+  {
     name: "Dan M. Kazimoto",
     description:
       "UI designer and content creator writing about design and frontend development",
