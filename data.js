@@ -2969,11 +2969,7 @@ module.exports = [
     name: "Stefan Baumgartner",
     url: "https://fettblog.eu/articles/",
     twitter: "@ddprrt",
-    tags: [
-      "TypeScript",
-      "Rust",
-      "React"
-    ],
+    tags: ["TypeScript", "Rust", "React"],
   },
   {
     name: "All-in-One Person (RU)",
