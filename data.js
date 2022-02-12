@@ -1,4 +1,11 @@
 module.exports = [
+    {
+    name: "Alka Gupta",
+    description: "Amazing tech blogs from an amazing tech enthusiast 😉",
+    url: "https://hashnode.com/@alkagupta",
+    twitter: "@alkaaaaa10",
+    tags: ["GitHub", "Open Source", "Development"],
+},
   {
     name: "Vivek",
     description: "Awesome JavaScript Libraries and developer resources",
