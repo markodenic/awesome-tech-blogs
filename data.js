@@ -2998,4 +2998,11 @@ module.exports = [
       "Web Development",
     ],
   },
+  {
+    name: 'Imad',
+    description: 'Coding Crest is a blog site created for sharing knowledge on software development including topics such as Microsoft technologies (C#, Asp.Net, MVC, MSSQL), Sitecore, SXA, Angular and more. The idea behind this site is to make learning easy for curious like minded people. I post articles with detailed examples, real life scenarios that I personally experienced during my journey as a Software Developer.',
+    url: 'https://www.codingcrest.com',
+    twitter: '@CodingCrest',
+    tags: ['C#', 'Sitecore', 'JavaScript', 'SQL Server'],
+  },
 ];
