@@ -35,11 +35,9 @@ module.exports = [
       "Jetpack Compose",
       "SwiftUI",
       "Web Development",
-      "Android Dev",
       "Kotlin",
       "GoLang",
       "Swift",
-      "AWS"
     ],
   },
   {
