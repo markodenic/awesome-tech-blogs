@@ -2998,4 +2998,19 @@ module.exports = [
       "Web Development",
     ],
   },
+  {
+    name: "Tech Sheet",
+    description:
+      "Techsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single page.",
+    url: "https://techsheet.vercel.app/",
+    twitter: "@iamthangam",
+    tags: [
+      "NextJs",
+      "HTML",
+      "CSS",
+      "Vercel",
+      "React",
+      "Web Development",
+    ],
+  },
 ];
