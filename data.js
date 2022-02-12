@@ -2998,4 +2998,11 @@ module.exports = [
       "Web Development",
     ],
   },
+  {
+    name: "Krzysztof Żuraw",
+    description: "Frontend Developer and Team Leader",
+    url: "https://krzysztofzuraw.com",
+    twitter: "@krzysztof_zuraw",
+    tags: ["TypeScript", "React", "HTML", "CSS", "Mac"]
+  }
 ];
