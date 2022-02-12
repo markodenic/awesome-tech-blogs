@@ -1,5 +1,4 @@
 module.exports = [
-
   {
     name: "Vivek",
     description: "Awesome JavaScript Libraries and developer resources",
@@ -941,11 +940,20 @@ module.exports = [
     tags: ["AWS", "Certification", "Cloud", "Infrastructure", "Python"],
   },
   {
-    name: 'Ayush Pawar',
-    description: 'Sharing my Computer Science Learnings through easy tutorial Blogs on Hashnode',
-    url: 'https://cswithiyush.hashnode.dev/',
-    twitter: '@Iyush004',
-    tags: ['Flutter','Python','Tutorial','Data Structures','Tutorials','API','Algorithms']
+    name: "Ayush Pawar",
+    description:
+      "Sharing my Computer Science Learnings through easy tutorial Blogs on Hashnode",
+    url: "https://cswithiyush.hashnode.dev/",
+    twitter: "@Iyush004",
+    tags: [
+      "Flutter",
+      "Python",
+      "Tutorial",
+      "Data Structures",
+      "Tutorials",
+      "API",
+      "Algorithms",
+    ],
   },
   {
     name: "Jiri Tichy",
