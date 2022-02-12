@@ -3002,7 +3002,7 @@ module.exports = [
     name: 'Thien Tran',
     description: 'Fullstack Personal blog and portfolio.',
     url: 'https://thien.me',
-    twitter: '@your_twitter_handle',
-    tags: ['Notion', 'Nextjs', 'TypeScript', 'Supabase', 'Tailwind CSS', 'Github API', 'Spotify', 'HeadlessUI'],
+    twitter: '@thientsx',
+    tags: ['Notion', 'Nextjs', 'TypeScript', 'Supabase', 'TailwindCSS', 'Github API', 'Spotify', 'HeadlessUI', 'React', 'Fullstack'],
 }
 ];
