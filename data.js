@@ -2966,6 +2966,16 @@ module.exports = [
     ],
   },
   {
+    name: "Stefan Baumgartner",
+    url: "https://fettblog.eu/articles/",
+    twitter: "@ddprrt",
+    tags: [
+      "TypeScript",
+      "Rust",
+      "React"
+    ],
+  },
+  {
     name: "All-in-One Person (RU)",
     description:
       "Ежедневно публикуем самые полезные сервисы и приложения для мобильных ОС, Windows, Mac. Поручи программе то, что не хочешь делать сам.",
