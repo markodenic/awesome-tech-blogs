@@ -2606,7 +2606,6 @@ module.exports = [
     url: 'https://qainsights.com',
     twitter: '@qainsights',
     tags: [
-      'Performance', 
       'Performance Engineering', 
       'DevOps',
       'Testing',
