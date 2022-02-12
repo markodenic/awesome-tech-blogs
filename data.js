@@ -2998,4 +2998,11 @@ module.exports = [
       "Web Development",
     ],
   },
+  {
+    name: 'Thien Tran',
+    description: 'Fullstack Personal blog and portfolio.',
+    url: 'https://thien.me',
+    twitter: '@your_twitter_handle',
+    tags: ['Notion', 'Nextjs', 'TypeScript', 'Supabase', 'Tailwind CSS', 'Github API', 'Spotify', 'HeadlessUI'],
+}
 ];
