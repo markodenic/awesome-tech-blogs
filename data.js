@@ -1580,6 +1580,13 @@ module.exports = [
     ],
   },
   {
+    name: 'Thien Tran',
+    description: 'Fullstack Personal blog and portfolio.',
+    url: 'https://thien.me/blog',
+    twitter: '@thientsx',
+    tags: ['Notion', 'Nextjs', 'TypeScript', 'Supabase', 'TailwindCSS', 'Github API', 'Spotify', 'HeadlessUI', 'React', 'Fullstack'],
+},
+  {
     name: "Dan Spratling",
     description:
       "UX Consultant, making websites better for users for over 5 years",
@@ -2996,13 +3003,6 @@ module.exports = [
       "DevOps",
       "React",
       "Web Development",
-    ],
-  },
-  {
-    name: 'Thien Tran',
-    description: 'Fullstack Personal blog and portfolio.',
-    url: 'https://thien.me',
-    twitter: '@thientsx',
-    tags: ['Notion', 'Nextjs', 'TypeScript', 'Supabase', 'TailwindCSS', 'Github API', 'Spotify', 'HeadlessUI', 'React', 'Fullstack'],
-}
+    ]
+  }
 ];
