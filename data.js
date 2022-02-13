@@ -2991,7 +2991,7 @@ module.exports = [
   },
   {
     name: 'NaveenKumar Namachivayam',
-    description: 'Performance Engineering and Testing',
+    description: 'I am a performance engineer. I break stuffs. And I know nothing.',
     url: 'https://qainsights.com',
     twitter: '@qainsights',
     tags: [
