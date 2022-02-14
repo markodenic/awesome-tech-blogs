@@ -2789,7 +2789,8 @@ module.exports = [
   },
   {
     name: "Coderflex",
-    description: "Integrate Code Reviews, Tutorials, Frameworks, Security Updates, etc.",
+    description:
+      "Integrate Code Reviews, Tutorials, Frameworks, Security Updates, etc.",
     url: "https://coderflex.com/blog",
     twitter: "@coderflex",
     tags: [
