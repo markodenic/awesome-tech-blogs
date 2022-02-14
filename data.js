@@ -3063,4 +3063,39 @@ module.exports = [
       "Web Development",
     ],
   },
+  {
+    name: 'Ravi Sojitra',
+    description: 'React Tech lead @dhiwise, talks about react, react native, javascript',
+    url: 'https://medium.com/dhiwise/advanced-roadmap-for-react-js-developers-3a40ce4174b9',
+    twitter: '@ravi_sojitraa',
+    tags: ['React', 'Web Development', 'Front End'],
+  },
+  {
+    name: 'Ravi Sojitra',
+    description: 'React Tech lead @dhiwise, talks about react, react native, javascript',
+    url: 'https://medium.com/dhiwise/react-component-patterns-805a60b88dba',
+    twitter: '@ravi_sojitraa',
+    tags: ['React', 'Web Development', 'Front End'],
+  },
+  {
+    name: 'Ravi Sojitra',
+    description: 'React Tech lead @dhiwise, talks about react, react native, javascript',
+    url: 'https://medium.com/dhiwise/10-best-practices-every-react-developer-should-follow-eb0df653c9',
+    twitter: '@ravi_sojitraa',
+    tags: ['React', 'Web Development', 'Front End'],
+  },
+  {
+    name: 'Ravi Sojitra',
+    description: 'React Tech lead @dhiwise, talks about react, react native, javascript',
+    url: 'https://medium.com/dhiwise/advanced-javascript-design-patterns-6812f3286585',
+    twitter: '@ravi_sojitraa',
+    tags: ['React', 'Web Development', 'Front End', 'JavaScript'],
+  },
+  {
+    name: 'Ravi Sojitra',
+    description: 'React Tech lead @dhiwise, talks about react, react native, javascript',
+    url: 'https://medium.com/dhiwise/state-management-in-react-with-redux-toolkit-bba750a692d9',
+    twitter: '@ravi_sojitraa',
+    tags: ['React', 'Web Development', 'Front End'],
+  }
 ];
