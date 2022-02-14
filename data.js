@@ -3063,4 +3063,18 @@ module.exports = [
       "Web Development",
     ],
   },
+    {
+    name: "Stack Diary",
+    description:
+      "Useful resources for Web Developers. Covering mostly trending topics.",
+    url: "https://stackdiary.com/",
+    twitter: "@stackdiary",
+    tags: [
+      "Web Development",
+      "React",
+      "JavaScript",
+      "Programming",
+      "Content Creation",
+    ],
+  },
 ];
