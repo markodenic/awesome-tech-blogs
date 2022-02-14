@@ -3005,5 +3005,44 @@ module.exports = [
       'JMeter',
       'k6',
       'Performance Testing'],
-}
+},
+    {
+    name: "Stefan Baumgartner",
+    url: "https://fettblog.eu/articles/",
+    twitter: "@ddprrt",
+    tags: ["TypeScript", "Rust", "React"],
+  },
+  {
+    name: "All-in-One Person (RU)",
+    description:
+      "Ежедневно публикуем самые полезные сервисы и приложения для мобильных ОС, Windows, Mac. Поручи программе то, что не хочешь делать сам.",
+    url: "https://blog.themarfa.name/",
+    twitter: "@themarfa",
+    tags: ["Windows", "Mac", "Android", "IOS", "apps", "software"],
+  },
+  {
+    name: "All-in-One Person (EN)",
+    description:
+      "We find and share most useful apps and services for your lazy existence.",
+    url: "https://en.blog.themarfa.name/",
+    twitter: "themarfaen",
+    tags: ["Windows", "Mac", "Android", "IOS", "apps", "software"],
+  },
+  {
+    name: "Raj KB",
+    description:
+      "Technical Project Manager ~ PHP & Magento Certified ~ <3 Symfony, React, Node, PWA/GraphQL, Web3 ~ DBA ~ DevOps ~ Blogger ~ Indie Hacker",
+    url: "https://blog.magepsycho.com",
+    twitter: "@rajkbnp",
+    tags: [
+      "PHP",
+      "Symfony",
+      "Magento",
+      "Linux",
+      "Database",
+      "DevOps",
+      "React",
+      "Web Development",
+    ],
+  },
 ];
