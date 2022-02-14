@@ -497,6 +497,29 @@ module.exports = [
     ],
   },
   {
+    name: "Andrew Baisden",
+    description:
+      "Software Developer | Technical Writer | Content Creator",
+    url: "https://dev.to/andrewbaisden",
+    twitter: "@andrewbaisden",
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "React Native",
+      "Redux",
+      "ASP.NET Core",
+      "NodeJS",
+      "C#",
+      "Python",
+      "SQL",
+      "NoSQL",
+      "Docker",
+    ],
+  },
+  {
     name: "Olena Drugalya",
     description:
       "Olena is self-taught web developer and she writes her beginner-friendly and simply explained tech blogs along the way.",
@@ -557,6 +580,7 @@ module.exports = [
       "Pug",
     ],
   },
+
   {
     name: "Alberto Bonacina",
     description:
@@ -2598,27 +2622,6 @@ module.exports = [
       "Azure",
       "ETL",
       "SSIS",
-    ],
-  },
-  {
-    name: "Andrew Baisden",
-    description:
-      "Software Developer | Technical Writer | Content Creator",
-    url: "https://dev.to/andrewbaisden",
-    twitter: "@andrewbaisden",
-    tags: [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "TypeScript",
-      "React",
-      "React Native",
-      "Redux",
-      "Node",
-      "Python",
-      "SQL",
-      "NoSQL",
-      "Docker",
     ],
   },
 ];
