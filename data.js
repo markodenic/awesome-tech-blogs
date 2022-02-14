@@ -139,7 +139,8 @@ module.exports = [
   },
   {
     name: "Siddhartha D",
-    description: "I write about interesting devops solution for cloud infrastructure. Most of the tutorials will be focused on Python Automation, DevOps and SRE concepts | 👨🏻‍💻 Developer | ✍️ Blogger",
+    description:
+      "I write about interesting devops solution for cloud infrastructure. Most of the tutorials will be focused on Python Automation, DevOps and SRE concepts | 👨🏻‍💻 Developer | ✍️ Blogger",
     url: "https://techwithsidz.hashnode.dev/",
     twitter: "@Sidz7",
     tags: [
