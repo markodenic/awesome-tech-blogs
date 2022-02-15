@@ -24,7 +24,8 @@ module.exports = [
   },
   {
     name: "Canopas Software",
-    description: "We aim to help you become better software engineer. Sharing tips and tricks on android, iOS, web, and programming",
+    description:
+      "We aim to help you become better software engineer. Sharing tips and tricks on android, iOS, web, and programming",
     url: "https://blog.canopas.com/",
     twitter: "@canopassoftware",
     tags: [
