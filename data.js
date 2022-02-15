@@ -1,11 +1,106 @@
 module.exports = [
   {
+    name: "Vivek",
+    description: "Awesome JavaScript Libraries and developer resources",
+    url: "https://vivekon.hashnode.dev/",
+    twitter: "@vivekthedev",
+    tags: ["Resources", "Web Development", "JavaScript"],
+  },
+  {
+    name: "Webdevolution",
+    description: "Web dev tips, tutorials and solutions for common problems.",
+    url: "https://www.webdevolution.com",
+    twitter: "@webdevolution_",
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Typescript",
+      "APIs",
+      ".NET",
+      "Web Development",
+    ],
+  },
+  {
+    name: "Canopas Software",
+    description:
+      "We aim to help you become better software engineer. Sharing tips and tricks on android, iOS, web, and programming",
+    url: "https://blog.canopas.com/",
+    twitter: "@canopassoftware",
+    tags: [
+      "Vue",
+      "iOS",
+      "Android",
+      "Flutter",
+      "Jetpack Compose",
+      "SwiftUI",
+      "Web Development",
+      "Kotlin",
+      "GoLang",
+      "Swift",
+    ],
+  },
+  {
+    name: "Dan M. Kazimoto",
+    description:
+      "UI designer and content creator writing about design and frontend development",
+    url: "https://khazifire.com/blog",
+    twitter: "@khazifire",
+    tags: [
+      "JavaScript",
+      "Html",
+      "Css",
+      "Next.js",
+      "TailwindCss",
+      "Figma",
+      "web design",
+      "frontend",
+    ],
+  },
+  {
+    name: "The Ryan Furrer Blog",
+    description: "Front-End Web Development Blogs For All",
+    url: "https://www.theryanfurrer.blog",
+    twitter: "@theryanfurrer",
+    tags: [
+      "JavaScript",
+      "Web Development",
+      "React",
+      "CSS",
+      "HTML",
+      "Front End",
+      "Tech",
+      "TailwindCSS",
+      "Programming",
+      "Productivity",
+    ],
+  },
+  {
     name: "Gaurav Pandey",
     description:
       "14 y/o Developer working on Python & Machine Learning, writing about Web and AI + Research!.",
     url: "https://blog.giyednap.me",
     twitter: "@giyednap",
     tags: ["Python", "Git", "Machine Learning"],
+  },
+  {
+    name: "Arpan Pandey",
+    description:
+      "I am a 15 year old student who likes to code and blog. I'm a cool minded but logical and pragmatic person. I try to be thorough with my work and am a perfectionist at heart.",
+    url: "https://hackersreboot.tech/",
+    twitter: "@HackersReboot",
+    tags: [
+      "Python",
+      "Blockchain",
+      "Web3",
+      "Computer Science",
+      "Algorithms",
+      "Programming",
+      "Student",
+      "JavaScript",
+      "Go",
+    ],
   },
   {
     name: "Ashish Patel",
@@ -27,6 +122,25 @@ module.exports = [
     ],
   },
   {
+    name: "Estee Tey's Tech Blog",
+    description:
+      "Refine your thinking, designing and development processes. Learn about concepts from a value-driven perspective. Focused on app development, developer productivity & open source technologies.",
+    url: "https://blog.esteetey.dev",
+    twitter: "@estee_tey",
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Web Development",
+      "Front End",
+      "React",
+      "React Native",
+      "Open Source",
+      "Design",
+      "Productivity",
+    ],
+  },
+  {
     name: "Manish Prasad",
     description: "Founding Team Member | 👨🏻‍💻 Developer | ✍️ Blogger",
     url: "https://techinsights.manisuec.com",
@@ -40,6 +154,25 @@ module.exports = [
       "TypeScript",
       "Mongodb",
       "React",
+    ],
+  },
+  {
+    name: "Siddhartha D",
+    description:
+      "I write about interesting devops solution for cloud infrastructure. Most of the tutorials will be focused on Python Automation, DevOps and SRE concepts | 👨🏻‍💻 Developer | ✍️ Blogger",
+    url: "https://techwithsidz.hashnode.dev/",
+    twitter: "@Sidz7",
+    tags: [
+      "DevOps",
+      "SRE",
+      "AWS",
+      "Kubernetes",
+      "Docker",
+      "Security",
+      "Python",
+      "Networking",
+      "Career",
+      "Tech Videos",
     ],
   },
   {
@@ -79,12 +212,39 @@ module.exports = [
     ],
   },
   {
+    name: "Tecroxy",
+    description:
+      "Tecroxy is a Technology media company that wants to make people’s lives better through tech education. Since 2020, Tecroxy has been publishing content on its Website to educate readers on how to use their tech product(s) in the most efficient way possible..",
+    url: "https://tecroxy.com",
+    twitter: "@tecroxy",
+    tags: ["Android", "Apple", "Google", "Blockchain", "Website"],
+  },
+  {
     name: "UnEncrypted",
     description:
       "Hey There, I'm Reda BELHAJ a fourth year Computer Science Student at the International University of Rabat. Welcome to my corner of the internet. I'm glad you're here!",
     url: "https://unencrypted.vercel.app/",
     twitter: "@RedatoB",
     tags: ["Computer Science", "Networking", "Tailwind", "Next.js"],
+  },
+  {
+    name: "AlterClass by Greg D'Angelo",
+    description:
+      "Learn about the next-generation frameworks, tools, and techniques of modern web development.",
+    url: "https://alterclass.io/tutorials",
+    twitter: "@AlterClasssIO",
+    tags: [
+      "React",
+      "Next.js",
+      "JavaScript",
+      "TypeScript",
+      "Fauna",
+      "Mongodb",
+      "GraphQL",
+      "Tailwind CSS",
+      "Web3",
+      "Web Development",
+    ],
   },
   {
     name: "Solidity Tips",
@@ -127,6 +287,37 @@ module.exports = [
       "GraphQL",
       "Node.js",
       "Clean Code",
+    ],
+  },
+  {
+    name: "Mohammad Humayun Khan",
+    description:
+      "I am a Computer Engineering Student from India. I love Software Development, Cybersecurity and Cloud Computing.",
+    url: "https://damianarado.medium.com/",
+    twitter: "@damianarado",
+    tags: [
+      "Computer Networking",
+      "Operating Systems",
+      "TCP/IP",
+      "Cybersecurity",
+      "Encryption",
+    ],
+  },
+  {
+    name: "Priyanshu Kumawat",
+    description:
+      "A Wev Developer | Content Creator | Tech Blogger. Talks about Web Development, Open Source, JavaScript and Developer Resources.",
+    url: "https://kumarsonsoff.hashnode.dev",
+    twitter: "@Kumar_Sons_off",
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Front End",
+      "Web Development",
+      "Git",
+      "Productivity",
+      "TailwindCSS",
     ],
   },
   {
@@ -187,6 +378,14 @@ module.exports = [
     ],
   },
   {
+    name: "Rishi Mohan",
+    description:
+      "Writing on Next.js, React, Tailwind and building apps using these.",
+    url: "https://rishimohan.me/blog",
+    twitter: "@thelifeofrishi",
+    tags: ["HTML", "CSS", "JavaScript", "React.js", "TailwindCSS", "Node.js"],
+  },
+  {
     name: "Muthu Annamalai",
     description:
       "Articles on Web Development, Programming, Open-Source, Technology, Tips and Tricks to make your life easier, and more.",
@@ -242,6 +441,14 @@ module.exports = [
       "Software Development",
       "Computer Science",
     ],
+  },
+  {
+    name: "Sandro Volpicella",
+    description:
+      "At the intersection of building SaaS and Serverless. Fullstack Engineer @Hashnode",
+    url: "https://sandro.volpee.de",
+    twitter: "@sandro_vol",
+    tags: ["Serverless", "AWS", "Cloud", "Amplify", "TypeScript", "JavaScript"],
   },
   {
     name: "LambdaTest Blogs",
@@ -314,6 +521,24 @@ module.exports = [
     tags: ["JavaScript", "Node.js", "React", "Computer Science"],
   },
   {
+    name: "TerminusDB",
+    description:
+      "An open-source in-memory document graph database helping you build collaborative applications.",
+    url: "https://terminusdb.com/blog/",
+    twitter: "@TerminusDB",
+    tags: [
+      "Graph Databases",
+      "Open Source",
+      "Python",
+      "JavaScript",
+      "Knowledge Graphs",
+      "Data Management",
+      "Document Database",
+      "Database Version Control",
+      "Data Collaboration",
+    ],
+  },
+  {
     name: "Peter Smith",
     description:
       "Networking, antique electrical bits, and more. Developer of multiple apps in the Window, including apps to control reverse-engineered Bluetooth devices. Wrote my first network program in 1989, slightly before the WWW.",
@@ -373,6 +598,22 @@ module.exports = [
       "Git",
       "Programming",
       "Computer Science",
+    ],
+  },
+  {
+    name: "FlutterBeads",
+    description: "A treasure of high quality Flutter tutorials",
+    url: "https://flutterbeads.com/",
+    twitter: "@flutter_beads",
+    tags: [
+      "Flutter",
+      "Animation",
+      "Design",
+      "Firebase",
+      "State Management",
+      "Web",
+      "Desktop",
+      "Widgets",
     ],
   },
   {
@@ -653,6 +894,25 @@ module.exports = [
     ],
   },
   {
+    name: "John Wright Stanly",
+    description:
+      "Articles from a startup co-founder about AWS, React, TypeScript, Next.js, Serverless, and more",
+    url: "https://jwstanly.com/blog",
+    twitter: "@jwstanly",
+    tags: [
+      "AWS",
+      "React",
+      "TypeScript",
+      "JavaScript",
+      "Next.js",
+      "APIs",
+      "Fullstack",
+      "Cloud Infrastructure",
+      "Software Architecture",
+      "Serverless",
+    ],
+  },
+  {
     name: "Rahul",
     description: "Front-end Developer. Helping beginners in coding.",
     url: "https://rahulism.hashnode.dev",
@@ -732,6 +992,22 @@ module.exports = [
     tags: ["AWS", "Certification", "Cloud", "Infrastructure", "Python"],
   },
   {
+    name: "Ayush Pawar",
+    description:
+      "Sharing my Computer Science Learnings through easy tutorial Blogs on Hashnode",
+    url: "https://cswithiyush.hashnode.dev/",
+    twitter: "@Iyush004",
+    tags: [
+      "Flutter",
+      "Python",
+      "Tutorial",
+      "Data Structures",
+      "Tutorials",
+      "API",
+      "Algorithms",
+    ],
+  },
+  {
     name: "Jiri Tichy",
     description:
       "I’m helping companies fight technical debt and deliver better software faster. Our automated tool Codeac.io covers our back as well.",
@@ -759,8 +1035,8 @@ module.exports = [
   {
     name: "Sam Larsen-Disney",
     description:
-      "Sam currently works as a UX Engineer at American Express. He has built new ways to refer friends, onboarding experiences and rapid response systems.",
-    url: "https://sld.codes/articles",
+      "Sam currently works as a Senior Front-End Engineer at Zone. He has built new ways to refer friends, onboarding experiences and rapid response systems.",
+    url: "https://sld.codes/blog",
     twitter: "@SamLarsenDisney",
     tags: [
       "JavaScript",
@@ -941,6 +1217,40 @@ module.exports = [
     ],
   },
   {
+    name: "AutoSysOps",
+    description:
+      "Blog by Leo Visser about automating the boring things in SysOps and Devops work by using cloud technologies.",
+    url: "https://www.autosysops.com/blog",
+    twitter: "@AutoSysOps",
+    tags: [
+      "Azure",
+      "Cloud",
+      "DevOps",
+      "SysOps",
+      "Automation",
+      "Powershell",
+      "Yaml",
+      "ARM",
+      "Bicep",
+      "Policies",
+    ],
+  },
+  {
+    name: "Aleksej Komnenovic",
+    description:
+      "Read mostly about web development, tools that help you finish the job faster, also algorithms, data structures, and occasionally tips&tricks, along with funny projects. Welcome to Bllog | by kaumnen.",
+    url: "https://akom.me",
+    twitter: "@kaumnen",
+    tags: [
+      "JavaScript",
+      "Node.js",
+      "Git",
+      "Web development",
+      "Programming",
+      "Backend",
+    ],
+  },
+  {
     name: "Nikita Grechino",
     description:
       "A business oriented frontend developer. | I do boxing, play badminton, blog about tech, read books and comics.",
@@ -1080,6 +1390,14 @@ module.exports = [
       "PWA",
       "Static Sites",
     ],
+  },
+  {
+    name: "Nikita Hlopov",
+    description:
+      "In this blog I post my observations and share experience related to frontend web development.",
+    url: "https://nikitahl.com",
+    twitter: "@nikita_hlopov",
+    tags: ["HTML", "CSS", "JavaScript", "React", "Web Development"],
   },
   {
     name: "Christoph Werner",
@@ -1222,6 +1540,23 @@ module.exports = [
       "Accessibility",
       "Design",
       "SEO",
+    ],
+  },
+  {
+    name: "Cameron Armstrong",
+    description:
+      "Web3, startup, and leadership thoughts from a post-exit e-commerce startup founder building in DeFi (with a healthy spritz of Army and economics thrown in for flavor).",
+    url: "https://www.wysr.xyz",
+    twitter: "@frozenfire42",
+    tags: [
+      "web3",
+      "crypto",
+      "physics",
+      "math",
+      "economics",
+      "product",
+      "solidity",
+      "productivity",
     ],
   },
   {
@@ -1774,6 +2109,27 @@ module.exports = [
     ],
   },
   {
+    name: "Simon Wicki",
+    description:
+      "Freelance Developer in Berlin. Worked on Web and Mobile apps at JustWatch. Fluent in Vue, Angular, React and Ionic. Passionate about Frontend, tech, web perf & non-fiction books.",
+    url: "https://wicki.io/posts/",
+    twitter: "@zwacky",
+    tags: [
+      "JavaScript",
+      "Vue",
+      "React",
+      "Angular",
+      "Ionic",
+      "HTML",
+      "CSS",
+      "TypeScript",
+      "Front End",
+      "Tech",
+      "Programming",
+      "SEO",
+    ],
+  },
+  {
     name: "Peter Smulovics",
     description: "Dad, Geek, Geek Dad - Microsoft enthusiast",
     url: "https://dotneteers.net",
@@ -1861,6 +2217,14 @@ module.exports = [
       "Git",
       "Web Development",
     ],
+  },
+  {
+    name: "Donald Feury",
+    description:
+      "Appalachian man that writes about Go, MongoDB, FFmpeg, Linux and games",
+    url: "https://donaldfeury.xyz",
+    twitter: "@FeuryDonald",
+    tags: ["Go", "MongoDB", "Linux", "FFmpeg", "Bash"],
   },
   {
     name: "Rishab Kumar",
@@ -2172,6 +2536,24 @@ module.exports = [
     ],
   },
   {
+    name: "Renan Moura",
+    description:
+      "Posts for anyone looking to go deeper into Python and find practical ways to apply it in the fields of Web Development, Data Science and Machine Learning.",
+    url: "https://renanmf.com/",
+    twitter: "@renanmouraf",
+    tags: [
+      "Python",
+      "Cloud",
+      "Data",
+      "Machine Learning",
+      "Web Development",
+      "Software Engineering",
+      "Databases",
+      "Containers",
+      "Linux",
+    ],
+  },
+  {
     name: "Vishunbhotla V D V Bharadwaj",
     description:
       "A Computer Science Engineer who loves Blogging and Sharing Content",
@@ -2327,6 +2709,14 @@ module.exports = [
     ],
   },
   {
+    name: "Alexandre Nédélec",
+    description:
+      "Software developer living in Bordeaux, France ⋅ Working mainly in C# / .NET on Azure ⋅ Love discovering new tools and technologies",
+    url: "https://www.techwatching.dev/",
+    twitter: "@TechWatching",
+    tags: ["C#", ".NET", "Azure", "Cloud", "Software Development", "DevOps"],
+  },
+  {
     name: "Tapas Adhikary(GreenRoots Blog)",
     description:
       "Articles about Tech, JavaScript, Web Technologies, and Career development. ",
@@ -2450,6 +2840,22 @@ module.exports = [
     ],
   },
   {
+    name: "Coderflex",
+    description:
+      "Integrate Code Reviews, Tutorials, Frameworks, Security Updates, etc.",
+    url: "https://coderflex.com/blog",
+    twitter: "@coderflex",
+    tags: [
+      "PHP",
+      "Laravel",
+      "Livewire",
+      "Linux",
+      "Javascript",
+      "Web Development",
+      "Open Source",
+    ],
+  },
+  {
     name: "Maximiliano Contieri",
     description: "Maximiliano Contieri | Software Engineer",
     url: "https://maximilianocontieri.com/",
@@ -2464,6 +2870,23 @@ module.exports = [
       "Tech",
       "Programming",
       "Web Development",
+    ],
+  },
+  {
+    name: "Ayesha Sahar",
+    description:
+      "I write articles and share tips + tricks about Python, C++, UI/UX & Web Development to make your learning journey easier✨",
+    url: "https://thecodingcompany.hashnode.dev/",
+    twitter: "@IAyeshaSahar",
+    tags: [
+      "C++",
+      "JavaScript",
+      "Web Development",
+      "UI/UX",
+      "Python",
+      "CSS",
+      "HTML",
+      "Front End",
     ],
   },
   {
@@ -2563,6 +2986,14 @@ module.exports = [
     tags: ["Python", "Programming", "Backend", "Front end"],
   },
   {
+    name: "Seth Michael Larson",
+    description:
+      "Articles about Python, API design, open source, and internet technologies.",
+    url: "https://sethmlarson.dev/blog",
+    twitter: "@sethmlarson",
+    tags: ["Open Source", "Python", "HTTP", "APIs", "Internet"],
+  },
+  {
     name: "Niraj Khatiwada",
     description:
       "A young, energetic person who is passionate about the software and technologies. Software Engineer by day, hustler by night.",
@@ -2579,6 +3010,32 @@ module.exports = [
       "Programming",
       "Web Development",
       "Software Engineering",
+    ],
+  },
+  {
+    name: "iRead Blog",
+    description:
+      "iRead is a multi-user blogging platform where you'll find technical articles and project tutorials related to Python, Javascript, Flutter and much more ",
+    url: "https://ireadblog.com",
+    twitter: "@iReadBot",
+    tags: ["Python", "Java", "DSA", "Javascript", "Flutter", "Web Development"],
+  },
+  {
+    name: "Helmer Davila",
+    description:
+      "My public technical 📘 notebook (blog), where I publish ✍️ in 3 different languages: english, spanish and french.",
+    url: "https://helmerdavila.com/blog",
+    twitter: "@helmerdavila",
+    tags: [
+      "Javascript",
+      "Typescript",
+      "Shell configs",
+      "Python",
+      "PHP",
+      "React",
+      "Developers",
+      "Ruby",
+      "Docker",
     ],
   },
   {
@@ -2618,5 +3075,62 @@ module.exports = [
       "Svelte",
       "Next.js",
     ]
-}
+},{
+    name: "NaveenKumar Namachivayam",
+    description:
+      "I am a performance engineer. I break stuffs. And I know nothing.",
+    url: "https://qainsights.com",
+    twitter: "@qainsights",
+    tags: [
+      "Performance Engineering",
+      "DevOps",
+      "Testing",
+      "SRE",
+      "Cloud",
+      "AWS",
+      "Load Testing",
+      "JMeter",
+      "k6",
+      "Performance Testing",
+    ],
+  },
+  {
+    name: "Stefan Baumgartner",
+    url: "https://fettblog.eu/articles/",
+    twitter: "@ddprrt",
+    tags: ["TypeScript", "Rust", "React"],
+  },
+  {
+    name: "All-in-One Person (RU)",
+    description:
+      "Ежедневно публикуем самые полезные сервисы и приложения для мобильных ОС, Windows, Mac. Поручи программе то, что не хочешь делать сам.",
+    url: "https://blog.themarfa.name/",
+    twitter: "@themarfa",
+    tags: ["Windows", "Mac", "Android", "IOS", "apps", "software"],
+  },
+  {
+    name: "All-in-One Person (EN)",
+    description:
+      "We find and share most useful apps and services for your lazy existence.",
+    url: "https://en.blog.themarfa.name/",
+    twitter: "themarfaen",
+    tags: ["Windows", "Mac", "Android", "IOS", "apps", "software"],
+  },
+  {
+    name: "Raj KB",
+    description:
+      "Technical Project Manager ~ PHP & Magento Certified ~ <3 Symfony, React, Node, PWA/GraphQL, Web3 ~ DBA ~ DevOps ~ Blogger ~ Indie Hacker",
+    url: "https://blog.magepsycho.com",
+    twitter: "@rajkbnp",
+    tags: [
+      "PHP",
+      "Symfony",
+      "Magento",
+      "Linux",
+      "Database",
+      "DevOps",
+      "React",
+      "Web Development",
+    ],
+  },
 ];
