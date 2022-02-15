@@ -3153,4 +3153,11 @@ module.exports = [
       "Web Development",
     ],
   },
+  {
+    name: 'TestingBot',
+    description: 'Learn about Selenium, Appium, Puppeteer and Playwright.',
+    url: 'https://testingbot.com/blog',
+    twitter: '@testingb0t',
+    tags: ['Testing', 'Automation', 'Puppeteer', 'Playwright', 'Selenium'],
+  },
 ];
