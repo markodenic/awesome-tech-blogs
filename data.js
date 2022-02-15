@@ -2998,4 +2998,16 @@ module.exports = [
       "Web Development",
     ],
   },
+  {
+    name: "Namya LG",
+    description:
+      "Introduction to Github Actions",
+    url: "https://medium.com/p/f448d4b81c0b",
+    twitter: "@namya06333884",
+    tags: [
+      "Devops",
+      "CI/CD",
+      "Github Actions"
+    ],
+  },
 ];
