@@ -3058,10 +3058,10 @@ module.exports = [
     ],
   },
   {
-    name: 'Madza',
-    description: 'I build custom WEB solutions and write about DEV',
-    url: 'https://madza.dev/blog',
-    twitter: '@madzadev',
+    name: "Madza",
+    description: "I build custom WEB solutions and write about DEV",
+    url: "https://madza.dev/blog",
+    twitter: "@madzadev",
     tags: [
       "HTML",
       "CSS",
@@ -3074,8 +3074,9 @@ module.exports = [
       "Jamstack",
       "Svelte",
       "Next.js",
-    ]
-},{
+    ],
+  },
+  {
     name: "NaveenKumar Namachivayam",
     description:
       "I am a performance engineer. I break stuffs. And I know nothing.",
