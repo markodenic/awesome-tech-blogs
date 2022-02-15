@@ -290,6 +290,20 @@ module.exports = [
     ],
   },
   {
+    name: "Mohammad Humayun Khan",
+    description:
+      "I am a Computer Engineering Student from India. I love Software Development, Cybersecurity and Cloud Computing.",
+    url: "https://damianarado.medium.com/",
+    twitter: "@damianarado",
+    tags: [
+      "Computer Networking",
+      "Operating Systems",
+      "TCP/IP",
+      "Cybersecurity",
+      "Encryption",
+    ],
+  },
+  {
     name: "Priyanshu Kumawat",
     description:
       "A Wev Developer | Content Creator | Tech Blogger. Talks about Web Development, Open Source, JavaScript and Developer Resources.",
