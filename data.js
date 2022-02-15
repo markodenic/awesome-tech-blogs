@@ -103,6 +103,25 @@ module.exports = [
     ],
   },
   {
+    name: "Tech Sheet",
+    description:
+      "Techsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single page.",
+    url: "https://techsheet.vercel.app/",
+    twitter: "@iamthangam",
+    tags: [
+      "NextJs",
+      "HTML",
+      "CSS",
+      "Vercel",
+      "React",
+      "Front End",
+      "Web Development",
+      "Computer Science",
+      "Programming",
+      "JavaScript",
+    ],
+  },
+  {
     name: "Ashish Patel",
     description:
       "A space enthusiast software engineer, building amazing user interfaces, websites, web apps and APIs primarily using react, JamStack and express as key technologies.",
