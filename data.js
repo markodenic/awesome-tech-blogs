@@ -3063,4 +3063,16 @@ module.exports = [
       "Web Development",
     ],
   },
+  {
+    name:"Vasanti Suthar",
+    description:"Web development, sharing resources, content writing, and open source contributor",
+    url:"https://vasantisuthar.hashnode.dev/",
+    twitter:"@vasanti_suthar",
+    tags:[
+      "Javascript",
+      "Nodejs",
+      "Reactjs",
+      "DevOps",
+    ]
+  },
 ];
