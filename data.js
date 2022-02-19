@@ -2580,6 +2580,13 @@ module.exports = [
     ],
   },
   {
+    name: "Krzysztof Żuraw",
+    description: "Frontend Developer and Team Leader",
+    url: "https://krzysztofzuraw.com",
+    twitter: "@krzysztof_zuraw",
+    tags: ["TypeScript", "React", "HTML", "CSS", "Frontend", "JavaScript"]
+  },
+  {
     name: "Bogdan Alexandru Militaru",
     description:
       "I write about programming, devops and my startup journey. | Software Engineer",
@@ -2997,12 +3004,5 @@ module.exports = [
       "React",
       "Web Development",
     ],
-  },
-  {
-    name: "Krzysztof Żuraw",
-    description: "Frontend Developer and Team Leader",
-    url: "https://krzysztofzuraw.com",
-    twitter: "@krzysztof_zuraw",
-    tags: ["TypeScript", "React", "HTML", "CSS", "Mac"]
   }
 ];
