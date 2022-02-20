@@ -1,5 +1,12 @@
 module.exports = [
   {
+    name: "Remote3",
+    description: "Remote web3 job board onboarding people to web3 sharing web3 content, guides & tutorials for free",
+    url: "https://remote3.co/blog",
+    twitter: "@remoteWeb3Jobs",
+    tags: ["Web3", "Crypto", "Blockchain", "NFT","Smart Contract", "Ethereum", "Solidity", "Tutorial"],
+  },
+  {
     name: "Vivek",
     description: "Awesome JavaScript Libraries and developer resources",
     url: "https://vivekon.hashnode.dev/",
