@@ -3161,4 +3161,11 @@ module.exports = [
       "Web Development",
     ],
   },
+  {
+    name: 'Not Your Boring Tech Stuff',
+    description: 'Not Your Boring Tech Stuff.',
+    url: 'https://www.getrevue.co/profile/hacksultan',
+    twitter: '@hackSultan',
+    tags: ['Fun', 'Relaxing', 'Thinking out of the box'],
+}
 ];
