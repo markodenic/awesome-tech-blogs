@@ -735,6 +735,14 @@ module.exports = [
     tags: ["Voice user Interface", "JavaScript", "Hosting", "Github", "MERN"],
   },
   {
+    name: "Vinit Shahdeo",
+    description:
+      "Another Software Engineer and a GitHub Star from Bangalore, India",
+    url: "https://vinitshahdeo.dev/",
+    twitter: "@vinit_shahdeo",
+    tags: ["Open Source", "JavaScript", "Postman", "GitHub", "Software Engineering", "Interviews"],
+  },
+  {
     name: "Peter Witham",
     description: "Swift and Apple development articles",
     url: "https://compileswift.com/journal/",
