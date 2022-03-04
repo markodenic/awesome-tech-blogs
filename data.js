@@ -3280,4 +3280,11 @@ module.exports = [
       "DevOps",
     ],
   },
+  {
+    name: "Gokulakrishnan Kalaikovan",
+    description: "Web Developer & GDE from India. Developing web applications.",
+    url: "https://gokul.site",
+    twitter: "@gokul_i",
+    tags: ["HTML", "CSS", "JavaScript", "Web Development"],
+ }
 ];
