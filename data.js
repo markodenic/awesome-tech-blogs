@@ -1,10 +1,19 @@
 module.exports = [
   {
-    name: 'Mustafa Albazy Blog',
-    description: 'I posts on my blog about few different subjects inc. Electrical and Electronics, coding, music tech.',
-    url: 'https://mustafa.page',
-    twitter: '@mustafaalbazy',
-    tags: ['Electrical', 'Electronics', 'Engineering', 'Music Tech', 'coding', 'Web Dev', 'blogging'],
+    name: "Mustafa Albazy Blog",
+    description:
+      "I posts on my blog about few different subjects inc. Electrical and Electronics, coding, music tech.",
+    url: "https://mustafa.page",
+    twitter: "@mustafaalbazy",
+    tags: [
+      "Electrical",
+      "Electronics",
+      "Engineering",
+      "Music Tech",
+      "coding",
+      "Web Dev",
+      "blogging",
+    ],
   },
   {
     name: "Vivek",
