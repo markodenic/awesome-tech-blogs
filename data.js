@@ -2778,6 +2778,25 @@ module.exports = [
     ],
   },
   {
+    name: "Rishabh Rawat",
+    description:
+      "Software Engineer working at a fintech startup. Documenting my journey of becoming a better backend developer.",
+    url: "https://rrawat.com/",
+    twitter: "@rishabh570",
+    tags: [
+      "Web Development",
+      "Node.js",
+      "JavaScript",
+      "TypeScript",
+      "Computer Science",
+      "Tech",
+      "APIs",
+      "AWS",
+      "Linux",
+      "Git",
+    ],
+  },
+  {
     name: "Alexandre Nédélec",
     description:
       "Software developer living in Bordeaux, France ⋅ Working mainly in C# / .NET on Azure ⋅ Love discovering new tools and technologies",
