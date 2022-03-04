@@ -3283,7 +3283,7 @@ module.exports = [
   {
     name: "Gokulakrishnan Kalaikovan",
     description: "Web Developer & GDE from India. Developing web applications.",
-    url: "https://gokul.site",
+    url: "https://gokul.site/blog",
     twitter: "@gokul_i",
     tags: ["HTML", "CSS", "JavaScript", "Web Development"],
  }
