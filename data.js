@@ -756,7 +756,14 @@ module.exports = [
       "Another Software Engineer and a GitHub Star from Bangalore, India",
     url: "https://vinitshahdeo.dev/",
     twitter: "@vinit_shahdeo",
-    tags: ["Open Source", "JavaScript", "Postman", "GitHub", "Software Engineering", "Interviews"],
+    tags: [
+      "Open Source",
+      "JavaScript",
+      "Postman",
+      "GitHub",
+      "Software Engineering",
+      "Interviews",
+    ],
   },
   {
     name: "Peter Witham",
