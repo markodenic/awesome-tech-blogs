@@ -3255,6 +3255,20 @@ module.exports = [
     ],
   },
   {
+    name: "Namya LG",
+    description:
+      "Various experiences and learnings in the field of full-stack and machine learning",
+    url: "https://namyalg.medium.com/",
+    twitter: "@namya06333884",
+    tags: [
+      "Devops",
+      "CI/CD",
+      "Getting Started",
+      "Experiences",
+      "Tutorial"
+    ],
+  },
+  {
     name: "Webiny CMS",
     description:
       "Webiny is an Open Source Serverless Enterprise CMS. It Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.",
