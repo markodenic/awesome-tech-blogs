@@ -659,6 +659,13 @@ module.exports = [
     ],
   },
   {
+    name: "Gokulakrishnan Kalaikovan",
+    description: "Web Developer & GDE from India. Developing web applications.",
+    url: "https://gokul.site/blog",
+    twitter: "@gokul_i",
+    tags: ["HTML", "CSS", "JavaScript", "Web Development", "Web"],
+  },
+  {
     name: "Shaurya Pratap Singh",
     description: "A middle schooler who loves writing about programming.",
     url: "https://sblip.medium.com/",
@@ -3279,12 +3286,5 @@ module.exports = [
       "Cloud Infrastructure",
       "DevOps",
     ],
-  },
-  {
-    name: "Gokulakrishnan Kalaikovan",
-    description: "Web Developer & GDE from India. Developing web applications.",
-    url: "https://gokul.site/blog",
-    twitter: "@gokul_i",
-    tags: ["HTML", "CSS", "JavaScript", "Web Development"],
- }
+  }
 ];
