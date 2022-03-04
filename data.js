@@ -3248,10 +3248,21 @@ module.exports = [
     ],
   },
   {
-    name: 'Webiny CMS',
-    description: 'Webiny is an Open Source Serverless Enterprise CMS. It Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.',
-    url: 'https://www.webiny.com/blog/',
-    twitter: '@WebinyCMS',
-    tags: ['Serverless', 'CMS', 'Open Source', 'JavaScript', 'React', 'Node.js', 'AWS', 'Cloud Infrastructure', 'DevOps'],
-  }
+    name: "Webiny CMS",
+    description:
+      "Webiny is an Open Source Serverless Enterprise CMS. It Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.",
+    url: "https://www.webiny.com/blog/",
+    twitter: "@WebinyCMS",
+    tags: [
+      "Serverless",
+      "CMS",
+      "Open Source",
+      "JavaScript",
+      "React",
+      "Node.js",
+      "AWS",
+      "Cloud Infrastructure",
+      "DevOps",
+    ],
+  },
 ];
