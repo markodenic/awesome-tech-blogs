@@ -3001,13 +3001,15 @@ module.exports = [
   {
     name: "Namya LG",
     description:
-      "Introduction to Github Actions",
-    url: "https://medium.com/p/f448d4b81c0b",
+      "Various experiences and learnings in the field of full-stack and machine learning",
+    url: "https://namyalg.medium.com/",
     twitter: "@namya06333884",
     tags: [
       "Devops",
       "CI/CD",
-      "Github Actions"
+      "Getting Started",
+      "Experiences",
+      "Tutorial"
     ],
   },
 ];
