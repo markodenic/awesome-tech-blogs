@@ -39,12 +39,12 @@ module.exports = [
     ],
   },
   {
-    name: 'HeadSpin Blog',
-    description: 'The best place to learn appium, selenium and web automation.',
-    url: 'https://www.headspin.io/blog',
-    twitter: '@headspin_io',
-    tags: ['HTML', 'CSS', 'JavaScript', 'Appium', 'Selenium'],
-},
+    name: "HeadSpin Blog",
+    description: "The best place to learn appium, selenium and web automation.",
+    url: "https://www.headspin.io/blog",
+    twitter: "@headspin_io",
+    tags: ["HTML", "CSS", "JavaScript", "Appium", "Selenium"],
+  },
   {
     name: "Canopas Software",
     description:
