@@ -3260,13 +3260,7 @@ module.exports = [
       "Various experiences and learnings in the field of full-stack and machine learning",
     url: "https://namyalg.medium.com/",
     twitter: "@namya06333884",
-    tags: [
-      "Devops",
-      "CI/CD",
-      "Getting Started",
-      "Experiences",
-      "Tutorial"
-    ],
+    tags: ["Devops", "CI/CD", "Getting Started", "Experiences", "Tutorial"],
   },
   {
     name: "Webiny CMS",
