@@ -2198,7 +2198,8 @@ module.exports = [
   },
   {
     name: "Remi Weng",
-    description: "Learn about fullstack web development with Next.js, React, Tailwind CSS and TypeScript hosted on AWS",
+    description:
+      "Learn about fullstack web development with Next.js, React, Tailwind CSS and TypeScript hosted on AWS",
     url: "https://creativedesignsguru.com/blog/",
     twitter: "@ixartz",
     tags: [
@@ -2211,7 +2212,7 @@ module.exports = [
       "Next.js",
       "AWS",
       "Fullstack",
-      "Jamstack"
+      "Jamstack",
     ],
   },
   {
