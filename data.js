@@ -3169,6 +3169,6 @@ module.exports = [
       "APIs",
       "Web Development",
       "Architectures"
-    ],
-  },
+    ]
+  }
 ];
