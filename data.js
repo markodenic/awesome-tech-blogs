@@ -3085,6 +3085,22 @@ module.exports = [
     ],
   },
   {
+    name: "Pritam Bera",
+    description: "Self-taugth web-developer developer & Technical writer, with a keen interest in Linux & CyberSecurity.",
+    url:"https://pritambera2000.hashnode.dev",
+    twitter: "@dotslashpritam",
+    tags: [
+      "CSS",
+      "SCSS",
+      "JavaScript",
+      "Linux",
+      "BootStrap",
+      "React",
+      "Node",
+      "Tech",
+      ],
+  },
+  {
     name: "Madza",
     description: "I build custom WEB solutions and write about DEV",
     url: "https://madza.dev/blog",
