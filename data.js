@@ -2728,7 +2728,7 @@ module.exports = [
     description: "Frontend Developer and Team Leader",
     url: "https://krzysztofzuraw.com",
     twitter: "@krzysztof_zuraw",
-    tags: ["TypeScript", "React", "HTML", "CSS", "Frontend", "JavaScript"]
+    tags: ["TypeScript", "React", "HTML", "CSS", "Frontend", "JavaScript"],
   },
   {
     name: "Bogdan Alexandru Militaru",
