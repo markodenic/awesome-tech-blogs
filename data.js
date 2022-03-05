@@ -3293,5 +3293,5 @@ module.exports = [
       "Cloud Infrastructure",
       "DevOps",
     ],
-  }
+  },
 ];
