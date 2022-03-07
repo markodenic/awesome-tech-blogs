@@ -2400,6 +2400,20 @@ module.exports = [
     ],
   },
   {
+    name: "Aymane Mimouni",
+    description:
+      "Software Engineer and a passionate Python developer from Morocco who loves to build and deliver quality products.",
+    url: "https://aymanemx.com/posts",
+    twitter: "@aymane_max",
+    tags: [
+      "Python",
+      "Django",
+      "Vue",
+      "Elastic Search",
+      "GraphQL",
+    ],
+  },
+  {
     name: "Sebastian Urban",
     description: ".NET Developer, Tech Lover",
     url: "https://sebastianurban.dev/blog",
