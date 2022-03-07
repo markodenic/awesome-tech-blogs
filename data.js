@@ -2405,13 +2405,7 @@ module.exports = [
       "Software Engineer and a passionate Python developer from Morocco who loves to build and deliver quality products.",
     url: "https://aymanemx.com/posts",
     twitter: "@aymane_max",
-    tags: [
-      "Python",
-      "Django",
-      "Vue",
-      "Elastic Search",
-      "GraphQL",
-    ],
+    tags: ["Python", "Django", "Vue", "Elastic Search", "GraphQL"],
   },
   {
     name: "Sebastian Urban",
