@@ -1539,7 +1539,7 @@ module.exports = [
       "Node",
       "Java",
       "PHP",
-      "Python"
+      "Python",
     ],
   },
   {
