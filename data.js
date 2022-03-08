@@ -531,6 +531,19 @@ module.exports = [
     ],
   },
   {
+    name: "Dave Murray - Sailing the Sharp Sea",
+    description:
+      ".NET developer with a passion for mobile and DevOps. I build cross platform apps using Xamarin, backend systems using Azure and GitHub Actions using Docker.",
+    url: "https://blog.taranissoftware.com/",
+    tags: [
+      ".NET",
+      "C#",
+      "Xamarin",
+      "MAUI",
+      "GitHub Actions",
+    ],
+  },
+  {
     name: "James Turner",
     description:
       "A programmer and entrepreneur with a love of cars, music and technology.",
