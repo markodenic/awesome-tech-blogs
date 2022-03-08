@@ -1861,6 +1861,24 @@ module.exports = [
     ],
   },
   {
+    name: 'Valentine Samuel',
+    description: 'I can do anything i put my mind to',
+    url: 'https://frontendval.hashnode.dev/',
+    twitter: '@frontend_val',
+    tags: [
+      'HTML5',
+      'CSS3',
+      'JavaScript',
+      'SCSS',
+      'TypeScript',
+      'React',
+      'Python',
+      'Github',
+      'Angular',
+      'APIs',
+    ],
+  },
+  {
     name: "Jeet Mandaliya",
     description:
       "I am a self-taught Frontend Developer with a thing for VIM. In my free time, you can find me tinkering with my terminal and trying out new oh-my-zsh themes.",
