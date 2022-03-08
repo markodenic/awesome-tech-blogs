@@ -501,6 +501,13 @@ module.exports = [
     ],
   },
   {
+    name: 'Shubhma Battoo',
+    description: 'Writing about frontend developement with different JavaScript frameworks and more.',
+    url: 'https://shubhambattoo.in/blog',
+    twitter: '@Shubham_batt',
+    tags: ['HTML', 'CSS', 'JavaScript', 'Node.js', 'MongoDB', 'Next.js', 'Angular', 'React', 'React Native', 'Front End'],
+  },
+  {
     name: "Sandro Volpicella",
     description:
       "At the intersection of building SaaS and Serverless. Fullstack Engineer @Hashnode",
