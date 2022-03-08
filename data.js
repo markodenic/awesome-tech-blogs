@@ -3288,6 +3288,19 @@ module.exports = [
       "SSIS",
     ],
   },
+   {
+    name: "wpuniverse.online",
+    description:
+      "A custom search engine for WordPress and web developers",
+    url: "https://wpuniverse.online",
+    twitter: "@wuniverse_site",
+    tags: [
+      "PHP",
+      "JavaScript",
+      "CSS",
+      "WordPress",
+    ],
+  },
   {
     name: "Pritam Bera",
     description:
