@@ -3408,4 +3408,11 @@ module.exports = [
       "DevOps",
     ],
   },
+  {
+    name: 'Pawel Grzybek',
+    description: "I'm Pawel Grzybek, a Software Engineer from Poland. I build Web stuff and write about it. A keen cyclist and a funky/jazz records collector.",
+    url: 'https://pawelgrzybek.com',
+    twitter: '@pawelgrzybek',
+    tags: ['HTML', 'CSS', 'JavaScript', 'Web Development', 'Front End', 'Node.js'],
+}
 ];
