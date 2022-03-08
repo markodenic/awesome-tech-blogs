@@ -1,10 +1,19 @@
 module.exports = [
-   {
+  {
     name: "Rene Rehme",
-    description: "Web Developer from Stuttgart. Blog about tutorials, development, web, infoSec and life.",
+    description:
+      "Web Developer from Stuttgart. Blog about tutorials, development, web, infoSec and life.",
     url: "https://renerehme.dev",
     twitter: "@ReneReh1",
-    tags: [ "PHP", "HTML", "CSS", "JavaScript", "Backend", "Front End", "Programming"],
+    tags: [
+      "PHP",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Backend",
+      "Front End",
+      "Programming",
+    ],
   },
   {
     name: "Mustafa Albazy Blog",
