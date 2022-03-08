@@ -830,13 +830,7 @@ module.exports = [
       "I am a frontend developer who loves TypeScript and video players",
     url: "https://blog.beraliv.dev",
     twitter: "@beraliv",
-    tags: [
-      "Video",
-      "Players",
-      "TypeScript",
-      "CSS",
-      "JavaScript",
-    ],
+    tags: ["Video", "Players", "TypeScript", "CSS", "JavaScript"],
   },
   {
     name: "Olena Drugalya",
