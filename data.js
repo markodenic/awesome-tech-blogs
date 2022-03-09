@@ -1,4 +1,5 @@
 module.exports = [
+   
   {
     name: "Rene Rehme",
     description:
@@ -3388,6 +3389,13 @@ module.exports = [
       "React",
       "Web Development",
     ],
+  },
+   {
+    name: "Alka Gupta",
+    description: "Amazing tech blogs from an amazing tech enthusiast 😉",
+    url: "https://hashnode.com/@alkagupta",
+    twitter: "@alkaaaaa10",
+    tags: ["GitHub", "Open Source", "Development"],
   },
   {
     name: "Namya LG",
