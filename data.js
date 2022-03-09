@@ -1,5 +1,21 @@
 module.exports = [
   {
+    name: "Rene Rehme",
+    description:
+      "Web Developer from Stuttgart. Blog about tutorials, development, web, infoSec and life.",
+    url: "https://renerehme.dev",
+    twitter: "@ReneReh1",
+    tags: [
+      "PHP",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Backend",
+      "Front End",
+      "Programming",
+    ],
+  },
+  {
     name: "Mustafa Albazy Blog",
     description:
       "I posts on my blog about few different subjects inc. Electrical and Electronics, coding, music tech.",
@@ -485,6 +501,25 @@ module.exports = [
     ],
   },
   {
+    name: "Shubhma Battoo",
+    description:
+      "Writing about frontend developement with different JavaScript frameworks and more.",
+    url: "https://shubhambattoo.in/blog",
+    twitter: "@Shubham_batt",
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Node.js",
+      "MongoDB",
+      "Next.js",
+      "Angular",
+      "React",
+      "React Native",
+      "Front End",
+    ],
+  },
+  {
     name: "Sandro Volpicella",
     description:
       "At the intersection of building SaaS and Serverless. Fullstack Engineer @Hashnode",
@@ -529,6 +564,13 @@ module.exports = [
       "PHP",
       "TypeScript",
     ],
+  },
+  {
+    name: "Dave Murray - Sailing the Sharp Sea",
+    description:
+      ".NET developer with a passion for mobile and DevOps. I build cross platform apps using Xamarin, backend systems using Azure and GitHub Actions using Docker.",
+    url: "https://blog.taranissoftware.com/",
+    tags: [".NET", "C#", "Xamarin", "MAUI", "GitHub Actions"],
   },
   {
     name: "James Turner",
@@ -657,6 +699,13 @@ module.exports = [
       "Desktop",
       "Widgets",
     ],
+  },
+  {
+    name: "Gokulakrishnan Kalaikovan",
+    description: "Web Developer & GDE from India. Developing web applications.",
+    url: "https://gokul.site/blog",
+    twitter: "@gokul_i",
+    tags: ["HTML", "CSS", "JavaScript", "Web Development", "Web"],
   },
   {
     name: "Shaurya Pratap Singh",
@@ -793,6 +842,14 @@ module.exports = [
       "HTML",
       "CSS",
     ],
+  },
+  {
+    name: "Alexey Berezin",
+    description:
+      "I am a frontend developer who loves TypeScript and video players",
+    url: "https://blog.beraliv.dev",
+    twitter: "@beraliv",
+    tags: ["Video", "Players", "TypeScript", "CSS", "JavaScript"],
   },
   {
     name: "Olena Drugalya",
@@ -1494,6 +1551,25 @@ module.exports = [
     ],
   },
   {
+    name: "Sabe.io",
+    description:
+      "Learn to code with high-quality classes and tutorials on HTML, CSS, JavaScript, TypeScript, Vue, React, Node, Java, PHP, Python, Docker, Deno, and more.",
+    url: "https://sabe.io",
+    twitter: "@sabe_io",
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "TypeScript",
+      "Vue",
+      "React",
+      "Node",
+      "Java",
+      "PHP",
+      "Python",
+    ],
+  },
+  {
     name: "Kumusta Mundo",
     description:
       "Tech tutorials and stories from Adrienne Tacke, a Filipina software engineer.",
@@ -1851,6 +1927,24 @@ module.exports = [
       "Node.js",
       "TypeScript",
       "GraphQL",
+    ],
+  },
+  {
+    name: "Valentine Samuel",
+    description: "I can do anything i put my mind to",
+    url: "https://frontendval.hashnode.dev/",
+    twitter: "@frontend_val",
+    tags: [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "SCSS",
+      "TypeScript",
+      "React",
+      "Python",
+      "Github",
+      "Angular",
+      "APIs",
     ],
   },
   {
@@ -2393,6 +2487,14 @@ module.exports = [
     ],
   },
   {
+    name: "Aymane Mimouni",
+    description:
+      "Software Engineer and a passionate Python developer from Morocco who loves to build and deliver quality products.",
+    url: "https://aymanemx.com/posts",
+    twitter: "@aymane_max",
+    tags: ["Python", "Django", "Vue", "Elastic Search", "GraphQL"],
+  },
+  {
     name: "Sebastian Urban",
     description: ".NET Developer, Tech Lover",
     url: "https://sebastianurban.dev/blog",
@@ -2506,6 +2608,25 @@ module.exports = [
       "Golang",
       "NOSQL",
       "Redis",
+    ],
+  },
+  {
+    name: "Bart Zalewski",
+    description:
+      "Full-Stack Developer. I helped hundreds of thousands of people around the world with programming.",
+    url: "https://bartzalewski.com/blog/?ref=tech-blogs.dev",
+    twitter: "@bart_coder",
+    tags: [
+      "JavaScript",
+      "Web Development",
+      "React",
+      "React Native",
+      "Node.js",
+      "TypeScript",
+      "Python",
+      "GraphQL",
+      "AWS",
+      "Fullstack",
     ],
   },
   {
@@ -2722,6 +2843,13 @@ module.exports = [
       "Docker",
       "Tailwind",
     ],
+  },
+  {
+    name: "Krzysztof Żuraw",
+    description: "Frontend Developer and Team Leader",
+    url: "https://krzysztofzuraw.com",
+    twitter: "@krzysztof_zuraw",
+    tags: ["TypeScript", "React", "HTML", "CSS", "Frontend", "JavaScript"],
   },
   {
     name: "Bogdan Alexandru Militaru",
@@ -3161,6 +3289,13 @@ module.exports = [
     ],
   },
   {
+    name: "wpuniverse.online",
+    description: "A custom search engine for WordPress and web developers",
+    url: "https://wpuniverse.online",
+    twitter: "@wuniverse_site",
+    tags: ["PHP", "JavaScript", "CSS", "WordPress"],
+  },
+  {
     name: "Pritam Bera",
     description:
       "Self-taugth web-developer developer & Technical writer, with a keen interest in Linux & CyberSecurity.",
@@ -3255,7 +3390,6 @@ module.exports = [
     ],
   },
   {
-
     name: "Jones Zachariah Noel N (zachjonesnoel)",
     description: "AWS Community Builder 🚀 | AWS Serverless Architect ⚡ | Full-Stack Cloud Developer 👨‍💻 | Technical Writer 📜 | Home Chef 👨‍🍳 | Photographer 📷 | Serverless Advocacy 🥑",
     url: "https://zachjonesnoel.hashnode.dev/",
@@ -3272,7 +3406,15 @@ module.exports = [
       "Web Development",
       "Architectures"
     ]
-  }
+  },
+  {
+    name: "Alka Gupta",
+    description: "Amazing tech blogs from an amazing tech enthusiast 😉",
+    url: "https://hashnode.com/@alkagupta",
+    twitter: "@alkaaaaa10",
+    tags: ["GitHub", "Open Source", "Development"],
+  },
+  {
     name: "Namya LG",
     description:
       "Various experiences and learnings in the field of full-stack and machine learning",
