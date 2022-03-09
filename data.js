@@ -3391,7 +3391,8 @@ module.exports = [
   },
   {
     name: "Jones Zachariah Noel N (zachjonesnoel)",
-    description: "AWS Community Builder 🚀 | AWS Serverless Architect ⚡ | Full-Stack Cloud Developer 👨‍💻 | Technical Writer 📜 | Home Chef 👨‍🍳 | Photographer 📷 | Serverless Advocacy 🥑",
+    description:
+      "AWS Community Builder 🚀 | AWS Serverless Architect ⚡ | Full-Stack Cloud Developer 👨‍💻 | Technical Writer 📜 | Home Chef 👨‍🍳 | Photographer 📷 | Serverless Advocacy 🥑",
     url: "https://zachjonesnoel.hashnode.dev/",
     twitter: "@zachjonesnoel",
     tags: [
@@ -3404,8 +3405,8 @@ module.exports = [
       "Typescript",
       "APIs",
       "Web Development",
-      "Architectures"
-    ]
+      "Architectures",
+    ],
   },
   {
     name: "Alka Gupta",
