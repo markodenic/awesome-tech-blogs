@@ -3390,6 +3390,24 @@ module.exports = [
     ],
   },
   {
+    name: "Jones Zachariah Noel N (zachjonesnoel)",
+    description: "AWS Community Builder 🚀 | AWS Serverless Architect ⚡ | Full-Stack Cloud Developer 👨‍💻 | Technical Writer 📜 | Home Chef 👨‍🍳 | Photographer 📷 | Serverless Advocacy 🥑",
+    url: "https://zachjonesnoel.hashnode.dev/",
+    twitter: "@zachjonesnoel",
+    tags: [
+      "AWS",
+      "Serverless",
+      "NodeJS",
+      "Python",
+      "JavaScript",
+      "React",
+      "Typescript",
+      "APIs",
+      "Web Development",
+      "Architectures"
+    ]
+  },
+  {
     name: "Alka Gupta",
     description: "Amazing tech blogs from an amazing tech enthusiast 😉",
     url: "https://hashnode.com/@alkagupta",
