@@ -1,4 +1,10 @@
 module.exports = [
+  { name: 'Kundan Mishra', 
+   description: 'A web developer, blockchain enthusiast and computer science undergrad. Building on ethereum.', 
+   url: 'https://mishra811.hashnode.dev/',
+   twitter: '@0xmishra', 
+   tags: ['HTML', 'CSS', 'JavaScript','solidity','react.js','hardhat','python','tailwind','git','ethers.js'], 
+  },
   {
     name: "Rene Rehme",
     description:
