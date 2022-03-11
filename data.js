@@ -605,6 +605,18 @@ module.exports = [
     tags: ["JavaScript", "Node.js", "React", "Computer Science"],
   },
   {
+    name: "Sam Kihika",
+    description: "I'm a software and Web3 enthusiast. I love to code Frontend and Backend. I will help you learn JavaScript.",
+    url: "https://blog.samkihika.site/",
+    twitter: "@KihikaSamuel",
+    tags: [
+      "JavaScript", 
+      "Web development", 
+      "Nodejs", "Frameworks", 
+      "ES6"
+    ],
+  },
+  {
     name: "TerminusDB",
     description:
       "An open-source in-memory document graph database helping you build collaborative applications.",
