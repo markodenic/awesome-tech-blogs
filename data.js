@@ -35,11 +35,12 @@ module.exports = [
     ],
   },
   {
-    name: 'Roopesh Sn\'s Blog',
-    description: 'Whatever difficulty I faces in my routine work, I\'ll summarize that in a blog post',
-    url: 'https://roopesh.hashnode.dev',
-    twitter: '@roopeshsn',
-    tags: ['CS', 'OSS', 'Web Development', 'JavaScript', 'Linux', 'Devops'],
+    name: "Roopesh Sn's Blog",
+    description:
+      "Whatever difficulty I faces in my routine work, I'll summarize that in a blog post",
+    url: "https://roopesh.hashnode.dev",
+    twitter: "@roopeshsn",
+    tags: ["CS", "OSS", "Web Development", "JavaScript", "Linux", "Devops"],
   },
   {
     name: "Mustafa Albazy Blog",
