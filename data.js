@@ -20,6 +20,22 @@ module.exports = [
     ],
   },
   {
+    name: "Webdevolution",
+    description: "Web dev tips, tutorials and solutions for common problems.",
+    url: "https://www.webdevolution.com",
+    twitter: "@webdevolution_",
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Typescript",
+      "APIs",
+      ".NET",
+      "Web Development",
+    ],
+  },
+  {
     name: "Gaurav Pandey",
     description:
       "14 y/o Developer working on Python & Machine Learning, writing about Web and AI + Research!.",
@@ -105,6 +121,25 @@ module.exports = [
     url: "https://unencrypted.vercel.app/",
     twitter: "@RedatoB",
     tags: ["Computer Science", "Networking", "Tailwind", "Next.js"],
+  },
+  {
+    name: "AlterClass by Greg D'Angelo",
+    description:
+      "Learn about the next-generation frameworks, tools, and techniques of modern web development.",
+    url: "https://alterclass.io/tutorials",
+    twitter: "@AlterClasssIO",
+    tags: [
+      "React",
+      "Next.js",
+      "JavaScript",
+      "TypeScript",
+      "Fauna",
+      "Mongodb",
+      "GraphQL",
+      "Tailwind CSS",
+      "Web3",
+      "Web Development",
+    ],
   },
   {
     name: "Solidity Tips",
@@ -1794,6 +1829,27 @@ module.exports = [
     ],
   },
   {
+    name: "Simon Wicki",
+    description:
+      "Freelance Developer in Berlin. Worked on Web and Mobile apps at JustWatch. Fluent in Vue, Angular, React and Ionic. Passionate about Frontend, tech, web perf & non-fiction books.",
+    url: "https://wicki.io/posts/",
+    twitter: "@zwacky",
+    tags: [
+      "JavaScript",
+      "Vue",
+      "React",
+      "Angular",
+      "Ionic",
+      "HTML",
+      "CSS",
+      "TypeScript",
+      "Front End",
+      "Tech",
+      "Programming",
+      "SEO",
+    ],
+  },
+  {
     name: "Peter Smulovics",
     description: "Dad, Geek, Geek Dad - Microsoft enthusiast",
     url: "https://dotneteers.net",
@@ -2618,6 +2674,21 @@ module.exports = [
       "Azure",
       "ETL",
       "SSIS",
+    ],
+  },
+  {
+    name: "Abdur-Rahmaan Janhangeer",
+    description: "Python articles with a nook and in-depth touch",
+    url: "https://www.pythonkitchen.com/",
+    twitter: "@osdotsystem",
+    tags: [
+      "Python",
+      "Flask",
+      "Compiler",
+      "Interpreter",
+      "Django",
+      "FastAPI",
+      "Shopyo",
     ],
   },
 ];
