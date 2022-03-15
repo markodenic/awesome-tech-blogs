@@ -201,6 +201,13 @@ module.exports = [
       "Cyber Security",
     ],
   },
+   {
+    name: 'Manu Arora',
+    description: 'I build products and web apps with an aim of impacting millions of lives.',
+    url: 'https://manuarora.in/blog',
+    twitter: '@mannupaaji',
+    tags: ['React', 'Nextjs', 'HTML', 'CSS', 'TailwindCSS', 'Nodejs', 'JAMStack', 'Next.js', 'React.js', 'Node.js'],
+  },
   {
     name: "Gaurav Pandey",
     description:
