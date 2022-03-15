@@ -272,6 +272,22 @@ module.exports = [
       "Contentful",
     ],
   },
+    {
+    name: "Mohamad Fadhil",
+    description: "T-shaped engineer, DevOps enthusiast",
+    url: "https://fadhil-blog.dev",
+    twitter: "@sdil",
+    tags: [
+      "Django",
+      "Web Devlopment",
+      "Python",
+      "API",
+      "Backend",
+      "Programming",
+      "Cloud Infrastructure",
+      "Software Engineering"
+    ],
+  },
   {
     name: "Estee Tey's Tech Blog",
     description:
