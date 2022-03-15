@@ -170,6 +170,13 @@ module.exports = [
     ],
   },
   {
+        name: 'Bleyl Dev',
+    description: 'Flutter & Software Development Technical Articles',
+    url: 'https://medium.com/@bleyldev',
+    twitter: '@bleyldev',
+    tags: ['Flutter', 'Dart', 'JavaScript', 'Programming', 'Front End', 'Software Development'],
+  },
+  {
     name: "Gaurav Pandey",
     description:
       "14 y/o Developer working on Python & Machine Learning, writing about Web and AI + Research!.",
