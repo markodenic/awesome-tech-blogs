@@ -938,12 +938,36 @@ module.exports = [
     ],
   },
   {
+
     name: "Alexey Berezin",
     description:
       "I am a frontend developer who loves TypeScript and video players",
     url: "https://blog.beraliv.dev",
     twitter: "@beraliv",
     tags: ["Video", "Players", "TypeScript", "CSS", "JavaScript"],
+  },
+  {
+    name: "Andrew Baisden",
+    description:
+      "Software Developer | Technical Writer | Content Creator",
+    url: "https://dev.to/andrewbaisden",
+    twitter: "@andrewbaisden",
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "React Native",
+      "Redux",
+      "ASP.NET Core",
+      "NodeJS",
+      "C#",
+      "Python",
+      "SQL",
+      "NoSQL",
+      "Docker",
+    ],
   },
   {
     name: "Olena Drugalya",
@@ -1006,6 +1030,7 @@ module.exports = [
       "Pug",
     ],
   },
+
   {
     name: "Alberto Bonacina",
     description:
