@@ -3615,6 +3615,13 @@ module.exports = [
     ],
   },
   {
+    name: 'TestingBot',
+    description: 'Learn about Selenium, Appium, Puppeteer and Playwright.',
+    url: 'https://testingbot.com/blog',
+    twitter: '@testingb0t',
+    tags: ['Testing', 'Automation', 'Puppeteer', 'Playwright', 'Selenium'],
+  },
+  {
     name: "Jones Zachariah Noel N (zachjonesnoel)",
     description:
       "AWS Community Builder 🚀 | AWS Serverless Architect ⚡ | Full-Stack Cloud Developer 👨‍💻 | Technical Writer 📜 | Home Chef 👨‍🍳 | Photographer 📷 | Serverless Advocacy 🥑",
