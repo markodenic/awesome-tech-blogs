@@ -201,19 +201,43 @@ module.exports = [
       "Cyber Security",
     ],
   },
-   {
-    name: 'Manu Arora',
-    description: 'I build products and web apps with an aim of impacting millions of lives.',
-    url: 'https://manuarora.in/blog',
-    twitter: '@mannupaaji',
-    tags: ['React', 'Nextjs', 'HTML', 'CSS', 'TailwindCSS', 'Nodejs', 'JAMStack', 'Next.js', 'React.js', 'Node.js'],
+  {
+    name: "Manu Arora",
+    description:
+      "I build products and web apps with an aim of impacting millions of lives.",
+    url: "https://manuarora.in/blog",
+    twitter: "@mannupaaji",
+    tags: [
+      "React",
+      "Nextjs",
+      "HTML",
+      "CSS",
+      "TailwindCSS",
+      "Nodejs",
+      "JAMStack",
+      "Next.js",
+      "React.js",
+      "Node.js",
+    ],
   },
-    {
-    name: 'Dev Apt',
-    description: 'A web magazine demystifying web development, programming and technology with tips, tricks and tweaks.',
-    url: 'https://devapt.com/',
-    twitter: '@dev_apt',
-    tags: ['HTML', 'CSS', 'JavaScript', 'Web Development', 'Node.js', 'React', 'Tech', 'Git', 'Programming', 'AWS'],
+  {
+    name: "Dev Apt",
+    description:
+      "A web magazine demystifying web development, programming and technology with tips, tricks and tweaks.",
+    url: "https://devapt.com/",
+    twitter: "@dev_apt",
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Web Development",
+      "Node.js",
+      "React",
+      "Tech",
+      "Git",
+      "Programming",
+      "AWS",
+    ],
   },
   {
     name: "Gaurav Pandey",
@@ -286,7 +310,7 @@ module.exports = [
       "Contentful",
     ],
   },
-    {
+  {
     name: "Mohamad Fadhil",
     description: "T-shaped engineer, DevOps enthusiast",
     url: "https://fadhil-blog.dev",
@@ -299,7 +323,7 @@ module.exports = [
       "Backend",
       "Programming",
       "Cloud Infrastructure",
-      "Software Engineering"
+      "Software Engineering",
     ],
   },
   {
@@ -3397,12 +3421,12 @@ module.exports = [
       "Software Engineering",
     ],
   },
-    {
-    name: 'Daniellop Blog',
-    description: 'Thoughts, stories and ideas.',
-    url: 'https://blog.daniellop.me',
-    twitter: '@daniellop1_',
-    tags: ['HTML', 'CSS', 'JavaScript'],
+  {
+    name: "Daniellop Blog",
+    description: "Thoughts, stories and ideas.",
+    url: "https://blog.daniellop.me",
+    twitter: "@daniellop1_",
+    tags: ["HTML", "CSS", "JavaScript"],
   },
   {
     name: "iRead Blog",
@@ -3511,18 +3535,13 @@ module.exports = [
       "Performance Testing",
     ],
   },
-    {
-    name: 'Trading Strategy',
-    description: 'Building open source technical analysis and algorithmic trading tools',
-    url: 'https://tradingstrategy.ai/blog',
-    twitter: '@tradingprotocol',
-    tags: [
-       'Python', 
-       'JavaScript',
-       'Svelte',
-       'Web3',
-       'Ethereum',
-    ],
+  {
+    name: "Trading Strategy",
+    description:
+      "Building open source technical analysis and algorithmic trading tools",
+    url: "https://tradingstrategy.ai/blog",
+    twitter: "@tradingprotocol",
+    tags: ["Python", "JavaScript", "Svelte", "Web3", "Ethereum"],
   },
   {
     name: "Stefan Baumgartner",
