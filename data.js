@@ -170,11 +170,18 @@ module.exports = [
     ],
   },
   {
-        name: 'Bleyl Dev',
-    description: 'Flutter & Software Development Technical Articles',
-    url: 'https://medium.com/@bleyldev',
-    twitter: '@bleyldev',
-    tags: ['Flutter', 'Dart', 'JavaScript', 'Programming', 'Front End', 'Software Development'],
+    name: "Bleyl Dev",
+    description: "Flutter & Software Development Technical Articles",
+    url: "https://medium.com/@bleyldev",
+    twitter: "@bleyldev",
+    tags: [
+      "Flutter",
+      "Dart",
+      "JavaScript",
+      "Programming",
+      "Front End",
+      "Software Development",
+    ],
   },
   {
     name: "Gaurav Pandey",
@@ -3489,11 +3496,7 @@ module.exports = [
     description: "Resources for writing, content creation, storytelling.",
     url: "https://johnpaulhernandez.com/myblog/",
     twitter: "@helloJohnPaul",
-    tags: [
-      "Content Creation", 
-      "Freelancing", 
-      "Self-Development"
-    ],
+    tags: ["Content Creation", "Freelancing", "Self-Development"],
   },
   {
     name: "Namya LG",
