@@ -3485,6 +3485,17 @@ module.exports = [
     tags: ["GitHub", "Open Source", "Development"],
   },
   {
+    name: "John Paul Hernandez",
+    description: "Resources for writing, content creation, storytelling.",
+    url: "https://johnpaulhernandez.com/myblog/",
+    twitter: "@helloJohnPaul",
+    tags: [
+      "Content Creation", 
+      "Freelancing", 
+      "Self-Development"
+    ],
+  },
+  {
     name: "Namya LG",
     description:
       "Various experiences and learnings in the field of full-stack and machine learning",
