@@ -3696,6 +3696,23 @@ module.exports = [
       "DevOps",
     ],
   },
+    {
+    name: "Prashant Yadav",
+    description:
+      "Senior Frontend Engineer, on a journey to be Frontend Architect.",
+    url: "https://learnersbucket.com/",
+    twitter: "@learnersbucket",
+    tags: [
+      "HTML",
+      "CSS",
+      "TypeScript",
+      "JavaScript",
+      "React",
+      "Front End",
+      "Frontend System Design",
+      "Web Development"
+    ],
+  },
   {
     name: "Sam Kihika",
     description:
