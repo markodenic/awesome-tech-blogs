@@ -938,7 +938,6 @@ module.exports = [
     ],
   },
   {
-
     name: "Alexey Berezin",
     description:
       "I am a frontend developer who loves TypeScript and video players",
@@ -948,8 +947,7 @@ module.exports = [
   },
   {
     name: "Andrew Baisden",
-    description:
-      "Software Developer | Technical Writer | Content Creator",
+    description: "Software Developer | Technical Writer | Content Creator",
     url: "https://dev.to/andrewbaisden",
     twitter: "@andrewbaisden",
     tags: [
