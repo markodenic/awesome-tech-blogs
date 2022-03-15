@@ -184,21 +184,22 @@ module.exports = [
     ],
   },
   {
-    name: 'Lakin Mohapatra',
-    description: 'Associate team lead  (8+ years of development exp.) | Web3 Architect | Blogger | Blockchain Enthusiast | Trader | Cyber Security Researcher | Books',
-    url: 'https://lakin-mohapatra.medium.com',
-    twitter: '@lakincoder',
+    name: "Lakin Mohapatra",
+    description:
+      "Associate team lead  (8+ years of development exp.) | Web3 Architect | Blogger | Blockchain Enthusiast | Trader | Cyber Security Researcher | Books",
+    url: "https://lakin-mohapatra.medium.com",
+    twitter: "@lakincoder",
     tags: [
-      'JavaScript',
-      'PHP',
-      'Golang',
-      'Rust',
-      'Web3',
-      'Blockchain',
-      'React',
-      'Angular',
-      'Cyber Security'
-      ]
+      "JavaScript",
+      "PHP",
+      "Golang",
+      "Rust",
+      "Web3",
+      "Blockchain",
+      "React",
+      "Angular",
+      "Cyber Security",
+    ],
   },
   {
     name: "Gaurav Pandey",
