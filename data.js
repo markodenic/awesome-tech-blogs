@@ -1,5 +1,25 @@
 module.exports = [
   {
+    name: "Suprabha",
+    description:
+      "Hi, I'm Frontend Engineer, Content creator, Mentor, Public Speaker, Checkout my website for more details at http://suprabha.me",
+    url: "https://blog.suprabha.me/",
+    twitter: "@suprabhasupi",
+    tags: [
+      "Web Development",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "React",
+      "Vue",
+      "Front End",
+      "TypeScript",
+      "Gatsby",
+      "Web3",
+      "Webpack",
+    ],
+  },
+  {
     name: "Kundan Mishra",
     description:
       "A web developer, blockchain enthusiast and computer science undergrad. Building on ethereum.",
