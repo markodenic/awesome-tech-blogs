@@ -3490,6 +3490,19 @@ module.exports = [
       "Performance Testing",
     ],
   },
+    {
+    name: 'Trading Strategy',
+    description: 'Building open source technical analysis and algorithmic trading tools',
+    url: 'https://tradingstrategy.ai/blog',
+    twitter: '@tradingprotocol',
+    tags: [
+       'Python', 
+       'JavaScript',
+       'Svelte',
+       'Web3',
+       'Ethereum',
+    ],
+  },
   {
     name: "Stefan Baumgartner",
     url: "https://fettblog.eu/articles/",
