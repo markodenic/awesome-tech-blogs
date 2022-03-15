@@ -3568,6 +3568,20 @@ module.exports = [
     tags: ["TypeScript", "Rust", "React"],
   },
   {
+    name: "Stack Diary",
+    description:
+      "Useful resources for Web Developers. Covering mostly trending topics.",
+    url: "https://stackdiary.com/",
+    twitter: "@stackdiary",
+    tags: [
+      "Web Development",
+      "React",
+      "JavaScript",
+      "Programming",
+      "Content Creation",
+    ],
+  },
+  {
     name: "All-in-One Person (RU)",
     description:
       "Ежедневно публикуем самые полезные сервисы и приложения для мобильных ОС, Windows, Mac. Поручи программе то, что не хочешь делать сам.",
