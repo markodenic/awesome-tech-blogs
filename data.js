@@ -3614,27 +3614,20 @@ module.exports = [
       "Web Development",
     ],
   },
-    {
+  {
     name: "Vasanti Suthar",
-    description: 
+    description:
       "Web development, sharing resources, content writing, and open source contributor",
     url: "https://vasantisuthar.hashnode.dev/",
     twitter: "@vasanti_suthar",
-    tags: [
-      "JavaScript",
-      "Node.js",
-      "React.js",
-      "Database",
-      "Linux",
-      "DevOps",
-    ],
+    tags: ["JavaScript", "Node.js", "React.js", "Database", "Linux", "DevOps"],
   },
   {
-    name: 'TestingBot',
-    description: 'Learn about Selenium, Appium, Puppeteer and Playwright.',
-    url: 'https://testingbot.com/blog',
-    twitter: '@testingb0t',
-    tags: ['Testing', 'Automation', 'Puppeteer', 'Playwright', 'Selenium'],
+    name: "TestingBot",
+    description: "Learn about Selenium, Appium, Puppeteer and Playwright.",
+    url: "https://testingbot.com/blog",
+    twitter: "@testingb0t",
+    tags: ["Testing", "Automation", "Puppeteer", "Playwright", "Selenium"],
   },
   {
     name: "Jones Zachariah Noel N (zachjonesnoel)",
@@ -3711,7 +3704,7 @@ module.exports = [
       "DevOps",
     ],
   },
-    {
+  {
     name: "Prashant Yadav",
     description:
       "Senior Frontend Engineer, on a journey to be Frontend Architect.",
@@ -3725,7 +3718,7 @@ module.exports = [
       "React",
       "Front End",
       "Frontend System Design",
-      "Web Development"
+      "Web Development",
     ],
   },
   {
