@@ -246,6 +246,13 @@ module.exports = [
       "JavaScript",
     ],
   },
+    {
+    name: 'Elton Minetto',
+    description: 'I’m a software developer, teacher, speaker and writer',
+    url: 'https://eltonminetto.dev/en/',
+    twitter: '@eminetto',
+    tags: ['Go', 'Golang', 'Software Architecture'],
+  },
   {
     name: "Ashish Patel",
     description:
