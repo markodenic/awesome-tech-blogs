@@ -3532,9 +3532,10 @@ module.exports = [
       "Architectures",
     ],
   },
-    {
+  {
     name: "Alessandro Marino",
-    description: "I'm a consultant Cloud Architect and Devops focused on AWS. I write about AWS, Go and Terraform.",
+    description:
+      "I'm a consultant Cloud Architect and Devops focused on AWS. I write about AWS, Go and Terraform.",
     url: "https://alessandromarinoac.com",
     twitter: "@alessmarinoac",
     tags: [
