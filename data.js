@@ -59,6 +59,13 @@ module.exports = [
     ],
   },
   {
+    name: 'Adarsh Kushwaha',
+    description: 'Inside functionality of how JavaScript Works',
+    url: 'https://medium.com/@heyadarshhere/how-does-javascript-works-everything-about-execution-context-call-stack-501b5450e2c4',
+    twitter: '@heyadarshhere',
+    tags: ['JavaScript'],
+  },
+  {
     name: "Vivek",
     description: "Awesome JavaScript Libraries and developer resources",
     url: "https://vivekon.hashnode.dev/",
