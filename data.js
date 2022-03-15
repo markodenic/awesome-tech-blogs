@@ -3390,6 +3390,13 @@ module.exports = [
       "Software Engineering",
     ],
   },
+    {
+    name: 'Daniellop Blog',
+    description: 'Thoughts, stories and ideas.',
+    url: 'https://blog.daniellop.me',
+    twitter: '@daniellop1_',
+    tags: ['HTML', 'CSS', 'JavaScript'],
+  },
   {
     name: "iRead Blog",
     description:
