@@ -3451,7 +3451,7 @@ module.exports = [
     description:
       "iRead is a multi-user blogging platform where you'll find technical articles and project tutorials related to Python, Javascript, Flutter and much more ",
     url: "https://ireadblog.com",
-    twitter: "@iReadBot",
+    twitter: "@iRead_Blog",
     tags: ["Python", "Java", "DSA", "Javascript", "Flutter", "Web Development"],
   },
   {
