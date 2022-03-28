@@ -421,7 +421,7 @@ module.exports = [
     description:
       "Tecroxy is a Technology media company that wants to make people’s lives better through tech education. Since 2020, Tecroxy has been publishing content on its Website to educate readers on how to use their tech product(s) in the most efficient way possible..",
     url: "https://tecroxy.com",
-    twitter: "@tecroxy",
+    twitter: "",
     tags: ["Android", "Apple", "Google", "Blockchain", "Website"],
   },
   {
