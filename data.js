@@ -1,5 +1,12 @@
 module.exports = [
   {
+    name: "Sundeep Agarwal",
+    description: "I write about Regular Expressions, CLI one-liners, Scripting Languages, Vim and Self-Publishing.",
+    url: "https://learnbyexample.github.io/",
+    twitter: "@learn_byexample",
+    tags: ["Python", "Regular Expressions", "JavaScript", "Linux", "Vim"],
+  },
+  {
     name: "Suprabha",
     description:
       "Hi, I'm Frontend Engineer, Content creator, Mentor, Public Speaker, Checkout my website for more details at http://suprabha.me",
