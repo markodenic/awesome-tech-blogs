@@ -3744,4 +3744,20 @@ module.exports = [
       "Beginner",
     ],
   },
+  {
+    name: "Will Chao",
+    description:
+      "SWE in China, Front-end developer, Vim enthusiast.",
+    url: "https://nerdzzh.me/",
+    twitter: "@willchao612",
+    tags: [
+      "(Neo)Vim",
+      "Drama",
+      "Frontend",
+      "Life",
+      "Linux",
+      "Music",
+      "Web Development",
+    ],
+  },
 ];
