@@ -71,11 +71,19 @@ module.exports = [
     tags: ["CS", "OSS", "Web Development", "JavaScript", "Linux", "Devops"],
   },
   {
-    name: 'The Feqy',
-    description: 'Sharing my own thoughts and expertise about backend/frontend engineering.',
-    url: 'https://feqy.medium.com/',
-    twitter: '@thefeqy',
-    tags: ['JavaScript', 'Laravel', 'PHP', 'Microservices', 'NodeJS', 'Web Development'],
+    name: "The Feqy",
+    description:
+      "Sharing my own thoughts and expertise about backend/frontend engineering.",
+    url: "https://feqy.medium.com/",
+    twitter: "@thefeqy",
+    tags: [
+      "JavaScript",
+      "Laravel",
+      "PHP",
+      "Microservices",
+      "NodeJS",
+      "Web Development",
+    ],
   },
   {
     name: "Mustafa Albazy Blog",
