@@ -22,7 +22,7 @@ https://markodenic.com/make-your-first-open-source-contribution/)
 
 > Inspired by [Wes Bos's](https://wesbos.com/) [`/uses`](https://uses.tech/) page.
 
-## Use Featured badge
+## Use a Featured badge
 
 You can add a Featured badge on your blog to show your readers that your blog is featured on tech-blogs.dev.
 
@@ -32,7 +32,7 @@ You can add a Featured badge on your blog to show your readers that your blog is
 
 ```html
 <a href="https://www.tech-blogs.dev">
-  <img src="https://www.tech-blogs.dev/featured-dark-small.png" alt="Featured on tech-blogs-dev badge" width="158" height="47" /> 
+  <img src="https://www.tech-blogs.dev/featured-dark-small.png" alt="Featured on tech-blogs.dev badge" width="158" height="47" /> 
 </a>
 ```
 
@@ -42,7 +42,7 @@ You can add a Featured badge on your blog to show your readers that your blog is
 
 ```html
 <a href="https://www.tech-blogs.dev">
-  <img src="https://www.tech-blogs.dev/featured-dark-large.png" alt="Featured on tech-blogs-dev badge" width="185" height="57"/>
+  <img src="https://www.tech-blogs.dev/featured-dark-large.png" alt="Featured on tech-blogs.dev badge" width="185" height="57"/>
 </a>
 ```
 
@@ -52,7 +52,7 @@ You can add a Featured badge on your blog to show your readers that your blog is
 
 ```html
 <a href="https://www.tech-blogs.dev">
-  <img src="https://www.tech-blogs.dev/featured-light-small.png" alt="Featured on tech-blogs-dev badge" width="158" height="47"/>
+  <img src="https://www.tech-blogs.dev/featured-light-small.png" alt="Featured on tech-blogs.dev badge" width="158" height="47"/>
 </a>
 ```
 
@@ -62,6 +62,6 @@ You can add a Featured badge on your blog to show your readers that your blog is
 
 ```html
 <a href="https://www.tech-blogs.dev">
-  <img src="https://www.tech-blogs.dev/featured-light-large.png" alt="Featured on tech-blogs-dev badge" width="185" height="57"/>
+  <img src="https://www.tech-blogs.dev/featured-light-large.png" alt="Featured on tech-blogs.dev badge" width="185" height="57"/>
 </a>
 ```
