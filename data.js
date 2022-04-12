@@ -3789,4 +3789,11 @@ module.exports = [
       "Object Oriented Design",
     ],
   },
+{
+    name: 'Industrial ROS2',
+    description: 'Robot Operating System Version 2',
+    url: 'https://rosindustrial.org/news',
+    twitter: '@your_twitter_handle',
+    tags: ['ROS2', 'Robots', 'Middleware', 'DDS'],
+}
 ];
