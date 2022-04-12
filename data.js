@@ -3777,8 +3777,8 @@ module.exports = [
     {
     name: "Vivek Jaiswal",
     description: "Software Architect from India with experience in Backend development, data engineering and machine learning",
-    url: "https://www.vivekjaiswal.me/",
-    twitter: "@vivekjaiswal22",
+    url: "https://www.vivekjaiswal.me/blog/",
+    twitter: "@liquidpie22",
     tags: [
       "Java",
       "Machine Learning",
