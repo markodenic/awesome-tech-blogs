@@ -3774,4 +3774,18 @@ module.exports = [
       "Web Development",
     ],
   },
+    {
+    name: "Vivek Jaiswal",
+    description: "Software Architect from India with experience in Backend development, data engineering and machine learning",
+    url: "https://www.vivekjaiswal.me/blog/",
+    twitter: "@liquidpie22",
+    tags: [
+      "Java",
+      "Machine Learning",
+      "Backend Development",
+      "System Design",
+      "Languages",
+      "Object Oriented Design"
+    ],
+  }
 ];
