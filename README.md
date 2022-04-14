@@ -31,8 +31,8 @@ You can add a Featured badge on your blog to show your readers that your blog is
 <img src="./static/featured-dark-small.png" alt="Small dark featured badge" width="158">
 
 ```html
-<a href="https://www.tech-blogs.dev">
-  <img src="https://www.tech-blogs.dev/featured-dark-small.png" alt="Featured on tech-blogs.dev badge" width="158" height="47" /> 
+<a href="https://tech-blogs.dev">
+  <img src="https://tech-blogs.dev/featured-dark-small.png" alt="Featured on tech-blogs.dev badge" width="158" height="47" /> 
 </a>
 ```
 
@@ -41,8 +41,8 @@ You can add a Featured badge on your blog to show your readers that your blog is
 <img src="./static/featured-dark-large.png" alt="Large dark featured badge" width="185">
 
 ```html
-<a href="https://www.tech-blogs.dev">
-  <img src="https://www.tech-blogs.dev/featured-dark-large.png" alt="Featured on tech-blogs.dev badge" width="185" height="57"/>
+<a href="https://tech-blogs.dev">
+  <img src="https://tech-blogs.dev/featured-dark-large.png" alt="Featured on tech-blogs.dev badge" width="185" height="57"/>
 </a>
 ```
 
@@ -51,8 +51,8 @@ You can add a Featured badge on your blog to show your readers that your blog is
 <img src="./static/featured-light-small.png" alt="Large light featured badge" width="158">
 
 ```html
-<a href="https://www.tech-blogs.dev">
-  <img src="https://www.tech-blogs.dev/featured-light-small.png" alt="Featured on tech-blogs.dev badge" width="158" height="47"/>
+<a href="https://tech-blogs.dev">
+  <img src="https://tech-blogs.dev/featured-light-small.png" alt="Featured on tech-blogs.dev badge" width="158" height="47"/>
 </a>
 ```
 
@@ -61,7 +61,7 @@ You can add a Featured badge on your blog to show your readers that your blog is
 <img src="./static/featured-light-large.png" alt="Small light featured badge" width="185">
 
 ```html
-<a href="https://www.tech-blogs.dev">
-  <img src="https://www.tech-blogs.dev/featured-light-large.png" alt="Featured on tech-blogs.dev badge" width="185" height="57"/>
+<a href="https://tech-blogs.dev">
+  <img src="https://tech-blogs.dev/featured-light-large.png" alt="Featured on tech-blogs.dev badge" width="185" height="57"/>
 </a>
 ```
