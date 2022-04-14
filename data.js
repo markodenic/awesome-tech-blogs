@@ -8,6 +8,13 @@ module.exports = [
     tags: ["Python", "Regular Expressions", "JavaScript", "Linux", "Vim"],
   },
   {
+    name: 'TestGrid',
+    description: 'Keep yourself update with the latest trends around web & mobile automation.',
+    url: 'https://www.testgrid.io/blog/',
+    twitter: '@testgridio',
+    tags: ['HTML', 'CSS', 'JavaScript'],
+},
+  {
     name: "Suprabha",
     description:
       "Hi, I'm Frontend Engineer, Content creator, Mentor, Public Speaker, Checkout my website for more details at http://suprabha.me",
