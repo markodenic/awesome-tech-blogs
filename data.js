@@ -3796,11 +3796,25 @@ module.exports = [
       "Object Oriented Design",
     ],
   },
-{
-    name: 'Industrial ROS2',
-    description: 'Robot Operating System Version 2',
-    url: 'https://rosindustrial.org/news',
-    twitter: '@RodFFHH',
-    tags: ['ROS2', 'Robots', 'Middleware', 'DDS'],
-}
+  {
+      name: 'Industrial ROS2',
+      description: 'Robot Operating System Version 2',
+      url: 'https://rosindustrial.org/news',
+      twitter: '@RodFFHH',
+      tags: ['ROS2', 'Robots', 'Middleware', 'DDS'],
+  },
+  {
+      name: "Tôi là Duyệt",
+      description: "Data Engineer from Vietnam with experience in Data Engineering, Cloud, Open Source and more",
+      url: "https://duyet.net",
+      twitter: "@_duyet",
+      tags: [
+        "Data Engineering",
+        "Web Development",
+        "Rust",
+        "Cloud",
+        "Vietnamese",
+        "Open Source"
+      ],
+  }
 ];
