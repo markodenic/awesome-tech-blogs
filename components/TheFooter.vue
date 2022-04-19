@@ -1,7 +1,7 @@
 <template>
   <footer class="text-center">
     <p>
-      Made by <a href="https://markodenic.com">Marko Denic</a> with <a href="https://nuxtjs.org">Nuxt.js</a>. Icons from <a href="https://www.freepik.com/">Freepik</a>.
+      Made by <a href="https://markodenic.com">Marko Denic</a> with Nuxt.js. Icons from Freepik.
     </p>
 
     <p>
@@ -13,11 +13,11 @@
     </p>
 
     <p>
-      Hosted on <a href="https://www.netlify.com/">Netlify</a>.
+      Hosted on Netlify.
     </p>
 
     <p>
-      Inspired by <a href="https://wesbos.com/">Wes Bos's</a> <a href="https://uses.tech/">uses.tech</a> page.
+      Inspired by Wes Bos's /uses.tech page.
     </p>
   </footer>
 </template>

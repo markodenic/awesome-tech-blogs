@@ -21,7 +21,5 @@
     <p>
       This is a list of Awesome Tech Blogs.
     </p>
-
-    <ProductHuntBadge />
   </header>
 </template>
