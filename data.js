@@ -13,7 +13,7 @@ module.exports = [
     url: 'https://www.testgrid.io/blog/',
     twitter: '@testgridio',
     tags: ['HTML', 'CSS', 'JavaScript'],
-},
+  },
   {
     name: "Suprabha",
     description:
@@ -106,6 +106,19 @@ module.exports = [
       "coding",
       "Web Dev",
       "blogging",
+    ],
+  },
+  {
+    name: 'Mbaziira Ronald',
+    description: 'Sharing resources on Web Development ❤️ | JavaScript 💻 | WordPress | Technical writing to ease your Web Development journey',
+    url: 'https://mbaziira.hashnode.dev/',
+    twitter: '@MbaziiraRonn',
+    tags: ['HTML',
+      'CSS',
+      'JavaScript',
+      'WordPress',
+      'Technical Writing',
+      'Web Development',
     ],
   },
   {
@@ -3797,24 +3810,24 @@ module.exports = [
     ],
   },
   {
-      name: 'Industrial ROS2',
-      description: 'Robot Operating System Version 2',
-      url: 'https://rosindustrial.org/news',
-      twitter: '@RodFFHH',
-      tags: ['ROS2', 'Robots', 'Middleware', 'DDS'],
+    name: 'Industrial ROS2',
+    description: 'Robot Operating System Version 2',
+    url: 'https://rosindustrial.org/news',
+    twitter: '@RodFFHH',
+    tags: ['ROS2', 'Robots', 'Middleware', 'DDS'],
   },
   {
-      name: "Tôi là Duyệt",
-      description: "Data Engineer from Vietnam with experience in Data Engineering, Cloud, Open Source and more",
-      url: "https://duyet.net",
-      twitter: "@_duyet",
-      tags: [
-        "Data Engineering",
-        "Web Development",
-        "Rust",
-        "Cloud",
-        "Vietnamese",
-        "Open Source"
-      ],
+    name: "Tôi là Duyệt",
+    description: "Data Engineer from Vietnam with experience in Data Engineering, Cloud, Open Source and more",
+    url: "https://duyet.net",
+    twitter: "@_duyet",
+    tags: [
+      "Data Engineering",
+      "Web Development",
+      "Rust",
+      "Cloud",
+      "Vietnamese",
+      "Open Source"
+    ],
   }
 ];
