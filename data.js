@@ -283,14 +283,6 @@ module.exports = [
     ],
   },
   {
-    name: "Gaurav Pandey",
-    description:
-      "14 y/o Developer working on Python & Machine Learning, writing about Web and AI + Research!.",
-    url: "https://blog.giyednap.me",
-    twitter: "@giyednap",
-    tags: ["Python", "Git", "Machine Learning"],
-  },
-  {
     name: "Arpan Pandey",
     description:
       "I am a 15 year old student who likes to code and blog. I'm a cool minded but logical and pragmatic person. I try to be thorough with my work and am a perfectionist at heart.",
@@ -1615,7 +1607,7 @@ module.exports = [
     name: "Michael Asiedu",
     description:
       "A blog suited to  make you better and grow as software developer. Also, market and leverage your coding skills ",
-    url: "https://blog.michaelasiedu.com",
+    url: "https://michaelasiedu.com",
     twitter: "@asiedu_dev",
     tags: [
       "HTML",
@@ -1911,23 +1903,6 @@ module.exports = [
       "product",
       "solidity",
       "productivity",
-    ],
-  },
-  {
-    name: "Varun Singh",
-    description: "Full-stack Developer",
-    url: "https://varuns.hashnode.dev",
-    twitter: "varuns924",
-    tags: [
-      "JavaScript",
-      "Web Development",
-      "React",
-      "Java",
-      "Mobile App Development",
-      "PHP",
-      "Android",
-      "MySQL",
-      "SQL",
     ],
   },
   {
@@ -2256,23 +2231,6 @@ module.exports = [
       "Web Development",
       "Open source",
       "JavaScript",
-    ],
-  },
-  {
-    name: "Joshua Chinwendu",
-    description:
-      "Full Stack Developer. Love working with Python Django framework.",
-    url: "https://joshualine.hashnode.dev",
-    twitter: "@joshchinwendu",
-    tags: [
-      "JavaScript",
-      "Python",
-      "Node.js",
-      "React",
-      "Django",
-      "APIs",
-      "HTML",
-      "CSS",
     ],
   },
   {
@@ -2732,30 +2690,6 @@ module.exports = [
     url: "https://aymanemx.com/posts",
     twitter: "@aymane_max",
     tags: ["Python", "Django", "Vue", "Elastic Search", "GraphQL"],
-  },
-  {
-    name: "Sebastian Urban",
-    description: ".NET Developer, Tech Lover",
-    url: "https://sebastianurban.dev/blog",
-    twitter: "@seburbandev",
-    tags: [
-      "Software Developer",
-      "C#",
-      ".NET",
-      "Csharp",
-      "APIs",
-      "Web Development",
-      "Tech",
-      "Productivity",
-      "Umbraco",
-    ],
-  },
-  {
-    name: "@litbelb on Medium",
-    description: "Gopher, Student, Gamer, very unprofessional writer",
-    url: "https://medium.litbelb.com",
-    twitter: "@Litbelb",
-    tags: ["Golang", "Front End", "Web Development", "Vue"],
   },
   {
     name: "Jai Kumar Dewani",
