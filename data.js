@@ -151,6 +151,23 @@ module.exports = [
       "Web Development",
     ],
   },
+    {
+    name: "Wampamba David",
+    description: "👨🏽‍💻Web Development, 💻 General Programming, 💰Making Money Online, and 👯‍♂️ Making Meaningful Connections. Best place to improve your tech skills in Days.",
+    url: "https://blog.davidofug.com",
+    twitter: "@davidofug",
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "ReactJS",
+      "NextJS",
+      "Web Development",
+      "General Programming",
+      "Making Money Online",
+      "Making Meaningful Connections",
+    ],
+  },
   {
     name: "HeadSpin Blog",
     description: "The best place to learn appium, selenium and web automation.",
