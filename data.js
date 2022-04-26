@@ -3368,7 +3368,7 @@ module.exports = [
       "Ray is a Lead Frontend Developer, specialised in Angular. He writes about Frontend Development, Workflow, JavaScript, TypeScript, Angular and more related topics.",
     url: "https://blog.byrayray.dev/",
     twitter: "@devbyrayray",
-    tags: ["HTML", "JavaScript", "CSS", "Beginner", "Web Development", "TypeScript", "Git", "Sass", "Docker"],
+    tags: ["HTML", "JavaScript", "CSS", "Beginner", "Web Development", "TypeScript", "Git", "Sass", "Angular"],
   },
   {
     name: "Unbiased Coder",
