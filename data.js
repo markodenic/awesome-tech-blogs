@@ -3363,6 +3363,14 @@ module.exports = [
     ],
   },
   {
+    name: "Dev by RayRay",
+    description:
+      "Ray is a Lead Frontend Developer, specialised in Angular. He writes about Frontend Development, Workflow, JavaScript, TypeScript, Angular and more related topics.",
+    url: "https://blog.byrayray.dev/",
+    twitter: "@devbyrayray",
+    tags: ["HTML", "JavaScript", "CSS", "Beginner", "Web Development", "Typescript", "Git", "Sass", "Angular"],
+  },
+  {
     name: "Unbiased Coder",
     description:
       "Full-stack with experience in: entertainment, broadcasting, healthcare, security, education, retail and finance.",
