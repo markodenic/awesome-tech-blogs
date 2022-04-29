@@ -1,5 +1,27 @@
 module.exports = [
   {
+    name: 'Developer Noon',
+    description: 'Awesome Programming Tutorials for Beginners by Experts.',
+    url: 'https://www.developernoon.com',
+    twitter: '@developer_noon',
+    tags: [
+      "Web Development",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "React",
+      "Front End",
+      "TypeScript",
+      "Gatsby",
+      "Web3",
+      "Webpack",
+      "Backend",
+      "Computer Science",
+      "Blockchain",
+      "Nodejs",
+    ],
+  },
+  {
     name: "Sundeep Agarwal",
     description:
       "I write about Regular Expressions, CLI one-liners, Scripting Languages, Vim and Self-Publishing.",
