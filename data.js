@@ -22,6 +22,14 @@ module.exports = [
     ],
   },
   {
+    name: "Tim Mouskhelichvili",
+    description:
+      "Hello 👋! I am Tim Mouskhelichvili, a Freelance Developer & Consultant from Montreal 🇨🇦. I write about Front-End Development.",
+    url: "https://timmousk.com/blog/",
+    twitter: "@tim_mousk",
+    tags: ["TypeScript", "JavaScript", "Git", "Web Development", "React"],
+  },
+  {
     name: "Sundeep Agarwal",
     description:
       "I write about Regular Expressions, CLI one-liners, Scripting Languages, Vim and Self-Publishing.",
