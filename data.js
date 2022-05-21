@@ -1703,15 +1703,10 @@ module.exports = [
       "TypeScript",
       "Docker",
       "DevOps",
-      "React",
-      "Next",
       "Front End",
       "Backend",
       "Programming",
       "Web Development",
-      "Software Engineering",
-      "Python",
-      "Kotlin",
       "Code Quality",
       "Productivity"
     ]
