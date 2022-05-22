@@ -1694,6 +1694,24 @@ module.exports = [
     ],
   },
   {
+    name: "//pauls dev blog",
+    description: "Husband, father of two, geek, lifelong learner, tech lover & software engineer. Writing about projects and challenges in IT.",
+    url: "https://www.knulst.de",
+    twitter: "@paulknulst",
+    tags: [
+      "JavaScript",
+      "TypeScript",
+      "Docker",
+      "DevOps",
+      "Fullstack",
+      "Software Engineering",
+      "Programming",
+      "Web Development",
+      "Code Quality",
+      "Productivity"
+    ]
+  },
+  {
     name: "Daily Dev Tips",
     description:
       "Chris writes every single day about web development snippets that will help you become a better developer. He focuses on frontend development, JavaScript, popular frameworks, and HTML and CSS.",
