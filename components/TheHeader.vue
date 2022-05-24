@@ -21,5 +21,7 @@
     <p>
       This is a list of Awesome Tech Blogs.
     </p>
+
+    Made by <a href="https://markodenic.com">Marko</a>.
   </header>
 </template>
