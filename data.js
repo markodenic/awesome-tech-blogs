@@ -3836,5 +3836,23 @@ module.exports = [
       "Vietnamese",
       "Open Source"
     ],
+  },
+  {
+    name: "Toidicode.com",
+    description: "Sharing knowledge about programming",
+    url: "https://toidicode.com",
+    twitter: "@toidicode",
+    tags: [
+      "PHP",
+      "Java",
+      "Laravel",
+      "Backend",
+      "Golang",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Web Development",
+      "Beginner",
+    ],
   }
 ];
