@@ -3747,21 +3747,6 @@ module.exports = [
     ],
   },
   {
-    name: "Sam Kihika",
-    description:
-      "A software and Web3 enthusiast. I love to code Frontend and Backend.",
-    url: "https://blog.samkihika.site",
-    twitter: "@KihikaSamuel",
-    tags: [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "Web Development",
-      "Frontend",
-      "Beginner",
-    ],
-  },
-  {
     name: "Will Chao",
     description: "SWE in China, Front-end developer, Vim enthusiast.",
     url: "https://nerdzzh.me/",
