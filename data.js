@@ -542,23 +542,6 @@ module.exports = [
     tags: ["Solidity", "Web3", "Smart Contracts", "Blockchain", "Ethereum"],
   },
   {
-    name: "Unclebigbay",
-    description: "Ayodele Samuel Adebayo | Software Engineer",
-    url: "https://unclebigbay.com",
-    twitter: "@unclebigbay143",
-    tags: [
-      "JavaScript",
-      "Project Based",
-      "React",
-      "NodeJS",
-      "Content Creation",
-      "Backend",
-      "Front End",
-      "Programming",
-      "Web Development",
-    ],
-  },
-  {
     name: "Yannick Mougin",
     description:
       "Just a dev enthusiast who enjoys building user-engaging apps and sharing them through step-by-step tutorials.",
@@ -633,7 +616,7 @@ module.exports = [
   {
     name: "Sagar Paul",
     description: "Fullstack developer. Self-taught.",
-    url: "https://sagarpaul.netlify.app/blogs",
+    url: "https://sagarpaul.netlify.app",
     twitter: "@iamSagarPaul",
     tags: [
       "Web Development",
@@ -832,14 +815,6 @@ module.exports = [
     description: "Software engineer, full stack enthusiastic, student",
     url: "https://kuldipmochi.hashnode.dev/",
     tags: ["JavaScript", "Node.js", "React", "Computer Science"],
-  },
-  {
-    name: "Sam Kihika",
-    description:
-      "I'm a software and Web3 enthusiast. I love to code Frontend and Backend. I will help you learn JavaScript.",
-    url: "https://blog.samkihika.site/",
-    twitter: "@KihikaSamuel",
-    tags: ["JavaScript", "Web development", "Nodejs", "Frameworks", "ES6"],
   },
   {
     name: "TerminusDB",
