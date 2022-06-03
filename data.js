@@ -3068,7 +3068,7 @@ module.exports = [
     name: "Bogdan Alexandru Militaru",
     description:
       "I write about programming, devops and my startup journey. | Software Engineer",
-    url: "https://boobo94.github.io/",
+    url: "https://whyboobo.com/",
     twitter: "@militaru_bogdan",
     tags: [
       "programming",
