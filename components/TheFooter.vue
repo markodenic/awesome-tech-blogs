@@ -5,7 +5,9 @@
     </p>
 
     <p>
-      Marko also made <a href="https://javascriptquiz.com">JavaScript Quiz</a> and <a href="https://freecodetools.org">Free Code Tools</a>.
+      <a href="https://javascriptquiz.com">JavaScript Quiz</a> |
+      <a href="https://freecodetools.org">Free Code Tools</a> |
+      <a href="https://web-dev-resources.com">Web Development Resources</a>
     </p>
 
     <p>
