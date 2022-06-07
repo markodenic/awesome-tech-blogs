@@ -22,6 +22,24 @@ module.exports = [
     ],
   },
   {
+    name: 'Programming School',
+    description: 'Awesome Programming Posts for Beginners by Experts.',
+    url: 'https://programming-school.hashnode.dev/',
+    twitter: '@Programing_Pro',
+    tags: [
+      "Web Development",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "React",
+      "Front End",
+      "TypeScript",
+      "Gatsby",
+      "Backend",
+      "Nodejs",
+    ],
+  },
+  {
     name: "Tim Mouskhelichvili",
     description:
       "Hello 👋! I am Tim Mouskhelichvili, a Freelance Developer & Consultant from Montreal 🇨🇦. I write about Front-End Development.",
