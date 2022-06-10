@@ -3832,5 +3832,12 @@ module.exports = [
       "Web Development",
       "Beginner",
     ],
-  }
+  },
+  {
+    name: 'Chris Achinga',
+    description: 'Keep it short and simple.',
+    url: 'https://chrisdevcode.hashnode.dev/',
+    twitter: '@achinga_chris',
+    tags: ['JavaScript', 'Node.js', 'React.js', 'Web Development', 'Headless CMS', 'Cloudinary', 'AWS', 'Next.js', 'ExpressJS', 'VueJS', 'Gatsby'],
+}
 ];
