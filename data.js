@@ -3448,6 +3448,23 @@ module.exports = [
     ],
   },
   {
+    name: "Chris Achinga",
+    description:
+      "I am a fullstack developer and Technical Writer. I write technical articles on Creating Softwares and using Headless CMS",
+    url: "https://chrisdevcode.hashnode.dev/",
+    twitter: "@achinga_chris",
+    tags: [
+      "React",
+      "JavaScript",
+      "Open source",
+      "Headless CMS",
+      "Next.js",
+      "CSS",
+      "Fullstack",
+      "Software Engineering",
+    ],
+  },
+  {
     name: "Mike Driscoll",
     description:
       "Python news, beginner to advanced tutorials, interviews and more",
