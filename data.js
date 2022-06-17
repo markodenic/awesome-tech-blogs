@@ -1728,6 +1728,14 @@ module.exports = [
     twitter: "@lo_victoria2666",
     tags: ["HTML", "CSS", "JavaScript", "Web Development", "React"],
   },
+
+  {
+    name: 'Mr. Unity Buddy',
+    description: 'Hey there! I am Mr. Unity Buddy. I love writing articles that help people to solve various problems and learning about new things.',
+    url: 'https://mr-unity-buddy.hashnode.dev/',
+    twitter: '@BuddyUnity',
+    tags: ['Python', "Fullstack", "Software Engineering","Programming","Productivity","Beginner", "Freelancing", "Career","Self-taught", "Front End"],
+},
   {
     name: "Abiola Farounbi",
     description:
