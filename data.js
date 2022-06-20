@@ -102,6 +102,13 @@ module.exports = [
     ],
   },
   {
+    name: 'Snehasish Chakraborty',
+    description: 'What is HSTS and how it can help securing websites',
+    url: 'https://blogs.snehasish-chakraborty.com/full-stack-engineering/hsts-in-detail/',
+    twitter: '@thisissnehasish',
+    tags: ['WEB', 'Security', 'JavaScript'],
+  },
+  {
     name: "Rene Rehme",
     description:
       "Web Developer from Stuttgart. Blog about tutorials, development, web, infoSec and life.",
