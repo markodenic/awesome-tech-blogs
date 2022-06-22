@@ -102,6 +102,19 @@ module.exports = [
     ],
   },
   {
+    name: 'Snehasish Chakraborty',
+    description: 'Full stack developer having experience in Spring, AWS, React, Angular',
+    url: 'https://blogs.snehasish-chakraborty.com/',
+    twitter: '@thisissnehasish',
+    tags: ['WEB',
+      'Security',
+      'JavaScript',
+      'Java',
+      'Spring',
+      'React',
+      'Angular'],
+  },
+  {
     name: "Rene Rehme",
     description:
       "Web Developer from Stuttgart. Blog about tutorials, development, web, infoSec and life.",
@@ -199,7 +212,7 @@ module.exports = [
       "Web Development",
     ],
   },
-    {
+  {
     name: "Wampamba David",
     description: "👨🏽‍💻Web Development, 💻 General Programming, 💰Making Money Online, and 👯‍♂️ Making Meaningful Connections. Best place to improve your tech skills in Days.",
     url: "https://blog.davidofug.com",
@@ -1734,8 +1747,8 @@ module.exports = [
     description: 'Hey there! I am Mr. Unity Buddy. I love writing articles that help people to solve various problems and learning about new things.',
     url: 'https://mr-unity-buddy.hashnode.dev/',
     twitter: '@BuddyUnity',
-    tags: ['Python', "Fullstack", "Software Engineering","Programming","Productivity","Beginner", "Freelancing", "Career","Self-taught", "Front End"],
-},
+    tags: ['Python', "Fullstack", "Software Engineering", "Programming", "Productivity", "Beginner", "Freelancing", "Career", "Self-taught", "Front End"],
+  },
   {
     name: "Abiola Farounbi",
     description:
