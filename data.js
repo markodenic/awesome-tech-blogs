@@ -3616,6 +3616,23 @@ module.exports = [
     ],
   },
   {
+    name: 'David Levai',
+    description: 'Teaching devs how to navigate the business world, after 7+ years as an entrepreneur.',
+    url: 'https://davidlevai.com',
+    twitter: '@iamdavidlevai',
+    tags: [
+      'React',
+      'Freelancing',
+      'JavaScript',
+      'TypeScript',
+      'Web Development',
+      'SaaS',
+      'JAMStack',
+      'Next.js',
+      'Serverless'
+    ],
+  },
+  {
     name: "NaveenKumar Namachivayam",
     description:
       "I am a performance engineer. I break stuffs. And I know nothing.",
