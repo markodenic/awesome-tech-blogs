@@ -3905,5 +3905,12 @@ module.exports = [
       "Web Development",
       "Beginner",
     ],
+  },
+  {
+    name: 'golang.ch',
+    description: 'Golang News, Tutorials, Apps and Golang Jobs.',
+    url: 'https://golang.ch',
+    twitter: '@golangch',
+    tags: ['Golang', 'Backend', 'DevOps'],
   }
 ];
