@@ -3887,5 +3887,22 @@ module.exports = [
       "Web Development",
       "Beginner",
     ],
+  },
+  {
+    name: "Vipul Soni",
+    description: "Full Stack Web Developer.Write blogs about Web Developement",
+    url: "https://medium.com/@vipulsoniab17_40156",
+    twitter: "https://twitter.com/Vipulso06279659",
+    tags: [
+      "React",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Web Development",
+      "MongoDB",
+      "Express",
+      "Node",
+      "TailwindCSS"
+    ],
   }
 ];
