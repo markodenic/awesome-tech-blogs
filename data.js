@@ -1,5 +1,24 @@
 module.exports = [
   {
+    name:'Afobaje',
+    description:'front end reactjs developer and technical writer',
+    url:'https://afobaje.hashnode.dev',
+    twitter:'@davidblaqq',
+    tags:[
+      'HTML',
+      'CSS',
+      'Javascript',
+      'web development',
+      'reactjs',
+      'nodejs',
+      'mongodb',
+      'webgl',
+      'threejs',
+      'tailwind',
+      'writer'
+    ]
+  },
+  {
     name: 'Developer Noon',
     description: 'Awesome Programming Tutorials for Beginners by Experts.',
     url: 'https://www.developernoon.com',
