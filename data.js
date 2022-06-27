@@ -40,6 +40,13 @@ module.exports = [
     ],
   },
   {
+    name: 'E-Grasps',
+    description: 'Learn About Technology, Finance, Life, and Much More!',
+    url: 'https://egrasps.in',
+    twitter: '@EGrasps',
+    tags: ['GIT', 'GITHUB', 'Learn Git and GitHub', 'Programming', 'Java', 'Python', 'Flask', 'Django', 'Full Stack Web Development'],
+},
+  {
     name: "Tim Mouskhelichvili",
     description:
       "Hello 👋! I am Tim Mouskhelichvili, a Freelance Developer & Consultant from Montreal 🇨🇦. I write about Front-End Development.",
@@ -3887,12 +3894,5 @@ module.exports = [
       "Web Development",
       "Beginner",
     ],
-  },
-  {
-    name: 'E-Grasps',
-    description: 'Learn About Technology, Finance, Life, and Much More!',
-    url: 'https://egrasps.in',
-    twitter: '@EGrasps',
-    tags: ['GIT', 'GITHUB', 'Learn Git and GitHub', 'Programming', 'Java', 'Python', 'Flask', 'Django', 'Full Stack Web Development'],
-}
+  }
 ];
