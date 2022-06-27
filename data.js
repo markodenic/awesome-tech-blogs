@@ -14,7 +14,7 @@ module.exports = [
       'mongodb',
       'webgl',
       'threejs',
-      
+
     ]
   },
   {
@@ -146,6 +146,24 @@ module.exports = [
       "Backend",
       "Front End",
       "Programming",
+    ],
+  },
+  {
+    name: "Ash Allen 🚀",
+    description: "A blog with articles, guides, and tutorials about Laravel and PHP!",
+    url: "https://ashallendesign.co.uk/blog",
+    twitter: "@AshAllenDesign",
+    tags: [
+      "Laravel",
+      "PHP",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Backend",
+      "Front End",
+      "Web Development",
+      "Open Source",
+      "Clean Code"
     ],
   },
   {
