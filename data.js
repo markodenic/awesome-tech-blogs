@@ -3784,8 +3784,6 @@ module.exports = [
       "Terminal",
       "Linux",
       "Git",
-      "GitHub",
-      "AWS",
       "Cloud",
       "Docker",
       "Open Source",
