@@ -40,6 +40,24 @@ module.exports = [
     ],
   },
   {
+    name: 'EGrasps',
+    description: 'Blogs about Technology, Programming, Software Development, Finance, Life and Much More.',
+    url: 'https://egrasps.in',
+    twitter: '@EGrasps',
+    tags: [
+      "Web Development",
+      "Java",
+      "Full Stack Web Development",
+      "Python",
+      "Flask",
+      "Django",
+      "Git",
+      "GitHub",
+      "Learn Git and GitHub",
+      "Learn Programming",
+    ],
+  },
+  {
     name: 'Programming School',
     description: 'Awesome Programming Posts for Beginners by Experts.',
     url: 'https://programming-school.hashnode.dev/',
@@ -165,6 +183,13 @@ module.exports = [
       'Open Source',
       'Clean Code',
     ],
+  },
+  {
+    name: 'golang.ch',
+    description: 'Golang News, Tutorials, Apps and Golang Jobs.',
+    url: 'https://golang.ch',
+    twitter: '@golangch',
+    tags: ['Golang', 'Backend', 'DevOps'],
   },
   {
     name: "Roopesh Sn's Blog",
@@ -3796,6 +3821,21 @@ module.exports = [
       "Docker",
       "Go",
       "Containers",
+    ],
+  },
+  {
+    name: "Aman Panjwani",
+    description:
+      "A Passionate Software Developer Loves to share experience through articles and blogs and this thing motivates me to explore more in this technological era",
+    url: "https://medium.com/@amanpanjavani111",
+    twitter: "@aman_p17",
+    tags: [
+      "HTML",
+      "CSS",
+      ".NET",
+      "JavaScript",
+      "OOPs",
+      "Backend",
     ],
   },
   {
