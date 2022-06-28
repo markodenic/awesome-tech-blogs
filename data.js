@@ -3806,6 +3806,21 @@ module.exports = [
     ],
   },
   {
+    name: "Aman Panjwani",
+    description:
+      "A Passionate Software Developer Loves to share experience through articles and blogs and this thing motivates me to explore more in this technological era",
+    url: "https://medium.com/@amanpanjavani111",
+    twitter: "@aman_p17",
+    tags: [
+      "HTML",
+      "CSS",
+      ".NET",
+      "JavaScript",
+      "OOPs",
+      "Backend",
+    ],
+  },
+  {
     name: "Alka Gupta",
     description: "Amazing tech blogs from an amazing tech enthusiast 😉",
     url: "https://hashnode.com/@alkagupta",
