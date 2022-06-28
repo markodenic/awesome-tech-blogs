@@ -3963,5 +3963,19 @@ module.exports = [
       "Web Development",
       "Beginner",
     ],
+  },
+  {
+    name: "Tauqeer Ahmad",
+    description: "Developer Tools Writer",
+    url: "https://tauqeerahmad5201.medium.com",
+    twitter: "@_TauqeerAhmad",
+    tags: [
+      "GitHub",
+      "Microsoft",
+      "DevOps",
+      "Command Line",
+      "Terminal",
+      "Linux",
+    ],
   }
 ];
