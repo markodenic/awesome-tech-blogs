@@ -149,6 +149,13 @@ module.exports = [
     ],
   },
   {
+    name: 'golang.ch',
+    description: 'Golang News, Tutorials, Apps and Golang Jobs.',
+    url: 'https://golang.ch',
+    twitter: '@golangch',
+    tags: ['Golang', 'Backend', 'DevOps'],
+  },
+  {
     name: "Roopesh Sn's Blog",
     description:
       "Whatever difficulty I faces in my routine work, I'll summarize that in a blog post",
