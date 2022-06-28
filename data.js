@@ -14,6 +14,22 @@ module.exports = [
       "Blockchain",
       "Nodejs",
     ],
+    name:'Afobaje',
+    description:'front end reactjs developer and technical writer',
+    url:'https://afobaje.hashnode.dev',
+    twitter:'@davidblaqq',
+    tags:[
+      'HTML',
+      'CSS',
+      'Javascript',
+      'web development',
+      'reactjs',
+      'nodejs',
+      'mongodb',
+      'webgl',
+      'threejs',
+
+    ]
   },
   {
     name: 'Developer Noon',
@@ -35,6 +51,24 @@ module.exports = [
       "Computer Science",
       "Blockchain",
       "Nodejs",
+    ],
+  },
+  {
+    name: 'EGrasps',
+    description: 'Blogs about Technology, Programming, Software Development, Finance, Life and Much More.',
+    url: 'https://egrasps.in',
+    twitter: '@EGrasps',
+    tags: [
+      "Web Development",
+      "Java",
+      "Full Stack Web Development",
+      "Python",
+      "Flask",
+      "Django",
+      "Git",
+      "GitHub",
+      "Learn Git and GitHub",
+      "Learn Programming",
     ],
   },
   {
@@ -118,6 +152,19 @@ module.exports = [
     ],
   },
   {
+    name: 'Snehasish Chakraborty',
+    description: 'Full stack developer having experience in Spring, AWS, React, Angular',
+    url: 'https://blogs.snehasish-chakraborty.com/',
+    twitter: '@thisissnehasish',
+    tags: ['WEB',
+      'Security',
+      'JavaScript',
+      'Java',
+      'Spring',
+      'React',
+      'Angular'],
+  },
+  {
     name: "Rene Rehme",
     description:
       "Web Developer from Stuttgart. Blog about tutorials, development, web, infoSec and life.",
@@ -132,6 +179,31 @@ module.exports = [
       "Front End",
       "Programming",
     ],
+  },
+  {
+    name: 'Ash Allen 🚀',
+    description: 'A blog with articles, guides, and tutorials about Laravel and PHP!',
+    url: 'https://ashallendesign.co.uk/blog',
+    twitter: '@AshAllenDesign',
+    tags: [
+      'Laravel',
+      'PHP',
+      'HTML',
+      'CSS',
+      'JavaScript',
+      'Backend',
+      'Front End',
+      'Web Development',
+      'Open Source',
+      'Clean Code',
+    ],
+  },
+  {
+    name: 'golang.ch',
+    description: 'Golang News, Tutorials, Apps and Golang Jobs.',
+    url: 'https://golang.ch',
+    twitter: '@golangch',
+    tags: ['Golang', 'Backend', 'DevOps'],
   },
   {
     name: "Roopesh Sn's Blog",
@@ -215,7 +287,7 @@ module.exports = [
       "Web Development",
     ],
   },
-    {
+  {
     name: "Wampamba David",
     description: "👨🏽‍💻Web Development, 💻 General Programming, 💰Making Money Online, and 👯‍♂️ Making Meaningful Connections. Best place to improve your tech skills in Days.",
     url: "https://blog.davidofug.com",
@@ -1750,8 +1822,8 @@ module.exports = [
     description: 'Hey there! I am Mr. Unity Buddy. I love writing articles that help people to solve various problems and learning about new things.',
     url: 'https://mr-unity-buddy.hashnode.dev/',
     twitter: '@BuddyUnity',
-    tags: ['Python', "Fullstack", "Software Engineering","Programming","Productivity","Beginner", "Freelancing", "Career","Self-taught", "Front End"],
-},
+    tags: ['Python', "Fullstack", "Software Engineering", "Programming", "Productivity", "Beginner", "Freelancing", "Career", "Self-taught", "Front End"],
+  },
   {
     name: "Abiola Farounbi",
     description:
@@ -3619,6 +3691,23 @@ module.exports = [
     ],
   },
   {
+    name: 'David Levai',
+    description: 'Teaching devs how to navigate the business world, after 7+ years as an entrepreneur.',
+    url: 'https://davidlevai.com',
+    twitter: '@iamdavidlevai',
+    tags: [
+      'React',
+      'Freelancing',
+      'JavaScript',
+      'TypeScript',
+      'Web Development',
+      'SaaS',
+      'JAMStack',
+      'Next.js',
+      'Serverless'
+    ],
+  },
+  {
     name: "NaveenKumar Namachivayam",
     description:
       "I am a performance engineer. I break stuffs. And I know nothing.",
@@ -3749,6 +3838,21 @@ module.exports = [
     ],
   },
   {
+    name: "Aman Panjwani",
+    description:
+      "A Passionate Software Developer Loves to share experience through articles and blogs and this thing motivates me to explore more in this technological era",
+    url: "https://medium.com/@amanpanjavani111",
+    twitter: "@aman_p17",
+    tags: [
+      "HTML",
+      "CSS",
+      ".NET",
+      "JavaScript",
+      "OOPs",
+      "Backend",
+    ],
+  },
+  {
     name: "Alka Gupta",
     description: "Amazing tech blogs from an amazing tech enthusiast 😉",
     url: "https://hashnode.com/@alkagupta",
@@ -3872,6 +3976,20 @@ module.exports = [
       "JavaScript",
       "Web Development",
       "Beginner",
+    ],
+  },
+  {
+    name: "Tauqeer Ahmad",
+    description: "Developer Tools Writer",
+    url: "https://tauqeerahmad5201.medium.com",
+    twitter: "@_TauqeerAhmad",
+    tags: [
+      "GitHub",
+      "Microsoft",
+      "DevOps",
+      "Command Line",
+      "Terminal",
+      "Linux",
     ],
   }
 ];
