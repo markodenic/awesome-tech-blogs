@@ -3,12 +3,9 @@ module.exports = [
     name: 'Vinayak\'s blog',
     description: 'A blog about backend technologies',
     url: 'https://itsvinayak.hashnode.dev/',
-    twitter: '',
+    twitter: 'https://twitter.com/itsvinayak_',
     tags: [
-      "Web Development",
       "JavaScript",
-      "HTML",
-      "CSS",
       "React",
       "Web3",
       "Webpack",
