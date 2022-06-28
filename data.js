@@ -3947,9 +3947,9 @@ module.exports = [
     ],
   },
   {
-    name: "Making operations easy using GitHub CLI",
-    description: "All about learning GitHub CLI, helping tool for developers.",
-    url: "https://tauqeerahmad5201.medium.com/making-things-easy-using-github-cli-b5624e9b1350",
+    name: "Tauqeer Ahmad",
+    description: "Developer Tools Writer",
+    url: "https://tauqeerahmad5201.medium.com",
     twitter: "@_TauqeerAhmad",
     tags: [
       "GitHub",
