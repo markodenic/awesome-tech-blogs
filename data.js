@@ -3966,7 +3966,7 @@ module.exports = [
   },
   {
     name: "Tauqeer Ahmad",
-    description: "Developer Tools Writer",
+    description: "I am Developer Tools Writer. Mostly writes about the technology used and required these days. Part of tech communities and emphasies community learning.",
     url: "https://tauqeerahmad5201.medium.com",
     twitter: "@_TauqeerAhmad",
     tags: [
@@ -3975,7 +3975,11 @@ module.exports = [
       "DevOps",
       "Command Line",
       "Terminal",
+      "Git",
       "Linux",
+      "Operating System",
+      "Code Editor",
+      "Authentication",
     ],
   }
 ];
