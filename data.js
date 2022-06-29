@@ -291,6 +291,36 @@ module.exports = [
     ],
   },
   {
+    name: 'crwlr.software',
+    description: 'Articles about web crawling and scraping in PHP.',
+    url: 'https://www.crwlr.software/blog',
+    twitter: '@crwlrsoft',
+    tags: [
+      'PHP',
+      'crawling',
+      'scraping',
+      'Crawler',
+      'Scraper',
+      'HTTP',
+      'Web Development'
+    ]
+  },
+  {
+    name: 'otsch.codes',
+    description: 'I blog about coding and my entrepreneurial journey.',
+    url: 'https://www.otsch.codes/',
+    twitter: '@chrolear',
+    tags: [
+      'PHP',
+      'Web Development',
+      'HTTP',
+      'Business',
+      'SaaS',
+      'Entrepreneurial Journey',
+      'coding'
+    ]
+  },
+  {
     name: "HeadSpin Blog",
     description: "The best place to learn appium, selenium and web automation.",
     url: "https://www.headspin.io/blog",
