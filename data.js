@@ -1,5 +1,23 @@
 module.exports = [
   {
+    name:'Afobaje',
+    description:'front end reactjs developer and technical writer',
+    url:'https://afobaje.hashnode.dev',
+    twitter:'@davidblaqq',
+    tags:[
+      'HTML',
+      'CSS',
+      'Javascript',
+      'web development',
+      'reactjs',
+      'nodejs',
+      'mongodb',
+      'webgl',
+      'threejs',
+
+    ]
+  },
+  {
     name: 'Developer Noon',
     description: 'Awesome Programming Tutorials for Beginners by Experts.',
     url: 'https://www.developernoon.com',
@@ -19,6 +37,24 @@ module.exports = [
       "Computer Science",
       "Blockchain",
       "Nodejs",
+    ],
+  },
+  {
+    name: 'EGrasps',
+    description: 'Blogs about Technology, Programming, Software Development, Finance, Life and Much More.',
+    url: 'https://egrasps.in',
+    twitter: '@EGrasps',
+    tags: [
+      "Web Development",
+      "Java",
+      "Full Stack Web Development",
+      "Python",
+      "Flask",
+      "Django",
+      "Git",
+      "GitHub",
+      "Learn Git and GitHub",
+      "Learn Programming",
     ],
   },
   {
@@ -131,6 +167,31 @@ module.exports = [
     ],
   },
   {
+    name: 'Ash Allen 🚀',
+    description: 'A blog with articles, guides, and tutorials about Laravel and PHP!',
+    url: 'https://ashallendesign.co.uk/blog',
+    twitter: '@AshAllenDesign',
+    tags: [
+      'Laravel',
+      'PHP',
+      'HTML',
+      'CSS',
+      'JavaScript',
+      'Backend',
+      'Front End',
+      'Web Development',
+      'Open Source',
+      'Clean Code',
+    ],
+  },
+  {
+    name: 'golang.ch',
+    description: 'Golang News, Tutorials, Apps and Golang Jobs.',
+    url: 'https://golang.ch',
+    twitter: '@golangch',
+    tags: ['Golang', 'Backend', 'DevOps'],
+  },
+  {
     name: "Roopesh Sn's Blog",
     description:
       "Whatever difficulty I faces in my routine work, I'll summarize that in a blog post",
@@ -228,6 +289,36 @@ module.exports = [
       "Making Money Online",
       "Making Meaningful Connections",
     ],
+  },
+  {
+    name: 'crwlr.software',
+    description: 'Articles about web crawling and scraping in PHP.',
+    url: 'https://www.crwlr.software/blog',
+    twitter: '@crwlrsoft',
+    tags: [
+      'PHP',
+      'crawling',
+      'scraping',
+      'Crawler',
+      'Scraper',
+      'HTTP',
+      'Web Development'
+    ]
+  },
+  {
+    name: 'otsch.codes',
+    description: 'I blog about coding and my entrepreneurial journey.',
+    url: 'https://www.otsch.codes/',
+    twitter: '@chrolear',
+    tags: [
+      'PHP',
+      'Web Development',
+      'HTTP',
+      'Business',
+      'SaaS',
+      'Entrepreneurial Journey',
+      'coding'
+    ]
   },
   {
     name: "HeadSpin Blog",
@@ -3733,6 +3824,24 @@ module.exports = [
     ],
   },
   {
+    name: "Rushflow",
+    description: "Articles about DevOps written by Daniel Vigueras",
+    url: "https://rushflow.io",
+    twitter: "@rushflowio",
+    tags: [
+      "DevOps",
+      "Command Line",
+      "Terminal",
+      "Linux",
+      "Git",
+      "Cloud",
+      "Docker",
+      "Open Source",
+      "Cloud Infrastructure",
+      "Kubernetes"
+    ],
+  },
+  {
     name: "Vasanti Suthar",
     description:
       "Web development, sharing resources, content writing, and open source contributor",
@@ -3780,6 +3889,21 @@ module.exports = [
       "Docker",
       "Go",
       "Containers",
+    ],
+  },
+  {
+    name: "Aman Panjwani",
+    description:
+      "A Passionate Software Developer Loves to share experience through articles and blogs and this thing motivates me to explore more in this technological era",
+    url: "https://medium.com/@amanpanjavani111",
+    twitter: "@aman_p17",
+    tags: [
+      "HTML",
+      "CSS",
+      ".NET",
+      "JavaScript",
+      "OOPs",
+      "Backend",
     ],
   },
   {
@@ -3908,5 +4032,22 @@ module.exports = [
       "Beginner",
     ],
   },
-  
+  {
+    name: "Tauqeer Ahmad",
+    description: "I am Developer Tools Writer. Mostly writes about the technology used and required these days. Part of tech communities and emphasies community learning.",
+    url: "https://tauqeerahmad5201.medium.com",
+    twitter: "@_TauqeerAhmad",
+    tags: [
+      "GitHub",
+      "Microsoft",
+      "DevOps",
+      "Command Line",
+      "Terminal",
+      "Git",
+      "Linux",
+      "Operating System",
+      "Code Editor",
+      "Authentication",
+    ],
+  }
 ];
