@@ -185,6 +185,19 @@ module.exports = [
     ],
   },
   {
+    name: "Parth Desai",
+    description: "I am a Data Engineer who is passionate about Data Science and Automation. In my free time, I like developing side projects and blogging about them.",
+    url: "https://musing.vercel.app/blog",
+    twitter: "@lone_Musk",
+    tags: [
+      'NextJS',
+      'ReactJS',
+      'NodeJS',
+      'TypeScript',
+      'Prisma',
+    ],
+  },
+  {
     name: 'golang.ch',
     description: 'Golang News, Tutorials, Apps and Golang Jobs.',
     url: 'https://golang.ch',
