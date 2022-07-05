@@ -1,5 +1,21 @@
 module.exports = [
   {
+    name: 'Vinayak\'s blog',
+    description: 'A blog about backend technologies',
+    url: 'https://itsvinayak.hashnode.dev/',
+    twitter: '@itsvinayak_',
+    tags: [
+      "JavaScript",
+      "React",
+      "Web3",
+      "payments",
+      "Backend",
+      "Computer Science",
+      "Blockchain",
+      "Nodejs",
+    ],
+  },
+  {
     name:'Afobaje',
     description:'front end reactjs developer and technical writer',
     url:'https://afobaje.hashnode.dev',
