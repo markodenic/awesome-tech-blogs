@@ -16,7 +16,7 @@ module.exports = [
       'threejs',
 
     ]
-  },
+  },  
   {
     name: 'Developer Noon',
     description: 'Awesome Programming Tutorials for Beginners by Experts.',
@@ -56,7 +56,27 @@ module.exports = [
       "Learn Git and GitHub",
       "Learn Programming",
     ],
-  },
+  },  
+  {
+    name:'Dev jain',
+    description:'blogs about fullstack ui/ux opensoucrce personal-branding DSA technical writing community programming tips',
+    url:'https://dj688.hashnode.dev/',
+    twitter:'@Devjtwt786',
+    tags:[
+      'HTML',
+      'CSS',
+      'Javascript',
+      'web development',
+      'reactjs',
+      'nodejs',
+      'fullStack',
+      'UI/UX',
+      'opensource',
+      'community',
+      'frontend',
+      'backend',
+    ]
+  },  
   {
     name: 'Programming School',
     description: 'Awesome Programming Posts for Beginners by Experts.',
