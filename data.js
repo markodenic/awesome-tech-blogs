@@ -16,7 +16,7 @@ module.exports = [
       'threejs',
 
     ]
-  },  
+  },
   {
     name: 'Developer Noon',
     description: 'Awesome Programming Tutorials for Beginners by Experts.',
@@ -56,7 +56,7 @@ module.exports = [
       "Learn Git and GitHub",
       "Learn Programming",
     ],
-  },  
+  },
   {
     name:'Dev jain',
     description:'blogs about fullstack ui/ux opensoucrce personal-branding DSA technical writing community programming tips',
@@ -76,7 +76,7 @@ module.exports = [
       'frontend',
       'backend',
     ]
-  },  
+  },
   {
     name: 'Programming School',
     description: 'Awesome Programming Posts for Beginners by Experts.',
@@ -2984,6 +2984,19 @@ module.exports = [
       "Golang",
       "NOSQL",
       "Redis",
+    ],
+  },
+  {
+    name: 'Maria Ehsan',
+    description: "I'm a Database Engineer, a women in Tech. I work on large scale databases that runs millions of transactions every second, consists of very large multi-terabyte, multi-million rows of data.",
+    url: 'https://medium.com/@maria.ehsan63',
+    twitter: '@Maria__Ehsan',
+    tags: [
+      "AWS",
+      "Databases",
+      "Infrastructure As Code",
+      "Cloud Cost Optimization",
+      "Database at Scale"
     ],
   },
   {
