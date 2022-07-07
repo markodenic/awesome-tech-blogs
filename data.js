@@ -1021,7 +1021,7 @@ module.exports = [
     twitter: '@murtuza_surti',
     tags: [
       'HTML', 
-      'CSS", 
+      'CSS', 
       'JavaScript',
       'eleventy',
       '11ty',
