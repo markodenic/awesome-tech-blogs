@@ -1031,6 +1031,23 @@ module.exports = [
     ],
   },
   {
+    name: 'Murtuzaali Surti',
+    description: 'Full Stack Developer & Content Creator',
+    url: 'https://syntackle.live',
+    twitter: '@murtuza_surti',
+    tags: [
+      'HTML', 
+      'CSS', 
+      'JavaScript',
+      'eleventy',
+      '11ty',
+      'Web Development',
+      'Coding',
+      'Front-end Development',
+      'Backend Development'
+    ],
+  },
+  {
     name: "Suhail Kakar",
     description:
       "Full Stack Software Developer | Tech Blogger | Writes about JavaScript, Python, Open Source, and Software Development",
