@@ -306,6 +306,22 @@ module.exports = [
       "Web Development",
     ],
   },
+    {
+    name: 'Vinayak\'s blog',
+    description: 'A blog about backend technologies',
+    url: 'https://itsvinayak.hashnode.dev/',
+    twitter: '@itsvinayak_',
+    tags: [
+      "JavaScript",
+      "React",
+      "Web3",
+      "payments",
+      "Backend",
+      "Computer Science",
+      "Blockchain",
+      "Nodejs",
+    ],
+  },
   {
     name: "Wampamba David",
     description: "👨🏽‍💻Web Development, 💻 General Programming, 💰Making Money Online, and 👯‍♂️ Making Meaningful Connections. Best place to improve your tech skills in Days.",
