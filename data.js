@@ -4128,6 +4128,21 @@ module.exports = [
     ],
   },
   {
+    name: "Adit Modi",
+    description: "👨‍💻 Cloud Engineer at @DigitalAlphaInc ☁️ AWS Community Builder | 🛠️ Hashicorp Ambassador 🏆9x AWS | 3x Azure Certified 🍊 Community @AboutCloudTech",
+    url: "https://aditmodi.com",
+    twitter: "@adi_12_modi",
+    tags: [
+      "AWS",
+      "Cloud",
+      "BigData",
+      "DevOps",
+      "Serverless",
+      "Data&Analytics",
+      "Startups",
+    ],
+  },
+  {
     name: 'Yonasuriv',
     description: 'Curiosity is the engine of Achievement. Computer Science, Full Stack Development and Cybersecurity.',
     url: 'https://www.yonasuriv.com',
