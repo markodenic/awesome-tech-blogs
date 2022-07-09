@@ -3688,8 +3688,6 @@ module.exports = [
     twitter: "@wuniverse_site",
     tags: ["PHP", "JavaScript", "CSS", "WordPress"],
   },
-
- 
   {
     name: "Pritam Bera",
     description:
