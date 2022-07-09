@@ -58,6 +58,26 @@ module.exports = [
     ],
   },
   {
+    name:'Dev jain',
+    description:'blogs about fullstack ui/ux opensoucrce personal-branding DSA technical writing community programming tips',
+    url:'https://dj688.hashnode.dev/',
+    twitter:'@Devjtwt786',
+    tags:[
+      'HTML',
+      'CSS',
+      'Javascript',
+      'web development',
+      'reactjs',
+      'nodejs',
+      'fullStack',
+      'UI/UX',
+      'opensource',
+      'community',
+      'frontend',
+      'backend',
+    ]
+  },
+  {
     name: 'Programming School',
     description: 'Awesome Programming Posts for Beginners by Experts.',
     url: 'https://programming-school.hashnode.dev/',
@@ -185,6 +205,19 @@ module.exports = [
     ],
   },
   {
+    name: "Parth Desai",
+    description: "I am a Data Engineer who is passionate about Data Science and Automation. In my free time, I like developing side projects and blogging about them.",
+    url: "https://musing.vercel.app/blog",
+    twitter: "@lone_Musk",
+    tags: [
+      'NextJS',
+      'ReactJS',
+      'NodeJS',
+      'TypeScript',
+      'Prisma',
+    ],
+  },
+  {
     name: 'golang.ch',
     description: 'Golang News, Tutorials, Apps and Golang Jobs.',
     url: 'https://golang.ch',
@@ -271,6 +304,22 @@ module.exports = [
       "APIs",
       ".NET",
       "Web Development",
+    ],
+  },
+    {
+    name: 'Vinayak\'s blog',
+    description: 'A blog about backend technologies',
+    url: 'https://itsvinayak.hashnode.dev/',
+    twitter: '@itsvinayak_',
+    tags: [
+      "JavaScript",
+      "React",
+      "Web3",
+      "payments",
+      "Backend",
+      "Computer Science",
+      "Blockchain",
+      "Nodejs",
     ],
   },
   {
@@ -979,6 +1028,23 @@ module.exports = [
       "Laravel",
       "TailwindCSS",
       "SEO",
+    ],
+  },
+  {
+    name: 'Murtuzaali Surti',
+    description: 'Full Stack Developer & Content Creator',
+    url: 'https://syntackle.live',
+    twitter: '@murtuza_surti',
+    tags: [
+      'HTML', 
+      'CSS', 
+      'JavaScript',
+      'eleventy',
+      '11ty',
+      'Web Development',
+      'Coding',
+      'Front-end Development',
+      'Backend Development'
     ],
   },
   {
@@ -2954,6 +3020,19 @@ module.exports = [
     ],
   },
   {
+    name: 'Maria Ehsan',
+    description: "I'm a Database Engineer, a women in Tech. I work on large scale databases that runs millions of transactions every second, consists of very large multi-terabyte, multi-million rows of data.",
+    url: 'https://medium.com/@maria.ehsan63',
+    twitter: '@Maria__Ehsan',
+    tags: [
+      "AWS",
+      "Databases",
+      "Infrastructure As Code",
+      "Cloud Cost Optimization",
+      "Database at Scale"
+    ],
+  },
+  {
     name: "Bart Zalewski",
     description:
       "Full-Stack Developer. I helped hundreds of thousands of people around the world with programming.",
@@ -3427,6 +3506,24 @@ module.exports = [
       "Javascript",
       "Web Development",
       "Open Source",
+    ],
+  },
+
+  {
+    name: "Vipul Soni",
+    description: "Full Stack Web Developer.Write blogs about Web Developement",
+    url: "https://medium.com/@vipulsoniab17_40156",
+    twitter: "@Vipulso06279659",
+    tags: [
+      "React",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Web Development",
+      "MongoDB",
+      "Express",
+      "Node",
+      "TailwindCSS"
     ],
   },
   {
@@ -4044,5 +4141,12 @@ module.exports = [
       "Data&Analytics",
       "Startups",
     ],
-  }
+  },
+  {
+    name: 'Yonasuriv',
+    description: 'Curiosity is the engine of Achievement. Computer Science, Full Stack Development and Cybersecurity.',
+    url: 'https://www.yonasuriv.com',
+    twitter: '@yonasuriv',
+    tags: ["Computer","Science","Cybersecurity","AI","Blockchain","Philosophy","Future","Innovation","Creativity","Hacking"],
+}
 ];
