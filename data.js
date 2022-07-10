@@ -39,6 +39,13 @@ module.exports = [
     ],
   },
   {
+    name: 'Yonasuriv',
+    description: 'Curiosity is the engine of Achievement. Computer Science, Full Stack Development and Cybersecurity.',
+    url: 'https://www.yonasuriv.com/blog',
+    twitter: '@yonasuriv',
+    tags: ["Computer","Science","Cybersecurity","AI","Blockchain","Philosophy","Future","Innovation","Creativity","Hacking"],
+  }, 
+  {
     name: "EGrasps",
     description:
       "Blogs about Technology, Programming, Software Development, Finance, Life and Much More.",
