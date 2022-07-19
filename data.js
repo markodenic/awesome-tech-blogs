@@ -2538,7 +2538,7 @@ module.exports = [
     name: "Austin Gil",
     description: "Writing about web development and life.",
     url: "https://austingil.com/blog/",
-    twitter: "@Stegosource",
+    twitter: "@heyAustinGil",
     tags: [
       "HTML",
       "CSS",
