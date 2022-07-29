@@ -1665,6 +1665,13 @@ module.exports = [
     tags: ["Web Design", "WordPress", "SEO"],
   },
   {
+    name: 'DevTales',
+    description: 'Yet Another Technical Blog',
+    url: 'https://devtales.tech',
+    twitter: '@devtales_dev',
+    tags: ['HTML', 'AI', 'JavaScript', 'Python', 'Data Science', 'Machine Learning', 'Development', 'Programming', 'DevOps'],
+  },
+  {
     name: "Alexander Lichter",
     description:
       "Nuxt.js maintainer and Web Development Consultant. I love to blog about various technical topics with a focus on web development, especially with Vue and Nuxt.",
