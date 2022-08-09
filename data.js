@@ -4188,4 +4188,24 @@ module.exports = [
       "Hacking",
     ],
   },
+  
+    {
+    name: "Masteringbackend",
+    description:
+      "A great resource for backend engineers",
+    url: "https://masteringbackend.com",
+    twitter: "@master_backend",
+    tags: [
+      "Backend",
+      "Sotware development",
+      "Software engineering",
+      "PHP",
+      "Node.js",
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "Tech",
+      "Software engineer",
+    ],
+  },
 ];
