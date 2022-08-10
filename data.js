@@ -4188,4 +4188,23 @@ module.exports = [
       "Hacking",
     ],
   },
+  {
+    name: "Anonystick blog",
+    description: "A blog about backend technologies, tips and tricks technologies",
+    url: "https://anonystick.com",
+    twitter: "@anonystick",
+    tags: [
+      "JavaScript",
+      "React",
+      "Redis",
+      "Elasticsearch",
+      "Mongodb",
+      "Web3",
+      "payments",
+      "Backend",
+      "Computer Science",
+      "Blockchain",
+      "Nodejs",
+    ],
+  },
 ];
