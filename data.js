@@ -3161,4 +3161,25 @@ module.exports = [
       "Web Development",
     ],
   },
+  {
+    name: "AnonyStick",
+    description:
+      "Web development resources, tutorials, tips and tricks for developers.",
+    url: "https://anonystick.com",
+    twitter: "@anonystick",
+    tags: [
+      "Web Development",
+      "Backend",
+      "Git",
+      "Front End",
+      "React",
+      "Redis",
+      "Elasticsearch",
+      "JavaScript",
+      "APIs",
+      "Node.js",
+      "CSS",
+      "HTML",
+    ],
+  },
 ];
