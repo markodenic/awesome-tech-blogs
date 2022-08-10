@@ -4188,4 +4188,12 @@ module.exports = [
       "Hacking",
     ],
   },
+  {
+    name: "Ammaar's Blog",
+    description: 'Articles on Web Development🌐(React, NextJS, HTML, CSS, Tailwind CSS), Productivity📈 and Programming in General👩‍💻, to help you become a better developer.',
+    url: 'https://ammaaraslam.hashnode.dev/',
+    twitter: '@itsammaar_7',
+    tags: ['Web Development', 'Programming', 'JavaScript', 'Node.js', 'React', 'Next.js', 'TailwindCSS', 'Productivity'],
+}
+
 ];
