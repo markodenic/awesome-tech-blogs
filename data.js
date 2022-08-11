@@ -3788,6 +3788,25 @@ module.exports = [
     ],
   },
   {
+    name: "Anonystick blog",
+    description: "A blog about backend technologies, tips and tricks technologies",
+    url: "https://anonystick.com",
+    twitter: "@anonystick",
+    tags: [
+      "JavaScript",
+      "React",
+      "Redis",
+      "Elasticsearch",
+      "Mongodb",
+      "Web3",
+      "payments",
+      "Backend",
+      "Computer Science",
+      "Blockchain",
+      "Nodejs",
+    ]
+ },
+  {
     name: "Rajanand Ilangovan",
     description:
       "I am a Business Intelligence developer with over a decade of experience in design and development of database, data warehouse, business intelligence and reporting/data visualization solutions. I'm also a Microsoft certified trainer and MCSE - data management and analytics.",
