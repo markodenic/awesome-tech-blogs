@@ -3211,6 +3211,25 @@ module.exports = [
     ],
   },
   {
+    name: "Anonystick blog",
+    description: "A blog about backend technologies, tips and tricks technologies",
+    url: "https://anonystick.com",
+    twitter: "@TungNguyen07",
+    tags: [
+      "JavaScript",
+      "React",
+      "Redis",
+      "Elasticsearch",
+      "Mongodb",
+      "Web3",
+      "payments",
+      "Backend",
+      "Computer Science",
+      "Blockchain",
+      "Nodejs",
+    ]
+ },
+  {
     name: "Vishunbhotla V D V Bharadwaj",
     description:
       "A Computer Science Engineer who loves Blogging and Sharing Content",
