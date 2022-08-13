@@ -14,9 +14,7 @@ module.exports = [
       "Management",
       "Front End",
       "Back End",
-      "Tech",
       "Clouds",
-      "ML"
     ],
   },
   {
