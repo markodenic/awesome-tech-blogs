@@ -629,8 +629,6 @@ module.exports = [
     url: "https://www.michaelasiedu.com",
     twitter: "@asiedu_dev",
     tags: [
-      "HTML",
-      "CSS",
       "JavaScript",
       "Next.js",
       "Solidity",
@@ -638,8 +636,8 @@ module.exports = [
       "Web3.0",
       "React.js",
       "General",
+      "Open-Source",
       "TypeScript",
-      "APIs",
     ],
   },
   {
