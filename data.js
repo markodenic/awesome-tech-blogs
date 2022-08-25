@@ -3392,6 +3392,13 @@ module.exports = [
     ],
   },
   {
+    name: "Japan Dev",
+    description: "Good tech jobs in Japan",
+    url: "https://japan-dev.com/blog",
+    twitter: "@_etdev",
+    tags: ["Tech", "Jobs", "Japan", "Engineering", "Design", "Product", "Startups"],
+  },
+  {
     name: "Alexandre Nédélec",
     description:
       "Software developer living in Bordeaux, France ⋅ Working mainly in C# / .NET on Azure ⋅ Love discovering new tools and technologies",
