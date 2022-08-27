@@ -3402,6 +3402,13 @@ module.exports = [
     ],
   },
   {
+    name: "Japan Dev",
+    description: "Good tech jobs in Japan",
+    url: "https://japan-dev.com/blog",
+    twitter: "@_etdev",
+    tags: ["Tech", "Jobs", "Japan", "Engineering", "Design", "Product", "Startups"],
+  },
+  {
     name: "Alexandre Nédélec",
     description:
       "Software developer living in Bordeaux, France ⋅ Working mainly in C# / .NET on Azure ⋅ Love discovering new tools and technologies",
@@ -4232,6 +4239,25 @@ module.exports = [
       "TypeScript",
       "Tech",
       "Software engineer",
+    ],
+  },
+  {
+    name: "Max Kovalevsky",
+    description:
+      "A software developer. I blog about programming in general, CS (algorithms and ds), terminal stuff (Linux, CLI's, Neovim, etc)",
+    url: "https://maxkovalevsky.com",
+    twitter: "@KovalevskyMax",
+    tags: [
+      "Sotware development",
+      "Software engineering",
+      "Computer",
+      "Science",
+      "Hacking",
+      "TypeScript",
+      "Golang",
+      "Linux",
+      "Vim",
+      "Neovim"
     ],
   },
 ];
