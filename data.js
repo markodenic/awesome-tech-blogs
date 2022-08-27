@@ -4231,4 +4231,23 @@ module.exports = [
       "Software engineer",
     ],
   },
+  {
+    name: "Max Kovalevsky",
+    description:
+      "A software developer. I blog about programming in general, CS (algorithms and ds), terminal stuff (Linux, CLI's, Neovim, etc)",
+    url: "https://maxkovalevsky.com",
+    twitter: "@KovalevskyMax",
+    tags: [
+      "Sotware development",
+      "Software engineering",
+      "Computer",
+      "Science",
+      "Hacking",
+      "TypeScript",
+      "Golang",
+      "Linux",
+      "Vim",
+      "Neovim"
+    ],
+  },
 ];
