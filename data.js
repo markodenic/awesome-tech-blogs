@@ -1,3 +1,18 @@
+/**
+    * @description      : 
+    * @author           : Michael
+    * @group            : 
+    * @created          : 31/08/2022 - 09:11:24
+    * 
+    * MODIFICATION LOG
+    * - Version         : 1.0.0
+    * - Date            : 31/08/2022
+    * - Author          : Michael
+    * - Modification    : 
+**/
+
+
+
 module.exports = [
   {
     name: "Afobaje",
@@ -1825,21 +1840,19 @@ module.exports = [
   {
     name: "Michael Asiedu",
     description:
-      "A blog suited to  make you better and grow as software developer. Also, market and leverage your coding skills ",
-    url: "https://michaelasiedu.com",
+      "This blog is dedicated to educating curious individuals who want to learn about technology and improve their skills.",
+    url: "https://wwww.michaelasiedu.com",
     twitter: "@asiedu_dev",
     tags: [
-      "HTML",
-      "CSS",
       "JavaScript",
-      "Tailwind",
-      "UI/UX Design",
+      "React.js",
+      "TypeScript",
+      "Open Source",
+      "Solidity",
       "Node.js",
       "Web3.0",
-      "React",
-      "Digital Marketing",
-      "Personal Branding for developers",
-      "APIs",
+      "General",
+      
     ],
   },
   {
