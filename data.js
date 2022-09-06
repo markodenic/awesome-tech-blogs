@@ -1,5 +1,22 @@
 module.exports = [
   {
+    name: 'Live Code Stream',
+    description: 'We produce FREE tutorials and resources for self-taught developers and data scientists.',
+    url: "https://livecodestream.dev/",
+    twitter: "@livecodestream",
+    tags: [
+      "Javascript",
+      "Web Development",
+      "Web3",
+      "HTML",
+      "CSS",
+      "Freelancing",
+      "Career",
+      "Software Development",
+      "Learn Programming"
+    ]
+  },
+  {
     name: "Afobaje",
     description: "front end reactjs developer and technical writer",
     url: "https://afobaje.hashnode.dev",
