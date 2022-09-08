@@ -4237,13 +4237,8 @@ module.exports = [
       "Blockchain",
       "Fintech",
       "Crypto",
-      "jamStack",
-      "Analytics",
-      "Research",
-      "Business",
-      "Health-tech",
-      "UI/UX",
-      "Finance",
+      "Technology",
+      "Research"
     ],
   },
 ];
