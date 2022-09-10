@@ -1,5 +1,23 @@
 module.exports = [
   {
+    name: "2minsDevsNotes",
+    description: "Github-based fast-to-read blog about dev's daily routine challenges",
+    url: "https://github.com/vtcaregorodtcev/2minsDevsNotes",
+    twitter: "@v_hadoocken",
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "TypeScript",
+      "Frameworks",
+      "Web Development",
+      "Management",
+      "Front End",
+      "Back End",
+      "Clouds",
+    ],
+  },
+  {
     name: "Afobaje",
     description: "front end reactjs developer and technical writer",
     url: "https://afobaje.hashnode.dev",
@@ -4211,8 +4229,8 @@ module.exports = [
       "Hacking",
     ],
   },
-  
-    {
+
+  {
     name: "Masteringbackend",
     description:
       "A great resource for backend engineers",
