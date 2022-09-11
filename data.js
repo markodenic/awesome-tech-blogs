@@ -2974,6 +2974,22 @@ module.exports = [
       "Web Development",
     ],
   },
+    {
+    name: "Vincenzo Marcovecchio",
+    description:
+      "Junior Web Developer",
+    url: "https://vincenzo.codes",
+    twitter: "@_vinny_92",
+    tags: [
+      "Sotware development",
+      "Software engineering",
+      "Computer",
+      "Science",
+      "Hacking",
+      "TypeScript",
+      "Javascript"
+    ],
+  },
   {
     name: "Aymane Mimouni",
     description:
