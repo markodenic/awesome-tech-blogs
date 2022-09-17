@@ -504,6 +504,21 @@ module.exports = [
     ],
   },
   {
+    name: "Anil Rao K",
+    description: "An engineer who loves curating & creating content.",
+    url: "https://anilraok.com",
+    twitter: "@Anilraok",
+    tags: [
+      "Android",
+      "iOS",
+      "Flutter",
+      "TypeScript",
+      "Node.js",
+      "PHP",
+      "mongodb",
+    ],
+  },
+  {
     name: "Dev Apt",
     description:
       "A web magazine demystifying web development, programming and technology with tips, tricks and tweaks.",
