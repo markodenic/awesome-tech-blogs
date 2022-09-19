@@ -4268,4 +4268,14 @@ module.exports = [
       "Neovim"
     ],
   },
+  {
+    name: "Benjamin Crozat",
+    description: "Freelance web developer passionate about the TALL stack.",
+    url: "https://benjamincrozat.com",
+    twitter: "@benjamincrozat",
+    tags: [
+      "PHP",
+      "Laravel",
+    ],
+  },
 ];
