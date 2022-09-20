@@ -2877,6 +2877,24 @@ module.exports = [
     ],
   },
   {
+    name: "Webetwicklung Ideenreich",
+    description:
+      "Web Development. Analysis and visualization of data. Surveys and market research.",
+    url: "https://web-ideenreich.at",
+    tags: [
+      "Web Development",
+      "Data Visualization",
+      "Market Research",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Git",
+      "PHP",
+      "Laravel",
+      "Linux",
+    ],
+  },
+  {
     name: "Donald Feury",
     description:
       "Appalachian man that writes about Go, MongoDB, FFmpeg, Linux and games",
@@ -2958,6 +2976,22 @@ module.exports = [
       "Docker",
       "Linux",
       "Kubernetes",
+    ],
+  },
+  {
+    name: "Alfred Danda",
+    description:
+      "Web developer working with PHP and Laravel at Webetwicklung Ideenreich which I'm the co-owner of.",
+    url: "https://danda.at",
+    tags: [
+      "Software Engineer",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Git",
+      "PHP",
+      "Laravel",
+      "Linux",
     ],
   },
   {
