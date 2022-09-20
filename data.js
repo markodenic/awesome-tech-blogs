@@ -25,7 +25,7 @@ module.exports = [
     tags: [
       "HTML",
       "CSS",
-      "Javascript",
+      "JavaScript",
       "web development",
       "reactjs",
       "nodejs",
@@ -84,7 +84,7 @@ module.exports = [
     tags: [
       "HTML",
       "CSS",
-      "Javascript",
+      "JavaScript",
       "web development",
       "reactjs",
       "nodejs",
@@ -3599,7 +3599,7 @@ module.exports = [
       "Laravel",
       "Livewire",
       "Linux",
-      "Javascript",
+      "JavaScript",
       "Web Development",
       "Open Source",
     ],
@@ -3823,10 +3823,10 @@ module.exports = [
   {
     name: "iRead Blog",
     description:
-      "iRead is a multi-user blogging platform where you'll find technical articles and project tutorials related to Python, Javascript, Flutter and much more ",
+      "iRead is a multi-user blogging platform where you'll find technical articles and project tutorials related to Python, JavaScript, Flutter and much more ",
     url: "https://ireadblog.com",
     twitter: "@iRead_Blog",
-    tags: ["Python", "Java", "DSA", "Javascript", "Flutter", "Web Development"],
+    tags: ["Python", "Java", "DSA", "JavaScript", "Flutter", "Web Development"],
   },
   {
     name: "Helmer Davila",
@@ -3835,7 +3835,7 @@ module.exports = [
     url: "https://helmerdavila.com/blog",
     twitter: "@helmerdavila",
     tags: [
-      "Javascript",
+      "JavaScript",
       "TypeScript",
       "Shell configs",
       "Python",
