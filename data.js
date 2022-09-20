@@ -35,28 +35,6 @@ module.exports = [
     ],
   },
   {
-    name: "Developer Noon",
-    description: "Awesome Programming Tutorials for Beginners by Experts.",
-    url: "https://www.developernoon.com",
-    twitter: "@developer_noon",
-    tags: [
-      "Web Development",
-      "JavaScript",
-      "HTML",
-      "CSS",
-      "React",
-      "Front End",
-      "TypeScript",
-      "Gatsby",
-      "Web3",
-      "Webpack",
-      "Backend",
-      "Computer Science",
-      "Blockchain",
-      "Nodejs",
-    ],
-  },
-  {
     name: "EGrasps",
     description:
       "Blogs about Technology, Programming, Software Development, Finance, Life and Much More.",
@@ -1961,21 +1939,6 @@ module.exports = [
     tags: ["Linux", "Ubuntu", "Faster Development"],
   },
   {
-    name: "Vlad Pasca",
-    description:
-      "Self-taught web developer, documenting my journey and sharing the projects I am working on",
-    url: "https://vladpasca.hashnode.dev/",
-    twitter: "@VladPasca5",
-    tags: [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "Web Development",
-      "Beginner",
-      "Self-taught",
-    ],
-  },
-  {
     name: "Alba Silvente",
     description:
       "Front End developer and ambassador at Nuxt & Storyblok!. Blogging about Front End and working hard on the open-source to create more value for the web community. 🦸",
@@ -2303,14 +2266,6 @@ module.exports = [
       "Web Development",
       "Accessibility",
     ],
-  },
-  {
-    name: "Rishav Jadon",
-    description:
-      "This is my blog where I write all about css and the wonderful world of front end.",
-    url: "https://csskenpai.com",
-    twitter: "@rovenclasher",
-    tags: ["Web Development", "JavaScript", "CSS", "HTML", "Front End"],
   },
   {
     name: "Goodness Ezeh",
@@ -3711,7 +3666,7 @@ module.exports = [
     name: "Dev by RayRay",
     description:
       "Ray is a Lead Frontend Developer, specialised in Angular. He writes about Frontend Development, Workflow, JavaScript, TypeScript, Angular and more related topics.",
-    url: "https://blog.byrayray.dev/",
+    url: "https://byrayray.dev/",
     twitter: "@devbyrayray",
     tags: [
       "HTML",
