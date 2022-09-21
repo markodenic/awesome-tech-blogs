@@ -3594,23 +3594,6 @@ module.exports = [
     ],
   },
   {
-    name: "Ayesha Sahar",
-    description:
-      "I write articles and share tips + tricks about Python, C++, UI/UX & Web Development to make your learning journey easier✨",
-    url: "https://thecodingcompany.hashnode.dev/",
-    twitter: "@IAyeshaSahar",
-    tags: [
-      "C++",
-      "JavaScript",
-      "Web Development",
-      "UI/UX",
-      "Python",
-      "CSS",
-      "HTML",
-      "Front End",
-    ],
-  },
-  {
     name: "Abhiraj Bhowmick",
     description:
       "Daily threads and blogs to make web development easy for everyone",
@@ -4108,6 +4091,21 @@ module.exports = [
       "Music",
       "Web Development",
     ],
+  },
+  { name: "Ayesha Sahar", 
+  description: "I write articles and share tips + tricks about Python, C++, UI/UX & Web Development to make your learning journey easier✨", 
+  url: "https://ayeshasahar.hashnode.dev/", 
+  twitter: "@IAyeshaSahar", 
+  tags: [ 
+    "C++",
+     "JavaScript", 
+     "Web Development", 
+     "UI/UX", 
+     "Python", 
+     "CSS", 
+     "HTML", 
+     "Front End", 
+    ], 
   },
   {
     name: "Vivek Jaiswal",
