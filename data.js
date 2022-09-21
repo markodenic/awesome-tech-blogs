@@ -477,7 +477,7 @@ module.exports = [
       "Nodejs",
       "JAMStack",
       "Next.js",
-      "React.js",
+      "React",
       "Node.js",
     ],
   },
@@ -824,7 +824,7 @@ module.exports = [
       "Writing on Next.js, React, Tailwind and building apps using these.",
     url: "https://rishimohan.me/blog",
     twitter: "@thelifeofrishi",
-    tags: ["HTML", "CSS", "JavaScript", "React.js", "TailwindCSS", "Node.js"],
+    tags: ["HTML", "CSS", "JavaScript", "React", "TailwindCSS", "Node.js"],
   },
   {
     name: "Muthu Annamalai",
@@ -2832,7 +2832,7 @@ module.exports = [
     ],
   },
   {
-    name: "Webetwicklung Ideenreich",
+    name: "Webentwicklung Ideenreich",
     description:
       "Web Development. Analysis and visualization of data. Surveys and market research.",
     url: "https://web-ideenreich.at",
@@ -2936,7 +2936,7 @@ module.exports = [
   {
     name: "Alfred Danda",
     description:
-      "Web developer working with PHP and Laravel at Webetwicklung Ideenreich which I'm the co-owner of.",
+      "Web developer working with PHP and Laravel at Webentwicklung Ideenreich which I'm the co-owner of.",
     url: "https://danda.at",
     tags: [
       "Software Engineer",
@@ -3985,7 +3985,7 @@ module.exports = [
       "Web development, sharing resources, content writing, and open source contributor",
     url: "https://vasantisuthar.hashnode.dev/",
     twitter: "@vasanti_suthar",
-    tags: ["JavaScript", "Node.js", "React.js", "Database", "Linux", "DevOps"],
+    tags: ["JavaScript", "Node.js", "React", "Database", "Linux", "DevOps"],
   },
   {
     name: "TestingBot",
