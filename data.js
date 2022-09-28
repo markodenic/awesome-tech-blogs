@@ -43,7 +43,7 @@ module.exports = [
     tags: [
       "Web Development",
       "Java",
-      "Full Stack Web Development",
+      "Web Development",
       "Python",
       "Flask",
       "Django",
@@ -4253,6 +4253,27 @@ module.exports = [
       "Linux",
       "Vim",
       "Neovim"
+    ],
+  },
+  {
+    name: "Andrej Gajdos",
+    description:
+      "Articles, guides and tutorials about development in JavaScript",
+    url: "https://andrejgajdos.com",
+    twitter: "@Andrej_Gajdos",
+    tags: [
+      "Sotware development",
+      "Software engineering",
+      "JavaScript",
+      "React",
+      "Web Development",
+      "CSS",
+      "HTML",
+      "TypeScript",
+      "Front End",
+      "Node.js",
+      "Programming",
+      "Next.js"
     ],
   },
 ];
