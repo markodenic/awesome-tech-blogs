@@ -4262,7 +4262,6 @@ module.exports = [
     url: "https://andrejgajdos.com/blog",
     twitter: "@Andrej_Gajdos",
     tags: [
-      "Sotware development",
       "Software engineering",
       "JavaScript",
       "React",
@@ -4272,7 +4271,6 @@ module.exports = [
       "TypeScript",
       "Front End",
       "Node.js",
-      "Programming",
       "Next.js"
     ],
   },
