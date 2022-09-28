@@ -43,7 +43,7 @@ module.exports = [
     tags: [
       "Web Development",
       "Java",
-      "Web Development",
+      "Full Stack Web Development",
       "Python",
       "Flask",
       "Django",
