@@ -4259,7 +4259,7 @@ module.exports = [
     name: "Andrej Gajdos",
     description:
       "Articles, guides and tutorials about development in JavaScript",
-    url: "https://andrejgajdos.com",
+    url: "https://andrejgajdos.com/blog",
     twitter: "@Andrej_Gajdos",
     tags: [
       "Sotware development",
