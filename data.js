@@ -1,5 +1,21 @@
 module.exports = [
   {
+    name: "Live Code Stream",
+    description: "We produce FREE tutorials and resources for self-taught developers and data scientists.",
+    url: "https://livecodestream.dev/post/",
+    twitter: "@livecodestream",
+    tags: [
+      "Javascript",
+      "Web Development",
+      "Web3",
+      "HTML",
+      "CSS",
+      "Freelancing",
+      "Career",
+      "Software Development",
+      "Learn Programming"
+    ]
+  },
     name: "2minsDevsNotes",
     description: "Github-based fast-to-read blog about dev's daily routine challenges",
     url: "https://github.com/vtcaregorodtcev/2minsDevsNotes",
