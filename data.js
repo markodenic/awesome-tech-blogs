@@ -4320,6 +4320,13 @@ module.exports = [
       "Vim",
       "Neovim"
     ],
+    {
+    name: 'Sean Milfort',
+    description: 'Tech blog that about all the things that I am learning and experiencing throughout my everyday journey!.',
+    url: 'https://blog.seanmilfort.com',
+    twitter: '@seanmilfort',
+    tags: ['HTML', 'CSS', 'JavaScript','Tech','Development','Consumer Products', 'Reviews','Front End', 'Back End', 'Learning', 'Mobile'],
+    }
   },
   {
     name: "Andrej Gajdos",
