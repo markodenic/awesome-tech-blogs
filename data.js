@@ -4322,7 +4322,25 @@ module.exports = [
     ],
   },
   {
-    name: "Benjamin Crozat",
+    name: "Andrej Gajdos",
+    description:
+      "Articles, guides and tutorials about development in JavaScript",
+    url: "https://andrejgajdos.com/blog",
+    twitter: "@Andrej_Gajdos",
+    tags: [
+      "Software engineering",
+      "JavaScript",
+      "React",
+      "Web Development",
+      "CSS",
+      "HTML",
+      "TypeScript",
+      "Front End",
+      "Node.js",
+      "Next.js"
+    ],
+  },
+  {    name: "Benjamin Crozat",
     description: "Freelance web developer passionate about the TALL stack.",
     url: "https://benjamincrozat.com",
     twitter: "@benjamincrozat",
