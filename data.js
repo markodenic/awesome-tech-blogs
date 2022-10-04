@@ -1,5 +1,21 @@
 module.exports = [
   {
+    name: "Live Code Stream",
+    description: "We produce FREE tutorials and resources for self-taught developers and data scientists.",
+    url: "https://livecodestream.dev/post/",
+    twitter: "@livecodestream",
+    tags: [
+      "Javascript",
+      "Web Development",
+      "Web3",
+      "HTML",
+      "CSS",
+      "Freelancing",
+      "Career",
+      "Software Development",
+      "Learn Programming"
+    ]
+  },
     name: "2minsDevsNotes",
     description: "Github-based fast-to-read blog about dev's daily routine challenges",
     url: "https://github.com/vtcaregorodtcev/2minsDevsNotes",
@@ -479,6 +495,21 @@ module.exports = [
       "Next.js",
       "React",
       "Node.js",
+    ],
+  },
+  {
+    name: "Anil Rao K",
+    description: "An engineer who loves curating & creating content.",
+    url: "https://anilraok.com",
+    twitter: "@Anilraok",
+    tags: [
+      "Android",
+      "iOS",
+      "Flutter",
+      "TypeScript",
+      "Node.js",
+      "PHP",
+      "mongodb",
     ],
   },
   {
@@ -2963,6 +2994,22 @@ module.exports = [
       "Web Development",
     ],
   },
+    {
+    name: "Vincenzo Marcovecchio",
+    description:
+      "Junior Web Developer",
+    url: "https://vincenzo.codes",
+    twitter: "@_vinny_92",
+    tags: [
+      "Sotware development",
+      "Software engineering",
+      "Computer",
+      "Science",
+      "Hacking",
+      "TypeScript",
+      "Javascript"
+    ],
+  },
   {
     name: "Aymane Mimouni",
     description:
@@ -4182,6 +4229,25 @@ module.exports = [
     ],
   },
   {
+    name: "Mehul Mohan",
+    description: "A web developer currently working on making programming more accessible and interactive to everyone in the world.",
+    url: "https://codedamn.com/news",
+    twitter: "@mehulmpt",
+    tags: [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Backend",
+    "Web Development",
+    "React",
+    "Node.js",
+    "TypeScript",
+    "Python",
+    "Git",
+    "Tech"
+]
+},
+  {
     name: "Adit Modi",
     description:
       "👨‍💻 Cloud Engineer at @DigitalAlphaInc ☁️ AWS Community Builder | 🛠️ Hashicorp Ambassador 🏆9x AWS | 3x Azure Certified 🍊 Community @AboutCloudTech",
@@ -4274,4 +4340,19 @@ module.exports = [
       "Next.js"
     ],
   },
+  {    name: "Benjamin Crozat",
+    description: "Freelance web developer passionate about the TALL stack.",
+    url: "https://benjamincrozat.com",
+    twitter: "@benjamincrozat",
+    tags: [
+      "PHP",
+      "Laravel",
+    ],
+  },
+  {    name: 'Mahdi',
+    description: 'Senior Software Engineer and Bootstrapper',
+    url: 'https://mahdix.com',
+    twitter: '@mahdix',
+    tags: ['Java', 'SaaS', 'Kotlin', 'Linux'],
+  }
 ];
