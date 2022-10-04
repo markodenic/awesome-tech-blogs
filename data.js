@@ -4303,7 +4303,16 @@ module.exports = [
     ],
   },
   {
-    name: 'Mahdi',
+    name: "Benjamin Crozat",
+    description: "Freelance web developer passionate about the TALL stack.",
+    url: "https://benjamincrozat.com",
+    twitter: "@benjamincrozat",
+    tags: [
+      "PHP",
+      "Laravel",
+    ],
+  },
+  {    name: 'Mahdi',
     description: 'Senior Software Engineer and Bootstrapper',
     url: 'https://mahdix.com',
     twitter: '@mahdix',
