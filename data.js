@@ -1,5 +1,21 @@
 module.exports = [
   {
+    name: "Live Code Stream",
+    description: "We produce FREE tutorials and resources for self-taught developers and data scientists.",
+    url: "https://livecodestream.dev/post/",
+    twitter: "@livecodestream",
+    tags: [
+      "Javascript",
+      "Web Development",
+      "Web3",
+      "HTML",
+      "CSS",
+      "Freelancing",
+      "Career",
+      "Software Development",
+      "Learn Programming"
+    ]
+  },
     name: "2minsDevsNotes",
     description: "Github-based fast-to-read blog about dev's daily routine challenges",
     url: "https://github.com/vtcaregorodtcev/2minsDevsNotes",
@@ -25,35 +41,13 @@ module.exports = [
     tags: [
       "HTML",
       "CSS",
-      "Javascript",
+      "JavaScript",
       "web development",
       "reactjs",
       "nodejs",
       "mongodb",
       "webgl",
       "threejs",
-    ],
-  },
-  {
-    name: "Developer Noon",
-    description: "Awesome Programming Tutorials for Beginners by Experts.",
-    url: "https://www.developernoon.com",
-    twitter: "@developer_noon",
-    tags: [
-      "Web Development",
-      "JavaScript",
-      "HTML",
-      "CSS",
-      "React",
-      "Front End",
-      "TypeScript",
-      "Gatsby",
-      "Web3",
-      "Webpack",
-      "Backend",
-      "Computer Science",
-      "Blockchain",
-      "Nodejs",
     ],
   },
   {
@@ -84,7 +78,7 @@ module.exports = [
     tags: [
       "HTML",
       "CSS",
-      "Javascript",
+      "JavaScript",
       "web development",
       "reactjs",
       "nodejs",
@@ -499,8 +493,23 @@ module.exports = [
       "Nodejs",
       "JAMStack",
       "Next.js",
-      "React.js",
+      "React",
       "Node.js",
+    ],
+  },
+  {
+    name: "Anil Rao K",
+    description: "An engineer who loves curating & creating content.",
+    url: "https://anilraok.com",
+    twitter: "@Anilraok",
+    tags: [
+      "Android",
+      "iOS",
+      "Flutter",
+      "TypeScript",
+      "Node.js",
+      "PHP",
+      "mongodb",
     ],
   },
   {
@@ -846,7 +855,7 @@ module.exports = [
       "Writing on Next.js, React, Tailwind and building apps using these.",
     url: "https://rishimohan.me/blog",
     twitter: "@thelifeofrishi",
-    tags: ["HTML", "CSS", "JavaScript", "React.js", "TailwindCSS", "Node.js"],
+    tags: ["HTML", "CSS", "JavaScript", "React", "TailwindCSS", "Node.js"],
   },
   {
     name: "Muthu Annamalai",
@@ -1961,21 +1970,6 @@ module.exports = [
     tags: ["Linux", "Ubuntu", "Faster Development"],
   },
   {
-    name: "Vlad Pasca",
-    description:
-      "Self-taught web developer, documenting my journey and sharing the projects I am working on",
-    url: "https://vladpasca.hashnode.dev/",
-    twitter: "@VladPasca5",
-    tags: [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "Web Development",
-      "Beginner",
-      "Self-taught",
-    ],
-  },
-  {
     name: "Alba Silvente",
     description:
       "Front End developer and ambassador at Nuxt & Storyblok!. Blogging about Front End and working hard on the open-source to create more value for the web community. 🦸",
@@ -2303,14 +2297,6 @@ module.exports = [
       "Web Development",
       "Accessibility",
     ],
-  },
-  {
-    name: "Rishav Jadon",
-    description:
-      "This is my blog where I write all about css and the wonderful world of front end.",
-    url: "https://csskenpai.com",
-    twitter: "@rovenclasher",
-    tags: ["Web Development", "JavaScript", "CSS", "HTML", "Front End"],
   },
   {
     name: "Goodness Ezeh",
@@ -2877,6 +2863,24 @@ module.exports = [
     ],
   },
   {
+    name: "Webentwicklung Ideenreich",
+    description:
+      "Web Development. Analysis and visualization of data. Surveys and market research.",
+    url: "https://web-ideenreich.at",
+    tags: [
+      "Web Development",
+      "Data Visualization",
+      "Market Research",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Git",
+      "PHP",
+      "Laravel",
+      "Linux",
+    ],
+  },
+  {
     name: "Donald Feury",
     description:
       "Appalachian man that writes about Go, MongoDB, FFmpeg, Linux and games",
@@ -2961,6 +2965,22 @@ module.exports = [
     ],
   },
   {
+    name: "Alfred Danda",
+    description:
+      "Web developer working with PHP and Laravel at Webentwicklung Ideenreich which I'm the co-owner of.",
+    url: "https://danda.at",
+    tags: [
+      "Software Engineer",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Git",
+      "PHP",
+      "Laravel",
+      "Linux",
+    ],
+  },
+  {
     name: "Godswill Umukoro",
     description: "Software engineer who loves building frontend applications",
     url: "https://godswillumukoro.hashnode.dev",
@@ -2972,6 +2992,22 @@ module.exports = [
       "Node.js",
       "APIs",
       "Web Development",
+    ],
+  },
+    {
+    name: "Vincenzo Marcovecchio",
+    description:
+      "Junior Web Developer",
+    url: "https://vincenzo.codes",
+    twitter: "@_vinny_92",
+    tags: [
+      "Sotware development",
+      "Software engineering",
+      "Computer",
+      "Science",
+      "Hacking",
+      "TypeScript",
+      "Javascript"
     ],
   },
   {
@@ -3565,7 +3601,7 @@ module.exports = [
       "Laravel",
       "Livewire",
       "Linux",
-      "Javascript",
+      "JavaScript",
       "Web Development",
       "Open Source",
     ],
@@ -3602,23 +3638,6 @@ module.exports = [
       "Tech",
       "Programming",
       "Web Development",
-    ],
-  },
-  {
-    name: "Ayesha Sahar",
-    description:
-      "I write articles and share tips + tricks about Python, C++, UI/UX & Web Development to make your learning journey easier✨",
-    url: "https://thecodingcompany.hashnode.dev/",
-    twitter: "@IAyeshaSahar",
-    tags: [
-      "C++",
-      "JavaScript",
-      "Web Development",
-      "UI/UX",
-      "Python",
-      "CSS",
-      "HTML",
-      "Front End",
     ],
   },
   {
@@ -3677,7 +3696,7 @@ module.exports = [
     name: "Dev by RayRay",
     description:
       "Ray is a Lead Frontend Developer, specialised in Angular. He writes about Frontend Development, Workflow, JavaScript, TypeScript, Angular and more related topics.",
-    url: "https://blog.byrayray.dev/",
+    url: "https://byrayray.dev/",
     twitter: "@devbyrayray",
     tags: [
       "HTML",
@@ -3789,10 +3808,10 @@ module.exports = [
   {
     name: "iRead Blog",
     description:
-      "iRead is a multi-user blogging platform where you'll find technical articles and project tutorials related to Python, Javascript, Flutter and much more ",
+      "iRead is a multi-user blogging platform where you'll find technical articles and project tutorials related to Python, JavaScript, Flutter and much more ",
     url: "https://ireadblog.com",
     twitter: "@iRead_Blog",
-    tags: ["Python", "Java", "DSA", "Javascript", "Flutter", "Web Development"],
+    tags: ["Python", "Java", "DSA", "JavaScript", "Flutter", "Web Development"],
   },
   {
     name: "Helmer Davila",
@@ -3801,7 +3820,7 @@ module.exports = [
     url: "https://helmerdavila.com/blog",
     twitter: "@helmerdavila",
     tags: [
-      "Javascript",
+      "JavaScript",
       "TypeScript",
       "Shell configs",
       "Python",
@@ -3996,7 +4015,7 @@ module.exports = [
       "Web development, sharing resources, content writing, and open source contributor",
     url: "https://vasantisuthar.hashnode.dev/",
     twitter: "@vasanti_suthar",
-    tags: ["JavaScript", "Node.js", "React.js", "Database", "Linux", "DevOps"],
+    tags: ["JavaScript", "Node.js", "React", "Database", "Linux", "DevOps"],
   },
   {
     name: "TestingBot",
@@ -4119,6 +4138,21 @@ module.exports = [
       "Music",
       "Web Development",
     ],
+  },
+  { name: "Ayesha Sahar", 
+  description: "I write articles and share tips + tricks about Python, C++, UI/UX & Web Development to make your learning journey easier✨", 
+  url: "https://ayeshasahar.hashnode.dev/", 
+  twitter: "@IAyeshaSahar", 
+  tags: [ 
+    "C++",
+     "JavaScript", 
+     "Web Development", 
+     "UI/UX", 
+     "Python", 
+     "CSS", 
+     "HTML", 
+     "Front End", 
+    ], 
   },
   {
     name: "Vivek Jaiswal",
@@ -4278,4 +4312,10 @@ module.exports = [
       "Laravel",
     ],
   },
+  {    name: 'Mahdi',
+    description: 'Senior Software Engineer and Bootstrapper',
+    url: 'https://mahdix.com',
+    twitter: '@mahdix',
+    tags: ['Java', 'SaaS', 'Kotlin', 'Linux'],
+  }
 ];
