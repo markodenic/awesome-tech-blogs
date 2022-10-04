@@ -4287,4 +4287,11 @@ module.exports = [
       "Neovim"
     ],
   },
+  {
+    name: 'Mahdi',
+    description: 'Senior Software Engineer and Bootstrapper',
+    url: 'https://mahdix.com',
+    twitter: '@mahdix',
+    tags: ['Java', 'SaaS', 'Kotlin', 'Linux'],
+  }
 ];
