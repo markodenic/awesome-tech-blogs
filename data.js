@@ -16,6 +16,7 @@ module.exports = [
       "Learn Programming"
     ]
   },
+  {
     name: "2minsDevsNotes",
     description: "Github-based fast-to-read blog about dev's daily routine challenges",
     url: "https://github.com/vtcaregorodtcev/2minsDevsNotes",
