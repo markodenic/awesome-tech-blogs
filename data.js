@@ -4025,6 +4025,13 @@ module.exports = [
     tags: ["Testing", "Automation", "Puppeteer", "Playwright", "Selenium"],
   },
   {
+    name: 'Employment Japan',
+    description: 'Tech corner where the latest technologies curated by experts in the field are discussed.',
+    url: 'https://www.employmentjapan.com/category/tech-corner/',
+    twitter: '@emp_japan',
+    tags: ['AI', 'ML', 'Deep Learning', 'Blockchain', 'Application Development', 'Methodologies', 'Cloud Computing'],
+  },
+  {
     name: "Jones Zachariah Noel N (zachjonesnoel)",
     description:
       "AWS Community Builder 🚀 | AWS Serverless Architect ⚡ | Full-Stack Cloud Developer 👨‍💻 | Technical Writer 📜 | Home Chef 👨‍🍳 | Photographer 📷 | Serverless Advocacy 🥑",
