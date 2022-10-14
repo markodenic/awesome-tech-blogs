@@ -4362,4 +4362,10 @@ module.exports = [
     twitter: '@mahdix',
     tags: ['Java', 'SaaS', 'Kotlin', 'Linux'],
   }
-];
+]
+{ name: "Aditi Dwivedi",
+  description: "Empowering App Development with APIs",
+    url: "https://aditidwivedi91011.blogspot.com/2022/10/empowering-app-development-with-apis.html",
+      twitter: "@magus132",
+        tags: ['API','Android Development']
+};
