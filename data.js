@@ -1,4 +1,11 @@
 module.exports = [
+{
+    name: 'Mayank Vikash',
+    description: 'I write tutorials related to Web Development and Programming.',
+    url: 'https://mayankvikash.in/posts',
+    twitter: '@MayankVikash1',
+    tags: ['HTML', 'CSS', 'JavaScript', 'Web Development', 'Java'],
+},
   {
     name: "Live Code Stream",
     description: "We produce FREE tutorials and resources for self-taught developers and data scientists.",
