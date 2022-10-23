@@ -3668,6 +3668,20 @@ module.exports = [
     ],
   },
   {
+    name: 'Engin Arslan',
+    description: 'Engin is a Zurich-based front-end engineer and teacher. Author of "Coding for Visual Learners"',
+    url: 'https://www.enginarslan.com/posts',
+    twitter: '@inspiratory',
+    tags: ['Software engineering', 'Software engineer', 'Web development', 'Javascript'],
+  },
+  {
+    name: 'Awesome Coding',
+    description: 'Learn to code awesome stuff like web applications, 3D graphics, animations, games, scrapers, artificial intelligence, VR, AR in a beginner-friendly way.    ',
+    url: 'https://awesomecoding.co/blog',
+    twitter: '@inspiratory',
+    tags: ['Javascript', 'Node.js', 'Web Development'],
+  },
+  {
     name: "Prémices Kamasuwa",
     description: "Articles on web, personal experiences and more",
     url: "https://nkpremices.com/tag/blog/",
