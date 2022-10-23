@@ -1,4 +1,11 @@
 module.exports = [
+  {
+    name: 'Steven Lee',
+    description: 'Advice, experiences, everything related to careers in Malaysia.',
+    url: 'https://job99.co/malaysia/blog',
+    twitter: '@StevenLee0107',
+    tags: ['Job', 'Recruiter', 'Malaysia', 'Career', 'Tech', 'Startup'],
+  },
 {
     name: 'Mayank Vikash',
     description: 'I write tutorials related to Web Development and Programming.',
