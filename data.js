@@ -1,11 +1,11 @@
 module.exports = [
-{
-    name: 'Mayank Vikash',
-    description: 'I write tutorials related to Web Development and Programming.',
-    url: 'https://mayankvikash.in/posts',
-    twitter: '@MayankVikash1',
-    tags: ['HTML', 'CSS', 'JavaScript', 'Web Development', 'Java'],
-},
+  {
+      name: 'Mayank Vikash',
+      description: 'I write tutorials related to Web Development and Programming.',
+      url: 'https://mayankvikash.in/posts',
+      twitter: '@MayankVikash1',
+      tags: ['HTML', 'CSS', 'JavaScript', 'Web Development', 'Java'],
+  },
   {
     name: "Live Code Stream",
     description: "We produce FREE tutorials and resources for self-taught developers and data scientists.",
@@ -23,6 +23,7 @@ module.exports = [
       "Learn Programming"
     ]
   },
+  {
     name: "2minsDevsNotes",
     description: "Github-based fast-to-read blog about dev's daily routine challenges",
     url: "https://github.com/vtcaregorodtcev/2minsDevsNotes",
@@ -4146,20 +4147,20 @@ module.exports = [
       "Web Development",
     ],
   },
-  { name: "Ayesha Sahar", 
-  description: "I write articles and share tips + tricks about Python, C++, UI/UX & Web Development to make your learning journey easier✨", 
-  url: "https://ayeshasahar.hashnode.dev/", 
-  twitter: "@IAyeshaSahar", 
-  tags: [ 
+  { name: "Ayesha Sahar",
+  description: "I write articles and share tips + tricks about Python, C++, UI/UX & Web Development to make your learning journey easier✨",
+  url: "https://ayeshasahar.hashnode.dev/",
+  twitter: "@IAyeshaSahar",
+  tags: [
     "C++",
-     "JavaScript", 
-     "Web Development", 
-     "UI/UX", 
-     "Python", 
-     "CSS", 
-     "HTML", 
-     "Front End", 
-    ], 
+     "JavaScript",
+     "Web Development",
+     "UI/UX",
+     "Python",
+     "CSS",
+     "HTML",
+     "Front End",
+    ],
   },
   {
     name: "Vivek Jaiswal",
