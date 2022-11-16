@@ -1,10 +1,10 @@
 module.exports = [
   {
-      name: 'Mayank Vikash',
-      description: 'I write tutorials related to Web Development and Programming.',
-      url: 'https://mayankvikash.in/posts',
-      twitter: '@MayankVikash1',
-      tags: ['HTML', 'CSS', 'JavaScript', 'Web Development', 'Java'],
+    name: 'Mayank Vikash',
+    description: 'I write tutorials related to Web Development and Programming.',
+    url: 'https://mayankvikash.in/posts',
+    twitter: '@MayankVikash1',
+    tags: ['HTML', 'CSS', 'JavaScript', 'Web Development', 'Java'],
   },
   {
     name: "Live Code Stream",
@@ -3002,7 +3002,7 @@ module.exports = [
       "Web Development",
     ],
   },
-    {
+  {
     name: "Vincenzo Marcovecchio",
     description:
       "Junior Web Developer",
@@ -4147,19 +4147,20 @@ module.exports = [
       "Web Development",
     ],
   },
-  { name: "Ayesha Sahar",
-  description: "I write articles and share tips + tricks about Python, C++, UI/UX & Web Development to make your learning journey easier✨",
-  url: "https://ayeshasahar.hashnode.dev/",
-  twitter: "@IAyeshaSahar",
-  tags: [
-    "C++",
-     "JavaScript",
-     "Web Development",
-     "UI/UX",
-     "Python",
-     "CSS",
-     "HTML",
-     "Front End",
+  {
+    name: "Ayesha Sahar",
+    description: "I write articles and share tips + tricks about Python, C++, UI/UX & Web Development to make your learning journey easier✨",
+    url: "https://ayeshasahar.hashnode.dev/",
+    twitter: "@IAyeshaSahar",
+    tags: [
+      "C++",
+      "JavaScript",
+      "Web Development",
+      "UI/UX",
+      "Python",
+      "CSS",
+      "HTML",
+      "Front End",
     ],
   },
   {
@@ -4242,19 +4243,19 @@ module.exports = [
     url: "https://codedamn.com/news",
     twitter: "@mehulmpt",
     tags: [
-    "HTML",
-    "CSS",
-    "JavaScript",
-    "Backend",
-    "Web Development",
-    "React",
-    "Node.js",
-    "TypeScript",
-    "Python",
-    "Git",
-    "Tech"
-]
-},
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Backend",
+      "Web Development",
+      "React",
+      "Node.js",
+      "TypeScript",
+      "Python",
+      "Git",
+      "Tech"
+    ]
+  },
   {
     name: "Adit Modi",
     description:
@@ -4327,14 +4328,14 @@ module.exports = [
       "Linux",
       "Vim",
       "Neovim"
-    ],
-    {
+    ]
+  },
+  {
     name: 'Sean Milfort',
     description: 'Tech blog that about all the things that I am learning and experiencing throughout my everyday journey!.',
     url: 'https://blog.seanmilfort.com',
     twitter: '@seanmilfort',
-    tags: ['HTML', 'CSS', 'JavaScript','Tech','Development','Consumer Products', 'Reviews','Front End', 'Back End', 'Learning', 'Mobile'],
-    }
+    tags: ['HTML', 'CSS', 'JavaScript', 'Tech', 'Development', 'Consumer Products', 'Reviews', 'Front End', 'Back End', 'Learning', 'Mobile'],
   },
   {
     name: "Andrej Gajdos",
@@ -4355,7 +4356,8 @@ module.exports = [
       "Next.js"
     ],
   },
-  {    name: "Benjamin Crozat",
+  {
+    name: "Benjamin Crozat",
     description: "Freelance web developer passionate about the TALL stack.",
     url: "https://benjamincrozat.com",
     twitter: "@benjamincrozat",
@@ -4364,7 +4366,8 @@ module.exports = [
       "Laravel",
     ],
   },
-  {    name: 'Mahdi',
+  {
+    name: 'Mahdi',
     description: 'Senior Software Engineer and Bootstrapper',
     url: 'https://mahdix.com',
     twitter: '@mahdix',
