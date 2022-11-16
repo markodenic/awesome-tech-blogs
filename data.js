@@ -1878,14 +1878,6 @@ module.exports = [
     ],
   },
   {
-    name: "Devin Ford",
-    description:
-      "A blog for beginners, with tips and tricks I used while learning to code.",
-    url: "https://blog.devinford.dev/",
-    twitter: "@devinDford",
-    tags: ["CSS", "Beginner", "Front End", "JavaScript"],
-  },
-  {
     name: "Oliver Jumpertz",
     description:
       "DeepDive covers cloud and web development overall. It tries to take a deeper look into how things work and explain them as simple as possible.",
