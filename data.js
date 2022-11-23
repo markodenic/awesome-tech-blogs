@@ -4342,5 +4342,18 @@ module.exports = [
     url: 'https://mahdix.com',
     twitter: '@mahdix',
     tags: ['Java', 'SaaS', 'Kotlin', 'Linux'],
+  },
+  {
+    name: "Kyle Platt",
+    description: "Senior Software Engineer, Multi Startup Founder, Building Projects in Public",
+    url: "https://kyleplatt.com",
+    twitter: "@Kyle__Platt",
+    tags: [
+      "Java",
+      "Kotlin",
+      "JavaScript",
+      "Full Stack",
+      "Startups"
+    ]
   }
 ];
