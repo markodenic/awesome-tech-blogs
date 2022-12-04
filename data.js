@@ -24,6 +24,13 @@ module.exports = [
     ]
   },
   {
+    name: 'Jina AI',
+    description: 'The most advanced MLOps platform for Multimodal AI',
+    url: 'https://jina.ai',
+    twitter: '@JinaAI_',
+    tags: ['Multimodal', 'Neural Search', 'Creative AI'],
+}
+  {
     name: "2minsDevsNotes",
     description: "Github-based fast-to-read blog about dev's daily routine challenges",
     url: "https://github.com/vtcaregorodtcev/2minsDevsNotes",
