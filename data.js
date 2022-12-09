@@ -1912,6 +1912,23 @@ module.exports = [
     ],
   },
   {
+    name: "Developer Resources Blog",
+    description:
+      "Awesome resources for developers carefully curated in reviews, roundups and tutorials. Covering themes, templates, courses, ebooks, apps and more.",
+    url: "https://devreso.com/",
+    twitter: "@luciantartea",
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Productivity",
+      "Programming",
+      "Web Development",
+      "UX/UI",
+      "Web Design",
+    ],
+  },
+  {
     name: "Daily Dev Tips",
     description:
       "Chris writes every single day about web development snippets that will help you become a better developer. He focuses on frontend development, JavaScript, popular frameworks, and HTML and CSS.",
