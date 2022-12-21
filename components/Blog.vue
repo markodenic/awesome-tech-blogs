@@ -84,7 +84,7 @@ export default {
     const url = new URL(this.blog.url);
     const domain = url.host;
     this.path = domain + url.pathname.replace(/\/$/, '');
-    const website = `https://unavatar.now.sh/${domain}`;
+    const website = `https://unavatar.io/${domain}`;
     this.favIcon = `https://images.weserv.nl/?url=${website}&w=100&l=9&af&il&n=-1`;
   }
 }
