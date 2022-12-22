@@ -2192,6 +2192,24 @@ module.exports = [
     ],
   },
   {
+    name: 'Teco Tutorials',
+    description: 'Tutorials for learning how to build backend web applications',
+    url: 'https://blog.tericcabrel.com',
+    twitter: '@tericcabrel',
+    tags: [
+      'Backend',
+      'Java',
+      'AWS',
+      'Docker',
+      'GraphQL',
+      'APIs',
+      'TypeScript',
+      'Node.js',
+      'DevOps',
+      'MongoDB'
+    ],
+  },
+  {
     name: "Rocco Sangellino",
     description:
       "I am a senior frontend developer with 10+ years of experience. I have experience building scalable, accessible, and responsive web applications using HTML, CSS, JavaScript, Vue.js and Node.js.",
