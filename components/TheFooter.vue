@@ -11,7 +11,7 @@
     </p>
 
     <p>
-      Source on <a href="https://github.com/MarkoDenic/awesome-tech-blogs">GitHub</a>. Add yourself!
+      Source on <a href="https://github.com/markodenic/awesome-tech-blogs">GitHub</a>. Add yourself!
     </p>
 
     <p>
@@ -20,6 +20,10 @@
 
     <p>
       Inspired by Wes Bos's /uses.tech page.
+    </p>
+
+    <p>
+      Similar amazing projects: <a href="https://publicapis.dev">Public APIs</a> | <a href="https://devresourc.es">Dev Resources</a>
     </p>
   </footer>
 </template>
