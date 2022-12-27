@@ -3699,6 +3699,13 @@ module.exports = [
     ],
   },
   {
+    name: 'Employment Japan',
+    description: 'Tech corner where the latest technologies curated by experts in the field are discussed.',
+    url: 'https://www.ejable.com/category/tech-corner/',
+    twitter: '@emp_japan',
+    tags: ['AI', 'ML', 'Deep Learning', 'Blockchain', 'Application Development', 'Methodologies', 'Cloud Computing'],
+  },
+  {
     name: "Abhiraj Bhowmick",
     description:
       "Daily threads and blogs to make web development easy for everyone",
