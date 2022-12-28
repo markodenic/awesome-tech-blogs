@@ -3536,25 +3536,6 @@ module.exports = [
     ],
   },
   {
-    name: "Alexandria's Tech",
-    description:
-      "Developer Advocate Intern | Learning in Public | Cybersecurity | Technical Writer 👩🏽<200d>💻 ",
-    url: "https://alexandriastech.com/",
-    twitter: "@alexandriastech",
-    tags: [
-      "Cybersecurity",
-      "Networking",
-      "Freelancing",
-      "Technical Writing",
-      "Git",
-      "Tech",
-      "HTML",
-      "CSS",
-      "Freelancing",
-      "Career",
-    ],
-  },
-  {
     name: "Timonwa's Notes",
     description:
       "Timonwa is a Frontend Developer and Technical Writer who writes notes on web development that help beginners have an easier learning journey.",
@@ -3693,26 +3674,6 @@ module.exports = [
       "Design Patterns",
       "Content Creation",
       "Computer Science",
-      "Tech",
-      "Programming",
-      "Web Development",
-    ],
-  },
-  {
-    name: "Abhiraj Bhowmick",
-    description:
-      "Daily threads and blogs to make web development easy for everyone",
-    url: "https://blog.abhiraj.co",
-    twitter: "@rainboestrykr",
-    tags: [
-      "HTML",
-      "CSS",
-      "Next.js",
-      "Tailwind",
-      "TailwindCSS",
-      "Front End",
-      "Content Creation",
-      "JavaScript",
       "Tech",
       "Programming",
       "Web Development",
