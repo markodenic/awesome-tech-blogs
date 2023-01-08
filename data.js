@@ -818,6 +818,13 @@ module.exports = [
     ],
   },
   {
+    name: 'Christine Belzie',
+    description: 'I write about my coding journey and other tech-related stuff.',
+    url: 'https://chrissycodes.hashnode.dev/',
+    twitter: 'WIP',
+    tags: ['Open Source', 'Beginner', 'Coding Journey'],
+}
+  {
     name: "Michael Hoffmann (Mokkapps)",
     description: "🌴 Freelancer | 👨🏻‍💻 Developer | ✍️ Blogger",
     url: "https://mokkapps.de/blog/",
