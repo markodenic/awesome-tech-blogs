@@ -823,7 +823,7 @@ module.exports = [
     url: 'https://chrissycodes.hashnode.dev/',
     twitter: 'WIP',
     tags: ['Open Source', 'Beginner', 'Coding Journey'],
-}
+},
   {
     name: "Michael Hoffmann (Mokkapps)",
     description: "🌴 Freelancer | 👨🏻‍💻 Developer | ✍️ Blogger",
