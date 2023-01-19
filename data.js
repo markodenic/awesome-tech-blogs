@@ -3663,6 +3663,22 @@ module.exports = [
     ],
   },
   {
+    name: "Atharva Salitri",
+    description: "Technical Writer | Open Source Enthusiast | Beginner Web Developer",
+    url: "https://theamazingatharva.hashnode.dev/",
+    twitter: "@atharvas_twt",
+    tags: [
+      "Open Source",
+      "HTML",
+      "CSS",
+      "Productivity",
+      "Web Development",
+      "Git",
+      "GitHub",
+      "C++",
+    ],
+  },
+  {
     name: "Maximiliano Contieri",
     description: "Maximiliano Contieri | Software Engineer",
     url: "https://maximilianocontieri.com/",
