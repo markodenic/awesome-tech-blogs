@@ -4368,5 +4368,12 @@ module.exports = [
     url: 'https://mahdix.com',
     twitter: '@mahdix',
     tags: ['Java', 'SaaS', 'Kotlin', 'Linux'],
+  },
+  {
+    name: 'Aleix Morgadas',
+    description: 'Articles on engineering strategy',
+    url: 'https://learnings.aleixmorgadas.dev/s/open-engineering-strategy',
+    twitter: '@aleixmorgadas',
+    tags: ['Software engineering', 'Strategy'],
   }
 ];
