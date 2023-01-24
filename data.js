@@ -4308,6 +4308,13 @@ module.exports = [
     ],
   },
   {
+    name: 'Aleix Morgadas',
+    description: 'Articles on engineering strategy',
+    url: 'https://learnings.aleixmorgadas.dev/s/open-engineering-strategy',
+    twitter: '@aleixmorgadas',
+    tags: ['Software engineering', 'Strategy'],
+  },
+  {
     name: "Max Kovalevsky",
     description:
       "A software developer. I blog about programming in general, CS (algorithms and ds), terminal stuff (Linux, CLI's, Neovim, etc)",
@@ -4368,12 +4375,5 @@ module.exports = [
     url: 'https://mahdix.com',
     twitter: '@mahdix',
     tags: ['Java', 'SaaS', 'Kotlin', 'Linux'],
-  },
-  {
-    name: 'Aleix Morgadas',
-    description: 'Articles on engineering strategy',
-    url: 'https://learnings.aleixmorgadas.dev/s/open-engineering-strategy',
-    twitter: '@aleixmorgadas',
-    tags: ['Software engineering', 'Strategy'],
   }
 ];
