@@ -23,6 +23,23 @@ module.exports = [
       "Learn Programming"
     ]
   },
+  {
+    name: "Devify",
+    description: "From programming languages to web development, Devify cover it all to keep you ahead in the tech game",
+    url: "https://www.devify.tech/",
+    twitter: "@iamsatyanchal",
+    tags: [
+      "Javascript",
+      "Web Development",
+      "Web3",
+      "HTML",
+      "CSS",
+      "Software Development",
+      "Learn Programming",
+      "Technology updates",
+      "Artificial Intelligence"
+    ]
+  },
    {
     name: "Devremote",
     description: "Helping developers find remote jobs",
