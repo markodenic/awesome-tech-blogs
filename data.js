@@ -1925,8 +1925,8 @@ module.exports = [
   {
     name: "//pauls dev blog",
     description:
-      "Husband, father of two, geek, lifelong learner, tech lover & software engineer. Writing about projects and challenges in IT.",
-    url: "https://www.knulst.de",
+      "I'm a husband, dad, lifelong learner, tech lover, and Senior Engineer working as a Tech Lead. I write about projects and challenges in IT.",
+    url: "https://www.paulsblog.dev",
     twitter: "@paulknulst",
     tags: [
       "JavaScript",
