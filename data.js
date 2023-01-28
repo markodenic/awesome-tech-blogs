@@ -3305,6 +3305,13 @@ module.exports = [
     ],
   },
   {
+    name: 'bitExpert Blog',
+        description: 'This blog combines topics that are important to us, our news and informative tutorials around technology and software.',
+      url: 'https://blog.bitexpert./blog',
+      twitter: '@bitexpert',
+      tags: ['PHP', 'Magento', 'Java', 'React', 'DevOps'],
+  },
+  {
     name: "Renan Moura",
     description:
       "Posts for anyone looking to go deeper into Python and find practical ways to apply it in the fields of Web Development, Data Science and Machine Learning.",
