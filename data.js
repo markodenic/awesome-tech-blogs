@@ -3374,7 +3374,7 @@ module.exports = [
   {
     name: 'bitExpert Blog',
     description: 'This blog combines topics that are important to us, our news and informative tutorials around technology and software.',
-    url: 'https://blog.bitexpert./blog',
+    url: 'https://blog.bitexpert.de/blog',
     twitter: '@bitexpert',
     tags: ['PHP', 'Magento', 'Java', 'React', 'DevOps'],
   },
