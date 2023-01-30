@@ -4361,20 +4361,9 @@ module.exports = [
       "Angular",
       "Web Development",
       "Nodejs",
-      "Express",
+      "Expressjs",
       "MongoDB",
-      "NPM",
-      "Yarn",
-      "Python",
-      "Typescript",
-      "Deno",
-      "Firebase",
-      "Docker",
-      "SaSS",
-      "RxJS",
-      "GraphQL",
-      "Git",
-      "GitHub"
+      "Firebase"
     ],
   },
 ];
