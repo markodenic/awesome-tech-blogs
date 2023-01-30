@@ -4365,5 +4365,5 @@ module.exports = [
       "MongoDB",
       "Firebase"
     ],
-  },
+  }
 ];
