@@ -471,24 +471,6 @@ module.exports = [
     ],
   },
   {
-    name: "The Ryan Furrer Blog",
-    description: "Front-End Web Development Blogs For All",
-    url: "https://www.theryanfurrer.blog",
-    twitter: "@theryanfurrer",
-    tags: [
-      "JavaScript",
-      "Web Development",
-      "React",
-      "CSS",
-      "HTML",
-      "Front End",
-      "Tech",
-      "TailwindCSS",
-      "Programming",
-      "Productivity",
-    ],
-  },
-  {
     name: "Bleyl Dev",
     description: "Flutter & Software Development Technical Articles",
     url: "https://medium.com/@bleyldev",
@@ -930,22 +912,6 @@ module.exports = [
     ],
   },
   {
-    name: "Alula Kibrom",
-    description: "Fullstack Developer | Entrepreneur | Blogger",
-    url: "https://businesstyc.com/blog/",
-    twitter: "@altsyset",
-    tags: [
-      "JavaScript",
-      "HTML",
-      "CSS",
-      "PHP",
-      "Laravel",
-      "Vue",
-      "Angular",
-      "Git",
-    ],
-  },
-  {
     name: "Shravan Kumar",
     description:
       "Software Engineer | Bibliophilic | Generalizing Specialist | Curious Creature | I, sometimes write blog",
@@ -1307,21 +1273,6 @@ module.exports = [
     url: "https://compileswift.com/journal/",
     twitter: "@compileswift",
     tags: ["Swift", "Objective-C", "SwiftUI"],
-  },
-  {
-    name: "Tosin Fashanu",
-    description: "Portfolio | Tutorial | Agency for web development.",
-    url: "https://apluswebmaker.com",
-    twitter: "@iamJohnFashanu",
-    tags: [
-      "JavaScript",
-      "PHP",
-      "React",
-      "laravel",
-      "Web Development",
-      "HTML",
-      "CSS",
-    ],
   },
   {
     name: "Alexey Berezin",
@@ -1886,14 +1837,6 @@ module.exports = [
     ],
   },
   {
-    name: "Nikita Grechino",
-    description:
-      "A business oriented frontend developer. | I do boxing, play badminton, blog about tech, read books and comics.",
-    url: "https://blog.fromaline.com/",
-    twitter: "@fromaline",
-    tags: ["JavaScript", "Web Development", "React", "Front End", "JavaScript"],
-  },
-  {
     name: "Leon AI",
     description:
       "I'm building Leon, your open-source personal assistant. I share my tips and creativity along the way.",
@@ -1909,26 +1852,6 @@ module.exports = [
       "Software Development",
       "Productivity",
       "AI",
-    ],
-  },
-  {
-    name: "Michael Asiedu",
-    description:
-      "A blog suited to  make you better and grow as software developer. Also, market and leverage your coding skills ",
-    url: "https://michaelasiedu.com",
-    twitter: "@asiedu_dev",
-    tags: [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "Tailwind",
-      "UI/UX Design",
-      "Node.js",
-      "Web3.0",
-      "React",
-      "Digital Marketing",
-      "Personal Branding for developers",
-      "APIs",
     ],
   },
   {
@@ -3633,14 +3556,6 @@ module.exports = [
     ],
   },
   {
-    name: "Imad",
-    description:
-      "Coding Crest is a blog site created for sharing knowledge on software development including topics such as Microsoft technologies (C#, Asp.Net, MVC, MSSQL), Sitecore, SXA, Angular and more. The idea behind this site is to make learning easy for curious like minded people. I post articles with detailed examples, real life scenarios that I personally experienced during my journey as a Software Developer.",
-    url: "https://www.codingcrest.com",
-    twitter: "@CodingCrest",
-    tags: ["C#", "Sitecore", "JavaScript", "SQL Server"],
-  },
-  {
     name: "Mr. Ånand",
     description: "Student | Content Creator | Explorer and Learner",
     url: "https://astrodevil.hashnode.dev/",
@@ -3888,13 +3803,6 @@ module.exports = [
       "Web Development",
       "Software Engineering",
     ],
-  },
-  {
-    name: "Daniellop Blog",
-    description: "Thoughts, stories and ideas.",
-    url: "https://blog.daniellop.me",
-    twitter: "@daniellop1_",
-    tags: ["HTML", "CSS", "JavaScript"],
   },
   {
     name: "iRead Blog",
