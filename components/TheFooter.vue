@@ -1,7 +1,7 @@
 <template>
   <footer class="text-center">
     <p>
-      Made by <a href="https://markodenic.com">Marko Denic</a> with Nuxt.js. Icons from Freepik.
+      Made by <a href="https://markodenic.com">Marko</a> with Nuxt.js. Icons from Freepik.
     </p>
 
     <p>

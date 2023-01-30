@@ -23,6 +23,23 @@ module.exports = [
       "Learn Programming"
     ]
   },
+  {
+    name: "Devify",
+    description: "From programming languages to web development, Devify cover it all to keep you ahead in the tech game",
+    url: "https://www.devify.tech/",
+    twitter: "@iamsatyanchal",
+    tags: [
+      "Javascript",
+      "Web Development",
+      "Web3",
+      "HTML",
+      "CSS",
+      "Software Development",
+      "Learn Programming",
+      "Technology updates",
+      "Artificial Intelligence"
+    ]
+  },
    {
     name: "Devremote",
     description: "Helping developers find remote jobs",
@@ -454,24 +471,6 @@ module.exports = [
     ],
   },
   {
-    name: "The Ryan Furrer Blog",
-    description: "Front-End Web Development Blogs For All",
-    url: "https://www.theryanfurrer.blog",
-    twitter: "@theryanfurrer",
-    tags: [
-      "JavaScript",
-      "Web Development",
-      "React",
-      "CSS",
-      "HTML",
-      "Front End",
-      "Tech",
-      "TailwindCSS",
-      "Programming",
-      "Productivity",
-    ],
-  },
-  {
     name: "Bleyl Dev",
     description: "Flutter & Software Development Technical Articles",
     url: "https://medium.com/@bleyldev",
@@ -818,6 +817,13 @@ module.exports = [
     ],
   },
   {
+    name: 'Christine Belzie',
+    description: 'I write about my coding journey and other tech-related stuff.',
+    url: 'https://chrissycodes.hashnode.dev/',
+    twitter: 'WIP',
+    tags: ['Open Source', 'Beginner', 'Coding Journey'],
+},
+  {
     name: "Michael Hoffmann (Mokkapps)",
     description: "🌴 Freelancer | 👨🏻‍💻 Developer | ✍️ Blogger",
     url: "https://mokkapps.de/blog/",
@@ -902,22 +908,6 @@ module.exports = [
       "DevTools",
       "Beginner",
       "Blogging",
-      "Git",
-    ],
-  },
-  {
-    name: "Alula Kibrom",
-    description: "Fullstack Developer | Entrepreneur | Blogger",
-    url: "https://businesstyc.com/blog/",
-    twitter: "@altsyset",
-    tags: [
-      "JavaScript",
-      "HTML",
-      "CSS",
-      "PHP",
-      "Laravel",
-      "Vue",
-      "Angular",
       "Git",
     ],
   },
@@ -1283,21 +1273,6 @@ module.exports = [
     url: "https://compileswift.com/journal/",
     twitter: "@compileswift",
     tags: ["Swift", "Objective-C", "SwiftUI"],
-  },
-  {
-    name: "Tosin Fashanu",
-    description: "Portfolio | Tutorial | Agency for web development.",
-    url: "https://apluswebmaker.com",
-    twitter: "@iamJohnFashanu",
-    tags: [
-      "JavaScript",
-      "PHP",
-      "React",
-      "laravel",
-      "Web Development",
-      "HTML",
-      "CSS",
-    ],
   },
   {
     name: "Alexey Berezin",
@@ -1862,14 +1837,6 @@ module.exports = [
     ],
   },
   {
-    name: "Nikita Grechino",
-    description:
-      "A business oriented frontend developer. | I do boxing, play badminton, blog about tech, read books and comics.",
-    url: "https://blog.fromaline.com/",
-    twitter: "@fromaline",
-    tags: ["JavaScript", "Web Development", "React", "Front End", "JavaScript"],
-  },
-  {
     name: "Leon AI",
     description:
       "I'm building Leon, your open-source personal assistant. I share my tips and creativity along the way.",
@@ -1885,26 +1852,6 @@ module.exports = [
       "Software Development",
       "Productivity",
       "AI",
-    ],
-  },
-  {
-    name: "Michael Asiedu",
-    description:
-      "A blog suited to  make you better and grow as software developer. Also, market and leverage your coding skills ",
-    url: "https://michaelasiedu.com",
-    twitter: "@asiedu_dev",
-    tags: [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "Tailwind",
-      "UI/UX Design",
-      "Node.js",
-      "Web3.0",
-      "React",
-      "Digital Marketing",
-      "Personal Branding for developers",
-      "APIs",
     ],
   },
   {
@@ -1925,8 +1872,8 @@ module.exports = [
   {
     name: "//pauls dev blog",
     description:
-      "Husband, father of two, geek, lifelong learner, tech lover & software engineer. Writing about projects and challenges in IT.",
-    url: "https://www.knulst.de",
+      "I'm a husband, dad, lifelong learner, tech lover, and Senior Engineer working as a Tech Lead. I write about projects and challenges in IT.",
+    url: "https://www.paulsblog.dev",
     twitter: "@paulknulst",
     tags: [
       "JavaScript",
@@ -3305,6 +3252,13 @@ module.exports = [
     ],
   },
   {
+    name: 'bitExpert Blog',
+        description: 'This blog combines topics that are important to us, our news and informative tutorials around technology and software.',
+      url: 'https://blog.bitexpert./blog',
+      twitter: '@bitexpert',
+      tags: ['PHP', 'Magento', 'Java', 'React', 'DevOps'],
+  },
+  {
     name: "Renan Moura",
     description:
       "Posts for anyone looking to go deeper into Python and find practical ways to apply it in the fields of Web Development, Data Science and Machine Learning.",
@@ -3602,14 +3556,6 @@ module.exports = [
     ],
   },
   {
-    name: "Imad",
-    description:
-      "Coding Crest is a blog site created for sharing knowledge on software development including topics such as Microsoft technologies (C#, Asp.Net, MVC, MSSQL), Sitecore, SXA, Angular and more. The idea behind this site is to make learning easy for curious like minded people. I post articles with detailed examples, real life scenarios that I personally experienced during my journey as a Software Developer.",
-    url: "https://www.codingcrest.com",
-    twitter: "@CodingCrest",
-    tags: ["C#", "Sitecore", "JavaScript", "SQL Server"],
-  },
-  {
     name: "Mr. Ånand",
     description: "Student | Content Creator | Explorer and Learner",
     url: "https://astrodevil.hashnode.dev/",
@@ -3678,6 +3624,47 @@ module.exports = [
       "Programming",
       "Web Development",
     ],
+  },
+  {
+    name: 'Employment Japan',
+    description: 'Tech corner where the latest technologies curated by experts in the field are discussed.',
+    url: 'https://www.ejable.com/category/tech-corner/',
+    twitter: '@emp_japan',
+    tags: ['AI', 'ML', 'Deep Learning', 'Blockchain', 'Application Development', 'Methodologies', 'Cloud Computing'],
+  },
+  {
+    name: "Abhiraj Bhowmick",
+    description:
+      "Daily threads and blogs to make web development easy for everyone",
+    url: "https://blog.abhiraj.co",
+    twitter: "@rainboestrykr",
+    tags: [
+      "HTML",
+      "CSS",
+      "Next.js",
+      "Tailwind",
+      "TailwindCSS",
+      "Front End",
+      "Content Creation",
+      "JavaScript",
+      "Tech",
+      "Programming",
+      "Web Development",
+    ],
+  },
+  {
+    name: 'Engin Arslan',
+    description: 'Engin is a Zurich-based front-end engineer and teacher. Author of "Coding for Visual Learners"',
+    url: 'https://www.enginarslan.com/posts',
+    twitter: '@inspiratory',
+    tags: ['Software engineering', 'Software engineer', 'Web development', 'Javascript'],
+  },
+  {
+    name: 'Awesome Coding',
+    description: 'Learn to code awesome stuff like web applications, 3D graphics, animations, games, scrapers, artificial intelligence, VR, AR in a beginner-friendly way.    ',
+    url: 'https://awesomecoding.co/blog',
+    twitter: '@inspiratory',
+    tags: ['Javascript', 'Node.js', 'Web Development'],
   },
   {
     name: "Prémices Kamasuwa",
@@ -3816,13 +3803,6 @@ module.exports = [
       "Web Development",
       "Software Engineering",
     ],
-  },
-  {
-    name: "Daniellop Blog",
-    description: "Thoughts, stories and ideas.",
-    url: "https://blog.daniellop.me",
-    twitter: "@daniellop1_",
-    tags: ["HTML", "CSS", "JavaScript"],
   },
   {
     name: "iRead Blog",
