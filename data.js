@@ -4308,11 +4308,11 @@ module.exports = [
     ],
   },
   {
-    name: 'Aleix Morgadas',
-    description: 'Articles on engineering strategy',
-    url: 'https://learnings.aleixmorgadas.dev/s/open-engineering-strategy',
-    twitter: '@aleixmorgadas',
-    tags: ['Software engineering', 'Strategy'],
+    name: "Aleix Morgadas",
+    description: "Articles on engineering strategy",
+    url: "https://learnings.aleixmorgadas.dev/s/open-engineering-strategy",
+    twitter: "@aleixmorgadas",
+    tags: ["Software engineering", "Strategy"],
   },
   {
     name: "Max Kovalevsky",
