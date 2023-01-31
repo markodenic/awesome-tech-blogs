@@ -24,6 +24,20 @@ module.exports = [
     ]
   },
   {
+    name: 'Jina AI',
+    description: 'The most advanced MLOps platform for Multimodal AI',
+    url: 'https://jina.ai/news',
+    twitter: '@JinaAI_',
+    tags: [
+      'Multimodal',
+      'Neural Search', 
+      'Generative AI',
+      'Creative AI',
+      'Cloud Native',
+      'Deep Learning'
+    ]
+  },
+  {
     name: "Devify",
     description: "From programming languages to web development, Devify cover it all to keep you ahead in the tech game",
     url: "https://www.devify.tech/",
