@@ -4371,5 +4371,22 @@ module.exports = [
     url: 'https://mahdix.com',
     twitter: '@mahdix',
     tags: ['Java', 'SaaS', 'Kotlin', 'Linux'],
+  },
+  {
+    name: "Manthan Ank",
+    description: "I'm Front-End Developer, I write tutorials related to Web Development.",
+    url: "https://dev.to/manthanank",
+    twitter: "@manthanank",
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Angular",
+      "Web Development",
+      "Nodejs",
+      "Expressjs",
+      "MongoDB",
+      "Firebase"
+    ],
   }
 ];
