@@ -1141,7 +1141,7 @@ module.exports = [
       "CSS",
       "NodeJS",
       "ExpressJS",
-      "JavaScript"
+      "JavaScript",
       "Fullstack",
       "Web Development",
       "Git",
