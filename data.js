@@ -7,6 +7,13 @@ module.exports = [
     tags: ['HTML', 'CSS', 'JavaScript', 'Web Development', 'Java'],
   },
   {
+    name: 'Rahul',
+    description: '18-year-old hustler who loves reading, coding and building stuffs. Mostly writing on JavaScript. ',
+    url: 'https://rahul.biz',
+    twitter: '@rahuldotbiz',
+    tags: ['HTML', 'CSS', 'JavaScript', 'Web Development', "Freelancing", "Learn Programming"],
+  }, 
+  {
     name: "Live Code Stream",
     description: "We produce FREE tutorials and resources for self-taught developers and data scientists.",
     url: "https://livecodestream.dev/post/",
