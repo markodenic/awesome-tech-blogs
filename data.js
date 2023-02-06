@@ -24,6 +24,22 @@ module.exports = [
     ]
   },
   {
+    name: "Richard Callaby",
+    description: "The Educational Blog of Richard Callaby",
+    url: "http://www.richardcallaby.com/",
+    twitter: "@richardcallaby",
+    tags: [
+      "CyberSecurity",
+      "Bug Bounty",
+      "Certifications",
+      "Career",
+      "Cloud Computing",
+      "Software Development",
+      "Freelancing",
+      "Learn Programming"
+    ]
+  },
+  {
     name: 'Jina AI',
     description: 'The most advanced MLOps platform for Multimodal AI',
     url: 'https://jina.ai/news',
