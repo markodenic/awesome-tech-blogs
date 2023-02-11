@@ -1,12 +1,5 @@
 module.exports = [
   {
-    name: 'wweb.dev',
-    description: 'A blog with weekly updates, resources, articles and useful code generators.',
-    url: 'https://wweb.dev/',
-    twitter: '@wweb_dev',
-    tags: ['HTML', 'CSS', 'JavaScript', 'Web Development', 'React', 'Front End', 'Fullstack', 'Next.js', 'Node.js'],
-  },
-  {
     name: 'Mayank Vikash',
     description: 'I write tutorials related to Web Development and Programming.',
     url: 'https://mayankvikash.in/posts',
@@ -194,6 +187,13 @@ module.exports = [
     url: "https://timmousk.com/blog/",
     twitter: "@tim_mousk",
     tags: ["TypeScript", "JavaScript", "Git", "Web Development", "React"],
+  },
+  {
+    name: 'wweb.dev',
+    description: 'A blog with weekly updates, resources, articles and useful code generators.',
+    url: 'https://wweb.dev/',
+    twitter: '@wweb_dev',
+    tags: ['HTML', 'CSS', 'JavaScript', 'Web Development', 'React', 'Front End', 'Fullstack', 'Next.js', 'Node.js'],
   },
   {
     name: "Sundeep Agarwal",
