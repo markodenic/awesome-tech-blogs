@@ -191,7 +191,7 @@ module.exports = [
   {
     name: 'wweb.dev',
     description: 'A blog with weekly updates, resources, articles and useful code generators.',
-    url: 'https://wweb.dev/',
+    url: 'https://wweb.dev/blog/',
     twitter: '@wweb_dev',
     tags: ['HTML', 'CSS', 'JavaScript', 'Web Development', 'React', 'Front End', 'Fullstack', 'Next.js', 'Node.js'],
   },
