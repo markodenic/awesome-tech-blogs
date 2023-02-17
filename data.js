@@ -189,6 +189,13 @@ module.exports = [
     tags: ["TypeScript", "JavaScript", "Git", "Web Development", "React"],
   },
   {
+    name: 'wweb.dev',
+    description: 'A blog with weekly updates, resources, articles and useful code generators.',
+    url: 'https://wweb.dev/blog/',
+    twitter: '@wweb_dev',
+    tags: ['HTML', 'CSS', 'JavaScript', 'Web Development', 'React', 'Front End', 'Fullstack', 'Next.js', 'Node.js'],
+  },
+  {
     name: "Sundeep Agarwal",
     description:
       "I write about Regular Expressions, CLI one-liners, Scripting Languages, Vim and Self-Publishing.",
