@@ -2181,6 +2181,24 @@ module.exports = [
     ],
   },
   {
+    name: "Sahan Serasinghe",
+    description: "Howdy! I'm Sahan, a Senior Software Engineer, Solutions Architect & Speaker with over 10 years of experience in Cloud and Backend engineering. Checkout my blog for more details at https://sahansera.dev",
+    url: "https://sahansera.dev/",
+    twitter: "@_SahanSera",
+    tags: [
+      "Software Engineering",
+      "Software Architecture",
+      "Cloud",
+      "Backend",
+      "Web Development",
+      "Python",
+      "Go",
+      "C#",
+      ".NET",
+      "Azure"
+    ],
+  },
+  {
     name: "Margo McCabe",
     description:
       "Women in Tech | DevRel | Databases | Tech Blogger | Podcast Host",
