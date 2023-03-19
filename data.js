@@ -332,6 +332,13 @@ module.exports = [
     tags: ["CS", "OSS", "Web Development", "JavaScript", "Linux", "Devops"],
   },
   {
+    name: "Hristo Iliev",
+    description: "I am a game programmer and I write a lot about low level programming in C and C++ and tools programming",
+    url: "https://thatonegamedev.com/posts",
+    twitter: "@StamenovHristo",
+    tags: ["C++", "CMake"],
+  },
+  {
     name: "The Feqy",
     description:
       "Sharing my own thoughts and expertise about backend/frontend engineering.",
