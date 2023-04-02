@@ -19,7 +19,7 @@ module.exports = [
     url: 'https://rahul.biz',
     twitter: '@rahuldotbiz',
     tags: ['HTML', 'CSS', 'JavaScript', 'Web Development', "Freelancing", "Learn Programming"],
-  }, 
+  },
   {
     name: "Live Code Stream",
     description: "We produce FREE tutorials and resources for self-taught developers and data scientists.",
@@ -60,7 +60,7 @@ module.exports = [
     twitter: '@JinaAI_',
     tags: [
       'Multimodal',
-      'Neural Search', 
+      'Neural Search',
       'Generative AI',
       'Creative AI',
       'Cloud Native',
@@ -84,7 +84,7 @@ module.exports = [
       "Artificial Intelligence"
     ]
   },
-   {
+  {
     name: "Devremote",
     description: "Helping developers find remote jobs",
     url: "https://devremote.io/blog/",
@@ -880,7 +880,7 @@ module.exports = [
     url: 'https://chrissycodes.hashnode.dev/',
     twitter: "@CodesChrissy",
     tags: ['Open Source', 'Beginner', 'Coding Journey'],
-},
+  },
   {
     name: "Michael Hoffmann (Mokkapps)",
     description: "🌴 Freelancer | 👨🏻‍💻 Developer | ✍️ Blogger",
@@ -3347,10 +3347,10 @@ module.exports = [
   },
   {
     name: 'bitExpert Blog',
-        description: 'This blog combines topics that are important to us, our news and informative tutorials around technology and software.',
-      url: 'https://blog.bitexpert./blog',
-      twitter: '@bitexpert',
-      tags: ['PHP', 'Magento', 'Java', 'React', 'DevOps'],
+    description: 'This blog combines topics that are important to us, our news and informative tutorials around technology and software.',
+    url: 'https://blog.bitexpert./blog',
+    twitter: '@bitexpert',
+    tags: ['PHP', 'Magento', 'Java', 'React', 'DevOps'],
   },
   {
     name: "Renan Moura",
@@ -4052,6 +4052,13 @@ module.exports = [
     url: "https://fettblog.eu/articles/",
     twitter: "@ddprrt",
     tags: ["TypeScript", "Rust", "React"],
+  },
+  {
+    name: 'Reza Lavarian',
+    description: 'Helping new software developers/early careers have a smooth start.',
+    url: 'https://www.decodingweb.dev',
+    twitter: '@rlavarian',
+    tags: ['JavaScript', 'Python', 'PHP', 'Web Development', 'Programming', 'Beginner', 'Career'],
   },
   {
     name: "Stack Diary",
