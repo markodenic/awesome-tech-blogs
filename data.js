@@ -5,7 +5,7 @@ module.exports = [
     url: 'https://harshshah.codes',
     twitter: '@harsh_shah2102',
     tags: ['HTML', 'CSS', 'JavaScript', 'Web Developement', 'React JS', 'Next JS', 'Java', 'Python', 'React'],
-  }.
+  },
   {
     name: 'Mayank Vikash',
     description: 'I write tutorials related to Web Development and Programming.',
