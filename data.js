@@ -14,6 +14,13 @@ module.exports = [
     tags: ['HTML', 'CSS', 'JavaScript', 'Web Development', 'Java'],
   },
   {
+    name: 'Argonaut.dev',
+    description: 'Blog about Kubernetes, AWS, Cloud costs, and more!',
+    url: 'https://www.argonaut.dev/blog',
+    twitter: '@Argonaut_Dev',
+      tags: ['AWS', 'DevOps', 'Cloud', 'Productivity', 'Kubernetes','Automation'],
+  },
+  {
     name: 'Rahul',
     description: '18-year-old hustler who loves reading, coding and building stuffs. Mostly writing on JavaScript. ',
     url: 'https://rahul.biz',
