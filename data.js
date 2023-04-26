@@ -4489,5 +4489,24 @@ module.exports = [
       "MongoDB",
       "Firebase"
     ],
+  },
+  {
+    name: "Rocketeers",
+    description: "Sharing knowledge about hosting, developing and deploying web apps.",
+    url: "https://rocketee.rs/knowledge",
+    twitter: "@rocketeers_app",
+    tags: [
+      "Development",
+      "Hosting",
+      "Performance",
+      "PHP",
+      "Javascript",
+      "Laravel",
+      "Git",
+      "DevOps",
+      "MySQL",
+      "Nginx",
+      "Security"
+    ],
   }
 ];
