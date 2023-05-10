@@ -51,7 +51,7 @@
         v-if="blog.twitter"
         :href="`https://twitter.com/${blog.twitter.replace('@', '')}`"
         target="_blank"
-        rel="noopener"
+        rel="noopener nofollow"
       >
         {{ blog.twitter }}
       </a>
