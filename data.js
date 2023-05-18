@@ -928,6 +928,25 @@ module.exports = [
     ],
   },
   {
+    name: 'Rocketeers',
+    description: 'Sharing knowledge about hosting, developing and deploying web apps.',
+    url: 'https://rocketee.rs/knowledge',
+    twitter: '@rocketeers_app',
+    tags: [
+      'Development',
+      'Hosting',
+      'Performance',
+      'PHP',
+      'Javascript',
+      'Laravel',
+      'Git',
+      'DevOps',
+      'MySQL',
+      'Nginx',
+      'Security'
+    ],
+  },
+  {
     name: "Bob Fornal",
     description:
       "Senior Frontend Developer, focused on writing about anything that takes me more than a few minutes to accomplish,",
