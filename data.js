@@ -2688,7 +2688,7 @@ module.exports = [
   {
     name: "Silvestar Bistrović",
     description: "Frontend, JAMstack, WordPress, and freelancing topics.",
-    url: "https://develop.silvestar.codes/articles/",
+    url: "https://www.silvestar.codes/articles/",
     twitter: "@malimirkeccita",
     tags: [
       "HTML",
