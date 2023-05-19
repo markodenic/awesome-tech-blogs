@@ -3090,6 +3090,20 @@ module.exports = [
     ],
   },
   {
+    name: "Bas van Dinther",
+    description: "Full-stack developer writing about my favorite tech stack.",
+    url: "https://baspa.dev",
+    twitter: "@baspa_dev",
+    tags: [
+      "PHP",
+      "Laravel",
+      "Open Source",
+      "React",
+      "Vue",
+      "SaaS",
+    ],
+  },
+  {
     name: "Alfred Danda",
     description:
       "Web developer working with PHP and Laravel at Webentwicklung Ideenreich which I'm the co-owner of.",
@@ -4516,18 +4530,5 @@ module.exports = [
       "Firebase"
     ],
   },
-  {
-    name: "Bas van Dinther",
-    description: "Full-stack developer writing about my favorite tech stack.",
-    url: "https://baspa.dev",
-    twitter: "@baspa_dev",
-    tags: [
-      "PHP",
-      "Laravel",
-      "Open Source",
-      "React",
-      "Vue",
-      "SaaS",
-    ],
-  },
+
 ];
