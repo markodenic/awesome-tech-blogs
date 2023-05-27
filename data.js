@@ -1,10 +1,10 @@
 module.exports = [
   {
-    name: "Abhijit Sarode",
-    description: "At the intersection of Fullstack, Competitive Programming & Mathematics",
-    url: "https://abhijitsarode.hashnode.dev",
-    twitter: "https://twitter.com/abhijit_ras",
-    tags: ["Web Development", "Fullstack", "React", "Competitive Programming", "Algorithms" "Mathematics"]
+    name: 'Abhijit Sarode',
+    description: 'At the intersection of Fullstack, Competitive Programming & Mathematics',
+    url: 'https://abhijitsarode.hashnode.dev',
+    twitter: 'https://twitter.com/abhijit_ras',
+    tags: ['Web Development', 'Fullstack', 'MERN Stack', 'React', 'Competitive Programming', 'Algorithms', 'Mathematics']
   },
   {
     name: 'Harsh Shah',
