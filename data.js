@@ -1,5 +1,12 @@
 module.exports = [
   {
+    name: "Abhijit Sarode",
+    description: "At the intersection of Fullstack, Competitive Programming & Mathematics",
+    url: "https://abhijitsarode.hashnode.dev",
+    twitter: "https://twitter.com/abhijit_ras",
+    tags: ["Web Development", "Fullstack", "React", "Competitive Programming", "Algorithms" "Mathematics"]
+  },
+  {
     name: 'Harsh Shah',
     description: 'I write tutorials related to React Js and Next Js.',
     url: 'https://harshshah.codes',
