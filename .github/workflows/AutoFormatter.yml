@@ -14,8 +14,6 @@ jobs:
       run: |
         git config --global --add safe.directory /github/workspace
     - name: Node Code Formatter
-      run: |
-        git config --global --add safe.directory /github/workspace
       uses: MarvinJWendt/run-node-formatter@1.5.1
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
