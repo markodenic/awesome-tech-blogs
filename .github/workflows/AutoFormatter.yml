@@ -1,9 +1,9 @@
-on: 
+on:
   push:
     branches: [ main ]
   pull_request:
     branches: [ main ]
-    
+
 name: Node Code Formatter
 jobs:
   lint:
@@ -11,6 +11,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Node Code Formatter
-      uses: MarvinJWendt/run-node-formatter@stable
+      uses: MarvinJWendt/run-node-formatter@1.2.1
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
