@@ -10,6 +10,9 @@ jobs:
     name: Node Code Formatter
     runs-on: ubuntu-latest
     steps:
+    - name: Workspace Set up
+      run: |
+        git config --global --add safe.directory /github/workspace
     - name: Node Code Formatter
       run: |
         git config --global --add safe.directory /github/workspace
