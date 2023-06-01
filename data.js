@@ -1,13 +1,5 @@
 module.exports = [
   {
-    name: 'Robiul H.',
-    description: 'RoBlog, your go-to destination for all things related to technology, JavaScript, Node.js, and web development.',
-    url: 'https://robiul.dev/',
-    twitter: '@robiulhr01',
-    tags: ['HTML', 'CSS', 'JavaScript', 'Web Developement', 'React JS', 'Node js'],
-  }
-  ,
-  {
     name: 'Harsh Shah',
     description: 'I write tutorials related to React Js and Next Js.',
     url: 'https://harshshah.codes',
@@ -191,6 +183,27 @@ module.exports = [
       "backend",
     ],
   },
+  {
+    name: 'Robiul H.',
+    description: 'RoBlog, your go-to destination for all things related to technology, JavaScript, Node.js, and web development.',
+    url: 'https://robiul.dev/',
+    twitter: '@robiulhr01',
+    tags: [
+      'HTML', 
+      'CSS', 
+      'JavaScript', 
+      'Web Developement', 
+      'React JS', 
+      'Node js',
+      "Git",
+      "fullStack",
+      "opensource",
+      "community",
+      "frontend",
+      "backend"
+    ],
+  }
+  ,
   {
     name: "Programming School",
     description: "Awesome Programming Posts for Beginners by Experts.",
