@@ -728,6 +728,13 @@ module.exports = [
     ],
   },
   {
+    name: 'Nishant Kumar',
+    description: 'Blogging for practical goals, offering diverse reads. No niche, just a fresh perspective..',
+    url: 'https://blog.nishant.lol',
+    twitter: '@nisnym',
+    tags: ['tech', 'react.js', 'js'],
+},
+  {
     name: "Estee Tey's Tech Blog",
     description:
       "Refine your thinking, designing and development processes. Learn about concepts from a value-driven perspective. Focused on app development, developer productivity & open source technologies.",
