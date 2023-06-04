@@ -7,6 +7,13 @@ module.exports = [
     tags: ['Web Development', 'Fullstack', 'MERN Stack', 'React', 'Competitive Programming', 'Algorithms', 'Mathematics']
   },
   {
+    name: 'Nishant Kumar',
+    description: 'Blogging for practical goals, offering diverse reads. No niche, just a fresh perspective..',
+    url: 'https://blog.nishant.lol',
+    twitter: '@nisnym',
+    tags: ['tech', 'react.js', 'js'],
+},
+  {
     name: 'Harsh Shah',
     description: 'I write tutorials related to React Js and Next Js.',
     url: 'https://harshshah.codes',
