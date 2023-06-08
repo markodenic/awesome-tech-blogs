@@ -1000,6 +1000,23 @@ module.exports = [
     ],
   },
   {
+    name: 'Darek Kay',
+    description: 'Hello, I’m a front-end developer and an accessibility advocate. I love sharing what I know through my blog, teaching and speaking at conferences.',
+    url: 'https://darekkay.com/blog',
+    tags: [
+      'Web Development',
+      'JavaScript',
+      'TypeScript',
+      'HTML',
+      'CSS',
+      'React',
+      'Front End',
+      'Node.js',
+      'Git',
+      'Productivity',
+    ],
+  },
+  {
     name: "Rishi Mohan",
     description:
       "Writing on Next.js, React, Tailwind and building apps using these.",
