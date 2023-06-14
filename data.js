@@ -203,11 +203,11 @@ module.exports = [
     url: 'https://robiul.dev/',
     twitter: '@robiulhr01',
     tags: [
-      'HTML', 
-      'CSS', 
-      'JavaScript', 
-      'Web Developement', 
-      'React JS', 
+      'HTML',
+      'CSS',
+      'JavaScript',
+      'Web Developement',
+      'React JS',
       'Node js',
       "Git",
       "fullStack",
@@ -4511,6 +4511,21 @@ module.exports = [
     url: 'https://blog.seanmilfort.com',
     twitter: '@seanmilfort',
     tags: ['HTML', 'CSS', 'JavaScript', 'Tech', 'Development', 'Consumer Products', 'Reviews', 'Front End', 'Back End', 'Learning', 'Mobile'],
+  },
+  {
+    name: "Ian Kumu",
+    description: "I write articles on various laravel topics and other technologies that I am learning and using on a daily basis.",
+    url: "https://www.iankumu.com/blog",
+    twitter: "@Ian_kumu",
+    tags: [
+      "Laravel",
+      "PHP",
+      "Web Development",
+      "Cloud",
+      "Backend",
+      "DevOps",
+      "Linux"
+    ],
   },
   {
     name: "Andrej Gajdos",
