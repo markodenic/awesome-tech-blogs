@@ -4513,18 +4513,18 @@ module.exports = [
     tags: ['HTML', 'CSS', 'JavaScript', 'Tech', 'Development', 'Consumer Products', 'Reviews', 'Front End', 'Back End', 'Learning', 'Mobile'],
   },
   {
-    name: "Ian Kumu",
-    description: "I write articles on various laravel topics and other technologies that I am learning and using on a daily basis.",
-    url: "https://www.iankumu.com/blog",
-    twitter: "@Ian_kumu",
+    name: 'Ian Kumu',
+    description: 'I write articles on various laravel topics and other technologies that I am learning and using on a daily basis.',
+    url: 'https://www.iankumu.com/blog',
+    twitter: '@Ian_kumu',
     tags: [
-      "Laravel",
-      "PHP",
-      "Web Development",
-      "Cloud",
-      "Backend",
-      "DevOps",
-      "Linux"
+      'Laravel',
+      'PHP',
+      'Web Development',
+      'Cloud',
+      'Backend',
+      'DevOps',
+      'Linux'
     ],
   },
   {
