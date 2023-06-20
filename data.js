@@ -1049,6 +1049,13 @@ module.exports = [
     ],
   },
   {
+    name: "Tonie Victor",
+    description: "Software Engineer | Technical Writer",
+    url: "https://tonie.hashnode.dev",
+    twitter: "@Tonie_NG",
+    tags: ["JavaScript", "React", "Python", "Data Structures and Algorithm", "Nodejs", "Expressjs"],
+  },
+  {
     name: "Shubhma Battoo",
     description:
       "Writing about frontend developement with different JavaScript frameworks and more.",
@@ -4564,13 +4571,6 @@ module.exports = [
       "MongoDB",
       "Firebase"
     ],
-  },
-  {
-    name: 'Tonie Victor',
-    description: 'Software Engineer | Technical Writer',
-    url: 'https://tonie.hashnode.dev',
-    twitter: '@Tonie_NG',
-    tags: ['JavaScript', 'React', 'Python', 'Data Structures and Algorithm', 'Nodejs', 'Expressjs'],
   },
 
 ];
