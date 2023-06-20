@@ -4565,5 +4565,12 @@ module.exports = [
       "Firebase"
     ],
   },
+  {
+    name: 'Tonie Victor',
+    description: 'Software Engineer | Technical Writer',
+    url: 'https://tonie.hashnode.dev',
+    twitter: '@Tonie_NG',
+    tags: ['JavaScript', 'React', 'Python', 'Data Structures and Algorithm', 'Nodejs', 'Expressjs'],
+  },
 
 ];
