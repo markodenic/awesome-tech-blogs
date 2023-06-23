@@ -89,6 +89,13 @@ module.exports = [
     ]
   },
   {
+      name: 'Kenta Takeuchi',
+      description: 'Blog about daily technical topics',
+      url: 'https://bmf-tech.com/',
+      twitter: '@bmf_san',
+      tags: ['PHP', 'Go', 'Software Engineering', 'Algorithms', 'Computer Science', 'Web Development'],
+  },
+  {
     name: "Devify",
     description: "From programming languages to web development, Devify cover it all to keep you ahead in the tech game",
     url: "https://www.devify.tech/",
