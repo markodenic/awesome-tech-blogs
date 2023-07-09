@@ -4579,5 +4579,21 @@ module.exports = [
       "Firebase"
     ],
   },
+    {
+    name: "Craving Space",
+    description: "Personal Blog about software and hardware development.",
+    url: "https://craving.space",
+    tags: [
+      "HTML",
+      "CSS",
+      "Tailwind",
+      "Python",
+      "JavaScript",
+      "Django",
+      "CAD",
+      "Arduino"
+    ],
+  },
+  
 
 ];
