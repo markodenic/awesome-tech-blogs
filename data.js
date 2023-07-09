@@ -4313,6 +4313,21 @@ module.exports = [
     ],
   },
   {
+    name: "Craving Space",
+    description: "Personal Blog about software and hardware development.",
+    url: "https://craving.space/blog",
+    tags: [
+      "HTML",
+      "CSS",
+      "Tailwind",
+      "Python",
+      "JavaScript",
+      "Django",
+      "CAD",
+      "Arduino"
+    ],
+  },
+  {
     name: "Prashant Yadav",
     description:
       "Senior Frontend Engineer, on a journey to be Frontend Architect.",
@@ -4579,21 +4594,4 @@ module.exports = [
       "Firebase"
     ],
   },
-    {
-    name: "Craving Space",
-    description: "Personal Blog about software and hardware development.",
-    url: "https://craving.space",
-    tags: [
-      "HTML",
-      "CSS",
-      "Tailwind",
-      "Python",
-      "JavaScript",
-      "Django",
-      "CAD",
-      "Arduino"
-    ],
-  },
-  
-
 ];
