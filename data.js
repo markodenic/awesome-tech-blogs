@@ -6,6 +6,13 @@ module.exports = [
     twitter: '@abhijit_ras',
     tags: ['Web Development', 'Fullstack', 'MERN Stack', 'React', 'Competitive Programming', 'Algorithms', 'Mathematics']
   },
+   {
+    name: 'TestGrid',
+    description: 'End to End test automation blogs, here you can also learn about AI for test automation and codeless testing',
+    url: 'https://www.testgrid.io/blog/',
+    twitter: '@testgridio',
+    tags: ['Web Development', 'End to end testing' 'Fullstack', 'cross browser testing', 'selenium', 'Appium,' 'Codeless automation,' 'AI Powered test automation']
+  },
   {
     name: 'Nishant Kumar',
     description: 'Blogging for practical goals, offering diverse reads. No niche, just a fresh perspective..',
