@@ -2073,6 +2073,13 @@ module.exports = [
     tags: ["JavaScript", "Python", "Web Development", "Automation"],
   },
   {
+    name: 'Victor Leung',
+    description: 'I write about business, technology and personal development.',
+    url: 'https://victorleungtw.com',
+    twitter: '@victorleungtw',
+    tags: ['Digtial', 'Strategy', 'Innovation'],
+  },
+  {
     name: "Victoria Lo",
     description:
       "Victoria is a very curious developer. Her articles on blogging combine great programming skills with enjoyable and insightful technical articles.",
