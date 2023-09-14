@@ -4579,5 +4579,20 @@ module.exports = [
       "Firebase"
     ],
   },
-
+  {
+    name: 'MatheusMello.io',
+    description: 'Tutorials & guides about tech & software development.',
+    url: 'https://matheusmello.io',
+    twitter: '@msmello_',
+    tags: [
+      "Tech",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Web Development",
+      "TypeScript",
+      "Backend",
+      "NextJS"
+  ],
+  }
 ];
