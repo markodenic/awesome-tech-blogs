@@ -4578,5 +4578,5 @@ module.exports = [
       "DevOps",
       "AWS"
     ],
-
+  },
 ];
