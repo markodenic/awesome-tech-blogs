@@ -1,49 +1,86 @@
 module.exports = [
   {
-    name: 'Abhijit Sarode',
-    description: 'At the intersection of Fullstack, Competitive Programming & Mathematics',
-    url: 'https://abhijitsarode.hashnode.dev',
-    twitter: '@abhijit_ras',
-    tags: ['Web Development', 'Fullstack', 'MERN Stack', 'React', 'Competitive Programming', 'Algorithms', 'Mathematics']
+    name: "Abhijit Sarode",
+    description:
+      "At the intersection of Fullstack, Competitive Programming & Mathematics",
+    url: "https://abhijitsarode.hashnode.dev",
+    twitter: "@abhijit_ras",
+    tags: [
+      "Web Development",
+      "Fullstack",
+      "MERN Stack",
+      "React",
+      "Competitive Programming",
+      "Algorithms",
+      "Mathematics",
+    ],
   },
   {
-    name: 'Nishant Kumar',
-    description: 'Blogging for practical goals, offering diverse reads. No niche, just a fresh perspective..',
-    url: 'https://blog.nishant.lol',
-    twitter: '@nisnym',
-    tags: ['tech', 'react.js', 'js'],
-},
-  {
-    name: 'Harsh Shah',
-    description: 'I write tutorials related to React Js and Next Js.',
-    url: 'https://harshshah.codes',
-    twitter: '@harsh_shah2102',
-    tags: ['HTML', 'CSS', 'JavaScript', 'Web Developement', 'React JS', 'Next JS', 'Java', 'Python', 'React'],
+    name: "Nishant Kumar",
+    description:
+      "Blogging for practical goals, offering diverse reads. No niche, just a fresh perspective..",
+    url: "https://blog.nishant.lol",
+    twitter: "@nisnym",
+    tags: ["tech", "react.js", "js"],
   },
   {
-    name: 'Mayank Vikash',
-    description: 'I write tutorials related to Web Development and Programming.',
-    url: 'https://mayankvikash.in/posts',
-    twitter: '@MayankVikash1',
-    tags: ['HTML', 'CSS', 'JavaScript', 'Web Development', 'Java'],
+    name: "Harsh Shah",
+    description: "I write tutorials related to React Js and Next Js.",
+    url: "https://harshshah.codes",
+    twitter: "@harsh_shah2102",
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Web Developement",
+      "React JS",
+      "Next JS",
+      "Java",
+      "Python",
+      "React",
+    ],
   },
   {
-    name: 'Argonaut.dev',
-    description: 'Blog about Kubernetes, AWS, Cloud costs, and more!',
-    url: 'https://www.argonaut.dev/blog',
-    twitter: '@Argonaut_Dev',
-      tags: ['AWS', 'DevOps', 'Cloud', 'Productivity', 'Kubernetes','Automation'],
+    name: "Mayank Vikash",
+    description:
+      "I write tutorials related to Web Development and Programming.",
+    url: "https://mayankvikash.in/posts",
+    twitter: "@MayankVikash1",
+    tags: ["HTML", "CSS", "JavaScript", "Web Development", "Java"],
   },
   {
-    name: 'Rahul',
-    description: '18-year-old hustler who loves reading, coding and building stuffs. Mostly writing on JavaScript. ',
-    url: 'https://rahul.biz',
-    twitter: '@rahuldotbiz',
-    tags: ['HTML', 'CSS', 'JavaScript', 'Web Development', "Freelancing", "Learn Programming"],
+    name: "Argonaut.dev",
+    description: "Blog about Kubernetes, AWS, Cloud costs, and more!",
+    url: "https://www.argonaut.dev/blog",
+    twitter: "@Argonaut_Dev",
+    tags: [
+      "AWS",
+      "DevOps",
+      "Cloud",
+      "Productivity",
+      "Kubernetes",
+      "Automation",
+    ],
+  },
+  {
+    name: "Rahul",
+    description:
+      "18-year-old hustler who loves reading, coding and building stuffs. Mostly writing on JavaScript. ",
+    url: "https://rahul.biz",
+    twitter: "@rahuldotbiz",
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Web Development",
+      "Freelancing",
+      "Learn Programming",
+    ],
   },
   {
     name: "Live Code Stream",
-    description: "We produce FREE tutorials and resources for self-taught developers and data scientists.",
+    description:
+      "We produce FREE tutorials and resources for self-taught developers and data scientists.",
     url: "https://livecodestream.dev/post/",
     twitter: "@livecodestream",
     tags: [
@@ -55,8 +92,8 @@ module.exports = [
       "Freelancing",
       "Career",
       "Software Development",
-      "Learn Programming"
-    ]
+      "Learn Programming",
+    ],
   },
   {
     name: "Richard Callaby",
@@ -71,33 +108,41 @@ module.exports = [
       "Cloud Computing",
       "Software Development",
       "Freelancing",
-      "Learn Programming"
-    ]
+      "Learn Programming",
+    ],
   },
   {
-    name: 'Jina AI',
-    description: 'The most advanced MLOps platform for Multimodal AI',
-    url: 'https://jina.ai/news',
-    twitter: '@JinaAI_',
+    name: "Jina AI",
+    description: "The most advanced MLOps platform for Multimodal AI",
+    url: "https://jina.ai/news",
+    twitter: "@JinaAI_",
     tags: [
-      'Multimodal',
-      'Neural Search',
-      'Generative AI',
-      'Creative AI',
-      'Cloud Native',
-      'Deep Learning'
-    ]
+      "Multimodal",
+      "Neural Search",
+      "Generative AI",
+      "Creative AI",
+      "Cloud Native",
+      "Deep Learning",
+    ],
   },
   {
-      name: 'Kenta Takeuchi',
-      description: 'Blog about daily technical topics',
-      url: 'https://bmf-tech.com/',
-      twitter: '@bmf_san',
-      tags: ['PHP', 'Go', 'Software Engineering', 'Algorithms', 'Computer Science', 'Web Development'],
+    name: "Kenta Takeuchi",
+    description: "Blog about daily technical topics",
+    url: "https://bmf-tech.com/",
+    twitter: "@bmf_san",
+    tags: [
+      "PHP",
+      "Go",
+      "Software Engineering",
+      "Algorithms",
+      "Computer Science",
+      "Web Development",
+    ],
   },
   {
     name: "Devify",
-    description: "From programming languages to web development, Devify cover it all to keep you ahead in the tech game",
+    description:
+      "From programming languages to web development, Devify cover it all to keep you ahead in the tech game",
     url: "https://www.devify.tech/",
     twitter: "@iamsatyanchal",
     tags: [
@@ -109,8 +154,8 @@ module.exports = [
       "Software Development",
       "Learn Programming",
       "Technology updates",
-      "Artificial Intelligence"
-    ]
+      "Artificial Intelligence",
+    ],
   },
   {
     name: "Devremote",
@@ -126,12 +171,13 @@ module.exports = [
       "Freelancing",
       "Career",
       "Software Development",
-      "Learn Programming"
-    ]
+      "Learn Programming",
+    ],
   },
   {
     name: "2minsDevsNotes",
-    description: "Github-based fast-to-read blog about dev's daily routine challenges",
+    description:
+      "Github-based fast-to-read blog about dev's daily routine challenges",
     url: "https://github.com/vtcaregorodtcev/2minsDevsNotes",
     twitter: "@v_hadoocken",
     tags: [
@@ -205,26 +251,26 @@ module.exports = [
     ],
   },
   {
-    name: 'Robiul H.',
-    description: 'RoBlog, your go-to destination for all things related to technology, JavaScript, Node.js, and web development.',
-    url: 'https://robiul.dev/',
-    twitter: '@robiulhr01',
+    name: "Robiul H.",
+    description:
+      "RoBlog, your go-to destination for all things related to technology, JavaScript, Node.js, and web development.",
+    url: "https://robiul.dev/",
+    twitter: "@robiulhr01",
     tags: [
-      'HTML', 
-      'CSS', 
-      'JavaScript', 
-      'Web Developement', 
-      'React JS', 
-      'Node js',
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Web Developement",
+      "React JS",
+      "Node js",
       "Git",
       "fullStack",
       "opensource",
       "community",
       "frontend",
-      "backend"
+      "backend",
     ],
-  }
-  ,
+  },
   {
     name: "Programming School",
     description: "Awesome Programming Posts for Beginners by Experts.",
@@ -252,11 +298,22 @@ module.exports = [
     tags: ["TypeScript", "JavaScript", "Git", "Web Development", "React"],
   },
   {
-    name: 'wweb.dev',
-    description: 'A blog with weekly updates, resources, articles and useful code generators.',
-    url: 'https://wweb.dev/blog/',
-    twitter: '@wweb_dev',
-    tags: ['HTML', 'CSS', 'JavaScript', 'Web Development', 'React', 'Front End', 'Fullstack', 'Next.js', 'Node.js'],
+    name: "wweb.dev",
+    description:
+      "A blog with weekly updates, resources, articles and useful code generators.",
+    url: "https://wweb.dev/blog/",
+    twitter: "@wweb_dev",
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Web Development",
+      "React",
+      "Front End",
+      "Fullstack",
+      "Next.js",
+      "Node.js",
+    ],
   },
   {
     name: "Sundeep Agarwal",
@@ -389,7 +446,8 @@ module.exports = [
   },
   {
     name: "Hristo Iliev",
-    description: "I am a game programmer and I write a lot about low level programming in C and C++ and tools programming",
+    description:
+      "I am a game programmer and I write a lot about low level programming in C and C++ and tools programming",
     url: "https://thatonegamedev.com/posts",
     twitter: "@StamenovHristo",
     tags: ["C++", "CMake"],
@@ -924,11 +982,12 @@ module.exports = [
     ],
   },
   {
-    name: 'Christine Belzie',
-    description: 'I write about my coding journey and other tech-related stuff.',
-    url: 'https://chrissycodes.hashnode.dev/',
+    name: "Christine Belzie",
+    description:
+      "I write about my coding journey and other tech-related stuff.",
+    url: "https://chrissycodes.hashnode.dev/",
     twitter: "@CodesChrissy",
-    tags: ['Open Source', 'Beginner', 'Coding Journey'],
+    tags: ["Open Source", "Beginner", "Coding Journey"],
   },
   {
     name: "Michael Hoffmann (Mokkapps)",
@@ -970,22 +1029,23 @@ module.exports = [
     ],
   },
   {
-    name: 'Rocketeers',
-    description: 'Sharing knowledge about hosting, developing and deploying web apps.',
-    url: 'https://rocketee.rs/knowledge',
-    twitter: '@rocketeers_app',
+    name: "Rocketeers",
+    description:
+      "Sharing knowledge about hosting, developing and deploying web apps.",
+    url: "https://rocketee.rs/knowledge",
+    twitter: "@rocketeers_app",
     tags: [
-      'Development',
-      'Hosting',
-      'Performance',
-      'PHP',
-      'Javascript',
-      'Laravel',
-      'Git',
-      'DevOps',
-      'MySQL',
-      'Nginx',
-      'Security'
+      "Development",
+      "Hosting",
+      "Performance",
+      "PHP",
+      "Javascript",
+      "Laravel",
+      "Git",
+      "DevOps",
+      "MySQL",
+      "Nginx",
+      "Security",
     ],
   },
   {
@@ -1060,7 +1120,14 @@ module.exports = [
     description: "Software Engineer | Technical Writer",
     url: "https://tonie.hashnode.dev",
     twitter: "@Tonie_NG",
-    tags: ["JavaScript", "React", "Python", "Data Structures and Algorithm", "Nodejs", "Expressjs"],
+    tags: [
+      "JavaScript",
+      "React",
+      "Python",
+      "Data Structures and Algorithm",
+      "Nodejs",
+      "Expressjs",
+    ],
   },
   {
     name: "Shubhma Battoo",
@@ -1265,7 +1332,8 @@ module.exports = [
   },
   {
     name: "A Shreya Sri",
-    description: "Technical Writer | Open Source Enthusiast | Computer Science Undergrad",
+    description:
+      "Technical Writer | Open Source Enthusiast | Computer Science Undergrad",
     url: "https://shreyasri.hashnode.dev/",
     twitter: "@Shreya_sri25",
     tags: [
@@ -1685,16 +1753,11 @@ module.exports = [
   },
   {
     name: "Kyle Platt",
-    description: "Senior Software Engineer, Multi Startup Founder, Building Projects in Public",
+    description:
+      "Senior Software Engineer, Multi Startup Founder, Building Projects in Public",
     url: "https://kyleplatt.com",
     twitter: "@Kyle__Platt",
-    tags: [
-      "Java",
-      "Kotlin",
-      "JavaScript",
-      "Full Stack",
-      "Startups"
-    ]
+    tags: ["Java", "Kotlin", "JavaScript", "Full Stack", "Startups"],
   },
   {
     name: "Sunil Sandhu",
@@ -1856,11 +1919,21 @@ module.exports = [
     tags: ["Web Design", "WordPress", "SEO"],
   },
   {
-    name: 'DevTales',
-    description: 'Yet Another Technical Blog',
-    url: 'https://devtales.tech',
-    twitter: '@devtales_dev',
-    tags: ['HTML', 'AI', 'JavaScript', 'Python', 'Data Science', 'Machine Learning', 'Development', 'Programming', 'DevOps'],
+    name: "DevTales",
+    description: "Yet Another Technical Blog",
+    url: "https://devtales.tech",
+    twitter: "@devtales_dev",
+    tags: [
+      "HTML",
+      "AI",
+      "JavaScript",
+      "Python",
+      "Data Science",
+      "Machine Learning",
+      "Development",
+      "Programming",
+      "DevOps",
+    ],
   },
   {
     name: "Alexander Lichter",
@@ -2271,7 +2344,8 @@ module.exports = [
   },
   {
     name: "Sahan Serasinghe",
-    description: "Howdy! I'm Sahan, a Senior Software Engineer, Solutions Architect & Speaker with over 10 years of experience in Cloud and Backend engineering. Checkout my blog for more details at https://sahansera.dev",
+    description:
+      "Howdy! I'm Sahan, a Senior Software Engineer, Solutions Architect & Speaker with over 10 years of experience in Cloud and Backend engineering. Checkout my blog for more details at https://sahansera.dev",
     url: "https://sahansera.dev/",
     twitter: "@_SahanSera",
     tags: [
@@ -2284,7 +2358,7 @@ module.exports = [
       "Go",
       "C#",
       ".NET",
-      "Azure"
+      "Azure",
     ],
   },
   {
@@ -2338,21 +2412,21 @@ module.exports = [
     ],
   },
   {
-    name: 'Teco Tutorials',
-    description: 'Tutorials for learning how to build backend web applications',
-    url: 'https://blog.tericcabrel.com',
-    twitter: '@tericcabrel',
+    name: "Teco Tutorials",
+    description: "Tutorials for learning how to build backend web applications",
+    url: "https://blog.tericcabrel.com",
+    twitter: "@tericcabrel",
     tags: [
-      'Backend',
-      'Java',
-      'AWS',
-      'Docker',
-      'GraphQL',
-      'APIs',
-      'TypeScript',
-      'Node.js',
-      'DevOps',
-      'MongoDB'
+      "Backend",
+      "Java",
+      "AWS",
+      "Docker",
+      "GraphQL",
+      "APIs",
+      "TypeScript",
+      "Node.js",
+      "DevOps",
+      "MongoDB",
     ],
   },
   {
@@ -2523,7 +2597,8 @@ module.exports = [
   },
   {
     name: "Ammaar's Blog",
-    description: "Articles on Web Development🌐(React, NextJS, HTML, CSS, Tailwind CSS), Productivity📈 and Programming in General👩‍💻, to help you become a better developer.",
+    description:
+      "Articles on Web Development🌐(React, NextJS, HTML, CSS, Tailwind CSS), Productivity📈 and Programming in General👩‍💻, to help you become a better developer.",
     url: "https://ammaaraslam.hashnode.dev",
     twitter: "@itsammaar_7",
     tags: [
@@ -3143,14 +3218,7 @@ module.exports = [
     description: "Full-stack developer writing about my favorite tech stack.",
     url: "https://baspa.dev",
     twitter: "@baspa_dev",
-    tags: [
-      "PHP",
-      "Laravel",
-      "Open Source",
-      "React",
-      "Vue",
-      "SaaS",
-    ],
+    tags: ["PHP", "Laravel", "Open Source", "React", "Vue", "SaaS"],
   },
   {
     name: "Alfred Danda",
@@ -3184,8 +3252,7 @@ module.exports = [
   },
   {
     name: "Vincenzo Marcovecchio",
-    description:
-      "Junior Web Developer",
+    description: "Junior Web Developer",
     url: "https://vincenzo.codes",
     twitter: "@_vinny_92",
     tags: [
@@ -3195,7 +3262,7 @@ module.exports = [
       "Science",
       "Hacking",
       "TypeScript",
-      "Javascript"
+      "Javascript",
     ],
   },
   {
@@ -3435,11 +3502,12 @@ module.exports = [
     ],
   },
   {
-    name: 'bitExpert Blog',
-    description: 'This blog combines topics that are important to us, our news and informative tutorials around technology and software.',
-    url: 'https://blog.bitexpert.de/blog',
-    twitter: '@bitexpert',
-    tags: ['PHP', 'Magento', 'Java', 'React', 'DevOps'],
+    name: "bitExpert Blog",
+    description:
+      "This blog combines topics that are important to us, our news and informative tutorials around technology and software.",
+    url: "https://blog.bitexpert.de/blog",
+    twitter: "@bitexpert",
+    tags: ["PHP", "Magento", "Java", "React", "DevOps"],
   },
   {
     name: "Renan Moura",
@@ -3645,7 +3713,15 @@ module.exports = [
     description: "Good tech jobs in Japan",
     url: "https://japan-dev.com/blog",
     twitter: "@_etdev",
-    tags: ["Tech", "Jobs", "Japan", "Engineering", "Design", "Product", "Startups"],
+    tags: [
+      "Tech",
+      "Jobs",
+      "Japan",
+      "Engineering",
+      "Design",
+      "Product",
+      "Startups",
+    ],
   },
   {
     name: "Alexandre Nédélec",
@@ -3793,7 +3869,8 @@ module.exports = [
   },
   {
     name: "Atharva Salitri",
-    description: "Technical Writer | Open Source Enthusiast | Beginner Web Developer",
+    description:
+      "Technical Writer | Open Source Enthusiast | Beginner Web Developer",
     url: "https://theamazingatharva.hashnode.dev/",
     twitter: "@atharvas_twt",
     tags: [
@@ -3825,11 +3902,20 @@ module.exports = [
     ],
   },
   {
-    name: 'Employment Japan',
-    description: 'Tech corner where the latest technologies curated by experts in the field are discussed.',
-    url: 'https://www.ejable.com/category/tech-corner/',
-    twitter: '@emp_japan',
-    tags: ['AI', 'ML', 'Deep Learning', 'Blockchain', 'Application Development', 'Methodologies', 'Cloud Computing'],
+    name: "Employment Japan",
+    description:
+      "Tech corner where the latest technologies curated by experts in the field are discussed.",
+    url: "https://www.ejable.com/category/tech-corner/",
+    twitter: "@emp_japan",
+    tags: [
+      "AI",
+      "ML",
+      "Deep Learning",
+      "Blockchain",
+      "Application Development",
+      "Methodologies",
+      "Cloud Computing",
+    ],
   },
   {
     name: "Abhiraj Bhowmick",
@@ -3852,18 +3938,25 @@ module.exports = [
     ],
   },
   {
-    name: 'Engin Arslan',
-    description: 'Engin is a Zurich-based front-end engineer and teacher. Author of "Coding for Visual Learners"',
-    url: 'https://www.enginarslan.com/posts',
-    twitter: '@inspiratory',
-    tags: ['Software engineering', 'Software engineer', 'Web development', 'Javascript'],
+    name: "Engin Arslan",
+    description:
+      'Engin is a Zurich-based front-end engineer and teacher. Author of "Coding for Visual Learners"',
+    url: "https://www.enginarslan.com/posts",
+    twitter: "@inspiratory",
+    tags: [
+      "Software engineering",
+      "Software engineer",
+      "Web development",
+      "Javascript",
+    ],
   },
   {
-    name: 'Awesome Coding',
-    description: 'Learn to code awesome stuff like web applications, 3D graphics, animations, games, scrapers, artificial intelligence, VR, AR in a beginner-friendly way.    ',
-    url: 'https://awesomecoding.co/blog',
-    twitter: '@inspiratory',
-    tags: ['Javascript', 'Node.js', 'Web Development'],
+    name: "Awesome Coding",
+    description:
+      "Learn to code awesome stuff like web applications, 3D graphics, animations, games, scrapers, artificial intelligence, VR, AR in a beginner-friendly way.    ",
+    url: "https://awesomecoding.co/blog",
+    twitter: "@inspiratory",
+    tags: ["Javascript", "Node.js", "Web Development"],
   },
   {
     name: "Prémices Kamasuwa",
@@ -4143,11 +4236,20 @@ module.exports = [
     tags: ["TypeScript", "Rust", "React"],
   },
   {
-    name: 'Reza Lavarian',
-    description: 'Helping new software developers/early careers have a smooth start.',
-    url: 'https://www.decodingweb.dev',
-    twitter: '@rlavarian',
-    tags: ['JavaScript', 'Python', 'PHP', 'Web Development', 'Programming', 'Beginner', 'Career'],
+    name: "Reza Lavarian",
+    description:
+      "Helping new software developers/early careers have a smooth start.",
+    url: "https://www.decodingweb.dev",
+    twitter: "@rlavarian",
+    tags: [
+      "JavaScript",
+      "Python",
+      "PHP",
+      "Web Development",
+      "Programming",
+      "Beginner",
+      "Career",
+    ],
   },
   {
     name: "Stack Diary",
@@ -4331,7 +4433,8 @@ module.exports = [
   },
   {
     name: "Ayesha Sahar",
-    description: "I write articles and share tips + tricks about Python, C++, UI/UX & Web Development to make your learning journey easier✨",
+    description:
+      "I write articles and share tips + tricks about Python, C++, UI/UX & Web Development to make your learning journey easier✨",
     url: "https://ayeshasahar.hashnode.dev/",
     twitter: "@IAyeshaSahar",
     tags: [
@@ -4421,7 +4524,8 @@ module.exports = [
   },
   {
     name: "Mehul Mohan",
-    description: "A web developer currently working on making programming more accessible and interactive to everyone in the world.",
+    description:
+      "A web developer currently working on making programming more accessible and interactive to everyone in the world.",
     url: "https://codedamn.com/news",
     twitter: "@mehulmpt",
     tags: [
@@ -4435,8 +4539,8 @@ module.exports = [
       "TypeScript",
       "Python",
       "Git",
-      "Tech"
-    ]
+      "Tech",
+    ],
   },
   {
     name: "Adit Modi",
@@ -4476,8 +4580,7 @@ module.exports = [
 
   {
     name: "Masteringbackend",
-    description:
-      "A great resource for backend engineers",
+    description: "A great resource for backend engineers",
     url: "https://masteringbackend.com",
     twitter: "@master_backend",
     tags: [
@@ -4516,15 +4619,28 @@ module.exports = [
       "Golang",
       "Linux",
       "Vim",
-      "Neovim"
-    ]
+      "Neovim",
+    ],
   },
   {
-    name: 'Sean Milfort',
-    description: 'Tech blog that about all the things that I am learning and experiencing throughout my everyday journey!.',
-    url: 'https://blog.seanmilfort.com',
-    twitter: '@seanmilfort',
-    tags: ['HTML', 'CSS', 'JavaScript', 'Tech', 'Development', 'Consumer Products', 'Reviews', 'Front End', 'Back End', 'Learning', 'Mobile'],
+    name: "Sean Milfort",
+    description:
+      "Tech blog that about all the things that I am learning and experiencing throughout my everyday journey!.",
+    url: "https://blog.seanmilfort.com",
+    twitter: "@seanmilfort",
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Tech",
+      "Development",
+      "Consumer Products",
+      "Reviews",
+      "Front End",
+      "Back End",
+      "Learning",
+      "Mobile",
+    ],
   },
   {
     name: "Andrej Gajdos",
@@ -4542,7 +4658,7 @@ module.exports = [
       "TypeScript",
       "Front End",
       "Node.js",
-      "Next.js"
+      "Next.js",
     ],
   },
   {
@@ -4550,21 +4666,19 @@ module.exports = [
     description: "Freelance web developer passionate about the TALL stack.",
     url: "https://benjamincrozat.com",
     twitter: "@benjamincrozat",
-    tags: [
-      "PHP",
-      "Laravel",
-    ],
+    tags: ["PHP", "Laravel"],
   },
   {
-    name: 'Mahdi',
-    description: 'Senior Software Engineer and Bootstrapper',
-    url: 'https://mahdix.com',
-    twitter: '@mahdix',
-    tags: ['Java', 'SaaS', 'Kotlin', 'Linux'],
+    name: "Mahdi",
+    description: "Senior Software Engineer and Bootstrapper",
+    url: "https://mahdix.com",
+    twitter: "@mahdix",
+    tags: ["Java", "SaaS", "Kotlin", "Linux"],
   },
   {
     name: "Manthan Ank",
-    description: "I'm Front-End Developer, I write tutorials related to Web Development.",
+    description:
+      "I'm Front-End Developer, I write tutorials related to Web Development.",
     url: "https://dev.to/manthanank",
     twitter: "@manthanank",
     tags: [
@@ -4576,8 +4690,15 @@ module.exports = [
       "Nodejs",
       "Expressjs",
       "MongoDB",
-      "Firebase"
+      "Firebase",
     ],
   },
-
+  {
+    name: "Bamgbade Lanre",
+    description:
+      "I am a Front-End Developer on a mission to share all things React",
+    url: "https://geekspeak.hashnode.dev/",
+    twitter: "@lakatabu01",
+    tags: ["HTML", "CSS", "JavaScript", "React"],
+  },
 ];
