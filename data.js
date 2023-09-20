@@ -1617,6 +1617,25 @@ module.exports = [
     ],
   },
   {
+    name: "Bamgbade Lanre",
+    description:
+      "I am a Front-End Developer on a mission to share all things React",
+    url: "https://geekspeak.hashnode.dev/understanding-react-components-and-how-it-works",
+    twitter: "@lakatabu01",
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Firebase",
+      "Typescript",
+      "Redux",
+      "Vite",
+      "jest",
+      "Vitest",
+    ],
+  },
+  {
     name: "Abdulmalik Adekunle",
     description: "Front End Web developer, Graphics Designer, IT consultant.",
     url: "https://abdulmalik.hashnode.dev",
@@ -4692,13 +4711,5 @@ module.exports = [
       "MongoDB",
       "Firebase",
     ],
-  },
-  {
-    name: "Bamgbade Lanre",
-    description:
-      "I am a Front-End Developer on a mission to share all things React",
-    url: "https://geekspeak.hashnode.dev/",
-    twitter: "@lakatabu01",
-    tags: ["HTML", "CSS", "JavaScript", "React"],
   },
 ];
