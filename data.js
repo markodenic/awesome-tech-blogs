@@ -21,6 +21,13 @@ module.exports = [
     tags: ['HTML', 'CSS', 'JavaScript', 'Web Developement', 'React JS', 'Next JS', 'Java', 'Python', 'React'],
   },
   {
+    name: 'Sravan Kumar Gorati',
+    description: 'Mastering C++ Templates: A Guide to Creating Your Own Custom Template Library Similar to STL',
+    url: 'https://sravangorati2001.hashnode.dev/',
+    twitter: '@Sravanthrony',
+    tags: ['C++', 'STL', 'Competitive Programming'],
+  },
+  {
     name: 'Mayank Vikash',
     description: 'I write tutorials related to Web Development and Programming.',
     url: 'https://mayankvikash.in/posts',
