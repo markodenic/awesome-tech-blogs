@@ -23,7 +23,7 @@ module.exports = [
   {
     name: 'Sravan Kumar Gorati',
     description: 'Mastering C++ Templates: A Guide to Creating Your Own Custom Template Library Similar to STL',
-    url: 'https://sravangorati2001.hashnode.dev/',
+    url: 'https://sravangorati2001.hashnode.dev/mastering-c-templates-a-guide-to-creating-your-own-custom-template-library-similar-to-stl',
     twitter: '@Sravanthrony',
     tags: ['C++', 'STL', 'Competitive Programming'],
   },
