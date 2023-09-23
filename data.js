@@ -4247,6 +4247,24 @@ module.exports = [
     tags: ["Testing", "Automation", "Puppeteer", "Playwright", "Selenium"],
   },
   {
+    name: "aiherrera",
+    description: "Crafting Tailored Web Solutions and Sharing Developer Insights",
+    url: "https://blog.aiherrera.com",
+    twitter: "@_aiherrera",
+    tags: [
+      "Open Source",
+      "Content Creation",
+      "Sotware development",
+      "Web Development",
+      "HTML/CSS",
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "GitHub",
+      "Next.js",
+    ],
+  },
+  {
     name: "Jones Zachariah Noel N (zachjonesnoel)",
     description:
       "AWS Community Builder 🚀 | AWS Serverless Architect ⚡ | Full-Stack Cloud Developer 👨‍💻 | Technical Writer 📜 | Home Chef 👨‍🍳 | Photographer 📷 | Serverless Advocacy 🥑",
