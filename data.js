@@ -2163,6 +2163,20 @@ module.exports = [
       "Kubernetes",
     ],
   },
+   {
+    name: "Spacelift",
+    description: "Articles about Terraform, Kubernetes, Ansible, and Docker.",
+    url: "https://spacelift.io/blog",
+    twitter: "@spaceliftio",
+    tags: [
+      "Terraform",
+      "Ansible",
+      "Kubernetes",
+      "Docker",
+      "DevOps",
+      "AWS"
+    ],
+  },
   {
     name: "Sabe.io",
     description:
@@ -4563,20 +4577,6 @@ module.exports = [
       "Expressjs",
       "MongoDB",
       "Firebase"
-    ],
-  },
-   {
-    name: "Spacelift",
-    description: "Articles about Terraform, Kubernetes, Ansible, and Docker.",
-    url: "https://spacelift.io/blog",
-    twitter: "@spaceliftio",
-    tags: [
-      "Terraform",
-      "Ansible",
-      "Kubernetes",
-      "Docker",
-      "DevOps",
-      "AWS"
     ],
   },
 ];
