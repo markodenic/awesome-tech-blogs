@@ -230,8 +230,23 @@ module.exports = [
       "frontend",
       "backend"
     ],
-  }
-  ,
+  },
+  {
+    name: 'Coder Spirit',
+    description: 'Deep-dive articles on Algorithms, Programming, and Software Engineering',
+    url: 'https://blog.coderspirit.xyz',
+    twitter: '@castarco',
+    tags: [
+      'Algorithms',
+      'Fullstack',
+      'JavaScript',
+      'Open Source',
+      'Programming',
+      'Software Engineering',
+      'TypeScript',
+      'Web Development',
+    ],
+  },
   {
     name: "Programming School",
     description: "Awesome Programming Posts for Beginners by Experts.",
