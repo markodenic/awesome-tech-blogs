@@ -915,6 +915,13 @@ module.exports = [
     ],
   },
   {
+    name: 'Saleh Mubashar',
+    description: 'Articles on web development and web design',
+    url: 'https://salehmubashar.com/blog',
+    twitter: '@SalehMubashar',
+    tags: ['HTML', 'CSS', 'JavaScript', 'Web Development', 'Fullstack', 'React','React JS', 'Next JS', 'Animation'],
+},
+  {
     name: "Mohammad Humayun Khan",
     description:
       "I am a Computer Engineering Student from India. I love Software Development, Cybersecurity and Cloud Computing.",
