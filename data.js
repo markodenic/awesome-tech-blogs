@@ -983,6 +983,20 @@ module.exports = [
     ],
   },
   {
+    name: 'Bryan Braun',
+    description: 'Making things and sharing what I learn.',
+    url: 'https://bryanbraun.com',
+    twitter: '@BryanEBraun',
+    tags: [
+      'Web Development',
+      'Front End',
+      'Full Stack',
+      'JavaScript',
+      'Programming',
+      'Open Source',
+    ],
+  },
+  {
     name: "Sagar Paul",
     description: "Fullstack developer. Self-taught.",
     url: "https://sagarpaul.netlify.app",
