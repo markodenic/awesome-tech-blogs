@@ -1,5 +1,12 @@
 module.exports = [
   {
+    name: 'DApp World | SmartBooks',
+    description: 'SmartBooks provide readers curated blogs for a concise understanding of blockchain and web3 technology.',
+    url: 'https://dapp-world.com/smartbooks',
+    twitter: '@dappworld100',
+    tags: ['Web3', 'Learn Programming', 'Certifications'],
+  },
+  {
     name: 'Abhijit Sarode',
     description: 'At the intersection of Fullstack, Competitive Programming & Mathematics',
     url: 'https://abhijitsarode.hashnode.dev',
