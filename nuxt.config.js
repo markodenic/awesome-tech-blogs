@@ -53,7 +53,7 @@ export default {
       { rel: 'mask-icon', color: '#a3e635', href: '/safari-pinned-tab.svg' },
       {
         rel: "stylesheet",
-        href: "https://fonts.googleapis.com/css2?family=Inter:wght@200;400&display=swap",
+        href: "https://fonts.googleapis.com/css2?family=Inter&display=swap",
       },
     ]
   },
