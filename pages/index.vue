@@ -97,7 +97,7 @@ export default {
       this.tags = Object.entries(counts)
         .sort(([, countA], [, countB]) => countB - countA)
         // Show tags that have more then 2 occurrence to keep only the most relevant tags.
-        .filter(([, count]) => count >= 5)
+        .filter(([, count]) => count >= 10)
         .map(([name, count]) => ({ name, count }));
     },
   }
