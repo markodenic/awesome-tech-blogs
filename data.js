@@ -4698,4 +4698,11 @@ module.exports = [
       "Firebase"
     ],
   },
+  { 
+    name: "RailsReviews",
+    description: "Learn how to apply selected modern Reactive Rails techniques",
+    url: "https://www.railsreviews.com/articles",
+    twitter: "@julian_rubisch",
+    tags: ['Ruby', 'Rails', 'Hotwire', 'Turbo', 'Stimulus', 'StimulusReflex', 'CableReady']
+  },
 ];
