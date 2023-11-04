@@ -28,13 +28,6 @@ module.exports = [
     tags: ['C++', 'STL', 'Competitive Programming'],
   },
   {
-    name: 'Mayank Vikash',
-    description: 'I write tutorials related to Web Development and Programming.',
-    url: 'https://mayankvikash.in/posts',
-    twitter: '@MayankVikash1',
-    tags: ['HTML', 'CSS', 'JavaScript', 'Web Development', 'Java'],
-  },
-  {
     name: 'Argonaut.dev',
     description: 'Blog about Kubernetes, AWS, Cloud costs, and more!',
     url: 'https://www.argonaut.dev/blog',
@@ -101,23 +94,6 @@ module.exports = [
       url: 'https://bmf-tech.com/',
       twitter: '@bmf_san',
       tags: ['PHP', 'Go', 'Software Engineering', 'Algorithms', 'Computer Science', 'Web Development'],
-  },
-  {
-    name: "Devify",
-    description: "From programming languages to web development, Devify cover it all to keep you ahead in the tech game",
-    url: "https://www.devify.tech/",
-    twitter: "@iamsatyanchal",
-    tags: [
-      "Javascript",
-      "Web Development",
-      "Web3",
-      "HTML",
-      "CSS",
-      "Software Development",
-      "Learn Programming",
-      "Technology updates",
-      "Artificial Intelligence"
-    ]
   },
   {
     name: "Devremote",
@@ -718,24 +694,6 @@ module.exports = [
     ],
   },
   {
-    name: "Arpan Pandey",
-    description:
-      "I am a 15 year old student who likes to code and blog. I'm a cool minded but logical and pragmatic person. I try to be thorough with my work and am a perfectionist at heart.",
-    url: "https://hackersreboot.tech/",
-    twitter: "@HackersReboot",
-    tags: [
-      "Python",
-      "Blockchain",
-      "Web3",
-      "Computer Science",
-      "Algorithms",
-      "Programming",
-      "Student",
-      "JavaScript",
-      "Go",
-    ],
-  },
-  {
     name: "Tech Sheet",
     description:
       "Techsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single page.",
@@ -901,25 +859,6 @@ module.exports = [
     url: "https://unencrypted.vercel.app/",
     twitter: "@RedatoB",
     tags: ["Computer Science", "Networking", "Tailwind", "Next.js"],
-  },
-  {
-    name: "AlterClass by Greg D'Angelo",
-    description:
-      "Learn about the next-generation frameworks, tools, and techniques of modern web development.",
-    url: "https://alterclass.io/tutorials",
-    twitter: "@AlterClasssIO",
-    tags: [
-      "React",
-      "Next.js",
-      "JavaScript",
-      "TypeScript",
-      "Fauna",
-      "Mongodb",
-      "GraphQL",
-      "Tailwind CSS",
-      "Web3",
-      "Web Development",
-    ],
   },
   {
     name: "Solidity Tips",
@@ -1522,13 +1461,6 @@ module.exports = [
       "Software Engineering",
       "Interviews",
     ],
-  },
-  {
-    name: "Peter Witham",
-    description: "Swift and Apple development articles",
-    url: "https://compileswift.com/journal/",
-    twitter: "@compileswift",
-    tags: ["Swift", "Objective-C", "SwiftUI"],
   },
   {
     name: "Alexey Berezin",
@@ -2721,43 +2653,6 @@ module.exports = [
     ],
   },
   {
-    name: "Valentine Samuel",
-    description: "I can do anything i put my mind to",
-    url: "https://frontendval.hashnode.dev/",
-    twitter: "@frontend_val",
-    tags: [
-      "HTML5",
-      "CSS3",
-      "JavaScript",
-      "SCSS",
-      "TypeScript",
-      "React",
-      "Python",
-      "Github",
-      "Angular",
-      "APIs",
-    ],
-  },
-  {
-    name: "Jeet Mandaliya",
-    description:
-      "I am a self-taught Frontend Developer with a thing for VIM. In my free time, you can find me tinkering with my terminal and trying out new oh-my-zsh themes.",
-    url: "https://webdevjeet.me",
-    twitter: "@sereneInSerenad",
-    tags: [
-      "JavaScript",
-      "TypeScript",
-      "Vue",
-      "React",
-      "Git",
-      "GitHub",
-      "VuetifyJS",
-      "Node.js",
-      "TailwindCSS",
-      "Ghost CMS",
-    ],
-  },
-  {
     name: "Stefan Natter",
     description:
       "I am a Software Engineer from Austria 🇦🇹. I am interested in, write about, and develop (open source) software solutions with JavaScript, TypeScript, ReactJS, and NodeJS.",
@@ -3318,14 +3213,6 @@ module.exports = [
     ],
   },
   {
-    name: "Aymane Mimouni",
-    description:
-      "Software Engineer and a passionate Python developer from Morocco who loves to build and deliver quality products.",
-    url: "https://aymanemx.com/posts",
-    twitter: "@aymane_max",
-    tags: ["Python", "Django", "Vue", "Elastic Search", "GraphQL"],
-  },
-  {
     name: "Jai Kumar Dewani",
     description: "Another Tech-nerd trying to make a name for himself.",
     url: "https://jai-dewani.github.io/blogs/",
@@ -3654,22 +3541,6 @@ module.exports = [
       "Docker",
       "OpenSource",
       "Freelancing",
-    ],
-  },
-  {
-    name: "Kolawole Mangabo",
-    description:
-      "I write about JavaScript and Python | React, Django developer ",
-    url: "https://koladev.xyz/posts/",
-    twitter: "@koladev32",
-    tags: [
-      "JavaScript",
-      "TypeScript",
-      "Python",
-      "Django",
-      "React",
-      "Docker",
-      "Tailwind",
     ],
   },
   {
@@ -4121,14 +3992,6 @@ module.exports = [
       "Web Development",
       "Software Engineering",
     ],
-  },
-  {
-    name: "iRead Blog",
-    description:
-      "iRead is a multi-user blogging platform where you'll find technical articles and project tutorials related to Python, JavaScript, Flutter and much more ",
-    url: "https://ireadblog.com",
-    twitter: "@iRead_Blog",
-    tags: ["Python", "Java", "DSA", "JavaScript", "Flutter", "Web Development"],
   },
   {
     name: "Helmer Davila",
@@ -4631,13 +4494,6 @@ module.exports = [
     ],
   },
   {
-    name: "Aleix Morgadas",
-    description: "Articles on engineering strategy",
-    url: "https://learnings.aleixmorgadas.dev/s/open-engineering-strategy",
-    twitter: "@aleixmorgadas",
-    tags: ["Software engineering", "Strategy"],
-  },
-  {
     name: "Max Kovalevsky",
     description:
       "A software developer. I blog about programming in general, CS (algorithms and ds), terminal stuff (Linux, CLI's, Neovim, etc)",
@@ -4731,7 +4587,7 @@ module.exports = [
       "Firebase"
     ],
   },
-  { 
+  {
     name: "RailsReviews",
     description: "Learn how to apply selected modern Reactive Rails techniques",
     url: "https://www.railsreviews.com/articles",
