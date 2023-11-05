@@ -1859,7 +1859,7 @@ module.exports = [
     name: "Sunil Kumar",
     description:
       "I write about how to become a better developer, AWS, freelancing & building SaaS products.",
-    url: "https://sunilkumarc.in",
+    url: "https://sunilcs.com/",
     twitter: "@sunilc_",
     tags: [
       "Web Development",
