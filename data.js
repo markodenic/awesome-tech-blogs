@@ -4473,7 +4473,13 @@ module.exports = [
       "Hacking",
     ],
   },
-
+  {
+    name: 'devprogrammer',
+    description: 'Blog for easy-to-follow guides, programming tips, web dev, and tech problem-solving.',
+    url: 'https://devprogrammer.com',
+    twitter: '@devprogcom',
+    tags: ['Web Development', 'JavaScript', 'Ruby', 'Programming']
+  },
   {
     name: "Masteringbackend",
     description:
