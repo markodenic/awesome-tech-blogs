@@ -4600,4 +4600,21 @@ module.exports = [
     twitter: "@julian_rubisch",
     tags: ['Ruby', 'Rails', 'Hotwire', 'Turbo', 'Stimulus', 'StimulusReflex', 'CableReady']
   },
+  {
+    name: "Guillaume Briday",
+    description: "Senior Full Stack developer and DevOps",
+    url: "https://guillaumebriday.fr/articles",
+    twitter: "@guillaumebriday",
+    tags: [
+      'Ruby',
+      'Rails',
+      'Hotwire',
+      'Turbo',
+      'Stimulus',
+      'Vue',
+      'Docker',
+      'Web Development',
+      'DevOps',
+    ]
+  },
 ];
