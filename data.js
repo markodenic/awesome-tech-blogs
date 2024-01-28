@@ -4617,4 +4617,11 @@ module.exports = [
       'DevOps',
     ]
   },
+  {
+    name: "Attractor",
+    description: "Keep shipping Ruby and JavaScript apps fast",
+    url: "https://useattr.actor/articles",
+    twitter: "@julian_rubisch",
+    tags: ['Ruby', 'JavaScript', 'Code Quality', 'Tech Debt', 'Refactoring', 'Code Health', 'Code Smells']
+  },
 ];
