@@ -290,6 +290,21 @@ module.exports = [
     tags: ['HTML', 'CSS', 'JavaScript', 'Web Development', 'React', 'Front End', 'Fullstack', 'Next.js', 'Node.js'],
   },
   {
+    name: "Tim Mouskhelichvili",
+    description:
+      "Hello 👋! I am Tim Mouskhelichvili, a Freelance Developer & Consultant from Montreal 🇨🇦. I write about Front-End Development.",
+    url: "https://timmousk.com/blog/",
+    twitter: "@tim_mousk",
+    tags: ["TypeScript", "JavaScript", "Git", "Web Development", "React"],
+  },
+  {
+    name: 'KnowTechie',
+    description: 'Tech news for people who love tech, but live outside the bubble',
+    url: 'https://knowtechie,com',
+    twitter: '@knowtechie',
+    tags: ['HTML', 'CSS', 'Wordpress', 'Web Development', 'Journalism', 'AI'],
+  },
+  {
     name: "Sundeep Agarwal",
     description:
       "I write about Regular Expressions, CLI one-liners, Scripting Languages, Vim and Self-Publishing.",
