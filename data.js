@@ -3137,7 +3137,7 @@ module.exports = [
   {
     name: "Devopsian",
     description:
-      "Software Engineer blogging about Infrastructure, Reliability, Devops Principals and.. Software Engineering","
+      "Software Engineer blogging about Infrastructure, Reliability, Devops Principals and.. Software Engineering",
     url: "https://devopsian.net",
     twitter: "@c0anidam",
     tags: [
