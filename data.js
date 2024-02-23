@@ -4624,4 +4624,16 @@ module.exports = [
     twitter: "@julian_rubisch",
     tags: ['Ruby', 'JavaScript', 'Code Quality', 'Tech Debt', 'Refactoring', 'Code Health', 'Code Smells']
   },
+  {
+    name: 'Ajxs',
+    description: 'Reverse-engineering vintage synthesisers, programming, and the small-web',
+    url: 'https://ajxs.me',
+    tags: [
+      'Assembly',
+      'Low-level',
+      '8-bit',
+      'Reverse-engineering',
+      'Synthesizers',
+    ],
+  }
 ];
