@@ -4637,4 +4637,11 @@ module.exports = [
     twitter: "@julian_rubisch",
     tags: ['Ruby', 'JavaScript', 'Code Quality', 'Tech Debt', 'Refactoring', 'Code Health', 'Code Smells']
   },
+  {
+    name: "Omer Karabacak",
+    description: "Articles about DevOps, Cloud, Python, PostgreSQL, MongoDB and Infrastructure",
+    url: "https://omerkarabacak.medium.com",
+    twitter: "@gupguru",
+    tags: ['DevOps', 'Python', 'Cloud', 'Infrastructure', 'MongoDB', 'PostgreSQL', 'AWS', 'Terraform']
+  },
 ];
