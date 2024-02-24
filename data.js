@@ -300,7 +300,7 @@ module.exports = [
   {
     name: 'KnowTechie',
     description: 'Tech news for people who love tech, but live outside the bubble',
-    url: 'https://knowtechie,com',
+    url: 'https://knowtechie.com',
     twitter: '@knowtechie',
     tags: ['HTML', 'CSS', 'Wordpress', 'Web Development', 'Journalism', 'AI'],
   },
