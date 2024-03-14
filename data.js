@@ -4644,4 +4644,19 @@ module.exports = [
     twitter: "@gupguru",
     tags: ['DevOps', 'Python', 'Cloud', 'Infrastructure', 'MongoDB', 'PostgreSQL', 'AWS', 'Terraform']
   },
+  {
+    name: "globaldatanet",
+    description: "Articles about aws cloud technology, news, and tutorials.",
+    url: "https://globaldatanet.com/tech-blog",
+    twitter: "@globaldatanet",
+    tags: [
+      "Artificial Intelligence",
+      "Serverless",
+      "DevOps",
+      "AWS",
+      "SaaS",
+      "Security",
+      "FinOps"
+    ],
+  },
 ];
