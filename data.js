@@ -24,7 +24,7 @@ module.exports = [
     name: "Renuka Cheripally",
     description: "Frontend Vue js developer. Expanding my professional network and contributing to open source projects",
     url: "https://github.com/RenukaCheripally",
-    twitter: "@v_hadoocken",
+    twitter: "@renukach170397",
     tags: [
       "HTML",
       "CSS",
