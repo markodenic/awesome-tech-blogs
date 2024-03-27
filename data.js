@@ -7,6 +7,13 @@ module.exports = [
     tags: ['Web Development', 'Fullstack', 'MERN Stack', 'React', 'Competitive Programming', 'Algorithms', 'Mathematics']
   },
   {
+    name: 'Rohit Singh',
+    description: 'A Frontend reactjs developer and technical writer',
+    url: 'https://rohitsingh.vercel.app/',
+    twitter: '@m__rohitsingh',
+    tags: ['Web Development', 'Frontend', 'Javascript', 'React', 'Next.js', 'Algorithms', 'Tailwindcss', 'Freelancing', 'Computer Science', 'Github', 'Software Development', 'Git']
+  },
+  {
     name: 'Nishant Kumar',
     description: 'Blogging for practical goals, offering diverse reads. No niche, just a fresh perspective..',
     url: 'https://blog.nishant.lol',
