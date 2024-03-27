@@ -19,13 +19,32 @@ module.exports = [
     url: 'https://blog.nishant.lol',
     twitter: '@nisnym',
     tags: ['tech', 'react.js', 'js'],
-},
+  },
   {
     name: 'Harsh Shah',
     description: 'I write tutorials related to React Js and Next Js.',
     url: 'https://harshshah.codes',
     twitter: '@harsh_shah2102',
     tags: ['HTML', 'CSS', 'JavaScript', 'Web Developement', 'React JS', 'Next JS', 'Java', 'Python', 'React'],
+  },
+  {
+    name: "Renuka Cheripally",
+    description: "Frontend Vue js developer. Expanding my professional network and contributing to open source projects",
+    url: "https://github.com/RenukaCheripally",
+    twitter: "@renukach170397",
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "TypeScript",
+      "Vue js",
+      "Web Development",
+      "Front End",
+      "Back End",
+      "Freelancing",
+      "Java",
+      "SQL",
+    ],
   },
   {
     name: 'Sravan Kumar Gorati',
@@ -39,7 +58,7 @@ module.exports = [
     description: 'Blog about Kubernetes, AWS, Cloud costs, and more!',
     url: 'https://www.argonaut.dev/blog',
     twitter: '@Argonaut_Dev',
-      tags: ['AWS', 'DevOps', 'Cloud', 'Productivity', 'Kubernetes','Automation'],
+    tags: ['AWS', 'DevOps', 'Cloud', 'Productivity', 'Kubernetes', 'Automation'],
   },
   {
     name: 'Rahul',
@@ -96,11 +115,11 @@ module.exports = [
     ]
   },
   {
-      name: 'Kenta Takeuchi',
-      description: 'Blog about daily technical topics',
-      url: 'https://bmf-tech.com/',
-      twitter: '@bmf_san',
-      tags: ['PHP', 'Go', 'Software Engineering', 'Algorithms', 'Computer Science', 'Web Development'],
+    name: 'Kenta Takeuchi',
+    description: 'Blog about daily technical topics',
+    url: 'https://bmf-tech.com/',
+    twitter: '@bmf_san',
+    tags: ['PHP', 'Go', 'Software Engineering', 'Algorithms', 'Computer Science', 'Web Development'],
   },
   {
     name: "Devremote",
@@ -898,8 +917,8 @@ module.exports = [
     description: 'Articles on web development and web design',
     url: 'https://salehmubashar.com/blog',
     twitter: '@SalehMubashar',
-    tags: ['HTML', 'CSS', 'JavaScript', 'Web Development', 'Fullstack', 'React','React JS', 'Next JS', 'Animation'],
-},
+    tags: ['HTML', 'CSS', 'JavaScript', 'Web Development', 'Fullstack', 'React', 'React JS', 'Next JS', 'Animation'],
+  },
   {
     name: "Mohammad Humayun Khan",
     description:
@@ -2221,7 +2240,7 @@ module.exports = [
       "Kubernetes",
     ],
   },
-   {
+  {
     name: "Spacelift",
     description: "Articles about Terraform, Kubernetes, Ansible, and Docker.",
     url: "https://spacelift.io/blog",
