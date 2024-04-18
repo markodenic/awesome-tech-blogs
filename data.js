@@ -593,10 +593,23 @@ module.exports = [
   },
   {
     name: "HeadSpin Blog",
-    description: "The best place to learn appium, selenium and web automation.",
+    description: "Get latest news about HeadSpin digital experience products and categories ranging from manual testing, test automation, and web from top industry & thought leaders.",
     url: "https://www.headspin.io/blog",
     twitter: "@headspin_io",
-    tags: ["HTML", "CSS", "JavaScript", "Appium", "Selenium"],
+    tags: [
+      "App Testing",
+      "Digital Experience Monitoring",
+      "Performance Analysis"
+      "JavaScript",
+      "Python",
+      "TypeScript",
+      "Node.js",
+      "Express.js",
+      "Git",
+      "Tech",
+      "Backend",
+      "Software Development",
+    ],
   },
   {
     name: "Canopas Software",
