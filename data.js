@@ -4685,4 +4685,15 @@ module.exports = [
       "FinOps"
     ],
   },
+  {
+    name: "HeadSpin.io",
+    description: "Get latest news about HeadSpin digital experience products and categories ranging from manual testing, test automation, and web from top industry & thought leaders.",
+    url: "https://www.headspin.io/blog",
+    twitter: "@headspin_io",
+    tags: [
+      "App Testing",
+      "Digital Experience Monitoring",
+      "Performance Analysis"
+    ],
+  },
 ];
