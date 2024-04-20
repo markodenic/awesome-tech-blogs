@@ -1,5 +1,12 @@
 module.exports = [
   {
+    name: 'Shubhadip Bhowmik',
+    description: 'Top 14 best free Icon Packs for Web Development',
+    url: 'https://dev.to/shubhadip_bhowmik',
+    twitter: '@myselfshubhadip',
+    tags: ['WEB DEVELOPMENT', 'WEB DESIGNING', 'ICONS', ' WEBSITE RESOURCES'],
+  },
+  {
     name: 'Abhijit Sarode',
     description: 'At the intersection of Fullstack, Competitive Programming & Mathematics',
     url: 'https://abhijitsarode.hashnode.dev',
