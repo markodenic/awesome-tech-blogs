@@ -4685,4 +4685,19 @@ module.exports = [
       "FinOps"
     ],
   },
+  {
+    name: "zoding.app",
+    description: "High quality articles form best sources",
+    url: "https://zoding.app",
+    twitter: "",
+    tags: [
+      "Artificial Intelligence",
+      "Serverless",
+      "DevOps",
+      "Computer Science",
+      "Software Development",
+      "Software Architecture",
+      "Code Quality"
+    ],
+  },
 ];
