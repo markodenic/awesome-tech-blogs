@@ -174,6 +174,13 @@ module.exports = [
     ],
   },
   {
+    name: "QAJobs.co Blog",
+    description: "Tested advice and insights for QA Professionals",
+    url: "https://qajobs.co/blog",
+    twitter: "@stoilsky",
+    tags: ["QA", "Testing", "Automation", "Manual Testing", "QA Management", "Recruiting", "Career", "Test Automation", "SDET"]
+  },
+  {
     name: "Harshit Raj",
     description: "Unlocking Tomorrow's Tech Today: Exploring the Digital Frontier",
     url: "https://medium.com/@Harshit_Raj_14",
