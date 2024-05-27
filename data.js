@@ -4691,5 +4691,5 @@ module.exports = [
       "Security",
       "FinOps"
     ],
-  }
+  },
 ];
