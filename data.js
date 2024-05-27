@@ -4685,4 +4685,11 @@ module.exports = [
       "FinOps"
     ],
   },
+  {
+    name: "QAJobs.co Blog",
+    description: "Tested advice and insights for QA Professionals",
+    url: "https://qajobs.co/blog",
+    twitter: "@stoilsky",
+    tags: ["QA", "Testing", "Automation", "Manual Testing", "QA Management", "Recruiting", "Career", "Test Automation", "SDET"]
+  }
 ];
