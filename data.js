@@ -1,5 +1,12 @@
 module.exports = [
   {
+    name: 'JS Development Space',
+    description: "Welcome to JavaScript Development Blog, your go-to source for guides, tutorials, and articles about all things JavaScript.",
+    url: 'https://jsdev.space',
+    twitter: '@jsdevspace',
+    tags: ['Web Development', 'Fullstack', 'MERN Stack', 'React', 'JavaScript', 'Algorithms', 'Frontend']
+  },
+  {
     name: 'Abhijit Sarode',
     description: 'At the intersection of Fullstack, Competitive Programming & Mathematics',
     url: 'https://abhijitsarode.hashnode.dev',
