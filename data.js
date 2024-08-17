@@ -4221,10 +4221,10 @@ module.exports = [
     ],
   },
   {
-    name: "Rushflow",
-    description: "Articles about DevOps written by Daniel Vigueras",
-    url: "https://rushflow.io",
-    twitter: "@rushflowio",
+    name: "Deckrun",
+    description: "DevOps and Infrastructure Articles",
+    url: "https://deckrun.com/blog",
+    twitter: "@deckruncom",
     tags: [
       "DevOps",
       "Command Line",
