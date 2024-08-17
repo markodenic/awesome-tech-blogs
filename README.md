@@ -5,7 +5,7 @@ Visit [tech-blogs.dev](https://tech-blogs.dev/).
 ## To add your blog
 
 1. Open [`data.js`](./data.js).
-2. Add your blog details using the following structure.
+2. Add your blog details at a random place using the following structure.
 ```javascript
 {
     name: 'Your Name',
