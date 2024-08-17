@@ -871,6 +871,21 @@ module.exports = [
     ],
   },
   {
+    name: "joeeey",
+    description:
+      "From backups to security, read the guides and tips you need to stay ahead - including tech insights on Android, Docker, Linux, virtualization, and more.",
+    url: "https://joeeey.com/blog/",
+    twitter: "@itsmejoeeey",
+    tags: [
+      "Docker",
+      "Web Development",
+      "Android",
+      "Linux",
+      "Software Engineer",
+      "Cybersecurity",
+    ],
+  },
+  {
     name: "Tecroxy",
     description:
       "Tecroxy is a Technology media company that wants to make people’s lives better through tech education. Since 2020, Tecroxy has been publishing content on its Website to educate readers on how to use their tech product(s) in the most efficient way possible..",
