@@ -21,13 +21,6 @@ module.exports = [
     tags: ['tech', 'react.js', 'js'],
   },
   {
-    name: 'Harsh Shah',
-    description: 'I write tutorials related to React Js and Next Js.',
-    url: 'https://harshshah.codes',
-    twitter: '@harsh_shah2102',
-    tags: ['HTML', 'CSS', 'JavaScript', 'Web Developement', 'React JS', 'Next JS', 'Java', 'Python', 'React'],
-  },
-  {
     name: "Renuka Cheripally",
     description: "Frontend Vue js developer. Expanding my professional network and contributing to open source projects",
     url: "https://github.com/RenukaCheripally",
@@ -359,25 +352,6 @@ module.exports = [
     ],
   },
   {
-    name: "Kundan Mishra",
-    description:
-      "A web developer, blockchain enthusiast and computer science undergrad. Building on ethereum.",
-    url: "https://mishra811.hashnode.dev/",
-    twitter: "@0xmishra",
-    tags: [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "solidity",
-      "react.js",
-      "hardhat",
-      "python",
-      "tailwind",
-      "git",
-      "ethers.js",
-    ],
-  },
-  {
     name: "Snehasish Chakraborty",
     description:
       "Full stack developer having experience in Spring, AWS, React, Angular",
@@ -532,22 +506,6 @@ module.exports = [
       "APIs",
       ".NET",
       "Web Development",
-    ],
-  },
-  {
-    name: "Vinayak's blog",
-    description: "A blog about backend technologies",
-    url: "https://itsvinayak.hashnode.dev/",
-    twitter: "@itsvinayak_",
-    tags: [
-      "JavaScript",
-      "React",
-      "Web3",
-      "payments",
-      "Backend",
-      "Computer Science",
-      "Blockchain",
-      "Nodejs",
     ],
   },
   {
@@ -893,14 +851,6 @@ module.exports = [
     ],
   },
   {
-    name: "Tecroxy",
-    description:
-      "Tecroxy is a Technology media company that wants to make people’s lives better through tech education. Since 2020, Tecroxy has been publishing content on its Website to educate readers on how to use their tech product(s) in the most efficient way possible..",
-    url: "https://tecroxy.com",
-    twitter: "@tecroxy",
-    tags: ["Android", "Apple", "Google", "Blockchain", "Website"],
-  },
-  {
     name: "UnEncrypted",
     description:
       "Hey There, I'm Reda BELHAJ a fourth year Computer Science Student at the International University of Rabat. Welcome to my corner of the internet. I'm glad you're here!",
@@ -1093,29 +1043,6 @@ module.exports = [
     url: "https://rishimohan.me/blog",
     twitter: "@thelifeofrishi",
     tags: ["HTML", "CSS", "JavaScript", "React", "TailwindCSS", "Node.js"],
-  },
-  {
-    name: "Muthu Annamalai",
-    description:
-      "Articles on Web Development, Programming, Open-Source, Technology, Tips and Tricks to make your life easier, and more.",
-    url: "https://muthuannamalai.tech/",
-    twitter: "@muthuannamalai_",
-    tags: [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "Content Creation",
-      "Computer Science",
-      "Tech",
-      "Web Development",
-      "Front End",
-      "Programming",
-      "Web Development",
-      "DevTools",
-      "Beginner",
-      "Blogging",
-      "Git",
-    ],
   },
   {
     name: "Shravan Kumar",
@@ -1322,7 +1249,7 @@ module.exports = [
     name: "Suhail Kakar",
     description:
       "Full Stack Software Developer | Tech Blogger | Writes about JavaScript, Python, Open Source, and Software Development",
-    url: "http://blog.suhailkakar.com/",
+    url: "https://www.suhailkakar.com/",
     twitter: "@SuhailKakar",
     tags: [
       "HTML",
@@ -2055,21 +1982,6 @@ module.exports = [
       "ARM",
       "Bicep",
       "Policies",
-    ],
-  },
-  {
-    name: "Aleksej Komnenovic",
-    description:
-      "Read mostly about web development, tools that help you finish the job faster, also algorithms, data structures, and occasionally tips&tricks, along with funny projects. Welcome to Bllog | by kaumnen.",
-    url: "https://akom.me",
-    twitter: "@kaumnen",
-    tags: [
-      "JavaScript",
-      "Node.js",
-      "Git",
-      "Web development",
-      "Programming",
-      "Backend",
     ],
   },
   {
@@ -2915,19 +2827,6 @@ module.exports = [
     ],
   },
   {
-    name: "Piyush Sinha",
-    description: "Frontend Engineer | Problem Solver",
-    url: "https://piyushsinha.tech/",
-    twitter: "@devps2020",
-    tags: [
-      "JavaScript",
-      "Web Development",
-      "React",
-      "Web Components",
-      "Chrome Extension",
-    ],
-  },
-  {
     name: "Unicorn Utterances",
     description: "Learning programming from magically majestic words.",
     url: "https://unicorn-utterances.com/",
@@ -3246,22 +3145,6 @@ module.exports = [
     ],
   },
   {
-    name: "Vincenzo Marcovecchio",
-    description:
-      "Junior Web Developer",
-    url: "https://vincenzo.codes",
-    twitter: "@_vinny_92",
-    tags: [
-      "Sotware development",
-      "Software engineering",
-      "Computer",
-      "Science",
-      "Hacking",
-      "TypeScript",
-      "Javascript"
-    ],
-  },
-  {
     name: "Jai Kumar Dewani",
     description: "Another Tech-nerd trying to make a name for himself.",
     url: "https://jai-dewani.github.io/blogs/",
@@ -3447,21 +3330,6 @@ module.exports = [
       "Gaming",
       "Blender",
       "Unreal",
-    ],
-  },
-  {
-    name: "Hassan Sani",
-    description: "Writing about frontend and Angular.",
-    url: "https://blog.hassansani.me",
-    twitter: "@inidaname",
-    tags: [
-      "APIs",
-      "Front End",
-      "Git",
-      "Angular",
-      "Self-Development",
-      "Tech",
-      "Web Development",
     ],
   },
   {
@@ -3922,21 +3790,6 @@ module.exports = [
     ],
   },
   {
-    name: "Dmitriy Dubovetzky",
-    description: "Helping developers be more productive, successful, and happy",
-    url: "https://thedoubled.dev/",
-    twitter: "@dubovetzky",
-    tags: [
-      "Clean Code",
-      "Design Patterns",
-      "Software Architecture",
-      "Self-Development",
-      "Productivity",
-      "Career",
-      "Web Development",
-    ],
-  },
-  {
     name: "Dev by RayRay",
     description:
       "Ray is a Lead Frontend Developer, specialised in Angular. He writes about Frontend Development, Workflow, JavaScript, TypeScript, Angular and more related topics.",
@@ -4158,14 +4011,6 @@ module.exports = [
       "k6",
       "Performance Testing",
     ],
-  },
-  {
-    name: "Trading Strategy",
-    description:
-      "Building open source technical analysis and algorithmic trading tools",
-    url: "https://tradingstrategy.ai/blog",
-    twitter: "@tradingprotocol",
-    tags: ["Python", "JavaScript", "Svelte", "Web3", "Ethereum"],
   },
   {
     name: "Stefan Baumgartner",
@@ -4488,41 +4333,6 @@ module.exports = [
     ]
   },
   {
-    name: "Adit Modi",
-    description:
-      "👨‍💻 Cloud Engineer at @DigitalAlphaInc ☁️ AWS Community Builder | 🛠️ Hashicorp Ambassador 🏆9x AWS | 3x Azure Certified 🍊 Community @AboutCloudTech",
-    url: "https://aditmodi.com",
-    twitter: "@adi_12_modi",
-    tags: [
-      "AWS",
-      "Cloud",
-      "BigData",
-      "DevOps",
-      "Serverless",
-      "Data&Analytics",
-      "Startups",
-    ],
-  },
-  {
-    name: "Yonasuriv",
-    description:
-      "Curiosity is the engine of Achievement. Computer Science, Full Stack Development and Cybersecurity.",
-    url: "https://www.yonasuriv.com",
-    twitter: "@yonasuriv",
-    tags: [
-      "Computer",
-      "Science",
-      "Cybersecurity",
-      "AI",
-      "Blockchain",
-      "Philosophy",
-      "Future",
-      "Innovation",
-      "Creativity",
-      "Hacking",
-    ],
-  },
-  {
     name: 'devprogrammer',
     description: 'Blog for easy-to-follow guides, programming tips, web dev, and tech problem-solving.',
     url: 'https://devprogrammer.com',
@@ -4566,13 +4376,6 @@ module.exports = [
       "Vim",
       "Neovim"
     ]
-  },
-  {
-    name: 'Sean Milfort',
-    description: 'Tech blog that about all the things that I am learning and experiencing throughout my everyday journey!.',
-    url: 'https://blog.seanmilfort.com',
-    twitter: '@seanmilfort',
-    tags: ['HTML', 'CSS', 'JavaScript', 'Tech', 'Development', 'Consumer Products', 'Reviews', 'Front End', 'Back End', 'Learning', 'Mobile'],
   },
   {
     name: 'Ian Kumu',
