@@ -541,6 +541,13 @@ module.exports = [
       "Web Development",
     ],
   },
+    {
+    name: 'Teotime Pacreau',
+    description: 'Gestion de projets numériques et développement web à Nantes',
+    url: 'https://www.teotimepacreau.fr/blog/',
+    twitter: '@teotimepacreau',
+    tags: ['HTML', 'CSS', 'JavaScript', 'Management', 'Organisation', 'Design', 'Databases', 'Eleventy', 'Product Owner', 'Frontend'],
+},
   {
     name: "otsch.codes",
     description: "I blog about coding and my entrepreneurial journey.",
