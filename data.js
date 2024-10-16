@@ -3957,6 +3957,18 @@ module.exports = [
     ],
   },
   {
+    name: "Jakub T. Jankiewicz",
+    description: "Articles mostly about Web Development, JavaScript, and tech",
+    url: "https://jakub.jankiewicz.org/blog/",
+    twitter: "@jcubic",
+    tags: [
+      "JavaScript",
+      "CSS",
+      "Front-End",
+      "Web Development",
+    ],
+  },
+  {
     name: "Madza",
     description: "I build custom WEB solutions and write about DEV",
     url: "https://madza.dev/blog",
