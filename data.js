@@ -1348,6 +1348,23 @@ module.exports = [
     ],
   },
   {
+    name: 'Thomas Derflinger',
+    description: 'Visionary entrepreneur and software developer',
+    url: 'https://tderflinger.com',
+    tags: [
+      'Cloud',
+      'Web',
+      'React',
+      'Vue',
+      'HTML',
+      'XR',
+      'VR',
+      'IoT',
+      'Mobile',
+      'TypeScript',
+    ],
+  },
+  {
     name: "Karl Koch",
     description: "Product Designer and UI Developer.",
     url: "https://www.kejk.tech/thoughts",
