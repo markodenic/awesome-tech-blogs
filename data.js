@@ -226,27 +226,6 @@ module.exports = [
     ],
   },
   {
-    name: "Dev jain",
-    description:
-      "blogs about fullstack ui/ux opensoucrce personal-branding DSA technical writing community programming tips",
-    url: "https://dj688.hashnode.dev/",
-    twitter: "@Devjtwt786",
-    tags: [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "web development",
-      "reactjs",
-      "nodejs",
-      "fullStack",
-      "UI/UX",
-      "opensource",
-      "community",
-      "frontend",
-      "backend",
-    ],
-  },
-  {
     name: 'Robiul H.',
     description: 'RoBlog, your go-to destination for all things related to technology, JavaScript, Node.js, and web development.',
     url: 'https://robiul.dev/',
@@ -1128,20 +1107,6 @@ module.exports = [
     tags: ["Computer Science", "Tech", "Cybersecurity"],
   },
   {
-    name: "Johnson-Awah Alfred",
-    description:
-      "Software engineer,Blockchain engineer, student, staff software engineer",
-    url: "https://blog.codemon.me",
-    tags: [
-      "JavaScript",
-      "Node.js",
-      "React",
-      "Computer Science",
-      "PHP",
-      "TypeScript",
-    ],
-  },
-  {
     name: "Dave Murray - Sailing the Sharp Sea",
     description:
       ".NET developer with a passion for mobile and DevOps. I build cross platform apps using Xamarin, backend systems using Azure and GitHub Actions using Docker.",
@@ -1855,22 +1820,6 @@ module.exports = [
     ],
   },
   {
-    name: "Sunil Kumar",
-    description:
-      "I write about how to become a better developer, AWS, freelancing & building SaaS products.",
-    url: "https://sunilcs.com/",
-    twitter: "@sunilc_",
-    tags: [
-      "Web Development",
-      "Freelancing",
-      "Python",
-      "Software Design",
-      "Software Architecture",
-      "AWS",
-      "Infrastructure",
-    ],
-  },
-  {
     name: "Alexander Rowsell",
     description: "Hardware hacker/embedded dev",
     url: "https://frozenelectronics.ca/",
@@ -1890,13 +1839,6 @@ module.exports = [
     url: "https://cliowebsites.com/blog/",
     twitter: "@natmiletic",
     tags: ["Web Design", "WordPress", "SEO"],
-  },
-  {
-    name: 'DevTales',
-    description: 'Yet Another Technical Blog',
-    url: 'https://devtales.tech',
-    twitter: '@devtales_dev',
-    tags: ['HTML', 'AI', 'JavaScript', 'Python', 'Data Science', 'Machine Learning', 'Development', 'Programming', 'DevOps'],
   },
   {
     name: "Alexander Lichter",
@@ -2058,23 +2000,6 @@ module.exports = [
       "Web Development",
       "Code Quality",
       "Productivity",
-    ],
-  },
-  {
-    name: "Developer Resources Blog",
-    description:
-      "Awesome resources for developers carefully curated in reviews, roundups and tutorials. Covering themes, templates, courses, ebooks, apps and more.",
-    url: "https://devreso.com/",
-    twitter: "@luciantartea",
-    tags: [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "Productivity",
-      "Programming",
-      "Web Development",
-      "UX/UI",
-      "Web Design",
     ],
   },
   {
@@ -4092,23 +4017,6 @@ module.exports = [
     tags: ["Windows", "Mac", "Android", "IOS", "apps", "software"],
   },
   {
-    name: "Raj KB",
-    description:
-      "Technical Project Manager ~ PHP & Magento Certified ~ <3 Symfony, React, Node, PWA/GraphQL, Web3 ~ DBA ~ DevOps ~ Blogger ~ Indie Hacker",
-    url: "https://blog.magepsycho.com",
-    twitter: "@rajkbnp",
-    tags: [
-      "PHP",
-      "Symfony",
-      "Magento",
-      "Linux",
-      "Database",
-      "DevOps",
-      "React",
-      "Web Development",
-    ],
-  },
-  {
     name: "Deckrun",
     description: "DevOps and Infrastructure Articles",
     url: "https://deckrun.com/blog",
@@ -4367,13 +4275,6 @@ module.exports = [
       "Git",
       "Tech"
     ]
-  },
-  {
-    name: 'devprogrammer',
-    description: 'Blog for easy-to-follow guides, programming tips, web dev, and tech problem-solving.',
-    url: 'https://devprogrammer.com',
-    twitter: '@devprogcom',
-    tags: ['Web Development', 'JavaScript', 'Ruby', 'Programming']
   },
   {
     name: "Masteringbackend",
