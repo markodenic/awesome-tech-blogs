@@ -1,17 +1,13 @@
 <template>
   <footer class="text-center">
     <p>
-      Made by <a href="https://markodenic.com">Marko</a> with Nuxt.js. Icons from Freepik.
+      Made by <a href="https://markodenic.com">Marko Denic</a> with Nuxt.js. Icons from Freepik.
     </p>
 
     <p>
       <a href="https://javascriptquiz.com">JavaScript Quiz</a> |
       <a href="https://freecodetools.org">Free Code Tools</a> |
       <a href="https://web-dev-resources.com">Web Development Resources</a>
-    </p>
-
-    <p>
-      Source on <a href="https://github.com/markodenic/awesome-tech-blogs">GitHub</a>. Add yourself!
     </p>
 
     <p>

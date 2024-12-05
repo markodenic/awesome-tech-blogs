@@ -78,22 +78,6 @@ module.exports = [
     ]
   },
   {
-    name: "Richard Callaby",
-    description: "The Educational Blog of Richard Callaby",
-    url: "http://www.richardcallaby.com/",
-    twitter: "@richardcallaby",
-    tags: [
-      "CyberSecurity",
-      "Bug Bounty",
-      "Certifications",
-      "Career",
-      "Cloud Computing",
-      "Software Development",
-      "Freelancing",
-      "Learn Programming"
-    ]
-  },
-  {
     name: 'Jina AI',
     description: 'The most advanced MLOps platform for Multimodal AI',
     url: 'https://jina.ai/news',
@@ -843,14 +827,6 @@ module.exports = [
     url: "https://unencrypted.vercel.app/",
     twitter: "@RedatoB",
     tags: ["Computer Science", "Networking", "Tailwind", "Next.js"],
-  },
-  {
-    name: "Solidity Tips",
-    description:
-      "The go-to place to learn Solidity and web 3. Articles, step-by-step guides, and quick tips.",
-    url: "https://soliditytips.com",
-    twitter: "@uf4no",
-    tags: ["Solidity", "Web3", "Smart Contracts", "Blockchain", "Ethereum"],
   },
   {
     name: "Yannick Mougin",
@@ -1667,24 +1643,6 @@ module.exports = [
     ],
   },
   {
-    name: "Rahul Banerjee",
-    description:
-      "An average Computer Engineering Student who writes How-to tutorials on different technologies",
-    url: "https://www.realpythonproject.com/",
-    twitter: "@rahulbanerjee99",
-    tags: [
-      "Software Developer",
-      "Python",
-      "APIs",
-      "Machine Learning",
-      "Data Science",
-      "C++",
-      "SQL",
-      "Data Base",
-      "Data Engineering",
-    ],
-  },
-  {
     name: "Kyle Platt",
     description: "Senior Software Engineer, Multi Startup Founder, Building Projects in Public",
     url: "https://kyleplatt.com",
@@ -1722,6 +1680,14 @@ module.exports = [
     url: "https://towardsthecloud.com/",
     twitter: "@dannysteenman",
     tags: ["AWS", "Certification", "Cloud", "Infrastructure", "Python"],
+  },
+  {
+    name: "Work Remote",
+    description:
+      "Discover 'Work Remote', where the brightest talent meets groundbreaking opportunities.",
+    url: "https://workremote.cc/blog/",
+    twitter: "@WorkRemoteCC",
+    tags: ["Remote Work", "Web Development", "JavaScript", "CSS", "WordPress"],
   },
   {
     name: "Ayush Pawar",
@@ -2538,7 +2504,7 @@ module.exports = [
     name: "WP OWls",
     description:
       "WP Owls is a place created especially for WordPress fans. Every week you will find the latest news from the world of WordPress.",
-    url: "https://wpowls.co",
+    url: "https://wpowls.co/articles/",
     twitter: "@WP_Owls",
     tags: ["WordPress", "Web Development"],
   },
@@ -3826,25 +3792,6 @@ module.exports = [
     tags: ["Open Source", "Python", "HTTP", "APIs", "Internet"],
   },
   {
-    name: "Niraj Khatiwada",
-    description:
-      "A young, energetic person who is passionate about the software and technologies. Software Engineer by day, hustler by night.",
-    url: "https://nirajkhatiwada.com/",
-    twitter: "@codeforreal_",
-    tags: [
-      "JavaScript",
-      "TypeScript",
-      "React",
-      "MySQL",
-      "GraphQL",
-      "Content Creation",
-      "Tech",
-      "Programming",
-      "Web Development",
-      "Software Engineering",
-    ],
-  },
-  {
     name: "Helmer Davila",
     description:
       "My public technical 📘 notebook (blog), where I publish ✍️ in 3 different languages: english, spanish and french.",
@@ -4417,13 +4364,6 @@ module.exports = [
       'Web Development',
       'DevOps',
     ]
-  },
-  {
-    name: "Attractor",
-    description: "Keep shipping Ruby and JavaScript apps fast",
-    url: "https://useattr.actor/articles",
-    twitter: "@julian_rubisch",
-    tags: ['Ruby', 'JavaScript', 'Code Quality', 'Tech Debt', 'Refactoring', 'Code Health', 'Code Smells']
   },
   {
     name: "Omer Karabacak",
