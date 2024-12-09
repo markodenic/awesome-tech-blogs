@@ -584,6 +584,24 @@ module.exports = [
     ],
   },
   {
+    name: 'Pasindu Kavinda',
+    description: 'Share insights on cloud computing, mobile development, web technologies, and backend systems, along with other emerging tech that captures my interest',
+    url: 'https://medium.com/@pasindu-kavinda',
+    twitter: '@_PasinduKavinda',
+    tags: [
+      'Flutter',
+      'Front End',
+      'React',
+      'Nest.js',
+      'Backend',
+      'DevOps',
+      'Terraform',
+      'Laravel',
+      'Cloud Infrastructure',
+      'Tech',
+    ],
+  },
+  {
     name: "Lakin Mohapatra",
     description:
       "Associate team lead  (8+ years of development exp.) | Web3 Architect | Blogger | Blockchain Enthusiast | Trader | Cyber Security Researcher | Books",
