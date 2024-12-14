@@ -2599,21 +2599,6 @@ module.exports = [
     ],
   },
   {
-    name: "Omomurewa George-Ashiru",
-    description:
-      "Murewa is a software developer and IT business analyst. She writes technical and career content.",
-    url: "https://blog.murewaashiru.com/",
-    twitter: "@rachael_xx",
-    tags: [
-      "JavaScript",
-      "Web Development",
-      "Node.js",
-      "TypeScript",
-      "Project Management",
-      "Business Analysis",
-    ],
-  },
-  {
     name: "Sushmita Pandey",
     description:
       "Frontend Developer 👩‍💻 | Tech Blogger ✍ | JavaScript Fanatic 🚀",
@@ -4259,25 +4244,6 @@ module.exports = [
       "Tech",
       "Software engineer",
     ],
-  },
-  {
-    name: "Max Kovalevsky",
-    description:
-      "A software developer. I blog about programming in general, CS (algorithms and ds), terminal stuff (Linux, CLI's, Neovim, etc)",
-    url: "https://maxkovalevsky.com",
-    twitter: "@KovalevskyMax",
-    tags: [
-      "Sotware development",
-      "Software engineering",
-      "Computer",
-      "Science",
-      "Hacking",
-      "TypeScript",
-      "Golang",
-      "Linux",
-      "Vim",
-      "Neovim"
-    ]
   },
   {
     name: 'Ian Kumu',

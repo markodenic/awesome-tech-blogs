@@ -3,6 +3,8 @@
     id="top"
     class="text-center pb-6"
   >
+    <GithubCorner />
+
     <h1>
       Tech blogs
     </h1>

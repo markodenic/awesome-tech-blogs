@@ -1,5 +1,11 @@
 <template>
   <footer class="text-center">
+    <nuxt-link
+      to="/"
+    >
+      Tech Blogs
+    </nuxt-link>
+
     <p>
       Made by <a href="https://markodenic.com">Marko Denic</a> with Nuxt.js. Icons from Freepik.
     </p>

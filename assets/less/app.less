@@ -24,8 +24,16 @@ html {
     background: var(--purple);
     color: #fff;
   }
+  #__layout {
+    display: flex;
+    align-items: stretch;
+    min-height: 100vh;
+  }
   .wrapper {
     padding: 2rem 2rem 0;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
   }
   h1 {
     font-size: 3rem;
@@ -37,6 +45,18 @@ html {
   }
   header p {
     font-size: 1.4rem;
+  }
+  main {
+    flex: 1;
+  }
+  .cta {
+    text-align: center;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
   }
   footer a {
     text-decoration: underline;
@@ -137,4 +157,11 @@ html {
       }
     }
   }
+}
+
+.page-enter-active, .page-leave-active {
+  transition: opacity .2s;
+}
+.page-enter, .page-leave-to {
+  opacity: 0;
 }
