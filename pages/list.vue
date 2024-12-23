@@ -1,5 +1,7 @@
 <template>
   <div>
+    <GithubCorner />
+
     <div class="tags mb-6">
       <button
         class="tag"
