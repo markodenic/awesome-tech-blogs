@@ -61,6 +61,13 @@ module.exports = [
     tags: ['HTML', 'CSS', 'JavaScript', 'Web Development', "Freelancing", "Learn Programming"],
   },
   {
+    name: "Don't Break Prod",
+    description: "Bite-sized pieces of career advice for software engineers.",
+    url: "https://dontbreakprod.com/",
+    twitter: "@dontbreakprod",
+    tags: ["Career", "Software Development", "Tools", "Learning", "Growth"],
+  },
+  {
     name: "Live Code Stream",
     description: "We produce FREE tutorials and resources for self-taught developers and data scientists.",
     url: "https://livecodestream.dev/post/",
