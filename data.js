@@ -4392,10 +4392,8 @@ module.exports = [
       'AWS',
       'Linux',
       'Ubuntu',
-      'Debian',
       'Backup',
-      'Disaster Recovery',
-      'Storage'
+      'Disaster Recovery'
     ],
 }
 ];
