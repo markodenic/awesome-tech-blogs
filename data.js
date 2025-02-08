@@ -2326,6 +2326,13 @@ module.exports = [
     ],
   },
   {
+    name: 'Shefali',
+    description: 'Web development insights, tutorials, and resources',
+    url: 'https://shefali.dev/blog',
+    twitter: '@Shefali__J',
+    tags: ['HTML', 'CSS', 'JavaScript', "Web Development", "Node.js", "Front End", "Git", "Python", "Backend", "Tailwind CSS"],
+},
+  {
     name: "Corey O'Donnell",
     description:
       "Web developer, TypeScript Enthusiast. Blogging about web development and tech",
