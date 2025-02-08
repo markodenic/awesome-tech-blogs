@@ -2330,7 +2330,7 @@ module.exports = [
     description: 'Web development insights, tutorials, and resources',
     url: 'https://shefali.dev/blog',
     twitter: '@Shefali__J',
-    tags: ['HTML', 'CSS', 'JavaScript', "Web Development", "Node.js", "Front End", "Git", "Python", "Backend", "Tailwind CSS"],
+    tags: ['HTML', 'CSS', 'JavaScript', 'Web Development', 'Node.js', 'Front End', 'Git', 'Python', 'Backend', 'Tailwind CSS'],
 },
   {
     name: "Corey O'Donnell",
