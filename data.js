@@ -1024,6 +1024,13 @@ module.exports = [
     ],
   },
   {
+    name: "Andrew Shell",
+    description: "A software developer, writer, and community builder passionate about open-source technology and collaboration.",
+    url: "https://blog.andrewshell.org/essays/",
+    twitter: "@andrewshell",
+    tags: ["JavaScript", "Web Development", "Node.js", "PHP", "Programming", "Productivity"],
+  },
+  {
     name: "Rishi Mohan",
     description:
       "Writing on Next.js, React, Tailwind and building apps using these.",
