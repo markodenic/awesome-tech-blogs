@@ -4385,4 +4385,22 @@ module.exports = [
       "FinOps"
     ],
   },
+  {
+    name: 'JPaul.me',
+    description: 'My Blog about IT related stuff.',
+    url: 'https://jpaul.me',
+    twitter: '@recklessop',
+    tags: [
+      'docker', 
+      'VMware', 
+      'Python', 
+      'PowerShell', 
+      'Azure', 
+      'AWS',
+      'Linux',
+      'Ubuntu',
+      'Backup',
+      'Disaster Recovery'
+    ],
+}
 ];
