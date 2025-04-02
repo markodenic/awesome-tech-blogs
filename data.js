@@ -1010,7 +1010,7 @@ module.exports = [
     name: "alp1n3",
     description:
       "Security Consultant, focused on web application penetration testing and source code review.",
-    url: "https://alp1n3.dev",
+    url: "https://alp1n3.dev/blog/",
     tags: [
       "Application Security",
       "Development",
