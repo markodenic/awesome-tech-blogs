@@ -2656,6 +2656,22 @@ module.exports = [
     ],
   },
   {
+    name: 'Richard Kovacs',
+    description: 'Are you looking for a blog to help you with any of the topics tagged below? Then you are at the right place.',
+    url: 'https://richardkovacs.dev/blog',
+    twitter: '@rchardkovacs',
+    tags: [
+      'Web Development',
+      'Security',
+      'Artificial Intelligence',
+      'Crypto',
+      'Docker',
+      'Next.js',
+      'SEO',
+      'Marketing',
+    ],
+  },
+  {
     name: "Austin Gil",
     description: "Writing about web development and life.",
     url: "https://austingil.com/blog/",
