@@ -1,5 +1,12 @@
 module.exports = [
   {
+    name: 'Learn Computer Academy',
+    description: 'Web Design & Computer Training Center in Habra',
+    url: 'https://learncomputer.in/blog/',
+    twitter: '@welearncomputer',
+    tags: ['Web Design', 'Web Development', 'Fullstack', 'MERN Stack', 'HTML', 'CSS', 'JavaScript', 'PHP', 'MySQL', 'WordPress', 'Python', 'Node JS', 'React JS'],
+  },
+  {
     name: 'Abhijit Sarode',
     description: 'At the intersection of Fullstack, Competitive Programming & Mathematics',
     url: 'https://abhijitsarode.hashnode.dev',
