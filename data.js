@@ -1007,6 +1007,20 @@ module.exports = [
     ],
   },
   {
+    name: "alp1n3",
+    description:
+      "Security Consultant, focused on web application penetration testing and source code review.",
+    url: "https://alp1n3.dev/blog/",
+    tags: [
+      "Application Security",
+      "Development",
+      "Source Code Review",
+      "Go",
+      "C#",
+      "Penetration Testing",
+    ],
+  },
+  {
     name: 'Darek Kay',
     description: 'Hello, I’m a front-end developer and an accessibility advocate. I love sharing what I know through my blog, teaching and speaking at conferences.',
     url: 'https://darekkay.com/blog',
