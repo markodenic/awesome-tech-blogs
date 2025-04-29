@@ -4510,4 +4510,16 @@ module.exports = [
       "FinOps"
     ],
   },
+  {
+    name: "Christian Tech Jobs",
+    description: "Articles about Christian tech trends and career advice for the Christian tech space.",
+    url: "https://www.christiantechjobs.io/blog",
+    twitter: "@ctj_io",
+    tags: [
+      "Career",
+      "Self-Development",
+      "Tech",
+      "Jobs"
+    ],
+  },
 ];
