@@ -11,6 +11,7 @@
     </p>
 
     <p>
+      <a href="https://techwithmarko.com">Tech with Marko</a> |
       <a href="https://javascriptquiz.com">JavaScript Quiz</a> |
       <a href="https://freecodetools.org">Free Code Tools</a> |
       <a href="https://web-dev-resources.com">Web Development Resources</a>
