@@ -3896,6 +3896,18 @@ module.exports = [
     ],
   },
   {
+    name: "Christian Tech Jobs",
+    description: "Articles about Christian tech trends and career advice for the Christian tech space.",
+    url: "https://www.christiantechjobs.io/blog",
+    twitter: "@ctj_io",
+    tags: [
+      "Career",
+      "Self-Development",
+      "Tech",
+      "Jobs"
+    ],
+  },
+  {
     name: "Helmer Davila",
     description:
       "My public technical 📘 notebook (blog), where I publish ✍️ in 3 different languages: english, spanish and french.",
@@ -4509,17 +4521,5 @@ module.exports = [
       "Security",
       "FinOps"
     ],
-  },
-  {
-    name: "Christian Tech Jobs",
-    description: "Articles about Christian tech trends and career advice for the Christian tech space.",
-    url: "https://www.christiantechjobs.io/blog",
-    twitter: "@ctj_io",
-    tags: [
-      "Career",
-      "Self-Development",
-      "Tech",
-      "Jobs"
-    ],
-  },
+  }
 ];
