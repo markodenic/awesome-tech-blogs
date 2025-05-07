@@ -12,6 +12,7 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
+      { name: 'saashub-verification', content: 'bi3elh9bv2hz' },
       { hid: 'description', name: 'description', content: 'This is a list of Awesome Tech Blogs. Add yourself.' },
       // Open Graph
       { hid: 'og:title',  property: 'og:title', content: 'Awesome Tech Blogs' },
