@@ -4447,16 +4447,27 @@ module.exports = [
     url: 'https://jpaul.me',
     twitter: '@recklessop',
     tags: [
-      'docker', 
-      'VMware', 
-      'Python', 
-      'PowerShell', 
-      'Azure', 
+      'docker',
+      'VMware',
+      'Python',
+      'PowerShell',
+      'Azure',
       'AWS',
       'Linux',
       'Ubuntu',
       'Backup',
       'Disaster Recovery'
     ],
-}
+  },
+  {
+    name: 'Harrison Broadbent',
+    description: 'Writing about web development & SaaS.',
+    url: 'https://harrisonbroadbent.com/blog',
+    twitter: '@hrrsnbbnt',
+    tags: [
+      'SaaS',
+      'Tailwind CSS',
+      'Web Development'
+    ],
+  },
 ];
