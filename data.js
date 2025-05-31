@@ -4379,6 +4379,17 @@ module.exports = [
     tags: ['Java', 'SaaS', 'Kotlin', 'Linux'],
   },
   {
+    name: 'Harrison Broadbent',
+    description: 'Writing about web development & SaaS.',
+    url: 'https://harrisonbroadbent.com/blog',
+    twitter: '@hrrsnbbnt',
+    tags: [
+      'SaaS',
+      'Tailwind CSS',
+      'Web Development'
+    ],
+  },
+  {
     name: "Manthan Ank",
     description: "I'm Front-End Developer, I write tutorials related to Web Development.",
     url: "https://dev.to/manthanank",
@@ -4447,16 +4458,16 @@ module.exports = [
     url: 'https://jpaul.me',
     twitter: '@recklessop',
     tags: [
-      'docker', 
-      'VMware', 
-      'Python', 
-      'PowerShell', 
-      'Azure', 
+      'docker',
+      'VMware',
+      'Python',
+      'PowerShell',
+      'Azure',
       'AWS',
       'Linux',
       'Ubuntu',
       'Backup',
       'Disaster Recovery'
     ],
-}
+  }
 ];
