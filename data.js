@@ -7,6 +7,13 @@ module.exports = [
     tags: ['Web Design', 'Web Development', 'Fullstack', 'MERN Stack', 'HTML', 'CSS', 'JavaScript', 'PHP', 'MySQL', 'WordPress', 'Python', 'Node JS', 'React JS'],
   },
   {
+    name: 'ES-blog',
+    description: 'ES-blog highlights the creativity and potential of the next generation of African tech leaders.',
+    url: 'https://esblog.info',
+    twitter: '@Cyph1305',
+    tags: ['Learning', 'Growth', 'Career', 'Web Development', 'Software Development', 'Competitive Programming', 'Freelancing', 'Computer Science'],
+  },
+  {
     name: 'Abhijit Sarode',
     description: 'At the intersection of Fullstack, Competitive Programming & Mathematics',
     url: 'https://abhijitsarode.hashnode.dev',
