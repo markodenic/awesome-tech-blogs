@@ -11,7 +11,7 @@
     </p>
 
     <p>
-      <a href="https://markodenic.tech">Newsletter</a> |
+      <a href="https://markodenic.tech/html-ebook/">Free HTML eBook</a> |
       <a href="https://javascriptquiz.com">JavaScript Quiz</a> |
       <a href="https://freecodetools.org">Free Code Tools</a> |
       <a href="https://web-dev-resources.com">Web Development Resources</a>
