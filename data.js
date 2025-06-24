@@ -7,11 +7,11 @@ module.exports = [
     tags: ['Web Design', 'Web Development', 'Fullstack', 'MERN Stack', 'HTML', 'CSS', 'JavaScript', 'PHP', 'MySQL', 'WordPress', 'Python', 'Node JS', 'React JS'],
   },
   {
-    name: 'ES-blog',
+    name: 'ES-blog (ESATIC STUDENT BLOG)',
     description: 'ES-blog highlights the creativity and potential of the next generation of African tech leaders.',
     url: 'https://esblog.info',
-    twitter: '@Cyph1305',
-    tags: ['Learning', 'Growth', 'Career', 'Web Development', 'Software Development', 'Competitive Programming', 'Freelancing', 'Computer Science'],
+    twitter: '@Cypher1305',
+    tags: ['career', 'Learning', 'Growth', 'Competitive Programming', 'Algorithms', 'Freelancing', 'Software Development', 'Computer Science', 'Data', 'AI', 'Web Development'],
   },
   {
     name: 'Abhijit Sarode',
