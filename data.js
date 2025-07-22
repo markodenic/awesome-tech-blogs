@@ -4478,10 +4478,10 @@ module.exports = [
     ],
   },
   {
-    name: "Nishant",
-    description: "Reading Root-Protected Files with Sudo — No Password Prompt",
-    url: "https://blog.devops.dev/reading-root-protected-files-with-sudo-no-password-prompt-f70a9bdd8ca7",
-    twitter: "@nishujangra27",
+    name: 'Nishant',
+    description: 'Reading Root-Protected Files with Sudo — No Password Prompt',
+    url: 'https://blog.devops.dev/reading-root-protected-files-with-sudo-no-password-prompt-f70a9bdd8ca7',
+    twitter: '@nishujangra27',
     tags: [
       'Linux',
       'Perl',
