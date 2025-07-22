@@ -68,6 +68,12 @@ module.exports = [
     tags: ['AWS', 'DevOps', 'Cloud', 'Productivity', 'Kubernetes', 'Automation'],
   },
   {
+    name: 'WebXpress',
+    description: 'Web design and SEO articles by WebXpress (a Boston based web development agency).',
+    url: 'https://webxpress.co/blog/',
+    tags: ['Web Design', 'SEO'],
+  },
+  {
     name: 'Rahul',
     description: '18-year-old hustler who loves reading, coding and building stuffs. Mostly writing on JavaScript. ',
     url: 'https://rahul.biz',
