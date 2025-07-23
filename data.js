@@ -7,6 +7,13 @@ module.exports = [
     tags: ['Web Design', 'Web Development', 'Fullstack', 'MERN Stack', 'HTML', 'CSS', 'JavaScript', 'PHP', 'MySQL', 'WordPress', 'Python', 'Node JS', 'React JS'],
   },
   {
+    name: 'Why Modern Web Development Is More Than Just Code, It’s About Problem Solving & User Experience',
+    description: 'Learn how modern day web development have come to far from just coding.',
+    url: 'https://dev.to/pranav89624/why-modern-web-development-is-more-than-just-code-its-about-problem-solving-user-experience-2f0o',
+    twitter: '@pranav89624',
+    tags: ['webdev', 'ux', 'software engineering', 'modern developer'],
+  },
+  {
     name: 'ES-blog',
     description: 'ES-blog highlights the creativity and potential of the next generation of African tech leaders.',
     url: 'https://esblog.info',
