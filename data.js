@@ -185,6 +185,13 @@ module.exports = [
     tags: ["QA", "Testing", "Automation", "Manual Testing", "QA Management", "Recruiting", "Career", "Test Automation", "SDET"]
   },
   {
+    name: "Oliver J. Scholten PhD",
+    description: "Weekly newsletter covering the lessons, challenges, and useful tools while building a business after leaving the corporate world.",
+    url: "https://ojscholten.com",
+    twitter: "@ojscholten",
+    tags: ["Python", "Software Engineering", "Full Stack", "SaaS", "Infrastructure"]
+  },
+  {
     name: "Harshit Raj",
     description: "Unlocking Tomorrow's Tech Today: Exploring the Digital Frontier",
     url: "https://medium.com/@Harshit_Raj_14",
