@@ -7,13 +7,6 @@ module.exports = [
     tags: ['Web Design', 'Web Development', 'Fullstack', 'MERN Stack', 'HTML', 'CSS', 'JavaScript', 'PHP', 'MySQL', 'WordPress', 'Python', 'Node JS', 'React JS'],
   },
   {
-    name: 'ES-blog (ESATIC STUDENT BLOG)',
-    description: 'ES-blog highlights the creativity and potential of the next generation of African tech leaders.',
-    url: 'https://esblog.info',
-    twitter: '@Cypher1305',
-    tags: ['career', 'Learning', 'Growth', 'Competitive Programming', 'Algorithms', 'Freelancing', 'Software Development', 'Computer Science', 'Data', 'AI', 'Web Development'],
-  },
-  {
     name: 'Abhijit Sarode',
     description: 'At the intersection of Fullstack, Competitive Programming & Mathematics',
     url: 'https://abhijitsarode.hashnode.dev',
@@ -52,13 +45,6 @@ module.exports = [
       "Java",
       "SQL",
     ],
-  },
-  {
-    name: 'Sravan Kumar Gorati',
-    description: 'Mastering C++ Templates: A Guide to Creating Your Own Custom Template Library Similar to STL',
-    url: 'https://sravangorati2001.hashnode.dev/mastering-c-templates-a-guide-to-creating-your-own-custom-template-library-similar-to-stl',
-    twitter: '@Sravanthrony',
-    tags: ['C++', 'STL', 'Competitive Programming'],
   },
   {
     name: 'Argonaut.dev',
@@ -225,25 +211,6 @@ module.exports = [
     ]
   },
   {
-    name: "EGrasps",
-    description:
-      "Blogs about Technology, Programming, Software Development, Finance, Life and Much More.",
-    url: "https://egrasps.in",
-    twitter: "@EGrasps",
-    tags: [
-      "Web Development",
-      "Java",
-      "Full Stack Web Development",
-      "Python",
-      "Flask",
-      "Django",
-      "Git",
-      "GitHub",
-      "Learn Git and GitHub",
-      "Learn Programming",
-    ],
-  },
-  {
     name: 'Robiul H.',
     description: 'RoBlog, your go-to destination for all things related to technology, JavaScript, Node.js, and web development.',
     url: 'https://robiul.dev/',
@@ -277,24 +244,6 @@ module.exports = [
       'Software Engineering',
       'TypeScript',
       'Web Development',
-    ],
-  },
-  {
-    name: "Programming School",
-    description: "Awesome Programming Posts for Beginners by Experts.",
-    url: "https://programming-school.hashnode.dev/",
-    twitter: "@Programing_Pro",
-    tags: [
-      "Web Development",
-      "JavaScript",
-      "HTML",
-      "CSS",
-      "React",
-      "Front End",
-      "TypeScript",
-      "Gatsby",
-      "Backend",
-      "Nodejs",
     ],
   },
   {
@@ -822,25 +771,6 @@ module.exports = [
     ],
   },
   {
-    name: "Ashish Yadav",
-    description:
-      "Software engineer writing TypeScript at scale. Talks about #react, #nodejs, #javascript, #typescript, and #softwareengineering",
-    url: "https://ashiish.me/blog",
-    twitter: "@ashiishme",
-    tags: [
-      "Ashish",
-      "React",
-      "Security",
-      "Node.js",
-      "GraphQL",
-      "Clean Code",
-      "JavaScript",
-      "TypeScript",
-      "Software Engineer",
-      "Gatsby",
-    ],
-  },
-  {
     name: "Shivashish Yadav",
     description:
       "👋 Hello world! My name is Shivashish. I'm a passionate Technical Writer and a Software Engineer. I write beginner-friendly programming tutorials, theory, opinions and publish research articles on Blockchain and Cryptocurrency and various web development and SEO tips to help newbies get started.",
@@ -1122,14 +1052,6 @@ module.exports = [
       "React Native",
       "Front End",
     ],
-  },
-  {
-    name: "Sandro Volpicella",
-    description:
-      "At the intersection of building SaaS and Serverless. Fullstack Engineer @Hashnode",
-    url: "https://sandro.volpee.de",
-    twitter: "@sandro_vol",
-    tags: ["Serverless", "AWS", "Cloud", "Amplify", "TypeScript", "JavaScript"],
   },
   {
     name: "LambdaTest Blogs",
@@ -1868,38 +1790,6 @@ module.exports = [
       "Front End",
       "HTML",
       "CSS",
-    ],
-  },
-  {
-    name: "Savio Martin",
-    description:
-      "A 13-year-old boy on an intention to enhance as a successful full-stack web developer. I love building full-stack web applications and mobile apps.",
-    url: "https://savio.xyz/",
-    twitter: "@saviomartin7",
-    tags: [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "Web Development",
-      "Front End",
-      "Node.js",
-      "App Development",
-      "React",
-      "React Native",
-      "UI/UX",
-    ],
-  },
-  {
-    name: "Alexander Rowsell",
-    description: "Hardware hacker/embedded dev",
-    url: "https://frozenelectronics.ca/",
-    twitter: "@FrozenElecBlog",
-    tags: [
-      "Embedded",
-      "Hardware hacker",
-      "Canadian hacker",
-      "C",
-      "Assembly language",
     ],
   },
   {
@@ -3102,25 +2992,6 @@ module.exports = [
     ],
   },
   {
-    name: "Marcel Hauri",
-    description:
-      "Father, husband, software developer and lecturer in application development.",
-    url: "https://marcelhauri.ch/blog/",
-    twitter: "@mhauri",
-    tags: [
-      "DevOps",
-      "Docker",
-      "Netlify",
-      "Google Cloud Platform",
-      "Laravel",
-      "Symfony",
-      "React",
-      "Next",
-      "Gatsby",
-      "Tailwind CSS",
-    ],
-  },
-  {
     name: "Devopsian",
     description:
       "Software Engineer blogging about Infrastructure, Reliability, Devops Principals and.. Software Engineering",
@@ -3436,28 +3307,6 @@ module.exports = [
     url: "https://alexlakatos.com/",
     twitter: "@lakatos88",
     tags: ["JavaScript", "DevTools", "DevRel"],
-  },
-  {
-    name: "Shahed Nasser",
-    description:
-      "Writing about anything related to Web Development or Personal Opinions.",
-    url: "https://blog.shahednasser.com/",
-    twitter: "@shahednasserr",
-    tags: [
-      "Front End",
-      "JavaScript",
-      "Web Development",
-      "Git",
-      "Technical",
-      "Tech",
-      "Programming",
-      "React",
-      "PHP",
-      "CSS",
-      "Node.js",
-      "Magento",
-      "Computer Science",
-    ],
   },
   {
     name: "Adithya",
@@ -3876,23 +3725,6 @@ module.exports = [
       "JavaScript",
       "Open source",
       "TypeScript",
-      "Next.js",
-      "CSS",
-      "Fullstack",
-      "Software Engineering",
-    ],
-  },
-  {
-    name: "Chris Achinga",
-    description:
-      "I am a fullstack developer and Technical Writer. I write technical articles on Creating Softwares and using Headless CMS",
-    url: "https://chrisdevcode.hashnode.dev/",
-    twitter: "@achinga_chris",
-    tags: [
-      "React",
-      "JavaScript",
-      "Open source",
-      "Headless CMS",
       "Next.js",
       "CSS",
       "Fullstack",
