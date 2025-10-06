@@ -164,13 +164,6 @@ module.exports = [
     ],
   },
   {
-    name: "QAJobs.co Blog",
-    description: "Tested advice and insights for QA Professionals",
-    url: "https://qajobs.co/blog",
-    twitter: "@stoilsky",
-    tags: ["QA", "Testing", "Automation", "Manual Testing", "QA Management", "Recruiting", "Career", "Test Automation", "SDET"]
-  },
-  {
     name: "Oliver J. Scholten PhD",
     description: "Weekly newsletter covering the lessons, challenges, and useful tools while building a business after leaving the corporate world.",
     url: "https://ojscholten.com",
@@ -423,13 +416,6 @@ module.exports = [
       "Technical Writing",
       "Web Development",
     ],
-  },
-  {
-    name: "Adarsh Kushwaha",
-    description: "Inside functionality of how JavaScript Works",
-    url: "https://medium.com/@heyadarshhere/how-does-javascript-works-everything-about-execution-context-call-stack-501b5450e2c4",
-    twitter: "@heyadarshhere",
-    tags: ["JavaScript"],
   },
   {
     name: "Vivek",
@@ -1117,24 +1103,6 @@ module.exports = [
     tags: ["JavaScript", "Node.js", "React", "Computer Science"],
   },
   {
-    name: "TerminusDB",
-    description:
-      "An open-source in-memory document graph database helping you build collaborative applications.",
-    url: "https://terminusdb.com/blog/",
-    twitter: "@TerminusDB",
-    tags: [
-      "Graph Databases",
-      "Open Source",
-      "Python",
-      "JavaScript",
-      "Knowledge Graphs",
-      "Data Management",
-      "Document Database",
-      "Database Version Control",
-      "Data Collaboration",
-    ],
-  },
-  {
     name: "Peter Smith",
     description:
       "Networking, antique electrical bits, and more. Developer of multiple apps in the Window, including apps to control reverse-engineered Bluetooth devices. Wrote my first network program in 1989, slightly before the WWW.",
@@ -1200,23 +1168,6 @@ module.exports = [
       "Computer Science",
       "Productivity",
       "Content Creation",
-    ],
-  },
-  {
-    name: "Murtuzaali Surti",
-    description: "Full Stack Developer & Content Creator",
-    url: "https://syntackle.live",
-    twitter: "@murtuza_surti",
-    tags: [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "eleventy",
-      "11ty",
-      "Web Development",
-      "Coding",
-      "Front-end Development",
-      "Backend Development",
     ],
   },
   {
