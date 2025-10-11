@@ -4303,5 +4303,19 @@ module.exports = [
       'Backup',
       'Disaster Recovery'
     ],
+  },
+  {
+    name: 'Razvan Muntian',
+    description: 'Sharing my journey of building small products, living intentionally, and finding joy along the way.',
+    url: 'https://razvanmuntian.com',
+    twitter: '@razvanmuntian',
+    tags: [
+      'Indie Maker',
+      'Startups',
+      'Career',
+      'Open Source',
+      'Tech',
+      'Content Creation',
+    ],
   }
 ];
