@@ -1,5 +1,71 @@
 module.exports = [
   {
+        title: "Implementing JWT Authentication in Rocket.rs with Argon2 Password Hashing",
+        description: "A comprehensive guide to implementing secure JWT authentication in Rocket.rs web framework with Argon2 password hashing.",
+        url: "https://nishujangra27.hashnode.dev/implementing-jwt-authentication-in-rocketrs",
+        tags: ["Rust", "Rocket.rs", "JWT", "Authentication", "Argon2", "Web Development"],
+        category: "Programming & Development"
+    },
+    {
+        title: "How to Use Tera Templates with Axum in Rust",
+        description: "A step-by-step guide to integrating Tera templates with the Axum web framework in Rust. Learn how to set up the project, configure Tera, render dynamic HTML, and run your server.",
+        url: "https://nishujangra27.hashnode.dev/tera-templates-axum-rust",
+        tags: ["Rust", "Axum", "Tera Templates", "Web Development", "Backend Programming"],
+        category: "Programming & Development"
+    },
+    {
+        title: "Why Rust Forces Immutability?",
+        description: "A beginner-friendly explanation of Rust's immutability, how it ensures memory safety, prevents race conditions, and when to use mutable variables with the `mut` keyword.",
+        url: "https://medium.com/@nishujangra27/why-rust-forces-immutability-04e40cbf2e46",
+        tags: ["Rust", "Immutability", "Memory Safety", "Concurrency", "Programming"],
+        category: "Programming & Development"
+    },
+    {
+        title: "Why do we need lifetimes in Rust?",
+        description: "A beginner-friendly explanation of why lifetimes exist in Rust, how they prevent dangling references, and how the borrow checker enforces memory safety.",
+        url: "https://medium.com/@nishujangra27/why-do-we-need-lifetimes-in-rust-16f12173c30a",
+        tags: ["Rust", "Lifetime", "Learning Rust"],
+        category: "Programming & Development"
+    },
+    {
+        title: "Implementing Middleware in Rocket.rs",
+        description: "A guide to manage middlewares using Request Guard",
+        url: "https://nishujangra27.hashnode.dev/implementing-middleware-in-rocketrs-rust",
+        tags: ["Rust", "Rocket.rs", "JWT", "Middleware", "Request-Guard"],
+        category: "Programming & Development"
+    },
+    {
+        title: "Getting Started with Rocket Fairings: Implementing a Logger",
+        description: "Learn how to use Rocket.rs Fairings to implement a request/response logger, with real-world use cases and flow diagrams.",
+        url: "https://nishujangra27.hashnode.dev/getting-started-with-rocket-fairings-implementing-a-logger",
+        tags: ["Rust", "Rocket.rs", "Fairing", "Logger", "Web Development"],
+        category: "Programming & Development"
+    },
+
+    // System Administration & Linux Basics
+    {
+        title: "Reading Root-Protected Files with Sudo — No Password Prompt",
+        description: "Learn how to read files that require root access using sudo without being prompted for a password. A neat trick for sysadmins and developers.",
+        url: "https://blog.devops.dev/reading-root-protected-files-with-sudo-no-password-prompt-f70a9bdd8ca7",
+        tags: ["Linux", "System Administration", "Sudo", "DevOps"],
+        category: "System Administration & Linux Basics"
+    },
+    {
+        title: "Fixing DNS Resolution Errors in Linux: A Simple Troubleshooting Guide",
+        description: "A comprehensive guide to troubleshooting and fixing DNS resolution issues in Linux systems.",
+        url: "https://blog.devops.dev/fixing-dns-resolution-errors-in-linux-a-simple-troubleshooting-guide-d1212a298e46",
+        tags: ["Linux", "Networking", "DNS", "Troubleshooting", "DevOps"],
+        category: "System Administration & Linux Basics"
+    },
+    {
+        title: "Fixing Brave Browser Snap Error on Ubuntu",
+        description: "A troubleshooting guide to resolve Brave Browser startup issues caused by Snap confinement errors on Ubuntu 24.04 with X11.",
+        url: "https://medium.com/@nishujangra27/fixing-brave-browser-snap-error-on-ubuntu-647fc2e61a84",
+        tags: ["Linux", "Snap", "Brave Browser", "X11", "Ubuntu 24.04"],
+        category: "System Administration & Linux Basics"
+    },
+
+  {
     name: 'Learn Computer Academy',
     description: 'Web Design & Computer Training Center in Habra',
     url: 'https://learncomputer.in/blog/',
