@@ -4307,7 +4307,7 @@ module.exports = [
   {
     name: 'Razvan Muntian',
     description: 'Sharing my journey of building small products, living intentionally, and finding joy along the way.',
-    url: 'https://razvanmuntian.com',
+    url: 'https://razvanmuntian.com/blog',
     twitter: '@razvanmuntian',
     tags: [
       'Indie Maker',
