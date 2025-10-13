@@ -661,13 +661,6 @@ module.exports = [
     ],
   },
   {
-    name: "Elton Minetto",
-    description: "I’m a software developer, teacher, speaker and writer",
-    url: "https://eltonminetto.dev/en/",
-    twitter: "@eminetto",
-    tags: ["Go", "Golang", "Software Architecture"],
-  },
-  {
     name: "Ashish Patel",
     description:
       "A space enthusiast software engineer, building amazing user interfaces, websites, web apps and APIs primarily using react, JamStack and express as key technologies.",
@@ -2894,14 +2887,6 @@ module.exports = [
       "Laravel",
       "Linux",
     ],
-  },
-  {
-    name: "Donald Feury",
-    description:
-      "Appalachian man that writes about Go, MongoDB, FFmpeg, Linux and games",
-    url: "https://donaldfeury.xyz",
-    twitter: "@FeuryDonald",
-    tags: ["Go", "MongoDB", "Linux", "FFmpeg", "Bash"],
   },
   {
     name: "Rishab Kumar",
