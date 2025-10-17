@@ -28,25 +28,6 @@ module.exports = [
     tags: ['tech', 'react.js', 'js'],
   },
   {
-    name: "Renuka Cheripally",
-    description: "Frontend Vue js developer. Expanding my professional network and contributing to open source projects",
-    url: "https://github.com/RenukaCheripally",
-    twitter: "@renukach170397",
-    tags: [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "TypeScript",
-      "Vue js",
-      "Web Development",
-      "Front End",
-      "Back End",
-      "Freelancing",
-      "Java",
-      "SQL",
-    ],
-  },
-  {
     name: 'Argonaut.dev',
     description: 'Blog about Kubernetes, AWS, Cloud costs, and more!',
     url: 'https://www.argonaut.dev/blog',
@@ -127,24 +108,6 @@ module.exports = [
       "Software Development",
       "Learn Programming"
     ]
-  },
-  {
-    name: "2minsDevsNotes",
-    description: "Github-based fast-to-read blog about dev's daily routine challenges",
-    url: "https://github.com/vtcaregorodtcev/2minsDevsNotes",
-    twitter: "@v_hadoocken",
-    tags: [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "TypeScript",
-      "Frameworks",
-      "Web Development",
-      "Management",
-      "Front End",
-      "Back End",
-      "Clouds",
-    ],
   },
   {
     name: "Afobaje",
