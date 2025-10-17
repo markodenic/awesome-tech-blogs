@@ -388,22 +388,6 @@ module.exports = [
     tags: ["Resources", "Web Development", "JavaScript"],
   },
   {
-    name: "Webdevolution",
-    description: "Web dev tips, tutorials and solutions for common problems.",
-    url: "https://www.webdevolution.com",
-    twitter: "@webdevolution_",
-    tags: [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "React",
-      "TypeScript",
-      "APIs",
-      ".NET",
-      "Web Development",
-    ],
-  },
-  {
     name: "Wampamba David",
     description:
       "👨🏽‍💻Web Development, 💻 General Programming, 💰Making Money Online, and 👯‍♂️ Making Meaningful Connections. Best place to improve your tech skills in Days.",
@@ -1203,23 +1187,6 @@ module.exports = [
     url: "https://gokul.site/blog",
     twitter: "@gokul_i",
     tags: ["HTML", "CSS", "JavaScript", "Web Development", "Web"],
-  },
-  {
-    name: "Shaurya Pratap Singh",
-    description: "A middle schooler who loves writing about programming.",
-    url: "https://sblip.medium.com/",
-    twitter: "@Shaurya79145816",
-    tags: [
-      "Python",
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "Web Development",
-      "Backend Development",
-      "PostgreSQL",
-      "Django",
-      "Vue",
-    ],
   },
   {
     name: 'Thomas Derflinger',
@@ -2448,25 +2415,6 @@ module.exports = [
     ],
   },
   {
-    name: "Stefan Natter",
-    description:
-      "I am a Software Engineer from Austria 🇦🇹. I am interested in, write about, and develop (open source) software solutions with JavaScript, TypeScript, ReactJS, and NodeJS.",
-    url: "https://natterstefan.me",
-    twitter: "@natterstefan",
-    tags: [
-      "Docker",
-      "JavaScript",
-      "Next.js",
-      "Node.js",
-      "Project Management",
-      "React",
-      "SEO",
-      "TailwindCSS",
-      "TypeScript",
-      "Web Development",
-    ],
-  },
-  {
     name: "Aman Mittal",
     description:
       "I am a fullstack developer and a technical writer. I am interested in React Native, React, Node.js and GraphQL. These are the topics that I often write about too.",
@@ -2795,25 +2743,6 @@ module.exports = [
       "Node.JS",
       "CSS",
       "TypeScript",
-    ],
-  },
-  {
-    name: "Steven Spads",
-    description:
-      "Full-stack Web Developer from Canada. Sharing web development tips, techniques, and tutorials to help you become a better web developer.",
-    url: "https://lumin8media.com",
-    twitter: "@stevenspads",
-    tags: [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "TypeScript",
-      "Angular",
-      "React",
-      "Node.js",
-      "NestJS",
-      "Laravel",
-      "Web Development",
     ],
   },
   {
@@ -3595,25 +3524,6 @@ module.exports = [
     ],
   },
   {
-    name: "Unbiased Coder",
-    description:
-      "Full-stack with experience in: entertainment, broadcasting, healthcare, security, education, retail and finance.",
-    url: "https://unbiased-coder.com",
-    twitter: "@UnbiasedCoder",
-    tags: [
-      "AWS",
-      "Linux",
-      "Django",
-      "Python",
-      "JavaScript",
-      "Git",
-      "Backend",
-      "Git",
-      "APIs",
-      "PHP",
-    ],
-  },
-  {
     name: "Avneesh Agarwal",
     description:
       "I am a fullstack web developer. I love to make beautiful websites and also teach others how to make them by writing blogs",
@@ -3662,25 +3572,6 @@ module.exports = [
       "Developers",
       "Ruby",
       "Docker",
-    ],
-  },
-  {
-    name: "Rajanand Ilangovan",
-    description:
-      "I am a Business Intelligence developer with over a decade of experience in design and development of database, data warehouse, business intelligence and reporting/data visualization solutions. I'm also a Microsoft certified trainer and MCSE - data management and analytics.",
-    url: "https://blog.rajanand.org",
-    twitter: "@iRajanand",
-    tags: [
-      "Business Intelligence",
-      "Cloud",
-      "Data",
-      "SQL Server",
-      "Power BI",
-      "Tableau",
-      "Database",
-      "Azure",
-      "ETL",
-      "SSIS",
     ],
   },
   {
