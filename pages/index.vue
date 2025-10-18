@@ -14,7 +14,7 @@
 </template>
 
 <script>
-import blogs from '../data.js';
+import blogs from '../data.json';
 
 export default {
   data () {

@@ -40,7 +40,7 @@
 </template>
 
 <script>
-import blogs from '../data.js';
+import blogs from '../data.json';
 
 function merge(prop) {
   return function(acc, obj) {
