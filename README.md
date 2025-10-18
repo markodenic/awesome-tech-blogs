@@ -4,15 +4,15 @@ Visit [tech-blogs.dev](https://tech-blogs.dev/).
 
 ## To add your blog
 
-1. Open [`data.js`](./data.js).
+1. Open [`data.json`](./data.json).
 2. Add your blog details at a random place using the following structure.
-```javascript
+```json
 {
-    name: 'Your Name',
-    description: 'Keep it short and simple.',
-    url: 'https://example.com',
-    twitter: '@your_twitter_handle',
-    tags: ['HTML', 'CSS', 'JavaScript'],
+    "name": "Your Name",
+    "description": "Keep it short and simple.",
+    "url": "https://example.com",
+    "twitter": "@your_twitter_handle",
+    "tags": ["HTML", "CSS", "JavaScript"],
 }
 ```
 3. Raise a Pull Request (PR) to `main` branch.
