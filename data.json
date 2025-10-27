@@ -63,20 +63,6 @@
     "tags": ["tech", "react.js", "js"]
   },
   {
-    "name": "Argonaut.dev",
-    "description": "Blog about Kubernetes, AWS, Cloud costs, and more!",
-    "url": "https://www.argonaut.dev/blog",
-    "twitter": "@Argonaut_Dev",
-    "tags": [
-      "AWS",
-      "DevOps",
-      "Cloud",
-      "Productivity",
-      "Kubernetes",
-      "Automation"
-    ]
-  },
-  {
     "name": "WebXpress",
     "description": "Web design and SEO articles by WebXpress (a Boston based web development agency).",
     "url": "https://webxpress.co/blog/",
@@ -102,23 +88,6 @@
     "url": "https://dontbreakprod.com/",
     "twitter": "@dontbreakprod",
     "tags": ["Career", "Software Development", "Tools", "Learning", "Growth"]
-  },
-  {
-    "name": "Live Code Stream",
-    "description": "We produce FREE tutorials and resources for self-taught developers and data scientists.",
-    "url": "https://livecodestream.dev/post/",
-    "twitter": "@livecodestream",
-    "tags": [
-      "Javascript",
-      "Web Development",
-      "Web3",
-      "HTML",
-      "CSS",
-      "Freelancing",
-      "Career",
-      "Software Development",
-      "Learn Programming"
-    ]
   },
   {
     "name": "Jina AI",
@@ -298,7 +267,7 @@
   {
     "name": "TestGrid",
     "description": "Keep yourself update with the latest trends around web & mobile automation.",
-    "url": "https://www.testgrid.io/blog/",
+    "url": "https://testgrid.io/blog/",
     "twitter": "@testgridio",
     "tags": ["HTML", "CSS", "JavaScript"]
   },
@@ -522,7 +491,7 @@
   {
     "name": "Canopas Software",
     "description": "We aim to help you become better software engineer. Sharing tips and tricks on android, iOS, web, and programming",
-    "url": "https://blog.canopas.com/",
+    "url": "https://canopas.com/blog",
     "twitter": "@canopassoftware",
     "tags": [
       "Vue",
@@ -556,7 +525,7 @@
   {
     "name": "Bleyl Dev",
     "description": "Flutter & Software Development Technical Articles",
-    "url": "https://medium.com/@bleyldev",
+    "url": "https://bleyldev.medium.com/",
     "twitter": "@bleyldev",
     "tags": [
       "Flutter",
@@ -570,7 +539,7 @@
   {
     "name": "Pasindu Kavinda",
     "description": "Share insights on cloud computing, mobile development, web technologies, and backend systems, along with other emerging tech that captures my interest",
-    "url": "https://medium.com/@pasindu-kavinda",
+    "url": "https://blog.pasindukavinda.me/",
     "twitter": "@_PasinduKavinda",
     "tags": [
       "Flutter",
@@ -1274,7 +1243,7 @@
   {
     "name": "Karl Koch",
     "description": "Product Designer and UI Developer.",
-    "url": "https://www.kejk.tech/thoughts",
+    "url": "https://www.karlkoch.me/thoughts",
     "twitter": "@_kejk",
     "tags": [
       "HTML",
@@ -1579,7 +1548,7 @@
   {
     "name": "Kévin Dunglas",
     "description": "Kévin writes about the free software he uses and maintains. Most of the posts are about web APIs, Go, PHP and JavaScript.",
-    "url": "https://dunglas.fr",
+    "url": "https://dunglas.dev",
     "twitter": "@dunglas",
     "tags": [
       "APIs",
@@ -1715,7 +1684,7 @@
   {
     "name": "Alexander Lichter",
     "description": "Nuxt.js maintainer and Web Development Consultant. I love to blog about various technical topics with a focus on web development, especially with Vue and Nuxt.",
-    "url": "https://blog.lichter.io/?ref=tech-blogs.dev",
+    "url": "https://www.lichter.io/articles/?ref=tech-blogs.dev",
     "twitter": "@TheAlexLichter",
     "tags": [
       "Nuxt",
@@ -2604,27 +2573,9 @@
     ]
   },
   {
-    "name": "Unicorn Utterances",
-    "description": "Learning programming from magically majestic words.",
-    "url": "https://unicorn-utterances.com/",
-    "twitter": "@UnicornUttrncs",
-    "tags": [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "Web Development",
-      "React",
-      "Angular",
-      "Front End",
-      "Node.js",
-      "Programming",
-      "General Tech"
-    ]
-  },
-  {
     "name": "Saad Ahmad",
     "description": "Frontend developer | Mechanical engineer",
-    "url": "https://medium.com/@saadahmadhere",
+    "url": "https://saadahmadhere.medium.com/",
     "twitter": "@imsaadahmad",
     "tags": [
       "Github",
@@ -3276,7 +3227,7 @@
   {
     "name": "Timonwa's Notes",
     "description": "Timonwa is a Frontend Developer and Technical Writer who writes notes on web development that help beginners have an easier learning journey.",
-    "url": "https://blog.timonwa.com",
+    "url": "https://tech.timonwa.com/",
     "twitter": "@timonwa_",
     "tags": [
       "HTML",
@@ -3636,21 +3587,6 @@
     "url": "https://fettblog.eu/articles/",
     "twitter": "@ddprrt",
     "tags": ["TypeScript", "Rust", "React"]
-  },
-  {
-    "name": "Reza Lavarian",
-    "description": "Helping new software developers/early careers have a smooth start.",
-    "url": "https://www.decodingweb.dev",
-    "twitter": "@rlavarian",
-    "tags": [
-      "JavaScript",
-      "Python",
-      "PHP",
-      "Web Development",
-      "Programming",
-      "Beginner",
-      "Career"
-    ]
   },
   {
     "name": "Stack Diary",
