@@ -144,15 +144,26 @@ html {
     &-footer {
       display: flex;
       border-top: 1px solid var(--grey);
-      a {
-        width: 50%;
+      .blog-link {
+        flex: 1;
         padding: 15px;
         text-align: center;
         white-space: nowrap;
         overflow: hidden;
         text-overflow: ellipsis;
-        &:first-child {
-          border-right: 1px solid var(--grey);
+      }
+    }
+    &-social {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 50px;
+      border-left: 1px solid var(--grey);
+      a {
+        display: flex;
+        opacity: 0.7;
+        &:hover {
+          opacity: 1;
         }
       }
     }
