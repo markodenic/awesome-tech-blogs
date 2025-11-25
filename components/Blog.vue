@@ -47,14 +47,27 @@
         {{ path }}
       </a>
 
-      <a
-        v-if="blog.twitter"
-        :href="`https://x.com/${blog.twitter.replace('@', '')}`"
-        target="_blank"
-        rel="noopener nofollow"
-      >
-        {{ blog.twitter }}
-      </a>
+      <div v-if="blog.twitter" class="blog-social">
+        <a
+          :href="`https://x.com/${blog.twitter.replace('@', '')}`"
+          target="_blank"
+          rel="noopener nofollow"
+          :title="blog.twitter"
+        >
+          <img src="/socials/x-white.png" alt="X" width="20" height="20" />
+        </a>
+      </div>
+
+      <div v-if="blog.linkedin" class="blog-social">
+        <a
+          :href="`https://linkedin.com/in/${blog.linkedin}`"
+          target="_blank"
+          rel="noopener nofollow"
+          :title="blog.linkedin"
+        >
+          <img src="/socials/linkedin-white.png" alt="LinkedIn" width="20" height="20" />
+        </a>
+      </div>
     </div>
   </div>
 </template>

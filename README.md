@@ -12,6 +12,7 @@ Visit [tech-blogs.dev](https://tech-blogs.dev/).
     "description": "Keep it short and simple.",
     "url": "https://example.com",
     "twitter": "@your_twitter_handle",
+    "linkedin": "your-linkedin-username",
     "tags": ["HTML", "CSS", "JavaScript"],
 }
 ```
@@ -26,13 +27,13 @@ https://markodenic.com/make-your-first-open-source-contribution/)
 
 You can add a Featured badge on your blog to show your readers that your blog is featured on tech-blogs.dev.
 
-### Small dark badge  
+### Small dark badge
 
 <img src="./static/featured-dark-small.png" alt="Small dark featured badge" width="158">
 
 ```html
 <a href="https://tech-blogs.dev">
-  <img src="https://tech-blogs.dev/featured-dark-small.png" alt="Featured on tech-blogs.dev badge" width="158" height="47" /> 
+  <img src="https://tech-blogs.dev/featured-dark-small.png" alt="Featured on tech-blogs.dev badge" width="158" height="47" />
 </a>
 ```
 

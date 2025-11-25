@@ -6,6 +6,7 @@ const markoBlog = {
   description: 'Web developer. IT consultant and trainer.',
   url: 'https://markodenic.com/blog/',
   twitter: '@denicmarko',
+  linkedin: 'denicmarko',
   tags: [
     'HTML',
     'CSS',
