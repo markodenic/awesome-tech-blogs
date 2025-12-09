@@ -3999,6 +3999,12 @@
     ]
   },
   {
+    "name": "Marco G",
+    "description": "Tech and Thoughts - personal tech blog.",
+    "url": "https://solariz.de",
+    "tags": ["DevOps", "Infrastructure", "Linux", "Hardware", "Networks", "Tech"]
+  },
+  {
     "name": "Omer Karabacak",
     "description": "Articles about DevOps, Cloud, Python, PostgreSQL, MongoDB and Infrastructure",
     "url": "https://omerkarabacak.medium.com",
