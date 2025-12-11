@@ -7,7 +7,7 @@
     "tags": [
       "Web Design",
       "Web Development",
-      "Fullstack",
+      "Full Stack",
       "MERN Stack",
       "HTML",
       "CSS",
@@ -16,8 +16,8 @@
       "MySQL",
       "WordPress",
       "Python",
-      "Node JS",
-      "React JS"
+      "Node.js",
+      "React"
     ]
   },
   {
@@ -27,7 +27,7 @@
     "twitter": "@abhijit_ras",
     "tags": [
       "Web Development",
-      "Fullstack",
+      "Full Stack",
       "MERN Stack",
       "React",
       "Competitive Programming",
@@ -43,14 +43,14 @@
     "tags": [
       "Web Development",
       "Frontend",
-      "Javascript",
+      "JavaScript",
       "React",
       "Next.js",
       "Algorithms",
-      "Tailwindcss",
+      "Tailwind CSS",
       "Freelancing",
       "Computer Science",
-      "Github",
+      "GitHub",
       "Software Development",
       "Git"
     ]
@@ -60,13 +60,20 @@
     "description": "Blogging for practical goals, offering diverse reads. No niche, just a fresh perspective..",
     "url": "https://blog.nishant.lol",
     "twitter": "@nisnym",
-    "tags": ["tech", "react.js", "js"]
+    "tags": [
+      "Tech",
+      "React",
+      "JavaScript"
+    ]
   },
   {
     "name": "Websites USA",
     "description": "Web design and SEO articles by WebXpress (a Boston based web development agency).",
     "url": "https://websitesusa.com/blog/",
-    "tags": ["Web Design", "SEO"]
+    "tags": [
+      "Web Design",
+      "SEO"
+    ]
   },
   {
     "name": "Rahul",
@@ -87,7 +94,13 @@
     "description": "Bite-sized pieces of career advice for software engineers.",
     "url": "https://dontbreakprod.com/",
     "twitter": "@dontbreakprod",
-    "tags": ["Career", "Software Development", "Tools", "Learning", "Growth"]
+    "tags": [
+      "Career",
+      "Software Development",
+      "Tools",
+      "Learning",
+      "Growth"
+    ]
   },
   {
     "name": "Jina AI",
@@ -123,7 +136,7 @@
     "url": "https://devremote.io/blog/",
     "twitter": "@devremotehq",
     "tags": [
-      "Javascript",
+      "JavaScript",
       "Web Development",
       "Web3",
       "HTML",
@@ -143,10 +156,10 @@
       "HTML",
       "CSS",
       "JavaScript",
-      "web development",
-      "reactjs",
-      "nodejs",
-      "mongodb",
+      "Web Development",
+      "React",
+      "Node.js",
+      "MongoDB",
       "webgl",
       "threejs"
     ]
@@ -170,7 +183,7 @@
     "url": "https://medium.com/@Harshit_Raj_14",
     "twitter": "@HarshitRaj_14",
     "tags": [
-      "Javascript",
+      "JavaScript",
       "Web Development",
       "Web3",
       "HTML",
@@ -182,7 +195,7 @@
       "Computer Science",
       "Cloud Infrastructure",
       "Competitive Programming",
-      "Fullstack",
+      "Full Stack",
       "Android",
       "Automation",
       "Node",
@@ -206,15 +219,15 @@
       "HTML",
       "CSS",
       "JavaScript",
-      "Web Developement",
-      "React JS",
-      "Node js",
+      "Web Development",
+      "React",
+      "Node.js",
       "Git",
-      "fullStack",
-      "opensource",
+      "Full Stack",
+      "Open Source",
       "community",
-      "frontend",
-      "backend"
+      "Frontend",
+      "Backend"
     ]
   },
   {
@@ -224,7 +237,7 @@
     "twitter": "@castarco",
     "tags": [
       "Algorithms",
-      "Fullstack",
+      "Full Stack",
       "JavaScript",
       "Open Source",
       "Programming",
@@ -238,7 +251,13 @@
     "description": "Hello 👋! I am Tim Mouskhelichvili, a Freelance Developer & Consultant from Montreal 🇨🇦. I write about Front-End Development.",
     "url": "https://timmousk.com/blog/",
     "twitter": "@tim_mousk",
-    "tags": ["TypeScript", "JavaScript", "Git", "Web Development", "React"]
+    "tags": [
+      "TypeScript",
+      "JavaScript",
+      "Git",
+      "Web Development",
+      "React"
+    ]
   },
   {
     "name": "wweb.dev",
@@ -251,8 +270,8 @@
       "JavaScript",
       "Web Development",
       "React",
-      "Front End",
-      "Fullstack",
+      "Frontend",
+      "Full Stack",
       "Next.js",
       "Node.js"
     ]
@@ -262,14 +281,24 @@
     "description": "I write about Regular Expressions, CLI one-liners, Scripting Languages, Vim and Self-Publishing.",
     "url": "https://learnbyexample.github.io/",
     "twitter": "@learn_byexample",
-    "tags": ["Python", "Regular Expressions", "JavaScript", "Linux", "Vim"]
+    "tags": [
+      "Python",
+      "Regular Expressions",
+      "JavaScript",
+      "Linux",
+      "Vim"
+    ]
   },
   {
     "name": "TestGrid",
     "description": "Keep yourself update with the latest trends around web & mobile automation.",
     "url": "https://testgrid.io/blog/",
     "twitter": "@testgridio",
-    "tags": ["HTML", "CSS", "JavaScript"]
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ]
   },
   {
     "name": "Suprabha",
@@ -283,7 +312,7 @@
       "CSS",
       "React",
       "Vue",
-      "Front End",
+      "Frontend",
       "TypeScript",
       "Gatsby",
       "Web3",
@@ -296,7 +325,7 @@
     "url": "https://blogs.snehasish-chakraborty.com/",
     "twitter": "@thisissnehasish",
     "tags": [
-      "WEB",
+      "Web",
       "Security",
       "JavaScript",
       "Java",
@@ -316,7 +345,7 @@
       "CSS",
       "JavaScript",
       "Backend",
-      "Front End",
+      "Frontend",
       "Programming"
     ]
   },
@@ -332,7 +361,7 @@
       "CSS",
       "JavaScript",
       "Backend",
-      "Front End",
+      "Frontend",
       "Web Development",
       "Open Source",
       "Clean Code"
@@ -343,28 +372,48 @@
     "description": "I am a Data Engineer who is passionate about Data Science and Automation. In my free time, I like developing side projects and blogging about them.",
     "url": "https://musing.vercel.app/blog",
     "twitter": "@lone_Musk",
-    "tags": ["NextJS", "ReactJS", "NodeJS", "TypeScript", "Prisma"]
+    "tags": [
+      "Next.js",
+      "React",
+      "Node.js",
+      "TypeScript",
+      "Prisma"
+    ]
   },
   {
     "name": "golang.ch",
     "description": "Golang News, Tutorials, Apps and Golang Jobs.",
     "url": "https://golang.ch",
     "twitter": "@golangch",
-    "tags": ["Golang", "Backend", "DevOps"]
+    "tags": [
+      "Go",
+      "Backend",
+      "DevOps"
+    ]
   },
   {
     "name": "Roopesh Sn's Blog",
     "description": "Whatever difficulty I faces in my routine work, I'll summarize that in a blog post",
     "url": "https://roopesh.hashnode.dev",
     "twitter": "@roopeshsn",
-    "tags": ["CS", "OSS", "Web Development", "JavaScript", "Linux", "Devops"]
+    "tags": [
+      "CS",
+      "OSS",
+      "Web Development",
+      "JavaScript",
+      "Linux",
+      "DevOps"
+    ]
   },
   {
     "name": "Hristo Iliev",
     "description": "I am a game programmer and I write a lot about low level programming in C and C++ and tools programming",
     "url": "https://thatonegamedev.com/posts",
     "twitter": "@StamenovHristo",
-    "tags": ["C++", "CMake"]
+    "tags": [
+      "C++",
+      "CMake"
+    ]
   },
   {
     "name": "The Feqy",
@@ -376,7 +425,7 @@
       "Laravel",
       "PHP",
       "Microservices",
-      "NodeJS",
+      "Node.js",
       "Web Development"
     ]
   },
@@ -392,7 +441,7 @@
       "Music Tech",
       "coding",
       "Web Dev",
-      "blogging"
+      "Blogging"
     ]
   },
   {
@@ -414,7 +463,11 @@
     "description": "Awesome JavaScript Libraries and developer resources",
     "url": "https://vivekon.hashnode.dev/",
     "twitter": "@vivekthedev",
-    "tags": ["Resources", "Web Development", "JavaScript"]
+    "tags": [
+      "Resources",
+      "Web Development",
+      "JavaScript"
+    ]
   },
   {
     "name": "Wampamba David",
@@ -425,8 +478,8 @@
       "HTML",
       "CSS",
       "JavaScript",
-      "ReactJS",
-      "NextJS",
+      "React",
+      "Next.js",
       "Web Development",
       "General Programming",
       "Making Money Online",
@@ -486,7 +539,13 @@
     "description": "The best place to learn appium, selenium and web automation.",
     "url": "https://www.headspin.io/blog",
     "twitter": "@headspin_io",
-    "tags": ["HTML", "CSS", "JavaScript", "Appium", "Selenium"]
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Appium",
+      "Selenium"
+    ]
   },
   {
     "name": "Canopas Software",
@@ -502,7 +561,7 @@
       "SwiftUI",
       "Web Development",
       "Kotlin",
-      "GoLang",
+      "Go",
       "Swift"
     ]
   },
@@ -513,13 +572,13 @@
     "twitter": "@khazifire",
     "tags": [
       "JavaScript",
-      "Html",
-      "Css",
+      "HTML",
+      "CSS",
       "Next.js",
-      "TailwindCss",
+      "Tailwind CSS",
       "Figma",
-      "web design",
-      "frontend"
+      "Web Design",
+      "Frontend"
     ]
   },
   {
@@ -532,7 +591,7 @@
       "Dart",
       "JavaScript",
       "Programming",
-      "Front End",
+      "Frontend",
       "Software Development"
     ]
   },
@@ -543,7 +602,7 @@
     "twitter": "@_PasinduKavinda",
     "tags": [
       "Flutter",
-      "Front End",
+      "Frontend",
       "React",
       "Nest.js",
       "Backend",
@@ -562,13 +621,13 @@
     "tags": [
       "JavaScript",
       "PHP",
-      "Golang",
+      "Go",
       "Rust",
       "Web3",
       "Blockchain",
       "React",
       "Angular",
-      "Cyber Security"
+      "Cybersecurity"
     ]
   },
   {
@@ -578,12 +637,12 @@
     "twitter": "@mannupaaji",
     "tags": [
       "React",
-      "Nextjs",
+      "Next.js",
       "HTML",
       "CSS",
-      "TailwindCSS",
-      "Nodejs",
-      "JAMStack",
+      "Tailwind CSS",
+      "Node.js",
+      "Jamstack",
       "Next.js",
       "React",
       "Node.js"
@@ -601,7 +660,7 @@
       "TypeScript",
       "Node.js",
       "PHP",
-      "mongodb"
+      "MongoDB"
     ]
   },
   {
@@ -628,12 +687,12 @@
     "url": "https://techsheet.vercel.app/",
     "twitter": "@iamthangam",
     "tags": [
-      "NextJs",
+      "Next.js",
       "HTML",
       "CSS",
       "Vercel",
       "React",
-      "Front End",
+      "Frontend",
       "Web Development",
       "Computer Science",
       "Programming",
@@ -665,7 +724,7 @@
     "twitter": "@sdil",
     "tags": [
       "Django",
-      "Web Devlopment",
+      "Web Development",
       "Python",
       "API",
       "Backend",
@@ -684,7 +743,7 @@
       "CSS",
       "JavaScript",
       "Web Development",
-      "Front End",
+      "Frontend",
       "React",
       "React Native",
       "Open Source",
@@ -699,12 +758,12 @@
     "twitter": "@_manish25",
     "tags": [
       "React",
-      "Nodejs",
+      "Node.js",
       "Node.js",
       "Clean Code",
       "JavaScript",
       "TypeScript",
-      "Mongodb",
+      "MongoDB",
       "React"
     ]
   },
@@ -735,7 +794,7 @@
       "Web3",
       "Web Development",
       "Blockchain",
-      "Cryptocurrency",
+      "Crypto",
       "Bitcoing",
       "Smart Contract",
       "Ethereum",
@@ -761,7 +820,12 @@
     "description": "Hey There, I'm Reda BELHAJ a fourth year Computer Science Student at the International University of Rabat. Welcome to my corner of the internet. I'm glad you're here!",
     "url": "https://unencrypted.vercel.app/",
     "twitter": "@RedatoB",
-    "tags": ["Computer Science", "Networking", "Tailwind", "Next.js"]
+    "tags": [
+      "Computer Science",
+      "Networking",
+      "Tailwind CSS",
+      "Next.js"
+    ]
   },
   {
     "name": "Yannick Mougin",
@@ -790,10 +854,10 @@
       "CSS",
       "JavaScript",
       "Web Development",
-      "Fullstack",
+      "Full Stack",
       "React",
-      "React JS",
-      "Next JS",
+      "React",
+      "Next.js",
       "Animation"
     ]
   },
@@ -819,11 +883,11 @@
       "HTML",
       "CSS",
       "JavaScript",
-      "Front End",
+      "Frontend",
       "Web Development",
       "Git",
       "Productivity",
-      "TailwindCSS"
+      "Tailwind CSS"
     ]
   },
   {
@@ -831,7 +895,11 @@
     "description": "I write about my coding journey and other tech-related stuff.",
     "url": "https://chrissycodes.hashnode.dev/",
     "twitter": "@CodesChrissy",
-    "tags": ["Open Source", "Beginner", "Coding Journey"]
+    "tags": [
+      "Open Source",
+      "Beginner",
+      "Coding Journey"
+    ]
   },
   {
     "name": "Michael Hoffmann (Mokkapps)",
@@ -844,8 +912,8 @@
       "Express.js",
       "Git",
       "Tech",
-      "Front End",
-      "Fullstack",
+      "Frontend",
+      "Full Stack",
       "HTML",
       "CSS",
       "Gatsby",
@@ -863,7 +931,7 @@
     "twitter": "@BryanEBraun",
     "tags": [
       "Web Development",
-      "Front End",
+      "Frontend",
       "Full Stack",
       "JavaScript",
       "Programming",
@@ -896,7 +964,7 @@
       "Hosting",
       "Performance",
       "PHP",
-      "Javascript",
+      "JavaScript",
       "Laravel",
       "Git",
       "DevOps",
@@ -911,7 +979,7 @@
     "url": "https://dev.to/rfornal",
     "twitter": "@rfornal",
     "tags": [
-      "Front End",
+      "Frontend",
       "Web Development",
       "HTML",
       "CSS",
@@ -946,7 +1014,7 @@
       "HTML",
       "CSS",
       "React",
-      "Front End",
+      "Frontend",
       "Node.js",
       "Git",
       "Productivity"
@@ -971,7 +1039,14 @@
     "description": "Writing on Next.js, React, Tailwind and building apps using these.",
     "url": "https://rishimohan.me/blog",
     "twitter": "@thelifeofrishi",
-    "tags": ["HTML", "CSS", "JavaScript", "React", "TailwindCSS", "Node.js"]
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Tailwind CSS",
+      "Node.js"
+    ]
   },
   {
     "name": "Shravan Kumar",
@@ -1000,8 +1075,8 @@
       "React",
       "Python",
       "Data Structures and Algorithm",
-      "Nodejs",
-      "Expressjs"
+      "Node.js",
+      "Express.js"
     ]
   },
   {
@@ -1019,7 +1094,7 @@
       "Angular",
       "React",
       "React Native",
-      "Front End"
+      "Frontend"
     ]
   },
   {
@@ -1042,20 +1117,35 @@
     "name": "Shyam Manohar",
     "description": "I'm a CS Under Grad who is passionate about sharing my ideas and experiences through blogs!",
     "url": "https://xshyam.hashnode.dev",
-    "tags": ["Computer Science", "Tech", "Cybersecurity"]
+    "tags": [
+      "Computer Science",
+      "Tech",
+      "Cybersecurity"
+    ]
   },
   {
     "name": "Dave Murray - Sailing the Sharp Sea",
     "description": ".NET developer with a passion for mobile and DevOps. I build cross platform apps using Xamarin, backend systems using Azure and GitHub Actions using Docker.",
     "url": "https://blog.taranissoftware.com/",
-    "tags": [".NET", "C#", "Xamarin", "MAUI", "GitHub Actions"]
+    "tags": [
+      ".NET",
+      "C#",
+      "Xamarin",
+      "MAUI",
+      "GitHub Actions"
+    ]
   },
   {
     "name": "James Turner",
     "description": "A programmer and entrepreneur with a love of cars, music and technology.",
     "url": "https://turnerj.com/blog",
     "twitter": "@MrTurnerj",
-    "tags": ["C#", ".NET", "Tech", "Programming"]
+    "tags": [
+      "C#",
+      ".NET",
+      "Tech",
+      "Programming"
+    ]
   },
   {
     "name": "William Chin",
@@ -1078,13 +1168,22 @@
     "name": "Kuldip Mochi",
     "description": "Software engineer, full stack enthusiastic, student",
     "url": "https://kuldipmochi.hashnode.dev/",
-    "tags": ["JavaScript", "Node.js", "React", "Computer Science"]
+    "tags": [
+      "JavaScript",
+      "Node.js",
+      "React",
+      "Computer Science"
+    ]
   },
   {
     "name": "Peter Smith",
     "description": "Networking, antique electrical bits, and more. Developer of multiple apps in the Window, including apps to control reverse-engineered Bluetooth devices. Wrote my first network program in 1989, slightly before the WWW.",
     "url": "https://sunriseprogrammer.blogspot.com/",
-    "tags": ["Networking", "Bluetooth", "Programming Languages"]
+    "tags": [
+      "Networking",
+      "Bluetooth",
+      "Programming Languages"
+    ]
   },
   {
     "name": "Marko Denic",
@@ -1101,12 +1200,12 @@
       "Software Development",
       "Vue",
       "Nuxt",
-      "Front End",
+      "Frontend",
       "Backend",
       "PHP",
       "Laravel",
       "WordPress",
-      "TailwindCSS",
+      "Tailwind CSS",
       "SEO",
       "Git",
       "Tech",
@@ -1131,12 +1230,12 @@
       "Software Development",
       "Vue",
       "Nuxt",
-      "Front End",
+      "Frontend",
       "Backend",
       "PHP",
       "Laravel",
       "WordPress",
-      "TailwindCSS",
+      "Tailwind CSS",
       "SEO",
       "Git",
       "Tech",
@@ -1160,7 +1259,7 @@
       "Web Development",
       "Software Development",
       "Open Source",
-      "Front End",
+      "Frontend",
       "Next",
       "Python",
       "SEO"
@@ -1192,10 +1291,10 @@
       "Open Source",
       "HTML",
       "CSS",
-      "NodeJS",
-      "ExpressJS",
+      "Node.js",
+      "Express.js",
       "JavaScript",
-      "Fullstack",
+      "Full Stack",
       "Web Development",
       "Git",
       "GitHub"
@@ -1222,7 +1321,13 @@
     "description": "Web Developer & GDE from India. Developing web applications.",
     "url": "https://gokul.site/blog",
     "twitter": "@gokul_i",
-    "tags": ["HTML", "CSS", "JavaScript", "Web Development", "Web"]
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Web Development",
+      "Web"
+    ]
   },
   {
     "name": "Thomas Derflinger",
@@ -1270,7 +1375,7 @@
       "Kubernetes",
       "React",
       "Docker",
-      "Cloud native",
+      "Cloud Native",
       "API first",
       "Tech",
       "AWS",
@@ -1292,7 +1397,7 @@
       "Node.js",
       "API",
       "SQL",
-      "Fullstack"
+      "Full Stack"
     ]
   },
   {
@@ -1305,7 +1410,7 @@
       "Software Developer",
       "C#",
       ".NET",
-      "Csharp",
+      "C#",
       "Web Development",
       "Windows",
       "AWS",
@@ -1317,7 +1422,13 @@
     "description": "A tech enthusiast who enjoy exploring new technologies and leverage them to solve real-life problem",
     "url": "https://akanksharaghav.medium.com/",
     "twitter": "@akanksharaghav9",
-    "tags": ["Voice user Interface", "JavaScript", "Hosting", "Github", "MERN"]
+    "tags": [
+      "Voice user Interface",
+      "JavaScript",
+      "Hosting",
+      "GitHub",
+      "MERN"
+    ]
   },
   {
     "name": "Vinit Shahdeo",
@@ -1338,7 +1449,13 @@
     "description": "I am a frontend developer who loves TypeScript and video players",
     "url": "https://blog.beraliv.dev",
     "twitter": "@beraliv",
-    "tags": ["Video", "Players", "TypeScript", "CSS", "JavaScript"]
+    "tags": [
+      "Video",
+      "Players",
+      "TypeScript",
+      "CSS",
+      "JavaScript"
+    ]
   },
   {
     "name": "Andrew Baisden",
@@ -1354,7 +1471,7 @@
       "React Native",
       "Redux",
       "ASP.NET Core",
-      "NodeJS",
+      "Node.js",
       "C#",
       "Python",
       "SQL",
@@ -1367,7 +1484,13 @@
     "description": "Olena is self-taught web developer and she writes her beginner-friendly and simply explained tech blogs along the way.",
     "url": "https://olena.hashnode.dev/",
     "twitter": "@OlenaDrugalya",
-    "tags": ["HTML", "CSS", "JavaScript", "Web Development", "React"]
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Web Development",
+      "React"
+    ]
   },
   {
     "name": "Create React App Blog",
@@ -1379,7 +1502,7 @@
       "CSS",
       "JavaScript",
       "Web Development",
-      "Front End",
+      "Frontend",
       "React",
       "Productivity"
     ]
@@ -1410,7 +1533,7 @@
     "tags": [
       "Web Development",
       "Productivity",
-      "Front End",
+      "Frontend",
       "HTML",
       "SCSS",
       "CSS",
@@ -1462,7 +1585,7 @@
       "Web Development",
       "React",
       "Next.js",
-      "Front End",
+      "Frontend",
       "Node.js",
       "Bootstrap",
       "General Tech"
@@ -1473,7 +1596,12 @@
     "description": "Functional code for humans",
     "url": "https://impure.fun",
     "twitter": "@luwvis",
-    "tags": ["DDD", "F#", "Functional", ".NET"]
+    "tags": [
+      "DDD",
+      "F#",
+      "Functional",
+      ".NET"
+    ]
   },
   {
     "name": "dubesar",
@@ -1491,7 +1619,7 @@
       "UI Developer",
       "HTML",
       "CSS",
-      "TailwindCSS"
+      "Tailwind CSS"
     ]
   },
   {
@@ -1524,7 +1652,7 @@
       "JavaScript",
       "Next.js",
       "APIs",
-      "Fullstack",
+      "Full Stack",
       "Cloud Infrastructure",
       "Software Architecture",
       "Serverless"
@@ -1542,7 +1670,7 @@
       "Beginners",
       "Web Development",
       "JavaScript",
-      "Front End",
+      "Frontend",
       "Productivity"
     ]
   },
@@ -1569,7 +1697,13 @@
     "description": "Senior Software Engineer, Multi Startup Founder, Building Projects in Public",
     "url": "https://kyleplatt.com",
     "twitter": "@Kyle__Platt",
-    "tags": ["Java", "Kotlin", "JavaScript", "Full Stack", "Startups"]
+    "tags": [
+      "Java",
+      "Kotlin",
+      "JavaScript",
+      "Full Stack",
+      "Startups"
+    ]
   },
   {
     "name": "Sunil Sandhu",
@@ -1583,7 +1717,7 @@
       "Web Development",
       "Vue",
       "React",
-      "Front End",
+      "Frontend",
       "Computer Science",
       "Algorithms",
       "Python"
@@ -1594,14 +1728,26 @@
     "description": "I’m an AWS Cloud Consultant who likes to build things in the Cloud. I write about my learnings on this Blog and on 'twitter'.",
     "url": "https://towardsthecloud.com/",
     "twitter": "@dannysteenman",
-    "tags": ["AWS", "Certification", "Cloud", "Infrastructure", "Python"]
+    "tags": [
+      "AWS",
+      "Certification",
+      "Cloud",
+      "Infrastructure",
+      "Python"
+    ]
   },
   {
     "name": "Work Remote",
     "description": "Discover 'Work Remote', where the brightest talent meets groundbreaking opportunities.",
     "url": "https://workremote.cc/blog/",
     "twitter": "@WorkRemoteCC",
-    "tags": ["Remote Work", "Web Development", "JavaScript", "CSS", "WordPress"]
+    "tags": [
+      "Remote Work",
+      "Web Development",
+      "JavaScript",
+      "CSS",
+      "WordPress"
+    ]
   },
   {
     "name": "Ayush Pawar",
@@ -1639,7 +1785,12 @@
     "description": "Helping Software Developers get a job with a 4 day working week",
     "url": "https://4dayweek.io/blog",
     "twitter": "@philostar",
-    "tags": ["Career", "Self-Development", "Tech", "Jobs"]
+    "tags": [
+      "Career",
+      "Self-Development",
+      "Tech",
+      "Jobs"
+    ]
   },
   {
     "name": "Sam Larsen-Disney",
@@ -1650,10 +1801,10 @@
       "JavaScript",
       "Gatsby",
       "SCSS",
-      "Front End",
+      "Frontend",
       "Web Development",
       "React",
-      "TailwindCSS",
+      "Tailwind CSS",
       "UX Design"
     ]
   },
@@ -1669,8 +1820,8 @@
       "React",
       "Next.js",
       "GraphQL",
-      "TailwindCSS",
-      "Front End",
+      "Tailwind CSS",
+      "Frontend",
       "HTML",
       "CSS"
     ]
@@ -1680,7 +1831,11 @@
     "description": "This blog covers a range of topics related to responsive web design, web development, and WordPress how-to guides.",
     "url": "https://cliowebsites.com/blog/",
     "twitter": "@natmiletic",
-    "tags": ["Web Design", "WordPress", "SEO"]
+    "tags": [
+      "Web Design",
+      "WordPress",
+      "SEO"
+    ]
   },
   {
     "name": "Alexander Lichter",
@@ -1690,7 +1845,7 @@
     "tags": [
       "Nuxt",
       "Vue",
-      "TailwindCSS",
+      "Tailwind CSS",
       "JavaScript",
       "Web Development",
       "SEO",
@@ -1706,11 +1861,11 @@
     "url": "https://nachoiacovino.com/blog",
     "twitter": "@nachoiacovino",
     "tags": [
-      "TailwindCSS",
+      "Tailwind CSS",
       "React",
       "Next.js",
       "Resources",
-      "Front End",
+      "Frontend",
       "JavaScript",
       "Web Development",
       "CSS",
@@ -1779,7 +1934,7 @@
       "DevOps",
       "SysOps",
       "Automation",
-      "Powershell",
+      "PowerShell",
       "Yaml",
       "ARM",
       "Bicep",
@@ -1827,7 +1982,7 @@
       "TypeScript",
       "Docker",
       "DevOps",
-      "Fullstack",
+      "Full Stack",
       "Software Engineering",
       "Programming",
       "Web Development",
@@ -1840,21 +1995,38 @@
     "description": "Chris writes every single day about web development snippets that will help you become a better developer. He focuses on frontend development, JavaScript, popular frameworks, and HTML and CSS.",
     "url": "https://daily-dev-tips.com/",
     "twitter": "@DailyDevTips1",
-    "tags": ["HTML", "JavaScript", "CSS", "Beginner", "Web Development"]
+    "tags": [
+      "HTML",
+      "JavaScript",
+      "CSS",
+      "Beginner",
+      "Web Development"
+    ]
   },
   {
     "name": "Tshiteej Bhardwaj",
     "description": "I love to write around Web Development, and related technologies.",
     "url": "https://www.tshiteej.com/blog",
     "twitter": "tshiteej",
-    "tags": ["JavaScript", "Python", "Web Development", "Automation"]
+    "tags": [
+      "JavaScript",
+      "Python",
+      "Web Development",
+      "Automation"
+    ]
   },
   {
     "name": "Victoria Lo",
     "description": "Victoria is a very curious developer. Her articles on blogging combine great programming skills with enjoyable and insightful technical articles.",
     "url": "https://lo-victoria.com",
     "twitter": "@lo_victoria2666",
-    "tags": ["HTML", "CSS", "JavaScript", "Web Development", "React"]
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Web Development",
+      "React"
+    ]
   },
   {
     "name": "Mr. Unity Buddy",
@@ -1863,7 +2035,7 @@
     "twitter": "@BuddyUnity",
     "tags": [
       "Python",
-      "Fullstack",
+      "Full Stack",
       "Software Engineering",
       "Programming",
       "Productivity",
@@ -1871,7 +2043,7 @@
       "Freelancing",
       "Career",
       "Self-taught",
-      "Front End"
+      "Frontend"
     ]
   },
   {
@@ -1879,14 +2051,24 @@
     "description": "I am a Front-end Developer passionate about developing and designing user friendly web applications.i write technical contents and articles.",
     "url": "https://abiolafarounbiblog.hashnode.dev/",
     "twitter": "@abiolaesther_",
-    "tags": ["HTML", "CSS", "JavaScript", "Web Development", "Front End"]
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Web Development",
+      "Frontend"
+    ]
   },
   {
     "name": "Aadhithyan Suresh",
     "description": "Why you should switch to ubuntu today.",
     "url": "https://aadhithyan.hashnode.dev/",
     "twitter": "@Aadhithyan_17",
-    "tags": ["Linux", "Ubuntu", "Faster Development"]
+    "tags": [
+      "Linux",
+      "Ubuntu",
+      "Faster Development"
+    ]
   },
   {
     "name": "Alba Silvente",
@@ -1894,10 +2076,10 @@
     "url": "https://dawntraoz.com/blog/",
     "twitter": "@dawntraoz",
     "tags": [
-      "Front End",
+      "Frontend",
       "HTML",
       "JavaScript",
-      "TailwindCSS",
+      "Tailwind CSS",
       "Vue",
       "Nuxt",
       "Storyblok",
@@ -1910,7 +2092,13 @@
     "description": "In this blog I post my observations and share experience related to frontend web development.",
     "url": "https://nikitahl.com",
     "twitter": "@nikita_hlopov",
-    "tags": ["HTML", "CSS", "JavaScript", "React", "Web Development"]
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Web Development"
+    ]
   },
   {
     "name": "Christoph Werner",
@@ -1922,7 +2110,7 @@
       "Software Architecture",
       "Cloud Infrastructure",
       "JavaScript",
-      "Front End",
+      "Frontend",
       "APIs",
       "GraphQL",
       "SaaS",
@@ -1952,7 +2140,14 @@
     "description": "Articles about Terraform, Kubernetes, Ansible, and Docker.",
     "url": "https://spacelift.io/blog",
     "twitter": "@spaceliftio",
-    "tags": ["Terraform", "Ansible", "Kubernetes", "Docker", "DevOps", "AWS"]
+    "tags": [
+      "Terraform",
+      "Ansible",
+      "Kubernetes",
+      "Docker",
+      "DevOps",
+      "AWS"
+    ]
   },
   {
     "name": "Sabe.io",
@@ -1982,7 +2177,7 @@
       "Azure",
       "Software Engineering",
       "Cloud Infrastructure",
-      "CSharp",
+      "C#",
       "MongoDB",
       "NoSQL",
       "Women In Tech"
@@ -2001,8 +2196,8 @@
       "Web Design",
       "11ty",
       "SSG",
-      "Front End",
-      "TailwindCSS",
+      "Frontend",
+      "Tailwind CSS",
       "Web Hosting"
     ]
   },
@@ -2030,10 +2225,10 @@
     "url": "https://labs.thisdot.co/blog",
     "twitter": "@ThisDotLabs",
     "tags": [
-      "Front End",
+      "Frontend",
       "JavaScript",
-      "ReactJS",
-      "VueJS",
+      "React",
+      "Vue",
       "Angular",
       "Web Development",
       "Tech",
@@ -2066,11 +2261,11 @@
     "url": "https://dev.to/margo_hdb",
     "twitter": "@margo_hdb",
     "tags": [
-      "databases",
+      "Databases",
       "data management",
-      "node.js",
-      "javascript",
-      "software development",
+      "Node.js",
+      "JavaScript",
+      "Software Development",
       "edge computing",
       "hybrid cloud",
       "Tech"
@@ -2098,14 +2293,14 @@
     "url": "https://www.wysr.xyz",
     "twitter": "@frozenfire42",
     "tags": [
-      "web3",
-      "crypto",
+      "Web3",
+      "Crypto",
       "physics",
       "math",
       "economics",
-      "product",
-      "solidity",
-      "productivity"
+      "Product",
+      "Solidity",
+      "Productivity"
     ]
   },
   {
@@ -2131,7 +2326,12 @@
     "description": "Articles about Christian tech trends and career advice for the Christian tech space.",
     "url": "https://www.christiantechjobs.io/blog",
     "twitter": "@ctj_io",
-    "tags": ["Career", "Self-Development", "Tech", "Jobs"]
+    "tags": [
+      "Career",
+      "Self-Development",
+      "Tech",
+      "Jobs"
+    ]
   },
   {
     "name": "Rocco Sangellino",
@@ -2146,7 +2346,7 @@
       "TypeScript",
       "Node.js",
       "Vue",
-      "Front End",
+      "Frontend",
       "Bootstrap",
       "Git"
     ]
@@ -2162,7 +2362,7 @@
       "JavaScript",
       "Web Development",
       "Node.js",
-      "Front End",
+      "Frontend",
       "Git",
       "Python",
       "Backend",
@@ -2195,7 +2395,7 @@
       "Windows",
       "Linux",
       "Backend",
-      "Fullstack",
+      "Full Stack",
       "HTML",
       "CSS"
     ]
@@ -2225,15 +2425,15 @@
     "twitter": "@thientsx",
     "tags": [
       "Notion",
-      "Nextjs",
+      "Next.js",
       "TypeScript",
       "Supabase",
-      "TailwindCSS",
+      "Tailwind CSS",
       "Github API",
       "Spotify",
       "HeadlessUI",
       "React",
-      "Fullstack"
+      "Full Stack"
     ]
   },
   {
@@ -2273,7 +2473,11 @@
     "name": "Goodness Ezeh",
     "description": "Software Developer | A selfless beneficiary of innovative technology, driven towards unlocking more of those benefits for our generation and the ones yet unborn",
     "url": "https://goodnessezeh.medium.com/",
-    "tags": ["Software Development", "Python", "Tech"]
+    "tags": [
+      "Software Development",
+      "Python",
+      "Tech"
+    ]
   },
   {
     "name": "Scott Spence",
@@ -2290,7 +2494,7 @@
       "Ubuntu",
       "SEO",
       "GatsbyJS",
-      "Front End"
+      "Frontend"
     ]
   },
   {
@@ -2305,7 +2509,7 @@
       "Node.js",
       "React",
       "Next.js",
-      "TailwindCSS",
+      "Tailwind CSS",
       "Productivity"
     ]
   },
@@ -2315,7 +2519,7 @@
     "url": "https://nilanth.hashnode.dev",
     "twitter": "@nilanth",
     "tags": [
-      "Front End",
+      "Frontend",
       "React",
       "Redux",
       "Laravel",
@@ -2337,7 +2541,7 @@
       "Cloud",
       "Azure",
       "Beginner",
-      "Devops",
+      "DevOps",
       "Cloud Infrastructure",
       "Machine Learning",
       "Git",
@@ -2350,7 +2554,10 @@
     "description": "WP Owls is a place created especially for WordPress fans. Every week you will find the latest news from the world of WordPress.",
     "url": "https://wpowls.co/articles/",
     "twitter": "@WP_Owls",
-    "tags": ["WordPress", "Web Development"]
+    "tags": [
+      "WordPress",
+      "Web Development"
+    ]
   },
   {
     "name": "Idris Olubisi",
@@ -2363,7 +2570,7 @@
       "JavaScript",
       "React",
       "Web Development",
-      "Front End",
+      "Frontend",
       "Backend",
       "Node.js",
       "TypeScript",
@@ -2381,7 +2588,7 @@
       "React",
       "React Native",
       "Expo",
-      "Front End",
+      "Frontend",
       "GraphQL",
       "TypeScript",
       "Gatsby"
@@ -2393,12 +2600,12 @@
     "url": "https://developeraspire.hashnode.dev/",
     "twitter": "@DeveloperAspire",
     "tags": [
-      "Golang",
-      "TailwindCSS",
+      "Go",
+      "Tailwind CSS",
       "Vue",
       "Node.js",
       "Web Development",
-      "Open source",
+      "Open Source",
       "JavaScript"
     ]
   },
@@ -2413,9 +2620,9 @@
       "React",
       "CSS",
       "HTML",
-      "Front End",
+      "Frontend",
       "TypeScript",
-      "TailwindCSS"
+      "Tailwind CSS"
     ]
   },
   {
@@ -2425,11 +2632,11 @@
     "twitter": "@rlangvad",
     "tags": [
       "JavaScript",
-      "Front End",
+      "Frontend",
       "Vue",
       "Nuxt",
       "Node.js",
-      "TailwindCSS",
+      "Tailwind CSS",
       "Web Development",
       "Storybook",
       "Design System",
@@ -2480,8 +2687,8 @@
       "CSS",
       "JavaScript",
       "Web Development",
-      "Front End",
-      "JAMstack",
+      "Frontend",
+      "Jamstack",
       "WordPress",
       "Freelancing"
     ]
@@ -2497,7 +2704,7 @@
       "C#",
       "Azure",
       "Umbraco",
-      "Powershell",
+      "PowerShell",
       "IIS"
     ]
   },
@@ -2520,7 +2727,7 @@
       "Software Engineering",
       "Software Engineer",
       "Project Management",
-      "Front End",
+      "Frontend",
       "CSS"
     ]
   },
@@ -2534,10 +2741,10 @@
       "Web Development",
       "HTML",
       "CSS",
-      "TailwindCSS",
+      "Tailwind CSS",
       "React",
       "Vue",
-      "Front End",
+      "Frontend",
       "Freelancing",
       "Career"
     ]
@@ -2551,7 +2758,7 @@
       "JavaScript",
       "HTML",
       "CSS",
-      "Front End",
+      "Frontend",
       "Web Development",
       "React",
       "React Native",
@@ -2564,10 +2771,10 @@
     "url": "https://saadahmadhere.medium.com/",
     "twitter": "@imsaadahmad",
     "tags": [
-      "Github",
+      "GitHub",
       "API",
       "Mongoose",
-      "Express",
+      "Express.js",
       "Node.js",
       "Hyper terminal"
     ]
@@ -2585,7 +2792,7 @@
       "Angular",
       "React",
       "Node.js",
-      "Front End"
+      "Frontend"
     ]
   },
   {
@@ -2602,7 +2809,7 @@
       "HTML",
       "CSS",
       "TypeScript",
-      "Front End",
+      "Frontend",
       "Tech",
       "Programming",
       "SEO"
@@ -2633,13 +2840,13 @@
     "tags": [
       "JavaScript",
       "React",
-      "Front End",
+      "Frontend",
       "Node.js",
       "TypeScript",
-      "TailwindCSS",
+      "Tailwind CSS",
       "Next.js",
       "AWS",
-      "Fullstack",
+      "Full Stack",
       "Jamstack"
     ]
   },
@@ -2666,14 +2873,14 @@
     "url": "https://dillionmegida.com/blog",
     "twitter": "@iamdillion",
     "tags": [
-      "Front End",
+      "Frontend",
       "JavaScript",
-      "ReactJS",
-      "NextJS",
+      "React",
+      "Next.js",
       "GatsbyJS",
       "Web Development",
       "Tech",
-      "Node.JS",
+      "Node.js",
       "CSS",
       "TypeScript"
     ]
@@ -2686,7 +2893,7 @@
     "tags": [
       "HTML",
       "CSS",
-      "Tailwindcss",
+      "Tailwind CSS",
       "JavaScript",
       "React",
       "Node.js",
@@ -2762,7 +2969,7 @@
       "Docker",
       "Linux",
       "Kubernetes",
-      "Golang",
+      "Go",
       "Terraform"
     ]
   },
@@ -2771,7 +2978,14 @@
     "description": "Full-stack developer writing about my favorite tech stack.",
     "url": "https://baspa.dev",
     "twitter": "@baspa_dev",
-    "tags": ["PHP", "Laravel", "Open Source", "React", "Vue", "SaaS"]
+    "tags": [
+      "PHP",
+      "Laravel",
+      "Open Source",
+      "React",
+      "Vue",
+      "SaaS"
+    ]
   },
   {
     "name": "Alfred Danda",
@@ -2843,7 +3057,7 @@
       "Web Development",
       "Backend",
       "Git",
-      "Front End",
+      "Frontend",
       "React",
       "JavaScript",
       "APIs",
@@ -2892,8 +3106,8 @@
       "Observability",
       "Monitoring",
       "C",
-      "Golang",
-      "NOSQL",
+      "Go",
+      "NoSQL",
       "Redis"
     ]
   },
@@ -2905,7 +3119,7 @@
     "tags": [
       "AWS",
       "Databases",
-      "Infrastructure As Code",
+      "Infrastructure as Code",
       "Cloud Cost Optimization",
       "Database at Scale"
     ]
@@ -2925,7 +3139,7 @@
       "Python",
       "GraphQL",
       "AWS",
-      "Fullstack"
+      "Full Stack"
     ]
   },
   {
@@ -2940,10 +3154,10 @@
       "Node.js",
       "GraphQL",
       "MongoDB",
-      "Tailwind",
+      "Tailwind CSS",
       "Productivity",
       "Linux",
-      "VIM"
+      "Vim"
     ]
   },
   {
@@ -2964,8 +3178,8 @@
       "Automation",
       "Google Apps Script",
       "JavaScript",
-      "Front End",
-      "Fullstack",
+      "Frontend",
+      "Full Stack",
       "Freelancing",
       "Career",
       "Software Development"
@@ -2983,7 +3197,7 @@
       "Career",
       "Git",
       "JavaScript",
-      "Front End",
+      "Frontend",
       "Gaming",
       "Blender",
       "Unreal"
@@ -2994,7 +3208,13 @@
     "description": "Full Stack developer, focusing on Angular and Node",
     "url": "https://www.prestonlamb.com/blog",
     "twitter": "prestonjlamb",
-    "tags": ["Angular", "JavaScript", "Node.js", "Nest.js", "Web Development"]
+    "tags": [
+      "Angular",
+      "JavaScript",
+      "Node.js",
+      "Nest.js",
+      "Web Development"
+    ]
   },
   {
     "name": "Priya Pareek",
@@ -3002,7 +3222,7 @@
     "url": "https://techsavvypriya.wordpress.com/",
     "twitter": "iampriyapareek",
     "tags": [
-      "Front End",
+      "Frontend",
       "Git",
       "Angular",
       "Self-Development",
@@ -3019,7 +3239,13 @@
     "description": "This blog combines topics that are important to us, our news and informative tutorials around technology and software.",
     "url": "https://blog.bitexpert.de/blog",
     "twitter": "@bitexpert",
-    "tags": ["PHP", "Magento", "Java", "React", "DevOps"]
+    "tags": [
+      "PHP",
+      "Magento",
+      "Java",
+      "React",
+      "DevOps"
+    ]
   },
   {
     "name": "Renan Moura",
@@ -3043,14 +3269,23 @@
     "description": "A Computer Science Engineer who loves Blogging and Sharing Content",
     "url": "https://bharadwaj.hashnode.dev/",
     "twitter": "@Bharadwaj6262",
-    "tags": ["Python", "Flutter", "Web Development", "Computer Science"]
+    "tags": [
+      "Python",
+      "Flutter",
+      "Web Development",
+      "Computer Science"
+    ]
   },
   {
     "name": "Alex Lakatos",
     "description": "Reformed JavaScript person. Tech Lead by day, Developer Avocado 🥑 by night.",
     "url": "https://alexlakatos.com/",
     "twitter": "@lakatos88",
-    "tags": ["JavaScript", "DevTools", "DevRel"]
+    "tags": [
+      "JavaScript",
+      "DevTools",
+      "DevRel"
+    ]
   },
   {
     "name": "Adithya",
@@ -3063,7 +3298,7 @@
       "Backend",
       "Full Stack",
       "Elasticsearch",
-      "Tailwind"
+      "Tailwind CSS"
     ]
   },
   {
@@ -3086,7 +3321,7 @@
       "Tailwind CSS",
       "Bootstrap",
       "Docker",
-      "OpenSource",
+      "Open Source",
       "Freelancing"
     ]
   },
@@ -3095,7 +3330,14 @@
     "description": "Frontend Developer and Team Leader",
     "url": "https://krzysztofzuraw.com",
     "twitter": "@krzysztof_zuraw",
-    "tags": ["TypeScript", "React", "HTML", "CSS", "Frontend", "JavaScript"]
+    "tags": [
+      "TypeScript",
+      "React",
+      "HTML",
+      "CSS",
+      "Frontend",
+      "JavaScript"
+    ]
   },
   {
     "name": "Bogdan Alexandru Militaru",
@@ -3103,14 +3345,14 @@
     "url": "https://whyboobo.com/",
     "twitter": "@militaru_bogdan",
     "tags": [
-      "programming",
+      "Programming",
       "APIs",
-      "backend",
-      "frontend",
+      "Backend",
+      "Frontend",
       "JavaScript",
-      "Nodejs",
-      "Vuejs",
-      "devops"
+      "Node.js",
+      "Vue",
+      "DevOps"
     ]
   },
   {
@@ -3118,7 +3360,12 @@
     "description": "Writing about everything related to the Cloud | powered by Cloud architects",
     "url": "https://www.brainboard.co",
     "twitter": "@brainboard_co",
-    "tags": ["devops", "cloud", "terraform", "cloud native"]
+    "tags": [
+      "DevOps",
+      "Cloud",
+      "Terraform",
+      "Cloud Native"
+    ]
   },
   {
     "name": "Franklin Ohaegbulam",
@@ -3146,10 +3393,10 @@
       "CSS",
       "JavaScript",
       "React",
-      "Front End",
+      "Frontend",
       "Backend",
       "Docker",
-      "Nodejs",
+      "Node.js",
       "Blogging",
       "Tech"
     ]
@@ -3192,7 +3439,14 @@
     "description": "Software developer living in Bordeaux, France ⋅ Working mainly in C# / .NET on Azure ⋅ Love discovering new tools and technologies",
     "url": "https://www.techwatching.dev/",
     "twitter": "@TechWatching",
-    "tags": ["C#", ".NET", "Azure", "Cloud", "Software Development", "DevOps"]
+    "tags": [
+      "C#",
+      ".NET",
+      "Azure",
+      "Cloud",
+      "Software Development",
+      "DevOps"
+    ]
   },
   {
     "name": "Tapas Adhikary(GreenRoots Blog)",
@@ -3223,7 +3477,7 @@
       "Git",
       "GitHub",
       "VsCode",
-      "Front End",
+      "Frontend",
       "Web Development",
       "Self-Development"
     ]
@@ -3239,11 +3493,11 @@
       "JavaScript",
       "React",
       "BehindTheScenes",
-      "WebDev",
+      "Web Dev",
       "Tech",
       "Programming",
       "Web Development",
-      "Front End",
+      "Frontend",
       "Git"
     ]
   },
@@ -3257,7 +3511,7 @@
       "CSS",
       "TypeScript",
       "React",
-      "Front End",
+      "Frontend",
       "GitHub",
       "Web Development",
       "Svelte",
@@ -3302,7 +3556,7 @@
   },
   {
     "name": "Vipul Soni",
-    "description": "Full Stack Web Developer.Write blogs about Web Developement",
+    "description": "Full Stack Web Developer.Write blogs about Web Development",
     "url": "https://medium.com/@vipulsoniab17_40156",
     "twitter": "@Vipulso06279659",
     "tags": [
@@ -3312,9 +3566,9 @@
       "JavaScript",
       "Web Development",
       "MongoDB",
-      "Express",
+      "Express.js",
       "Node",
-      "TailwindCSS"
+      "Tailwind CSS"
     ]
   },
   {
@@ -3374,9 +3628,9 @@
       "HTML",
       "CSS",
       "Next.js",
-      "Tailwind",
-      "TailwindCSS",
-      "Front End",
+      "Tailwind CSS",
+      "Tailwind CSS",
+      "Frontend",
       "Content Creation",
       "JavaScript",
       "Tech",
@@ -3390,10 +3644,10 @@
     "url": "https://www.enginarslan.com/posts",
     "twitter": "@inspiratory",
     "tags": [
-      "Software engineering",
-      "Software engineer",
-      "Web development",
-      "Javascript"
+      "Software Engineering",
+      "Software Engineer",
+      "Web Development",
+      "JavaScript"
     ]
   },
   {
@@ -3401,7 +3655,11 @@
     "description": "Learn to code awesome stuff like web applications, 3D graphics, animations, games, scrapers, artificial intelligence, VR, AR in a beginner-friendly way.    ",
     "url": "https://awesomecoding.co/blog",
     "twitter": "@inspiratory",
-    "tags": ["Javascript", "Node.js", "Web Development"]
+    "tags": [
+      "JavaScript",
+      "Node.js",
+      "Web Development"
+    ]
   },
   {
     "name": "Prémices Kamasuwa",
@@ -3414,7 +3672,7 @@
       "Angular",
       "Software Architecture",
       "Python",
-      "GoLang",
+      "Go",
       "Tech",
       "Programming",
       "Web Development"
@@ -3445,11 +3703,11 @@
     "tags": [
       "React",
       "JavaScript",
-      "Open source",
+      "Open Source",
       "TypeScript",
       "Next.js",
       "CSS",
-      "Fullstack",
+      "Full Stack",
       "Software Engineering"
     ]
   },
@@ -3458,14 +3716,25 @@
     "description": "Python news, beginner to advanced tutorials, interviews and more",
     "url": "https://www.blog.pythonlibrary.org/",
     "twitter": "@driscollis",
-    "tags": ["Python", "Programming", "Backend", "Front end"]
+    "tags": [
+      "Python",
+      "Programming",
+      "Backend",
+      "Frontend"
+    ]
   },
   {
     "name": "Seth Michael Larson",
     "description": "Articles about Python, API design, open source, and internet technologies.",
     "url": "https://sethmlarson.dev/blog",
     "twitter": "@sethmlarson",
-    "tags": ["Open Source", "Python", "HTTP", "APIs", "Internet"]
+    "tags": [
+      "Open Source",
+      "Python",
+      "HTTP",
+      "APIs",
+      "Internet"
+    ]
   },
   {
     "name": "Helmer Davila",
@@ -3489,7 +3758,12 @@
     "description": "A custom search engine for WordPress and web developers",
     "url": "https://wpuniverse.online",
     "twitter": "@wuniverse_site",
-    "tags": ["PHP", "JavaScript", "CSS", "WordPress"]
+    "tags": [
+      "PHP",
+      "JavaScript",
+      "CSS",
+      "WordPress"
+    ]
   },
   {
     "name": "Pritam Bera",
@@ -3501,7 +3775,7 @@
       "SCSS",
       "JavaScript",
       "Linux",
-      "BootStrap",
+      "Bootstrap",
       "React",
       "Node",
       "Tech"
@@ -3512,7 +3786,12 @@
     "description": "Articles mostly about Web Development, JavaScript, and tech",
     "url": "https://jakub.jankiewicz.org/blog/",
     "twitter": "@jcubic",
-    "tags": ["JavaScript", "CSS", "Front-End", "Web Development"]
+    "tags": [
+      "JavaScript",
+      "CSS",
+      "Frontend",
+      "Web Development"
+    ]
   },
   {
     "name": "Madza",
@@ -3524,7 +3803,7 @@
       "CSS",
       "TypeScript",
       "React",
-      "Front End",
+      "Frontend",
       "GitHub",
       "Web Development",
       "Career",
@@ -3545,7 +3824,7 @@
       "TypeScript",
       "Web Development",
       "SaaS",
-      "JAMStack",
+      "Jamstack",
       "Next.js",
       "Serverless"
     ]
@@ -3572,7 +3851,11 @@
     "name": "Stefan Baumgartner",
     "url": "https://fettblog.eu/articles/",
     "twitter": "@ddprrt",
-    "tags": ["TypeScript", "Rust", "React"]
+    "tags": [
+      "TypeScript",
+      "Rust",
+      "React"
+    ]
   },
   {
     "name": "Stack Diary",
@@ -3592,14 +3875,28 @@
     "description": "Ежедневно публикуем самые полезные сервисы и приложения для мобильных ОС, Windows, Mac. Поручи программе то, что не хочешь делать сам.",
     "url": "https://blog.themarfa.name/",
     "twitter": "@themarfa",
-    "tags": ["Windows", "Mac", "Android", "IOS", "apps", "software"]
+    "tags": [
+      "Windows",
+      "Mac",
+      "Android",
+      "iOS",
+      "apps",
+      "software"
+    ]
   },
   {
     "name": "All-in-One Person (EN)",
     "description": "We find and share most useful apps and services for your lazy existence.",
     "url": "https://en.blog.themarfa.name/",
     "twitter": "themarfaen",
-    "tags": ["Windows", "Mac", "Android", "IOS", "apps", "software"]
+    "tags": [
+      "Windows",
+      "Mac",
+      "Android",
+      "iOS",
+      "apps",
+      "software"
+    ]
   },
   {
     "name": "Deckrun",
@@ -3624,14 +3921,27 @@
     "description": "Web development, sharing resources, content writing, and open source contributor",
     "url": "https://vasantisuthar.hashnode.dev/",
     "twitter": "@vasanti_suthar",
-    "tags": ["JavaScript", "Node.js", "React", "Database", "Linux", "DevOps"]
+    "tags": [
+      "JavaScript",
+      "Node.js",
+      "React",
+      "Database",
+      "Linux",
+      "DevOps"
+    ]
   },
   {
     "name": "TestingBot",
     "description": "Learn about Selenium, Appium, Puppeteer and Playwright.",
     "url": "https://testingbot.com/blog",
     "twitter": "@testingb0t",
-    "tags": ["Testing", "Automation", "Puppeteer", "Playwright", "Selenium"]
+    "tags": [
+      "Testing",
+      "Automation",
+      "Puppeteer",
+      "Playwright",
+      "Selenium"
+    ]
   },
   {
     "name": "aiherrera",
@@ -3659,7 +3969,7 @@
     "tags": [
       "AWS",
       "Serverless",
-      "NodeJS",
+      "Node.js",
       "Python",
       "JavaScript",
       "React",
@@ -3689,28 +3999,49 @@
     "description": "A Passionate Software Developer Loves to share experience through articles and blogs and this thing motivates me to explore more in this technological era",
     "url": "https://medium.com/@amanpanjavani111",
     "twitter": "@aman_p17",
-    "tags": ["HTML", "CSS", ".NET", "JavaScript", "OOPs", "Backend"]
+    "tags": [
+      "HTML",
+      "CSS",
+      ".NET",
+      "JavaScript",
+      "OOPs",
+      "Backend"
+    ]
   },
   {
     "name": "Alka Gupta",
     "description": "Amazing tech blogs from an amazing tech enthusiast 😉",
     "url": "https://hashnode.com/@alkagupta",
     "twitter": "@alkaaaaa10",
-    "tags": ["GitHub", "Open Source", "Development"]
+    "tags": [
+      "GitHub",
+      "Open Source",
+      "Development"
+    ]
   },
   {
     "name": "John Paul Hernandez",
     "description": "Resources for writing, content creation, storytelling.",
     "url": "https://johnpaulhernandez.com/myblog/",
     "twitter": "@helloJohnPaul",
-    "tags": ["Content Creation", "Freelancing", "Self-Development"]
+    "tags": [
+      "Content Creation",
+      "Freelancing",
+      "Self-Development"
+    ]
   },
   {
     "name": "Namya LG",
     "description": "Various experiences and learnings in the field of full-stack and machine learning",
     "url": "https://namyalg.medium.com/",
     "twitter": "@namya06333884",
-    "tags": ["Devops", "CI/CD", "Getting Started", "Experiences", "Tutorial"]
+    "tags": [
+      "DevOps",
+      "CI/CD",
+      "Getting Started",
+      "Experiences",
+      "Tutorial"
+    ]
   },
   {
     "name": "Webiny CMS",
@@ -3740,7 +4071,7 @@
       "TypeScript",
       "JavaScript",
       "React",
-      "Front End",
+      "Frontend",
       "Frontend System Design",
       "Web Development"
     ]
@@ -3758,7 +4089,7 @@
       "Python",
       "CSS",
       "HTML",
-      "Front End"
+      "Frontend"
     ]
   },
   {
@@ -3780,7 +4111,12 @@
     "description": "Robot Operating System Version 2",
     "url": "https://rosindustrial.org/news",
     "twitter": "@RodFFHH",
-    "tags": ["ROS2", "Robots", "Middleware", "DDS"]
+    "tags": [
+      "ROS2",
+      "Robots",
+      "Middleware",
+      "DDS"
+    ]
   },
   {
     "name": "Tôi là Duyệt",
@@ -3805,7 +4141,7 @@
       "Java",
       "Laravel",
       "Backend",
-      "Golang",
+      "Go",
       "HTML",
       "CSS",
       "JavaScript",
@@ -3858,14 +4194,14 @@
     "tags": [
       "Backend",
       "Sotware development",
-      "Software engineering",
+      "Software Engineering",
       "PHP",
       "Node.js",
       "Python",
       "JavaScript",
       "TypeScript",
       "Tech",
-      "Software engineer"
+      "Software Engineer"
     ]
   },
   {
@@ -3889,14 +4225,14 @@
     "url": "https://andrejgajdos.com/blog",
     "twitter": "@Andrej_Gajdos",
     "tags": [
-      "Software engineering",
+      "Software Engineering",
       "JavaScript",
       "React",
       "Web Development",
       "CSS",
       "HTML",
       "TypeScript",
-      "Front End",
+      "Frontend",
       "Node.js",
       "Next.js"
     ]
@@ -3906,7 +4242,10 @@
     "description": "Freelance web developer passionate about the TALL stack.",
     "url": "https://benjamincrozat.com",
     "twitter": "@benjamincrozat",
-    "tags": ["PHP", "Laravel"]
+    "tags": [
+      "PHP",
+      "Laravel"
+    ]
   },
   {
     "name": "Ajxs",
@@ -3925,14 +4264,23 @@
     "description": "Senior Software Engineer and Bootstrapper",
     "url": "https://mahdix.com",
     "twitter": "@mahdix",
-    "tags": ["Java", "SaaS", "Kotlin", "Linux"]
+    "tags": [
+      "Java",
+      "SaaS",
+      "Kotlin",
+      "Linux"
+    ]
   },
   {
     "name": "Harrison Broadbent",
     "description": "Writing about web development & SaaS.",
     "url": "https://harrisonbroadbent.com/blog",
     "twitter": "@hrrsnbbnt",
-    "tags": ["SaaS", "Tailwind CSS", "Web Development"]
+    "tags": [
+      "SaaS",
+      "Tailwind CSS",
+      "Web Development"
+    ]
   },
   {
     "name": "Manthan Ank",
@@ -3945,8 +4293,8 @@
       "JavaScript",
       "Angular",
       "Web Development",
-      "Nodejs",
-      "Expressjs",
+      "Node.js",
+      "Express.js",
       "MongoDB",
       "Firebase"
     ]
@@ -3987,7 +4335,14 @@
     "name": "Marco G",
     "description": "Tech and Thoughts - personal tech blog.",
     "url": "https://solariz.de",
-    "tags": ["DevOps", "Infrastructure", "Linux", "Hardware", "Networks", "Tech"]
+    "tags": [
+      "DevOps",
+      "Infrastructure",
+      "Linux",
+      "Hardware",
+      "Networks",
+      "Tech"
+    ]
   },
   {
     "name": "Omer Karabacak",
@@ -4026,7 +4381,7 @@
     "url": "https://jpaul.me",
     "twitter": "@recklessop",
     "tags": [
-      "docker",
+      "Docker",
       "VMware",
       "Python",
       "PowerShell",
