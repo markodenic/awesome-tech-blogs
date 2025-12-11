@@ -2276,21 +2276,6 @@
     "tags": ["Software Development", "Python", "Tech"]
   },
   {
-    "name": "Harris Geo",
-    "description": "Software engineer blogging about full stack and career topics",
-    "url": "https://harrisgeo.me",
-    "twitter": "@harrisgeo88",
-    "tags": [
-      "Web Development",
-      "JavaScript",
-      "TypeScript",
-      "React",
-      "Node.js",
-      "Testing",
-      "Career"
-    ]
-  },
-  {
     "name": "Scott Spence",
     "description": "A detailed account of what Scott Spence is about. Currently learning TypeScript, Unit testing with React testing library with Jest and end to end testing with Cypress.",
     "url": "https://scottspence.com",
