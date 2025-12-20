@@ -4032,5 +4032,21 @@
       "Tech",
       "Content Creation"
     ]
+  },
+  {
+    "name": "Hrishikesh Barua",
+    "description": "I write about interesting topics in Cloud/Ops/SRE and how to get better if you work in these fields.",
+    "url": "https://techops.substack.com/",
+    "twitter": "@talonx",
+    "linkedin": "hrishikeshbarua",
+    "tags": [
+      "TechOps",
+      "DevOps",
+      "Site Reliability Engineering",
+      "Cloud Computing",
+      "Computer Networking",
+      "Communication",
+      "Career Advice"
+    ]
   }
 ]
