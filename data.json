@@ -403,6 +403,13 @@
     ]
   },
   {
+    "name": "SocialRails",
+    "description": "Create content, post everywhere.",
+    "url": "https://socialrails.com/blog",
+    "twitter": "@socialrails",
+    "tags": ["Social Media", "Content Marketing", "Scheduling", "Content Creation", "Marketing"],
+  },
+  {
     "name": "Vivek",
     "description": "Awesome JavaScript Libraries and developer resources",
     "url": "https://vivekon.hashnode.dev/",
