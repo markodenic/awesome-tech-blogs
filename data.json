@@ -1,5 +1,12 @@
 [
   {
+    "name": "Jon C. Phillips",
+    "description": "Writing about web development, building products, startups, and open source",
+    "url": "https://joncphillips.com",
+    "twitter": "@joncphillips",
+    "tags": ["Web Development", "Startups", "UX"]
+  },
+  {
     "name": "Learn Computer Academy",
     "description": "Web Design & Computer Training Center in Habra",
     "url": "https://learncomputer.in/blog/",
