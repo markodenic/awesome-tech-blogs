@@ -3,6 +3,8 @@
     href="https://github.com/markodenic/awesome-tech-blogs"
     class="github-corner"
     aria-label="View source on GitHub"
+    target="_blank"
+    rel="noopener"
   >
     <svg
       width="80"
@@ -26,10 +28,12 @@
     </svg>
   </a>
 </template>
-<style lang="less">
+
+<style scoped>
 .github-corner:hover .octo-arm {
   animation: octocat-wave 560ms ease-in-out;
 }
+
 @keyframes octocat-wave {
   0%,
   100% {
@@ -44,6 +48,7 @@
     transform: rotate(10deg);
   }
 }
+
 @media (max-width: 500px) {
   .github-corner:hover .octo-arm {
     animation: none;
