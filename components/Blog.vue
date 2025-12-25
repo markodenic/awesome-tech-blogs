@@ -81,24 +81,31 @@ export default {
     },
     activeTag: {
       type: String,
-      required: true,
+      required: true
     }
   },
 
-  data () {
-    return {
-      domain: '',
-      favIcon: '',
-      path: '',
+  computed: {
+    domain() {
+      try {
+        return new URL(this.blog.url).host
+      } catch {
+        return ''
+      }
+    },
+    path() {
+      try {
+        const url = new URL(this.blog.url)
+        return this.domain + url.pathname.replace(/\/$/, '')
+      } catch {
+        return this.domain
+      }
+    },
+    favIcon() {
+      if (!this.domain) return ''
+      const website = `https://unavatar.io/${this.domain}`
+      return `https://images.weserv.nl/?url=${website}&w=100&l=9&af&il&n=-1`
     }
-  },
-
-  mounted () {
-    const url = new URL(this.blog.url);
-    const domain = url.host;
-    this.path = domain + url.pathname.replace(/\/$/, '');
-    const website = `https://unavatar.io/${domain}`;
-    this.favIcon = `https://images.weserv.nl/?url=${website}&w=100&l=9&af&il&n=-1`;
   }
 }
 </script>

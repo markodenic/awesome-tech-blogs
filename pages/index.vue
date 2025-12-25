@@ -14,18 +14,13 @@
 </template>
 
 <script>
-import blogs from '../data.json';
+import blogs from '~/data.json'
 
 export default {
-  data () {
-    return {
-      total: 0,
+  computed: {
+    total () {
+      return blogs.length
     }
-  },
-
-  created () {
-    this.total = blogs.length;
-  },
+  }
 }
 </script>
-
