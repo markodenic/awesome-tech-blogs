@@ -14,7 +14,6 @@ export default {
     error: {
       type: Object,
       required: true,
-      default: () => ({ statusCode: 500, message: 'An unexpected error occurred.' })
     }
   }
 }
