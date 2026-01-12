@@ -3,7 +3,7 @@
     <TheHeader />
 
     <main>
-      <Nuxt />
+      <slot />
     </main>
 
     <TheFooter />
