@@ -2,7 +2,10 @@
 export default defineNuxtConfig({
   ssr: false,
   nitro: {
-    preset: 'static'
+    preset: 'static',
+    output: {
+      publicDir: 'dist'
+    }
   },
   compatibilityDate: '2024-04-03',
   devtools: { enabled: true },
