@@ -111,6 +111,9 @@ html {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
     gap: 2rem;
+    @media (max-width: 600px) {
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    }
   }
   .blog {
     border-radius: 5px;
