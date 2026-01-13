@@ -28,7 +28,7 @@
       <ul class="blog-tags">
         <li
           class="tag tag--small"
-          :class="{ 'tag--active': activeTag === tag }"
+          :class="{ 'tag--active': activeTag === slugify(tag) }"
           v-for="(tag, index) in blog.tags"
           :key="index"
         >
@@ -73,6 +73,17 @@
 </template>
 
 <script>
+function slugify(text) {
+  return text
+    .toString()
+    .toLowerCase()
+    .trim()
+    .replace(/\s+/g, '-')
+    .replace(/&/g, '-and-')
+    .replace(/[^\w\-]+/g, '')
+    .replace(/\-\-+/g, '-')
+}
+
 export default {
   props: {
     blog: {
@@ -83,6 +94,10 @@ export default {
       type: String,
       required: true
     }
+  },
+
+  methods: {
+    slugify
   },
 
   computed: {
