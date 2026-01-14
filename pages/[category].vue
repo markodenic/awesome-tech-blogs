@@ -19,7 +19,13 @@ export default {
           .map(word => word.charAt(0).toUpperCase() + word.slice(1))
           .join(' ')
         return `${categoryName} - Awesome Tech Blogs`
-      })
+      }),
+      link: [
+        {
+          rel: 'canonical',
+          href: computed(() => `https://tech-blogs.dev/${category.value}`)
+        }
+      ]
     })
 
     return {
