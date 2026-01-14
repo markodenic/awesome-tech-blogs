@@ -7,9 +7,23 @@ import BlogList from '~/components/BlogList.vue'
 
 export default {
   components: { BlogList },
-  computed: {
-    category() {
-      return this.$route.params.category
+  setup() {
+    const route = useRoute()
+    const category = computed(() => route.params.category)
+
+    useHead({
+      title: computed(() => {
+        if (!category.value) return 'Awesome Tech Blogs'
+        const categoryName = category.value
+          .split('-')
+          .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+          .join(' ')
+        return `${categoryName} - Awesome Tech Blogs`
+      })
+    })
+
+    return {
+      category
     }
   }
 }
