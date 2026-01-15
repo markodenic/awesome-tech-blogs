@@ -4,12 +4,33 @@
 
 <script>
 import BlogList from '~/components/BlogList.vue'
+import blogs from '~/data.json'
+
+function slugify(text) {
+  return text
+    .toString()
+    .toLowerCase()
+    .trim()
+    .replace(/\s+/g, '-')
+    .replace(/&/g, '-and-')
+    .replace(/[^\w\-]+/g, '')
+    .replace(/\-\-+/g, '-')
+}
 
 export default {
   components: { BlogList },
   setup() {
     const route = useRoute()
     const category = computed(() => route.params.category)
+
+    const allTags = new Set()
+    blogs.forEach(blog => {
+      blog.tags.forEach(tag => allTags.add(slugify(tag)))
+    })
+
+    if (!allTags.has(category.value)) {
+      throw createError({ statusCode: 404, statusMessage: 'Page Not Found' })
+    }
 
     useHead({
       title: computed(() => {
