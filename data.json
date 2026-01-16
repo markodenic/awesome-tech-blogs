@@ -110,6 +110,17 @@
     ]
   },
   {
+    "name": "HMPL Blog",
+    "description": "Blog features comprehensive tutorials, practical guides, and real-world examples to help you master HMPL.",
+    "url": "https://blog.hmpl-lang.dev",
+    "twitter": "@hmpljs",
+    "tags": [
+      "HTML",
+      "JavaScript",
+      "Web Development"
+    ]
+  },
+  {
     "name": "Don't Break Prod",
     "description": "Bite-sized pieces of career advice for software engineers.",
     "url": "https://dontbreakprod.com/",
