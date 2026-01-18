@@ -7,27 +7,6 @@
     "tags": ["Web Development", "Startups", "UX"]
   },
   {
-    "name": "Learn Computer Academy",
-    "description": "Web Design & Computer Training Center in Habra",
-    "url": "https://learncomputer.in/blog/",
-    "twitter": "@welearncomputer",
-    "tags": [
-      "Web Design",
-      "Web Development",
-      "Full Stack",
-      "MERN Stack",
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "PHP",
-      "MySQL",
-      "WordPress",
-      "Python",
-      "Node.js",
-      "React"
-    ]
-  },
-  {
     "name": "Abhijit Sarode",
     "description": "At the intersection of Fullstack, Competitive Programming & Mathematics",
     "url": "https://abhijitsarode.hashnode.dev",
@@ -1902,23 +1881,6 @@
     "url": "https://aadhithyan.hashnode.dev/",
     "twitter": "@Aadhithyan_17",
     "tags": ["Linux", "Ubuntu", "Faster Development"]
-  },
-  {
-    "name": "Alba Silvente",
-    "description": "Front End developer and ambassador at Nuxt & Storyblok!. Blogging about Front End and working hard on the open-source to create more value for the web community. 🦸",
-    "url": "https://dawntraoz.com/blog/",
-    "twitter": "@dawntraoz",
-    "tags": [
-      "Frontend",
-      "HTML",
-      "JavaScript",
-      "Tailwind CSS",
-      "Vue",
-      "Nuxt",
-      "Storyblok",
-      "PWA",
-      "Static Sites"
-    ]
   },
   {
     "name": "Nikita Hlopov",
