@@ -4025,5 +4025,18 @@
       "Communication",
       "Career Advice"
     ]
+  },
+  {
+    "name": "hovanhoa",
+    "description": software engineer | golang enthusiasts",
+    "url": "https://hovanhoa.net",
+    "twitter": "@_hovanhoa_",
+    "linkedin": "hovanhoa",
+    "tags": [
+      "Tech",
+      "Golang",
+      "Python",
+      "Backend"
+    ]
   }
 ]
