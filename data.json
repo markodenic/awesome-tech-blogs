@@ -1,24 +1,5 @@
 [
   {
-    "name": "Tech Art Aid",
-    "description": "Real-time graphics: shaders, procedural generation, optimization, technical artist career",
-    "url": "https://techartaid.com",
-    "twitter": "@techartaid",
-    "linkedin": "@oswierad",
-    "tags": [
-      "Technical Art",
-      "Career",
-      "Unreal Engine", 
-      "Game Development",
-      "Rendering",
-      "Graphics Programming",
-      "Performance Optimization",
-      "Shaders",
-      "Procedural Generation",
-      "Computer Graphics"
-    ]
-  },
-  {
     "name": "Jon C. Phillips",
     "description": "Writing about web development, building products, startups, and open source",
     "url": "https://joncphillips.com",
@@ -387,6 +368,25 @@
     "url": "https://roopesh.hashnode.dev",
     "twitter": "@roopeshsn",
     "tags": ["CS", "OSS", "Web Development", "JavaScript", "Linux", "DevOps"]
+  },
+  {
+    "name": "Tech Art Aid",
+    "description": "Real-time graphics: shaders, procedural generation, optimization, technical artist career",
+    "url": "https://techartaid.com",
+    "twitter": "@techartaid",
+    "linkedin": "@oswierad",
+    "tags": [
+      "Tech Art",
+      "Career",
+      "Unreal Engine", 
+      "Game Development",
+      "Rendering",
+      "Graphics Programming",
+      "Performance Optimization",
+      "Shaders",
+      "Procedural Generation",
+      "Computer Graphics"
+    ]
   },
   {
     "name": "Hristo Iliev",
