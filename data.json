@@ -370,6 +370,25 @@
     "tags": ["CS", "OSS", "Web Development", "JavaScript", "Linux", "DevOps"]
   },
   {
+    "name": "Tech Art Aid",
+    "description": "Real-time graphics: shaders, procedural generation, optimization, technical artist career",
+    "url": "https://techartaid.com",
+    "twitter": "@techartaid",
+    "linkedin": "oswierad",
+    "tags": [
+      "Tech Art",
+      "Career",
+      "Unreal Engine", 
+      "Game Development",
+      "Rendering",
+      "Graphics Programming",
+      "Performance Optimization",
+      "Shaders",
+      "Procedural Generation",
+      "Computer Graphics"
+    ]
+  },
+  {
     "name": "Hristo Iliev",
     "description": "I am a game programmer and I write a lot about low level programming in C and C++ and tools programming",
     "url": "https://thatonegamedev.com/posts",
