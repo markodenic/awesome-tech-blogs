@@ -100,11 +100,7 @@
     "description": "Blog features comprehensive tutorials, practical guides, and real-world examples to help you master HMPL.",
     "url": "https://blog.hmpl-lang.dev",
     "twitter": "@hmpljs",
-    "tags": [
-      "HTML",
-      "JavaScript",
-      "Web Development"
-    ]
+    "tags": ["HTML", "JavaScript", "Web Development"]
   },
   {
     "name": "Don't Break Prod",
@@ -385,7 +381,7 @@
     "tags": [
       "Tech Art",
       "Career",
-      "Unreal Engine", 
+      "Unreal Engine",
       "Game Development",
       "Rendering",
       "Graphics Programming",
@@ -3415,22 +3411,6 @@
     ]
   },
   {
-    "name": "Avneesh Agarwal",
-    "description": "I am a fullstack web developer. I love to make beautiful websites and also teach others how to make them by writing blogs",
-    "url": "https://blog.avneesh.tech/",
-    "twitter": "@avneesh0612",
-    "tags": [
-      "React",
-      "JavaScript",
-      "Open Source",
-      "TypeScript",
-      "Next.js",
-      "CSS",
-      "Full Stack",
-      "Software Engineering"
-    ]
-  },
-  {
     "name": "Mike Driscoll",
     "description": "Python news, beginner to advanced tutorials, interviews and more",
     "url": "https://www.blog.pythonlibrary.org/",
@@ -4058,11 +4038,6 @@
     "url": "https://hovanhoa.net",
     "twitter": "@_hovanhoa_",
     "linkedin": "hovanhoa",
-    "tags": [
-      "Tech",
-      "Golang",
-      "Python",
-      "Backend"
-    ]
+    "tags": ["Tech", "Golang", "Python", "Backend"]
   }
 ]
