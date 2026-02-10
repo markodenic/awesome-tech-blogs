@@ -1,11 +1,19 @@
 [
   {
     "name": "Jon C. Phillips",
-    "description": "Writing about web development, building products, startups, and open source",
+    "description": "Become a Better .NET Engineer - One Tip Weekly",
     "url": "https://joncphillips.com",
     "twitter": "@joncphillips",
     "tags": ["Web Development", "Startups", "UX"]
   },
+  {
+    "name": "Stefan Djokic",
+    "description": "Keep it short and simple.",
+    "url": "https://thecodeman.net/",
+    "twitter": "@TheCodeMan__",
+    "linkedin": "djokic-stefan",
+    "tags": ["C#", ".NET", "Architecture"],
+},
   {
     "name": "Abhijit Sarode",
     "description": "At the intersection of Fullstack, Competitive Programming & Mathematics",
