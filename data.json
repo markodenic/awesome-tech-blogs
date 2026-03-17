@@ -4047,4 +4047,17 @@
     "linkedin": "hovanhoa",
     "tags": ["Tech", "Golang", "Python", "Backend"]
   }
+  , {
+    "name": "Toni Notes",
+    "description": "Practical essays on digital publishing, creator workflows, useful tools, and building online work you can actually trust.",
+    "url": "https://toninotes.cc",
+    "tags": [
+      "Technical Writing",
+      "Content Creation",
+      "AI",
+      "Automation",
+      "Productivity",
+      "Web"
+    ]
+  }
 ]
