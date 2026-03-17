@@ -1,5 +1,12 @@
 [
   {
+    "name": "Perttu Lähteenlahti",
+    "description": "Practical guides on React Native, web development, mobile app subscriptions, and lessons from shipping production apps on iOS and Android.",
+    "url": "https://perttu.dev/articles",
+    "twitter": "@plahteenlahti",
+    "tags": ["React Native", "Web Development", "Mobile development", "iOS", "Android", "Expo"]
+  },
+  {
     "name": "Jon C. Phillips",
     "description": "Writing about web development, building products, startups, and open source",
     "url": "https://joncphillips.com",
