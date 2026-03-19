@@ -4046,5 +4046,12 @@
     "twitter": "@_hovanhoa_",
     "linkedin": "hovanhoa",
     "tags": ["Tech", "Golang", "Python", "Backend"]
+  },
+  {
+    "name": "mkiesel",
+    "description": "Manu's personal, mostly infosec-related blog",
+    "url": "https://mkiesel.ch",
+    "twitter": "@rtfmkiesel",
+    "tags": ["infosec","cybersec","it-security","hacking"]
   }
 ]
