@@ -2508,6 +2508,18 @@
     ]
   },
   {
+	  "name": "mkiesel",
+	  "description": "Manu's personal, mostly infosec-related blog",
+	  "url": "https://mkiesel.ch",
+	  "twitter": "@rtfmkiesel",
+	  "tags": [
+		  "infosec",
+		  "cybersec",
+		  "it-security",
+		  "hacking"
+	  ]
+  },
+  {
     "name": "Ankur Tyagi",
     "description": "Hi, I’m Ankur Tyagi, Software Engineer, Mentor, Coach, Content creator, Checkout my website for more details at https://theankurtyagi.com/",
     "url": "https://theankurtyagi.com/blog/",
