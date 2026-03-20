@@ -449,6 +449,20 @@
     ]
   },
   {
+    "name": "Informer Tech",
+    "description": "Your go-to hub for AI breakthroughs, smartphone showdowns, gaming updates, and smart buying decisions. Informer Tech keeps you informed, every single day.",
+    "url": "https://www.informertech.com/",
+    "twitter": "@informertechcom",
+    "linkedin": "informer-tech",
+    "tags": [
+      "Tech News",
+      "Tech Media",
+      "Gaming Content",
+      "Buying Guides & Reviews",
+      "Tech Insights"
+    ]
+  },
+  {
     "name": "Vivek",
     "description": "Awesome JavaScript Libraries and developer resources",
     "url": "https://vivekon.hashnode.dev/",
