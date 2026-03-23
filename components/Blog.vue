@@ -31,6 +31,8 @@
           :class="{ 'tag--active': activeTag === slugify(tag) }"
           v-for="(tag, index) in blog.tags"
           :key="index"
+          @click="$emit('tag-clicked', tag)"
+          style="cursor: pointer"
         >
           {{ tag }}
         </li>

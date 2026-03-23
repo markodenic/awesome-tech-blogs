@@ -3,25 +3,25 @@
     <GithubCorner />
 
     <div class="tags mb-6">
-      <nuxt-link
-        to="/list"
+      <button
         class="tag"
-        :class="{ 'tag--active': activeTag === 'all' }"
+        :class="{ 'tag--active': activeTagInternal === 'all' }"
+        @click="setActiveTag('all')"
       >
         All
         <span class="number">{{ blogsByTag('all') }}</span>
-      </nuxt-link>
+      </button>
 
-      <nuxt-link
+      <button
         v-for="tag in tags"
         :key="tag.name"
-        :to="'/' + slugify(tag.name)"
         class="tag"
-        :class="{ 'tag--active': activeTag === slugify(tag.name) }"
+        :class="{ 'tag--active': activeTagInternal === slugify(tag.name) }"
+        @click="setActiveTag(tag.name)"
       >
         {{ tag.name }}
         <span class="number">{{ blogsByTag(tag.name) }}</span>
-      </nuxt-link>
+      </button>
     </div>
 
     <div class="blogs mb-6">
@@ -29,7 +29,8 @@
         v-for="(blog, index) in filteredBlogs"
         :key="blog.title + '-' + index"
         :blog="blog"
-        :active-tag="activeTag"
+        :active-tag="activeTagInternal"
+        @tag-clicked="setActiveTag"
       />
     </div>
   </div>
@@ -89,7 +90,8 @@ export default {
   data() {
     return {
       tags: [],
-      blogs: []
+      blogs: [],
+      activeTagInternal: this.activeTag
     }
   },
   created() {
@@ -111,13 +113,16 @@ export default {
       return this.blogs.filter(blog =>
         blog.tags.some(t => slugify(t) === slugify(tag))
       ).length
+    },
+    setActiveTag(tag) {
+      this.activeTagInternal = slugify(tag)
     }
   },
   computed: {
     filteredBlogs() {
-      if (this.activeTag === 'all') return this.blogs
+      if (this.activeTagInternal === 'all') return this.blogs
       return this.blogs.filter(blog =>
-        blog.tags.some(t => slugify(t) === this.activeTag)
+        blog.tags.some(t => slugify(t) === this.activeTagInternal)
       )
     }
   }
