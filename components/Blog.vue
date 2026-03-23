@@ -120,8 +120,7 @@ export default {
     },
     favIcon() {
       if (!this.domain) return ''
-      const website = `https://unavatar.io/${this.domain}`
-      return `https://images.weserv.nl/?url=${website}&w=100&l=9&af&il&n=-1`
+      return `https://favicon.vemetric.com/${this.domain}?size=50`
     }
   }
 }
