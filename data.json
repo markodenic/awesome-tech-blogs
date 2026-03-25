@@ -51,7 +51,7 @@
   {
     "name": "Dhanush Nehru",
     "description": "DevSecOps & Cybersecurity Engineer writing about security, cloud, DevOps, and engineering leadership.",
-    "url": "https://medium.com/@dhanushnehru",
+    "url": "https://dhanushnehru.medium.com/",
     "twitter": "@Dhanush_Nehru",
     "tags": [
       "DevSecOps",
@@ -912,7 +912,7 @@
   {
     "name": "Bryan Braun",
     "description": "Making things and sharing what I learn.",
-    "url": "https://bryanbraun.com",
+    "url": "https://www.bryanbraun.com/",
     "twitter": "@BryanEBraun",
     "tags": [
       "Web Development",
@@ -1008,7 +1008,7 @@
   {
     "name": "Andrew Shell",
     "description": "A software developer, writer, and community builder passionate about open-source technology and collaboration.",
-    "url": "https://blog.andrewshell.org/essays/",
+    "url": "https://andrewshell.org/essays/",
     "twitter": "@andrewshell",
     "tags": [
       "JavaScript",
@@ -2011,7 +2011,7 @@
   {
     "name": "Juan Fernandes",
     "description": "Freelance Web Designer",
-    "url": "https://www.juanfernandes.uk/blog",
+    "url": "https://www.juanfernandes.uk/blog/",
     "twitter": "@juanfernandes",
     "tags": [
       "HTML",
@@ -2607,7 +2607,7 @@
   {
     "name": "Tim Robards",
     "description": "Frontend Developer and creator of easeout.co, a blog/community for web developers and designers alike!",
-    "url": "https://easeout.co",
+    "url": "https://www.easeout.co/",
     "twitter": "@easeoutco",
     "tags": [
       "HTML",
@@ -3017,7 +3017,7 @@
   {
     "name": "Preston Lamb",
     "description": "Full Stack developer, focusing on Angular and Node",
-    "url": "https://www.prestonlamb.com/blog",
+    "url": "https://www.prestonlamb.com/blog/",
     "twitter": "prestonjlamb",
     "tags": ["Angular", "JavaScript", "Node.js", "Nest.js", "Web Development"]
   },
@@ -3215,7 +3215,7 @@
   {
     "name": "Alexandre Nédélec",
     "description": "Software developer living in Bordeaux, France ⋅ Working mainly in C# / .NET on Azure ⋅ Love discovering new tools and technologies",
-    "url": "https://www.techwatching.dev/",
+    "url": "http://techwatching.dev/posts",
     "twitter": "@TechWatching",
     "tags": ["C#", ".NET", "Azure", "Cloud", "Software Development", "DevOps"]
   },
@@ -3819,25 +3819,6 @@
       "Operating System",
       "Code Editor",
       "Authentication"
-    ]
-  },
-  {
-    "name": "Mehul Mohan",
-    "description": "A web developer currently working on making programming more accessible and interactive to everyone in the world.",
-    "url": "https://codedamn.com/news",
-    "twitter": "@mehulmpt",
-    "tags": [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "Backend",
-      "Web Development",
-      "React",
-      "Node.js",
-      "TypeScript",
-      "Python",
-      "Git",
-      "Tech"
     ]
   },
   {
