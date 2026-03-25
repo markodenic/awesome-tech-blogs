@@ -1,10 +1,23 @@
 [
   {
+    "name": "nicedream",
+    "description": "I design software to help people live and work better together.",
+    "url": "https://nicedream.net",
+    "tags": ["Frontend", "Wordpress", "Web Development", "Full Stack"]
+  },
+  {
     "name": "Perttu Lähteenlahti",
     "description": "Practical guides on React Native, web development, mobile app subscriptions, and lessons from shipping production apps on iOS and Android.",
     "url": "https://perttu.dev/articles",
     "twitter": "@plahteenlahti",
-    "tags": ["React Native", "Web Development", "Mobile development", "iOS", "Android", "Expo"]
+    "tags": [
+      "React Native",
+      "Web Development",
+      "Mobile development",
+      "iOS",
+      "Android",
+      "Expo"
+    ]
   },
   {
     "name": "Jon C. Phillips",
@@ -2522,16 +2535,11 @@
     ]
   },
   {
-	  "name": "mkiesel",
-	  "description": "Manu's personal, mostly infosec-related blog",
-	  "url": "https://mkiesel.ch",
-	  "twitter": "@rtfmkiesel",
-	  "tags": [
-		  "infosec",
-		  "cybersec",
-		  "it-security",
-		  "hacking"
-	  ]
+    "name": "mkiesel",
+    "description": "Manu's personal, mostly infosec-related blog",
+    "url": "https://mkiesel.ch",
+    "twitter": "@rtfmkiesel",
+    "tags": ["infosec", "cybersec", "it-security", "hacking"]
   },
   {
     "name": "Ankur Tyagi",
