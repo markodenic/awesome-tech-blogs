@@ -2045,6 +2045,12 @@
     ]
   },
   {
+    "name": "Alex Chernysh",
+    "description": "AI engineering blog covering RAG pipelines, LLM evaluation, agentic systems, and AI-assisted development.",
+    "url": "https://alexchernysh.com/blog",
+    "tags": ["AI", "Machine Learning", "RAG", "LLM", "Agentic Systems", "Prompt Engineering"]
+  },
+  {
     "name": "ThisDot Blog",
     "description": "Deep knowledge on web topics and tools. Written by many developers",
     "url": "https://labs.thisdot.co/blog",
