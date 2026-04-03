@@ -83,6 +83,14 @@
     "tags": ["Go", "Python", "Distributed Systems", "Software Engineering"]
   },
   {
+    "name": "PlanTheFlow",
+    "description": "Writing about leading dev teams without becoming a manager: context switching, effective team process, and protecting time for actual coding.",
+    "url": "https://plantheflow.com/",
+    "twitter": "@Koprowski_it",
+    "linkedin": "danielkoprowski",
+    "tags": ["Leadership", "AI", "Productivity", "Project Management", "Tech", "Agile", "Effective Team", "Focus"]
+  },
+  {
     "name": "Websites USA",
     "description": "Web design and SEO articles by WebXpress (a Boston based web development agency).",
     "url": "https://websitesusa.com/blog/",
