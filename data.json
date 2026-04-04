@@ -341,21 +341,6 @@
     ]
   },
   {
-    "name": "Rene Rehme",
-    "description": "Web Developer from Stuttgart. Blog about tutorials, development, web, infoSec and life.",
-    "url": "https://renerehme.dev",
-    "twitter": "@ReneReh1",
-    "tags": [
-      "PHP",
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "Backend",
-      "Frontend",
-      "Programming"
-    ]
-  },
-  {
     "name": "Ash Allen 🚀",
     "description": "A blog with articles, guides, and tutorials about Laravel and PHP!",
     "url": "https://ashallendesign.co.uk/blog",
@@ -476,23 +461,6 @@
     "url": "https://vivekon.hashnode.dev/",
     "twitter": "@vivekthedev",
     "tags": ["Resources", "Web Development", "JavaScript"]
-  },
-  {
-    "name": "Wampamba David",
-    "description": "👨🏽‍💻Web Development, 💻 General Programming, 💰Making Money Online, and 👯‍♂️ Making Meaningful Connections. Best place to improve your tech skills in Days.",
-    "url": "https://blog.davidofug.com",
-    "twitter": "@davidofug",
-    "tags": [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "React",
-      "Next.js",
-      "Web Development",
-      "General Programming",
-      "Making Money Online",
-      "Making Meaningful Connections"
-    ]
   },
   {
     "name": "crwlr.software",
@@ -3122,13 +3090,6 @@
       "Open Source",
       "Freelancing"
     ]
-  },
-  {
-    "name": "Krzysztof Żuraw",
-    "description": "Frontend Developer and Team Leader",
-    "url": "https://krzysztofzuraw.com",
-    "twitter": "@krzysztof_zuraw",
-    "tags": ["TypeScript", "React", "HTML", "CSS", "Frontend", "JavaScript"]
   },
   {
     "name": "Bogdan Alexandru Militaru",

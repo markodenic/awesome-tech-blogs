@@ -10,7 +10,6 @@ Before submitting your PR to the **Awesome Blogs** page, please ensure you meet 
 
 - [ ] **Direct Linking**: I am linking to a specific blog page (unless the front page is the blog).
 - [ ] **Tech Content**: The blog is focused on technology.
-- [ ] **Single Quotes**: I have used single quotes `'` for all property values.
 - [ ] **Random Placement**: I added my entry in a random spot in the file (not at the end) to prevent merge conflicts.
 - [ ] **Proper Formatting**: My entry matches the data structure of the existing list.
 - [ ] **Tag Limit**: I have added no more than 10 tags.
