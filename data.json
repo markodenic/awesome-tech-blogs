@@ -14,6 +14,13 @@
     "tags": ["Web Development", "Startups", "UX"]
   },
   {
+    "name": "Axeploit",
+    "description": "Writing about Web Security",
+    "url": "https://axeploit.com/blog",
+    "linkedin": "axeploit",
+    "tags": ["Vibe Coding", "Security", "Audit"]
+  },
+  {
     "name": "Abhijit Sarode",
     "description": "At the intersection of Fullstack, Competitive Programming & Mathematics",
     "url": "https://abhijitsarode.hashnode.dev",
