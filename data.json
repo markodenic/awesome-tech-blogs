@@ -3117,8 +3117,8 @@
   {
     "name": "Vanilla",
     "description": "My little corner of the internet to yap about anything and everything (mostly tech though).",
-    "url": "https://vanilla.sh",
-    "tags": ["Frontend", "Backend", "Software Development", "Selfhosting", "Computer Science", "Software Engineering"],
+    "url": "https://vanilla.sh/blog/",
+    "tags": ["Frontend", "Backend", "Software Development", "Selfhosting", "Computer Science", "Software Engineering", "Opinion"],
   },
   {
     "name": "Brainboard",
