@@ -2046,6 +2046,20 @@
     ]
   },
   {
+    "name": "8bitconcepts",
+    "description": "Independent research publication on enterprise AI adoption. Papers on agentic accountability, hallucination budgets, governance gaps, and the integration tax of deploying LLMs in production. Free, no paywall, weekly updates.",
+    "url": "https://8bitconcepts.com",
+    "tags": [
+      "AI",
+      "Enterprise AI",
+      "LLM",
+      "AI Governance",
+      "AI Agents",
+      "Research",
+      "Tech Leadership"
+    ]
+  },
+  {
     "name": "Sahan Serasinghe",
     "description": "Howdy! I'm Sahan, a Senior Software Engineer, Solutions Architect & Speaker with over 10 years of experience in Cloud and Backend engineering. Checkout my blog for more details at https://sahansera.dev",
     "url": "https://sahansera.dev/",
