@@ -3115,6 +3115,12 @@
     ]
   },
   {
+    "name": "Vanilla",
+    "description": "My little corner of the internet to yap about anything and everything (mostly tech though).",
+    "url": "https://vanilla.sh/blog/",
+    "tags": ["Frontend", "Backend", "Software Development", "Selfhosting", "Computer Science", "Software Engineering", "Opinion"]
+  },
+  {
     "name": "Brainboard",
     "description": "Writing about everything related to the Cloud | powered by Cloud architects",
     "url": "https://www.brainboard.co",
