@@ -4035,5 +4035,24 @@
     "twitter": "@_hovanhoa_",
     "linkedin": "hovanhoa",
     "tags": ["Tech", "Golang", "Python", "Backend"]
+  },
+  {
+    "name": "Code4IT",
+    "description": "Handcrafted articles for .NET enthusiasts, Azure lovers, and Backend developers.",
+    "url": "https://www.code4it.dev/",
+    "twitter": "@BelloneDavide",
+    "linkedin": "bellonedavide",
+    "tags": [
+      "C#",
+      ".NET",
+      "ASP.NET Core",
+      "Backend Development",
+      "Backend",
+      "Software Architecture",
+      "Testing",
+      "Azure",
+      "Cloud Computing",
+      "Microsoft"
+    ]
   }
 ]
