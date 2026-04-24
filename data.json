@@ -3734,6 +3734,25 @@
     ]
   },
   {
+    "name": "Code4IT",
+    "description": "Handcrafted articles for .NET enthusiasts, Azure lovers, and Backend developers.",
+    "url": "https://www.code4it.dev/",
+    "twitter": "@BelloneDavide",
+    "linkedin": "bellonedavide",
+    "tags": [
+      "C#",
+      ".NET",
+      "ASP.NET Core",
+      "Backend Development",
+      "Backend",
+      "Software Architecture",
+      "Testing",
+      "Azure",
+      "Cloud Computing",
+      "Microsoft"
+    ]
+  },
+  {
     "name": "Vivek Jaiswal",
     "description": "Software Architect from India with experience in Backend development, data engineering and machine learning",
     "url": "https://www.vivekjaiswal.me/blog/",
@@ -4035,24 +4054,5 @@
     "twitter": "@_hovanhoa_",
     "linkedin": "hovanhoa",
     "tags": ["Tech", "Golang", "Python", "Backend"]
-  },
-  {
-    "name": "Code4IT",
-    "description": "Handcrafted articles for .NET enthusiasts, Azure lovers, and Backend developers.",
-    "url": "https://www.code4it.dev/",
-    "twitter": "@BelloneDavide",
-    "linkedin": "bellonedavide",
-    "tags": [
-      "C#",
-      ".NET",
-      "ASP.NET Core",
-      "Backend Development",
-      "Backend",
-      "Software Architecture",
-      "Testing",
-      "Azure",
-      "Cloud Computing",
-      "Microsoft"
-    ]
   }
 ]
