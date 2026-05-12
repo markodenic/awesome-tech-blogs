@@ -4068,5 +4068,12 @@
     "twitter": "@_hovanhoa_",
     "linkedin": "hovanhoa",
     "tags": ["Tech", "Golang", "Python", "Backend"]
+  },
+  {
+    "name": "Parish Khan",
+    "description": "Senior software developer (10+ yrs). Notes on React, TypeScript, frontend architecture, and design systems.",
+    "url": "https://parish.cv",
+    "linkedin": "parishkhan",
+    "tags": ["React", "TypeScript", "Frontend", "Design Systems"]
   }
 ]
