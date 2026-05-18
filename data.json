@@ -21,6 +21,14 @@
     "tags": ["Vibe Coding", "Security", "Audit"]
   },
   {
+    "name": "ТheCodeMan - Stefan Đokić",
+    "description": "Authored by Microsoft MVP Stefan Đokić, providing expert insights, tutorials, and news on .NET and Architecture technologies.",
+    "url": "https://thecodeman.net/",
+    "twitter": "@TheCodeMan__",
+    "linkedin": "djokic-stefan",
+    "tags": ["C#", ".NET", "Architecture"]
+  },
+  {
     "name": "Abhijit Sarode",
     "description": "At the intersection of Fullstack, Competitive Programming & Mathematics",
     "url": "https://abhijitsarode.hashnode.dev",
