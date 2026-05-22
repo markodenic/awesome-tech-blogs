@@ -478,21 +478,6 @@
     "tags": ["Resources", "Web Development", "JavaScript"]
   },
   {
-    "name": "crwlr.software",
-    "description": "Articles about web crawling and scraping in PHP.",
-    "url": "https://www.crwlr.software/blog",
-    "twitter": "@crwlrsoft",
-    "tags": [
-      "PHP",
-      "crawling",
-      "scraping",
-      "Crawler",
-      "Scraper",
-      "HTTP",
-      "Web Development"
-    ]
-  },
-  {
     "name": "Teotime Pacreau",
     "description": "Gestion de projets numériques et développement web à Nantes",
     "url": "https://www.teotimepacreau.fr/blog/",
@@ -1227,22 +1212,6 @@
       "Web Development",
       "Git",
       "GitHub"
-    ]
-  },
-  {
-    "name": "FlutterBeads",
-    "description": "A treasure of high quality Flutter tutorials",
-    "url": "https://flutterbeads.com/",
-    "twitter": "@flutter_beads",
-    "tags": [
-      "Flutter",
-      "Animation",
-      "Design",
-      "Firebase",
-      "State Management",
-      "Web",
-      "Desktop",
-      "Widgets"
     ]
   },
   {
