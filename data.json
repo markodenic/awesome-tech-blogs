@@ -4052,5 +4052,12 @@
     "url": "https://parish.cv/blog",
     "linkedin": "parishkhan",
     "tags": ["React", "TypeScript", "Frontend", "Design Systems"]
+  },
+  {
+    "name": "Oleg Timoshin",
+    "description": "Building Telegram bots, AI agents, and automation tools. Python, TypeScript, AI/ML, bot development.",
+    "url": "https://timoshinoleg-eng.github.io/blog/",
+    "rss": "https://timoshinoleg-eng.github.io/blog/feed.xml",
+    "tags": ["Python", "AI", "Telegram", "TypeScript", "Automation"]
   }
 ]
