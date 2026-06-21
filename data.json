@@ -4052,5 +4052,12 @@
     "url": "https://parish.cv/blog",
     "linkedin": "parishkhan",
     "tags": ["React", "TypeScript", "Frontend", "Design Systems"]
+  },
+  {
+    "name": "Redowan's Reflections",
+    "description": "Notes on Go, Python, Unix, backend engineering, systems, and testing.",
+    "url": "https://rednafi.com",
+    "twitter": "@rednafi",
+    "tags": ["Go", "Python", "Backend", "Software Engineering", "Systems", "Testing"]
   }
 ]
