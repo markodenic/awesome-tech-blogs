@@ -1,5 +1,13 @@
 [
   {
+    "name": "Aleksei Aleinikov",
+    "description": "Deep dives on Google Cloud, Kubernetes, DevSecOps and platform engineering, written from production.",
+    "url": "https://www.alekseialeinikov.com/en/blog",
+    "twitter": "@Aleksei_gr1",
+    "linkedin": "a-aleinikov",
+    "tags": ["Google Cloud", "Kubernetes", "DevSecOps", "Platform Engineering", "Cloud Security"]
+  },
+  {
     "name": "Perttu Lähteenlahti",
     "description": "Practical guides on React Native, web development, mobile app subscriptions, and lessons from shipping production apps on iOS and Android.",
     "url": "https://perttu.dev/articles",
