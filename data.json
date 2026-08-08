@@ -1655,6 +1655,13 @@
     ]
   },
   {
+    "name": "David Álvarez Rosa",
+    "description": "Notes on software and self-hosting: how things work under the hood, and how to make them run fast.",
+    "url": "https://david.alvarezrosa.com",
+    "linkedin": "david-alvarez-rosa",
+    "tags": ["C++", "Performance", "Self-Hosting", "Mathematics"]
+  },
+  {
     "name": "Bhanu Teja Pachipulusu",
     "description": "Full-Stack Developer, Entrepreneur and Co-Founder of Coderplex. Building https://coderplex.in. Checkout my portfolio at https://bhanuteja.dev",
     "url": "https://blog.bhanuteja.dev",
