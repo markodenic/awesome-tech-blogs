@@ -1418,6 +1418,25 @@
     ]
   },
   {
+    "name": "Eugene Lazutkin",
+    "description": "JavaScript, performance, and code-level tactics — control flow, invariants, optimization. Plus a Python/Django archive going back to 2005.",
+    "url": "https://www.lazutkin.com/",
+    "twitter": "@uhop",
+    "linkedin": "elazutkin",
+    "tags": [
+      "JavaScript",
+      "Web Development",
+      "Node.js",
+      "Python",
+      "AWS",
+      "Open Source",
+      "Software Engineering",
+      "Algorithms",
+      "Django",
+      "Performance"
+    ]
+  },
+  {
     "name": "Alberto Bonacina",
     "description": "Proud Software Engineer, Flutter enthusiast and Free Software activist",
     "url": "https://blog.albertobonacina.com/",
