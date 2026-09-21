@@ -53,14 +53,26 @@ function countInstances(acc, tag) {
   return acc
 }
 
-function shuffle(array) {
+function seededRandom(seed) {
+  let s = seed >>> 0
+  return () => {
+    s = (s + 0x6d2b79f5) >>> 0
+    let t = s
+    t = Math.imul(t ^ (t >>> 15), t | 1)
+    t ^= t + Math.imul(t ^ (t >>> 7), t | 61)
+    return ((t ^ (t >>> 14)) >>> 0) / 4294967296
+  }
+}
+
+function shuffle(array, seed) {
   const length = array == null ? 0 : array.length
   if (!length) return []
+  const random = seededRandom(seed)
   let index = -1
   const lastIndex = length - 1
   const result = array
   while (++index < length) {
-    const rand = index + Math.floor(Math.random() * (lastIndex - index + 1))
+    const rand = index + Math.floor(random() * (lastIndex - index + 1))
     const value = result[rand]
     result[rand] = result[index]
     result[index] = value
@@ -95,7 +107,7 @@ export default {
     }
   },
   created() {
-    this.blogs = shuffle(blogs)
+    this.blogs = shuffle(blogs, useRuntimeConfig().public.shuffleSeed)
     this.getTags()
   },
   methods: {

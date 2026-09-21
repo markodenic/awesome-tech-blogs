@@ -95,6 +95,11 @@ html {
     }
     &--active {
       background: var(--green);
+      color: var(--black);
+      opacity: 1;
+      .number {
+        color: #fff;
+      }
     }
     &--small {
       cursor: default;
@@ -129,6 +134,9 @@ html {
       display: flex;
       align-items: center;
       padding: 15px;
+      img {
+        object-fit: contain;
+      }
     }
     &-content {
       padding: 15px;

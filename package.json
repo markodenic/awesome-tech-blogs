@@ -4,7 +4,9 @@
   "private": true,
   "scripts": {
     "dev": "nuxt dev",
+    "prebuild": "node scripts/generate-llms.mjs",
     "build": "nuxt build",
+    "pregenerate": "node scripts/generate-llms.mjs",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
