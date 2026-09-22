@@ -1,0 +1,8 @@
+{
+  "specVersion": "1.0",
+  "host": {
+    "displayName": "Awesome Tech Blogs",
+    "documentationUrl": "https://tech-blogs.dev/llms.txt"
+  },
+  "entries": []
+}

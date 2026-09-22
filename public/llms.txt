@@ -1,6 +1,6 @@
 # Awesome Tech Blogs
 
-> A community-curated list of 282 tech blogs by companies and individual developers, tagged by topic. Anyone can add their blog via a pull request on GitHub.
+> A community-curated list of 283 tech blogs by companies and individual developers, tagged by topic. Anyone can add their blog via a pull request on GitHub.
 
 - Full list: https://tech-blogs.dev/list
 - Add your blog: https://github.com/markodenic/awesome-tech-blogs
@@ -127,6 +127,7 @@
 - [Sam Larsen-Disney](https://sld.codes/blog): Sam currently works as a Senior Front-End Engineer at Zone. He has built new ways to refer friends, onboarding experiences and rapid response systems.
 - [Bhanu Teja Pachipulusu](https://blog.bhanuteja.dev): Full-Stack Developer, Entrepreneur and Co-Founder of Coderplex. Building https://coderplex.in. Checkout my portfolio at https://bhanuteja.dev
 - [Nat Miletic](https://cliowebsites.com/blog/): This blog covers a range of topics related to responsive web design, web development, and WordPress how-to guides.
+- [Nelson Figueroa](https://nelson.cloud): Personal site of Nelson Figueroa -- Software Engineer
 - [Alexander Lichter](https://www.lichter.io/articles/?ref=tech-blogs.dev): Nuxt.js maintainer and Web Development Consultant. I love to blog about various technical topics with a focus on web development, especially with Vue and Nuxt.
 - [Nacho Iacovino](https://nachoiacovino.com/blog): I'm a Frontend developer and Developer Relations. I share resources, tips and guides on web development. I like talking about best practices and new technologies. My favorite stack is Next.js and Tailwind CSS.
 - [Ozer Tayiz](https://ozercodesblockchain.hashnode.dev/): A cryptocurrency enthusiast who is learning to code to get a web3 blockchain developer job
@@ -336,6 +337,7 @@
 - Bitcoing
 - Blender
 - Blockchain
+- Blog
 - Blogging
 - Bluetooth
 - Bootstrap
@@ -623,6 +625,7 @@
 - Site Reliability Engineering
 - Smart Contract
 - software
+- Software
 - Software Architecture
 - Software Developer
 - Software Development
@@ -668,6 +671,7 @@
 - Technical
 - Technical Debt
 - Technical Writing
+- Technology
 - TechOps
 - Terminal
 - Terraform
