@@ -4059,5 +4059,12 @@
     "url": "https://parish.cv/blog",
     "linkedin": "parishkhan",
     "tags": ["React", "TypeScript", "Frontend", "Design Systems"]
+  },
+  {
+    "name": "Matt Coles",
+    "description": "Principal Engineer at AWS writing about Python tooling, AI agents, local LLMs and AWS CDK.",
+    "url": "https://coles.codes/",
+    "twitter": "@mattjcoles",
+    "tags": ["AWS", "Python", "AI", "LLMs", "CDK"]
   }
 ]
