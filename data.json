@@ -14,6 +14,12 @@
     "tags": ["Web Development", "Startups", "UX"]
   },
   {
+    "name": "Edilec Blog",
+    "description": "Guides on software engineering, API design, web performance, accessibility, and cloud operations.",
+    "url": "https://edilec.com/blog/",
+    "tags": ["Software Engineering", "Web Development", "DevOps", "Open Source"]
+  },
+  {
     "name": "Axeploit",
     "description": "Writing about Web Security",
     "url": "https://axeploit.com/blog",
