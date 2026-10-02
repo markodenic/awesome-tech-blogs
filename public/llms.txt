@@ -1,10 +1,18 @@
 # Awesome Tech Blogs
 
-> A community-curated list of 283 tech blogs by companies and individual developers, tagged by topic. Anyone can add their blog via a pull request on GitHub.
+> A curated list of tech blogs by companies and individual developers, tagged by topic.
 
-- Full list: https://tech-blogs.dev/list
-- Add your blog: https://github.com/markodenic/awesome-tech-blogs
+- Full list: https://tech-blogs.dev/list/
 - Sitemap: https://tech-blogs.dev/sitemap.xml
+
+## More from the maker
+
+- [Web Dev Resources](https://web-dev-resources.com): Free developer tools, in-depth articles and ebooks for web developers.
+- [Article Banner](https://articlebanner.com): Make blog covers and Open Graph images in seconds. Free, no signup, no watermark.
+- [Snippet Editor](https://snippeteditor.com): Turn code snippets into beautiful, shareable screenshots.
+- [Free Code Tools](https://freecodetools.org): Free online tools for formatting code, generating meta tags and more.
+- [JavaScript Quiz](https://javascriptquiz.com): Test your JavaScript knowledge with free interactive quizzes.
+- [Modern HTML & CSS](https://markodenic.tech/modern-html-css/): 56 modern HTML and CSS features that replace whole libraries and unnecessary JavaScript.
 
 ## Blogs
 
@@ -20,7 +28,6 @@
 - [PlanTheFlow](https://plantheflow.com/): Writing about leading dev teams without becoming a manager: context switching, effective team process, and protecting time for actual coding.
 - [Websites USA](https://websitesusa.com/blog/): Web design and SEO articles by WebXpress (a Boston based web development agency).
 - [Rahul](https://rahul.biz): 18-year-old hustler who loves reading, coding and building stuffs. Mostly writing on JavaScript.
-- [HMPL Blog](https://blog.hmpl-lang.dev): Blog features comprehensive tutorials, practical guides, and real-world examples to help you master HMPL.
 - [Don't Break Prod](https://dontbreakprod.com/): Bite-sized pieces of career advice for software engineers.
 - [Jina AI](https://jina.ai/news): The most advanced MLOps platform for Multimodal AI
 - [Kenta Takeuchi](https://bmf-tech.com/): Blog about daily technical topics
@@ -74,7 +81,6 @@
 - [Michael Hoffmann (Mokkapps)](https://mokkapps.de/blog/): 🌴 Freelancer | 👨🏻‍💻 Developer | ✍️ Blogger
 - [Bryan Braun](https://www.bryanbraun.com/): Making things and sharing what I learn.
 - [Sagar Paul](https://sagarpaul.netlify.app): Fullstack developer. Self-taught.
-- [Rocketeers](https://rocketee.rs/knowledge): Sharing knowledge about hosting, developing and deploying web apps.
 - [Bob Fornal](https://dev.to/rfornal): Senior Frontend Developer, focused on writing about anything that takes me more than a few minutes to accomplish,
 - [alp1n3](https://alp1n3.dev/blog/): Security Consultant, focused on web application penetration testing and source code review.
 - [Darek Kay](https://darekkay.com/blog): Hello, I’m a front-end developer and an accessibility advocate. I love sharing what I know through my blog, teaching and speaking at conferences.
@@ -151,7 +157,7 @@
 - [Kumusta Mundo](https://blog.adrienne.io/): Tech tutorials and stories from Adrienne Tacke, a Filipina software engineer.
 - [Juan Fernandes](https://www.juanfernandes.uk/blog/): Freelance Web Designer
 - [Code Create](https://blog.code-create.dev): Exploring all things code and design. Diving into JavaScript, Python, and CS topics in 2021.
-- [ThisDot Blog](https://labs.thisdot.co/blog): Deep knowledge on web topics and tools. Written by many developers
+- [ThisDot Blog](https://www.thisdot.co/blog): Deep knowledge on web topics and tools. Written by many developers
 - [Sahan Serasinghe](https://sahansera.dev/): Howdy! I'm Sahan, a Senior Software Engineer, Solutions Architect & Speaker with over 10 years of experience in Cloud and Backend engineering. Checkout my blog for more details at https://sahansera.dev
 - [Margo McCabe](https://dev.to/margo_hdb): Women in Tech | DevRel | Databases | Tech Blogger | Podcast Host
 - [Albert Walicki](https://www.albertwalicki.com/blog): Frontend developer, entrepreneur, writer, CSS artist
@@ -194,7 +200,7 @@
 - [Dillion Megida](https://dillionmegida.com/blog): Software Engineer and Content creator passionate about simplifying topics around web development
 - [Emmanuel Ezeka](https://eecvision.hashnode.dev/): A frontend web developer, Electrical/Electronics Engineer, Passionate about problem-solving.
 - [Webentwicklung Ideenreich](https://web-ideenreich.at): Web Development. Analysis and visualization of data. Surveys and market research.
-- [Rishab Kumar](https://blog.rishabkumar.com/): I am a tech entusiast that loves to play in the Cloud and related technologies. Also, try to create nice web experiences.
+- [Rishab Kumar](https://rishabkumar.com/blog/): I am a tech entusiast that loves to play in the Cloud and related technologies. Also, try to create nice web experiences.
 - [Sebastian Hesse](https://www.sebastianhesse.de/blog): Serverless Cloud Expert - Blogging about everything related to AWS Cloud, Serverless, Java, Node.js and JavaScript.
 - [Devopsian](https://devopsian.net): Software Engineer blogging about Infrastructure, Reliability, Devops Principals and.. Software Engineering
 - [Alfred Danda](https://danda.at): Web developer working with PHP and Laravel at Webentwicklung Ideenreich which I'm the co-owner of.
@@ -216,7 +222,6 @@
 - [Renan Moura](https://renanmf.com/): Posts for anyone looking to go deeper into Python and find practical ways to apply it in the fields of Web Development, Data Science and Machine Learning.
 - [Vishunbhotla V D V Bharadwaj](https://bharadwaj.hashnode.dev/): A Computer Science Engineer who loves Blogging and Sharing Content
 - [Alex Lakatos](https://alexlakatos.com/): Reformed JavaScript person. Tech Lead by day, Developer Avocado 🥑 by night.
-- [Adithya](https://adithya.dev/): I write about solutions to problems that I face on a daily basis | PHP, Laravel developer in Berlin, Germany
 - [Sachin Chaurasiya](https://blog.sachinchaurasiya.dev/): Software Engineer, Freelancer, Open-Source Contributor, Technical Blogger
 - [Bogdan Alexandru Militaru](https://whyboobo.com/): I write about programming, devops and my startup journey. | Software Engineer
 - [Vanilla](https://vanilla.sh/blog/): My little corner of the internet to yap about anything and everything (mostly tech though).
@@ -238,12 +243,10 @@
 - [Employment Japan](https://www.ejable.com/category/tech-corner/): Tech corner where the latest technologies curated by experts in the field are discussed.
 - [Engin Arslan](https://www.enginarslan.com/posts): Engin is a Zurich-based front-end engineer and teacher. Author of 'Coding for Visual Learners'
 - [Awesome Coding](https://awesomecoding.co/blog): Learn to code awesome stuff like web applications, 3D graphics, animations, games, scrapers, artificial intelligence, VR, AR in a beginner-friendly way.
-- [Prémices Kamasuwa](https://nkpremices.com/tag/blog/): Articles on web, personal experiences and more
 - [Dev by RayRay](https://byrayray.dev/): Ray is a Lead Frontend Developer, specialised in Angular. He writes about Frontend Development, Workflow, JavaScript, TypeScript, Angular and more related topics.
 - [Mike Driscoll](https://www.blog.pythonlibrary.org/): Python news, beginner to advanced tutorials, interviews and more
 - [Seth Michael Larson](https://sethmlarson.dev/blog): Articles about Python, API design, open source, and internet technologies.
 - [Helmer Davila](https://helmerdavila.com/blog): My public technical 📘 notebook (blog), where I publish ✍️ in 3 different languages: english, spanish and french.
-- [wpuniverse.online](https://wpuniverse.online): A custom search engine for WordPress and web developers
 - [Pritam Bera](https://pritambera2000.hashnode.dev): Self-taugth web-developer developer & Technical writer, with a keen interest in Linux & CyberSecurity.
 - [Jakub T. Jankiewicz](https://jakub.jankiewicz.org/blog/): Articles mostly about Web Development, JavaScript, and tech
 - [Madza](https://madza.dev/blog): I build custom WEB solutions and write about DEV
@@ -285,7 +288,6 @@
 - [Engineering Leadership](https://newsletter.eng-leadership.com/): Weekly newsletter for becoming a great engineering leader.
 - [Marco G](https://solariz.de): Tech and Thoughts - personal tech blog.
 - [Omer Karabacak](https://omerkarabacak.medium.com): Articles about DevOps, Cloud, Python, PostgreSQL, MongoDB and Infrastructure
-- [globaldatanet](https://globaldatanet.com/tech-blog): Articles about aws cloud technology, news, and tutorials.
 - [JPaul.me](https://jpaul.me): My Blog about IT related stuff.
 - [Razvan Muntian](https://razvanmuntian.com/blog): Sharing my journey of building small products, living intentionally, and finding joy along the way.
 - [Hrishikesh Barua](https://techops.substack.com/): I write about interesting topics in Cloud/Ops/SRE and how to get better if you work in these fields.
@@ -419,7 +421,6 @@
 - economics
 - edge computing
 - Effective Team
-- Elasticsearch
 - Electrical
 - Electronics
 - Eleventy
@@ -437,7 +438,6 @@
 - Figma API
 - Figma plugins
 - Finance
-- FinOps
 - Firebase
 - Flask
 - Flutter
@@ -538,7 +538,6 @@
 - Monitoring
 - Multimodal
 - Music Tech
-- MySQL
 - Nest.js
 - Networking
 - Networks
@@ -546,7 +545,6 @@
 - Next
 - Next.js
 - NFTs
-- Nginx
 - NoCode
 - Node
 - Node.js

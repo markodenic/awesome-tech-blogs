@@ -3,36 +3,30 @@
     "name": "Perttu Lähteenlahti",
     "description": "Practical guides on React Native, web development, mobile app subscriptions, and lessons from shipping production apps on iOS and Android.",
     "url": "https://perttu.dev/articles",
-    "twitter": "@plahteenlahti",
     "tags": ["React Native", "Web Development", "Mobile development", "iOS", "Android", "Expo"]
   },
   {
     "name": "Jon C. Phillips",
     "description": "Writing about web development, building products, startups, and open source",
     "url": "https://joncphillips.com",
-    "twitter": "@joncphillips",
     "tags": ["Web Development", "Startups", "UX"]
   },
   {
     "name": "Axeploit",
     "description": "Writing about Web Security",
     "url": "https://axeploit.com/blog",
-    "linkedin": "axeploit",
     "tags": ["Vibe Coding", "Security", "Audit"]
   },
   {
     "name": "ТheCodeMan - Stefan Đokić",
     "description": "Authored by Microsoft MVP Stefan Đokić, providing expert insights, tutorials, and news on .NET and Architecture technologies.",
     "url": "https://thecodeman.net/",
-    "twitter": "@TheCodeMan__",
-    "linkedin": "djokic-stefan",
     "tags": ["C#", ".NET", "Architecture"]
   },
   {
     "name": "Abhijit Sarode",
     "description": "At the intersection of Fullstack, Competitive Programming & Mathematics",
     "url": "https://abhijitsarode.hashnode.dev",
-    "twitter": "@abhijit_ras",
     "tags": [
       "Web Development",
       "Full Stack",
@@ -47,7 +41,6 @@
     "name": "Rohit Singh",
     "description": "A Frontend reactjs developer and technical writer",
     "url": "https://rohitsingh.vercel.app/",
-    "twitter": "@m__rohitsingh",
     "tags": [
       "Web Development",
       "Frontend",
@@ -67,7 +60,6 @@
     "name": "Dhanush Nehru",
     "description": "DevSecOps & Cybersecurity Engineer writing about security, cloud, DevOps, and engineering leadership.",
     "url": "https://dhanushnehru.medium.com/",
-    "twitter": "@Dhanush_Nehru",
     "tags": [
       "DevSecOps",
       "Cybersecurity",
@@ -87,22 +79,18 @@
     "name": "Nishant Kumar",
     "description": "Blogging for practical goals, offering diverse reads. No niche, just a fresh perspective..",
     "url": "https://blog.nishant.lol",
-    "twitter": "@nisnym",
     "tags": ["Tech", "React", "JavaScript"]
   },
   {
     "name": "Matt Ouille",
     "description": "Distributed systems, programming, and life in the Pacific Northwest posts.",
     "url": "https://ooo-yay.com/blog",
-    "linkedin": "mattouille",
     "tags": ["Go", "Python", "Distributed Systems", "Software Engineering"]
   },
   {
     "name": "PlanTheFlow",
     "description": "Writing about leading dev teams without becoming a manager: context switching, effective team process, and protecting time for actual coding.",
     "url": "https://plantheflow.com/",
-    "twitter": "@Koprowski_it",
-    "linkedin": "danielkoprowski",
     "tags": ["Leadership", "AI", "Productivity", "Project Management", "Tech", "Agile", "Effective Team", "Focus"]
   },
   {
@@ -115,7 +103,6 @@
     "name": "Rahul",
     "description": "18-year-old hustler who loves reading, coding and building stuffs. Mostly writing on JavaScript. ",
     "url": "https://rahul.biz",
-    "twitter": "@rahuldotbiz",
     "tags": [
       "HTML",
       "CSS",
@@ -129,14 +116,12 @@
     "name": "Don't Break Prod",
     "description": "Bite-sized pieces of career advice for software engineers.",
     "url": "https://dontbreakprod.com/",
-    "twitter": "@dontbreakprod",
     "tags": ["Career", "Software Development", "Tools", "Learning", "Growth"]
   },
   {
     "name": "Jina AI",
     "description": "The most advanced MLOps platform for Multimodal AI",
     "url": "https://jina.ai/news",
-    "twitter": "@JinaAI_",
     "tags": [
       "Multimodal",
       "Neural Search",
@@ -150,7 +135,6 @@
     "name": "Kenta Takeuchi",
     "description": "Blog about daily technical topics",
     "url": "https://bmf-tech.com/",
-    "twitter": "@bmf_san",
     "tags": [
       "PHP",
       "Go",
@@ -164,7 +148,6 @@
     "name": "Devremote",
     "description": "Helping developers find remote jobs",
     "url": "https://devremote.io/blog/",
-    "twitter": "@devremotehq",
     "tags": [
       "JavaScript",
       "Web Development",
@@ -181,7 +164,6 @@
     "name": "Afobaje",
     "description": "front end reactjs developer and technical writer",
     "url": "https://afobaje.hashnode.dev",
-    "twitter": "@davidblaqq",
     "tags": [
       "HTML",
       "CSS",
@@ -198,7 +180,6 @@
     "name": "Oliver J. Scholten PhD",
     "description": "Weekly newsletter covering the lessons, challenges, and useful tools while building a business after leaving the corporate world.",
     "url": "https://ojscholten.com",
-    "twitter": "@ojscholten",
     "tags": [
       "Python",
       "Software Engineering",
@@ -211,7 +192,6 @@
     "name": "Harshit Raj",
     "description": "Unlocking Tomorrow's Tech Today: Exploring the Digital Frontier",
     "url": "https://medium.com/@Harshit_Raj_14",
-    "twitter": "@HarshitRaj_14",
     "tags": [
       "JavaScript",
       "Web Development",
@@ -244,7 +224,6 @@
     "name": "Robiul H.",
     "description": "RoBlog, your go-to destination for all things related to technology, JavaScript, Node.js, and web development.",
     "url": "https://robiul.dev/",
-    "twitter": "@robiulhr01",
     "tags": [
       "HTML",
       "CSS",
@@ -264,7 +243,6 @@
     "name": "Coder Spirit",
     "description": "Deep-dive articles on Algorithms, Programming, and Software Engineering",
     "url": "https://blog.coderspirit.xyz",
-    "twitter": "@castarco",
     "tags": [
       "Algorithms",
       "Full Stack",
@@ -280,14 +258,12 @@
     "name": "Tim Mouskhelichvili",
     "description": "Hello 👋! I am Tim Mouskhelichvili, a Freelance Developer & Consultant from Montreal 🇨🇦. I write about Front-End Development.",
     "url": "https://timmousk.com/blog/",
-    "twitter": "@tim_mousk",
     "tags": ["TypeScript", "JavaScript", "Git", "Web Development", "React"]
   },
   {
     "name": "wweb.dev",
     "description": "A blog with weekly updates, resources, articles and useful code generators.",
     "url": "https://wweb.dev/blog/",
-    "twitter": "@wweb_dev",
     "tags": [
       "HTML",
       "CSS",
@@ -304,21 +280,18 @@
     "name": "Sundeep Agarwal",
     "description": "I write about Regular Expressions, CLI one-liners, Scripting Languages, Vim and Self-Publishing.",
     "url": "https://learnbyexample.github.io/",
-    "twitter": "@learn_byexample",
     "tags": ["Python", "Regular Expressions", "JavaScript", "Linux", "Vim"]
   },
   {
     "name": "TestGrid",
     "description": "Keep yourself update with the latest trends around web & mobile automation.",
     "url": "https://testgrid.io/blog/",
-    "twitter": "@testgridio",
     "tags": ["HTML", "CSS", "JavaScript"]
   },
   {
     "name": "Suprabha",
     "description": "Hi, I'm Frontend Engineer, Content creator, Mentor, Public Speaker, Checkout my website for more details at https://suprabha.me",
     "url": "https://blog.suprabha.me/",
-    "twitter": "@suprabhasupi",
     "tags": [
       "Web Development",
       "JavaScript",
@@ -337,7 +310,6 @@
     "name": "Snehasish Chakraborty",
     "description": "Full stack developer having experience in Spring, AWS, React, Angular",
     "url": "https://blogs.snehasish-chakraborty.com/",
-    "twitter": "@thisissnehasish",
     "tags": [
       "Web",
       "Security",
@@ -352,7 +324,6 @@
     "name": "Ash Allen 🚀",
     "description": "A blog with articles, guides, and tutorials about Laravel and PHP!",
     "url": "https://ashallendesign.co.uk/blog",
-    "twitter": "@AshAllenDesign",
     "tags": [
       "Laravel",
       "PHP",
@@ -370,22 +341,18 @@
     "name": "Parth Desai",
     "description": "I am a Data Engineer who is passionate about Data Science and Automation. In my free time, I like developing side projects and blogging about them.",
     "url": "https://musing.vercel.app/blog",
-    "twitter": "@lone_Musk",
     "tags": ["Next.js", "React", "Node.js", "TypeScript", "Prisma"]
   },
   {
     "name": "Roopesh Sn's Blog",
     "description": "Whatever difficulty I faces in my routine work, I'll summarize that in a blog post",
     "url": "https://roopesh.hashnode.dev",
-    "twitter": "@roopeshsn",
     "tags": ["CS", "OSS", "Web Development", "JavaScript", "Linux", "DevOps"]
   },
   {
     "name": "Tech Art Aid",
     "description": "Real-time graphics: shaders, procedural generation, optimization, technical artist career",
     "url": "https://techartaid.com",
-    "twitter": "@techartaid",
-    "linkedin": "oswierad",
     "tags": [
       "Tech Art",
       "Career",
@@ -403,14 +370,12 @@
     "name": "Hristo Iliev",
     "description": "I am a game programmer and I write a lot about low level programming in C and C++ and tools programming",
     "url": "https://thatonegamedev.com/posts",
-    "twitter": "@StamenovHristo",
     "tags": ["C++", "CMake"]
   },
   {
     "name": "The Feqy",
     "description": "Sharing my own thoughts and expertise about backend/frontend engineering.",
     "url": "https://feqy.medium.com/",
-    "twitter": "@thefeqy",
     "tags": [
       "JavaScript",
       "Laravel",
@@ -424,7 +389,6 @@
     "name": "Mustafa Albazy Blog",
     "description": "I posts on my blog about few different subjects inc. Electrical and Electronics, coding, music tech.",
     "url": "https://mustafa.page",
-    "twitter": "@mustafaalbazy",
     "tags": [
       "Electrical",
       "Electronics",
@@ -439,7 +403,6 @@
     "name": "Mbaziira Ronald",
     "description": "Sharing resources on Web Development ❤️ | JavaScript 💻 | WordPress | Technical writing to ease your Web Development journey",
     "url": "https://mbaziira.hashnode.dev/",
-    "twitter": "@MbaziiraRonn",
     "tags": [
       "HTML",
       "CSS",
@@ -453,8 +416,6 @@
     "name": "Informer Tech",
     "description": "Your go-to hub for AI breakthroughs, smartphone showdowns, gaming updates, and smart buying decisions. Informer Tech keeps you informed, every single day.",
     "url": "https://www.informertech.com/",
-    "twitter": "@informertechcom",
-    "linkedin": "informer-tech",
     "tags": [
       "Tech News",
       "Tech Media",
@@ -467,14 +428,12 @@
     "name": "Vivek",
     "description": "Awesome JavaScript Libraries and developer resources",
     "url": "https://vivekon.hashnode.dev/",
-    "twitter": "@vivekthedev",
     "tags": ["Resources", "Web Development", "JavaScript"]
   },
   {
     "name": "Teotime Pacreau",
     "description": "Gestion de projets numériques et développement web à Nantes",
     "url": "https://www.teotimepacreau.fr/blog/",
-    "twitter": "@teotimepacreau",
     "tags": [
       "HTML",
       "CSS",
@@ -492,7 +451,6 @@
     "name": "otsch.codes",
     "description": "I blog about coding and my entrepreneurial journey.",
     "url": "https://www.otsch.codes/",
-    "twitter": "@chrolear",
     "tags": [
       "PHP",
       "Web Development",
@@ -507,14 +465,12 @@
     "name": "HeadSpin Blog",
     "description": "The best place to learn appium, selenium and web automation.",
     "url": "https://www.headspin.io/blog",
-    "twitter": "@headspin_io",
     "tags": ["HTML", "CSS", "JavaScript", "Appium", "Selenium"]
   },
   {
     "name": "Canopas Software",
     "description": "We aim to help you become better software engineer. Sharing tips and tricks on android, iOS, web, and programming",
     "url": "https://canopas.com/blog",
-    "twitter": "@canopassoftware",
     "tags": [
       "Vue",
       "iOS",
@@ -532,7 +488,6 @@
     "name": "Dan M. Kazimoto",
     "description": "UI designer and content creator writing about design and frontend development",
     "url": "https://khazifire.com/blog",
-    "twitter": "@khazifire",
     "tags": [
       "JavaScript",
       "HTML",
@@ -548,7 +503,6 @@
     "name": "Bleyl Dev",
     "description": "Flutter & Software Development Technical Articles",
     "url": "https://bleyldev.medium.com/",
-    "twitter": "@bleyldev",
     "tags": [
       "Flutter",
       "Dart",
@@ -562,7 +516,6 @@
     "name": "Pasindu Kavinda",
     "description": "Share insights on cloud computing, mobile development, web technologies, and backend systems, along with other emerging tech that captures my interest",
     "url": "https://blog.pasindukavinda.me/",
-    "twitter": "@_PasinduKavinda",
     "tags": [
       "Flutter",
       "Frontend",
@@ -580,7 +533,6 @@
     "name": "Lakin Mohapatra",
     "description": "Associate team lead  (8+ years of development exp.) | Web3 Architect | Blogger | Blockchain Enthusiast | Trader | Cyber Security Researcher | Books",
     "url": "https://lakin-mohapatra.medium.com",
-    "twitter": "@lakincoder",
     "tags": [
       "JavaScript",
       "PHP",
@@ -597,7 +549,6 @@
     "name": "Manu Arora",
     "description": "I build products and web apps with an aim of impacting millions of lives.",
     "url": "https://manuarora.in/blog",
-    "twitter": "@mannupaaji",
     "tags": [
       "React",
       "Next.js",
@@ -615,7 +566,6 @@
     "name": "Anil Rao K",
     "description": "An engineer who loves curating & creating content.",
     "url": "https://anilraok.com",
-    "twitter": "@Anilraok",
     "tags": [
       "Android",
       "iOS",
@@ -630,7 +580,6 @@
     "name": "Dev Apt",
     "description": "A web magazine demystifying web development, programming and technology with tips, tricks and tweaks.",
     "url": "https://devapt.com/",
-    "twitter": "@dev_apt",
     "tags": [
       "HTML",
       "CSS",
@@ -648,7 +597,6 @@
     "name": "Tech Sheet",
     "description": "Techsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single page.",
     "url": "https://techsheet.vercel.app/",
-    "twitter": "@iamthangam",
     "tags": [
       "Next.js",
       "HTML",
@@ -666,7 +614,6 @@
     "name": "Ashish Patel",
     "description": "A space enthusiast software engineer, building amazing user interfaces, websites, web apps and APIs primarily using react, JamStack and express as key technologies.",
     "url": "https://worldsofashishpatel.com/blogs",
-    "twitter": "@developer_ash",
     "tags": [
       "Ashish",
       "React",
@@ -684,7 +631,6 @@
     "name": "Mohamad Fadhil",
     "description": "T-shaped engineer, DevOps enthusiast",
     "url": "https://fadhil-blog.dev",
-    "twitter": "@sdil",
     "tags": [
       "Django",
       "Web Development",
@@ -700,7 +646,6 @@
     "name": "Estee Tey's Tech Blog",
     "description": "Refine your thinking, designing and development processes. Learn about concepts from a value-driven perspective. Focused on app development, developer productivity & open source technologies.",
     "url": "https://blog.esteetey.dev",
-    "twitter": "@estee_tey",
     "tags": [
       "HTML",
       "CSS",
@@ -718,7 +663,6 @@
     "name": "Manish Prasad",
     "description": "Founding Team Member | 👨🏻‍💻 Developer | ✍️ Blogger",
     "url": "https://techinsights.manisuec.com",
-    "twitter": "@_manish25",
     "tags": [
       "React",
       "Node.js",
@@ -734,7 +678,6 @@
     "name": "Siddhartha D",
     "description": "I write about interesting devops solution for cloud infrastructure. Most of the tutorials will be focused on Python Automation, DevOps and SRE concepts | 👨🏻‍💻 Developer | ✍️ Blogger",
     "url": "https://techwithsidz.hashnode.dev/",
-    "twitter": "@Sidz7",
     "tags": [
       "DevOps",
       "SRE",
@@ -752,7 +695,6 @@
     "name": "Shivashish Yadav",
     "description": "👋 Hello world! My 'name' is Shivashish. I'm a passionate Technical Writer and a Software Engineer. I write beginner-friendly programming tutorials, theory, opinions and publish research articles on Blockchain and Cryptocurrency and various web development and SEO tips to help newbies get started.",
     "url": "https://shiva.hashnode.dev/",
-    "twitter": "@ShivashishYadav",
     "tags": [
       "Web3",
       "Web Development",
@@ -768,7 +710,6 @@
     "name": "joeeey",
     "description": "From backups to security, read the guides and tips you need to stay ahead - including tech insights on Android, Docker, Linux, virtualization, and more.",
     "url": "https://joeeey.com/blog/",
-    "twitter": "@itsmejoeeey",
     "tags": [
       "Docker",
       "Web Development",
@@ -782,14 +723,12 @@
     "name": "UnEncrypted",
     "description": "Hey There, I'm Reda BELHAJ a fourth year Computer Science Student at the International University of Rabat. Welcome to my corner of the internet. I'm glad you're here!",
     "url": "https://unencrypted.vercel.app/",
-    "twitter": "@RedatoB",
     "tags": ["Computer Science", "Networking", "Tailwind CSS", "Next.js"]
   },
   {
     "name": "Yannick Mougin",
     "description": "Just a dev enthusiast who enjoys building user-engaging apps and sharing them through step-by-step tutorials.",
     "url": "https://code-with-yannick.com",
-    "twitter": "@dpnick_",
     "tags": [
       "HTML",
       "CSS",
@@ -806,7 +745,6 @@
     "name": "Saleh Mubashar",
     "description": "Articles on web development and web design",
     "url": "https://salehmubashar.com/blog",
-    "twitter": "@SalehMubashar",
     "tags": [
       "HTML",
       "CSS",
@@ -823,7 +761,6 @@
     "name": "Mohammad Humayun Khan",
     "description": "I am a Computer Engineering Student from India. I love Software Development, Cybersecurity and Cloud Computing.",
     "url": "https://damianarado.medium.com/",
-    "twitter": "@damianarado",
     "tags": [
       "Computer Networking",
       "Operating Systems",
@@ -836,7 +773,6 @@
     "name": "Priyanshu Kumawat",
     "description": "A Wev Developer | Content Creator | Tech Blogger. Talks about Web Development, Open Source, JavaScript and Developer Resources.",
     "url": "https://kumarsonsoff.hashnode.dev",
-    "twitter": "@Kumar_Sons_off",
     "tags": [
       "HTML",
       "CSS",
@@ -852,7 +788,6 @@
     "name": "Christine Belzie",
     "description": "I write about my coding journey and other tech-related stuff.",
     "url": "https://chrissycodes.hashnode.dev/",
-    "twitter": "@CodesChrissy",
     "tags": ["Open Source", "Beginner", "Coding Journey"]
   },
   {
@@ -882,7 +817,6 @@
     "name": "Bryan Braun",
     "description": "Making things and sharing what I learn.",
     "url": "https://www.bryanbraun.com/",
-    "twitter": "@BryanEBraun",
     "tags": [
       "Web Development",
       "Frontend",
@@ -896,7 +830,6 @@
     "name": "Sagar Paul",
     "description": "Fullstack developer. Self-taught.",
     "url": "https://sagarpaul.netlify.app",
-    "twitter": "@iamSagarPaul",
     "tags": [
       "Web Development",
       "React",
@@ -912,7 +845,6 @@
     "name": "Bob Fornal",
     "description": "Senior Frontend Developer, focused on writing about anything that takes me more than a few minutes to accomplish,",
     "url": "https://dev.to/rfornal",
-    "twitter": "@rfornal",
     "tags": [
       "Frontend",
       "Web Development",
@@ -959,7 +891,6 @@
     "name": "Andrew Shell",
     "description": "A software developer, writer, and community builder passionate about open-source technology and collaboration.",
     "url": "https://andrewshell.org/essays/",
-    "twitter": "@andrewshell",
     "tags": [
       "JavaScript",
       "Web Development",
@@ -973,7 +904,6 @@
     "name": "Rishi Mohan",
     "description": "Writing on Next.js, React, Tailwind and building apps using these.",
     "url": "https://rishimohan.me/blog",
-    "twitter": "@thelifeofrishi",
     "tags": ["HTML", "CSS", "JavaScript", "React", "Tailwind CSS", "Node.js"]
   },
   {
@@ -997,7 +927,6 @@
     "name": "Tonie Victor",
     "description": "Software Engineer | Technical Writer",
     "url": "https://tonie.hashnode.dev",
-    "twitter": "@Tonie_NG",
     "tags": [
       "JavaScript",
       "React",
@@ -1011,7 +940,6 @@
     "name": "Shubhma Battoo",
     "description": "Writing about frontend developement with different JavaScript frameworks and more.",
     "url": "https://shubhambattoo.in/blog",
-    "twitter": "@Shubham_batt",
     "tags": [
       "HTML",
       "CSS",
@@ -1041,7 +969,6 @@
     "name": "James Turner",
     "description": "A programmer and entrepreneur with a love of cars, music and technology.",
     "url": "https://turnerj.com/blog",
-    "twitter": "@MrTurnerj",
     "tags": ["C#", ".NET", "Tech", "Programming"]
   },
   {
@@ -1077,8 +1004,6 @@
     "name": "Marko Denic",
     "description": "Web developer. IT consultant and trainer.",
     "url": "https://markodenic.com/blog/",
-    "twitter": "@denicmarko",
-    "linkedin": "denicmarko",
     "tags": [
       "HTML",
       "CSS",
@@ -1108,7 +1033,6 @@
     "name": "Marko Denic Tech",
     "description": "Marko Denic | Helping you become a better developer and monetize your content",
     "url": "https://markodenic.tech/newsletter/",
-    "twitter": "@denicmarko",
     "tags": [
       "HTML",
       "CSS",
@@ -1139,7 +1063,6 @@
     "name": "Suhail Kakar",
     "description": "Full Stack Software Developer | Tech Blogger | Writes about JavaScript, Python, Open Source, and Software Development",
     "url": "https://www.suhailkakar.com/",
-    "twitter": "@SuhailKakar",
     "tags": [
       "HTML",
       "CSS",
@@ -1157,7 +1080,6 @@
     "name": "The Trojan",
     "description": "I write about algorithmic solutions for Software Engineering problems, interesting programming tips & tricks. May also include Machine Learning and Blockchain",
     "url": "https://apoorvtyagi.tech/",
-    "twitter": "@apoorv__tyagi",
     "tags": [
       "Python",
       "JavaScript",
@@ -1174,7 +1096,6 @@
     "name": "A Shreya Sri",
     "description": "Technical Writer | Open Source Enthusiast | Computer Science Undergrad",
     "url": "https://shreyasri.hashnode.dev/",
-    "twitter": "@Shreya_sri25",
     "tags": [
       "Open Source",
       "HTML",
@@ -1192,7 +1113,6 @@
     "name": "Gokulakrishnan Kalaikovan",
     "description": "Web Developer & GDE from India. Developing web applications.",
     "url": "https://gokul.site/blog",
-    "twitter": "@gokul_i",
     "tags": ["HTML", "CSS", "JavaScript", "Web Development", "Web"]
   },
   {
@@ -1216,7 +1136,6 @@
     "name": "Karl Koch",
     "description": "Product Designer and UI Developer.",
     "url": "https://www.karlkoch.me/thoughts",
-    "twitter": "@_kejk",
     "tags": [
       "HTML",
       "CSS",
@@ -1234,7 +1153,6 @@
     "name": "Shane Lee",
     "description": "Staff engineer -  write about tech and sometimes sustainability 🌎",
     "url": "https://blog.shanelee.name",
-    "twitter": "@shavo27",
     "tags": [
       "TypeScript",
       "Spring Boot",
@@ -1252,7 +1170,6 @@
     "name": "Mick Patterson",
     "description": "Fullstack developer | Web and Mobile App Development Tips and Tricks",
     "url": "https://www.mickpatterson.com.au",
-    "twitter": "@Mick_Patterson_",
     "tags": [
       "HTML",
       "JavaScript",
@@ -1270,7 +1187,6 @@
     "name": "Ivan Kahl",
     "description": "Write about all things .NET, AWS, Web and any other new tech that might interest me.",
     "url": "https://blog.ivankahl.com/",
-    "twitter": "@ivankahl",
     "tags": [
       "Sage",
       "Software Developer",
@@ -1287,14 +1203,12 @@
     "name": "Akanksha Raghav",
     "description": "A tech enthusiast who enjoy exploring new technologies and leverage them to solve real-life problem",
     "url": "https://akanksharaghav.medium.com/",
-    "twitter": "@akanksharaghav9",
     "tags": ["Voice user Interface", "JavaScript", "Hosting", "GitHub", "MERN"]
   },
   {
     "name": "Vinit Shahdeo",
     "description": "Another Software Engineer and a GitHub Star from Bangalore, India",
     "url": "https://vinitshahdeo.dev/",
-    "twitter": "@vinit_shahdeo",
     "tags": [
       "Open Source",
       "JavaScript",
@@ -1308,14 +1222,12 @@
     "name": "Alexey Berezin",
     "description": "I am a frontend developer who loves TypeScript and video players",
     "url": "https://blog.beraliv.dev",
-    "twitter": "@beraliv",
     "tags": ["Video", "Players", "TypeScript", "CSS", "JavaScript"]
   },
   {
     "name": "Andrew Baisden",
     "description": "Software Developer | Technical Writer | Content Creator",
     "url": "https://dev.to/andrewbaisden",
-    "twitter": "@andrewbaisden",
     "tags": [
       "HTML",
       "CSS",
@@ -1337,14 +1249,12 @@
     "name": "Olena Drugalya",
     "description": "Olena is self-taught web developer and she writes her beginner-friendly and simply explained tech blogs along the way.",
     "url": "https://olena.hashnode.dev/",
-    "twitter": "@OlenaDrugalya",
     "tags": ["HTML", "CSS", "JavaScript", "Web Development", "React"]
   },
   {
     "name": "Create React App Blog",
     "description": "Stories About My Journey to Become a Developer. Overview of Best Web Dev Tools & Resources.",
     "url": "https://create-react-app.com/",
-    "twitter": "@crapp_blog",
     "tags": [
       "HTML",
       "CSS",
@@ -1359,7 +1269,6 @@
     "name": "Abia Tech Hub",
     "description": "Innovation | Technology | Entrepreneurship",
     "url": "https://blog.abiatechhub.com",
-    "twitter": "@abiatechhub",
     "tags": [
       "JavaScript",
       "Web Development",
@@ -1377,7 +1286,6 @@
     "name": "Davide Mandelli | Th3Wall",
     "description": "I'm a passionate Front-End Web Developer, and I'm interested in building side projects and Saas apps. I've recently launched Fakeflix (https://fakeflix-clone.vercel.app) 🎥🍿",
     "url": "https://th3wall.hashnode.dev/",
-    "twitter": "@th3wall25",
     "tags": [
       "Web Development",
       "Productivity",
@@ -1395,7 +1303,6 @@
     "name": "Alberto Bonacina",
     "description": "Proud Software Engineer, Flutter enthusiast and Free Software activist",
     "url": "https://blog.albertobonacina.com/",
-    "twitter": "polilluminato",
     "tags": [
       "Flutter",
       "Dart",
@@ -1412,7 +1319,6 @@
     "name": "hacking C++",
     "description": "Learn Contemporary C++ // code examples, concise explanations and infographics",
     "url": "https://hackingcpp.com",
-    "twitter": "@hackingcpp",
     "tags": [
       "C++",
       "Software Development",
@@ -1425,7 +1331,6 @@
     "name": "Abdulmalik Adekunle",
     "description": "Front End Web developer, Graphics Designer, IT consultant.",
     "url": "https://abdulmalik.hashnode.dev",
-    "twitter": "@Emeritus_Ade",
     "tags": [
       "HTML",
       "CSS",
@@ -1443,14 +1348,12 @@
     "name": "impure.fun",
     "description": "Functional code for humans",
     "url": "https://impure.fun",
-    "twitter": "@luwvis",
     "tags": ["DDD", "F#", "Functional", ".NET"]
   },
   {
     "name": "dubesar",
     "description": "Python/JS Developer",
     "url": "https://dubesar.hashnode.dev",
-    "twitter": "@Sarvesh12601156",
     "tags": [
       "JavaScript",
       "Python",
@@ -1469,7 +1372,6 @@
     "name": "C. Augusto Proiete",
     "description": "Open-source maintainer: #cakebuild #serilog #exceldna #xlstack",
     "url": "https://augustoproiete.net",
-    "twitter": "@augustoproiete",
     "tags": [
       "Microsoft",
       ".NET",
@@ -1487,7 +1389,6 @@
     "name": "John Wright Stanly",
     "description": "Articles from a startup co-founder about AWS, React, TypeScript, Next.js, Serverless, and more",
     "url": "https://jwstanly.com/blog",
-    "twitter": "@jwstanly",
     "tags": [
       "AWS",
       "React",
@@ -1505,7 +1406,6 @@
     "name": "Rahul",
     "description": "Front-end Developer. Helping beginners in coding.",
     "url": "https://rahulism.hashnode.dev",
-    "twitter": "@rahxul",
     "tags": [
       "HTML",
       "CSS",
@@ -1521,7 +1421,6 @@
     "name": "Kévin Dunglas",
     "description": "Kévin writes about the free software he uses and maintains. Most of the posts are about web APIs, Go, PHP and JavaScript.",
     "url": "https://dunglas.dev",
-    "twitter": "@dunglas",
     "tags": [
       "APIs",
       "Go",
@@ -1539,14 +1438,12 @@
     "name": "Kyle Platt",
     "description": "Senior Software Engineer, Multi Startup Founder, Building Projects in Public",
     "url": "https://kyleplatt.com",
-    "twitter": "@Kyle__Platt",
     "tags": ["Java", "Kotlin", "JavaScript", "Full Stack", "Startups"]
   },
   {
     "name": "Sunil Sandhu",
     "description": "Software Developer, Founder of In Plain English",
     "url": "https://sunilsandhu.com/",
-    "twitter": "@sunilsandhu",
     "tags": [
       "HTML",
       "CSS",
@@ -1564,21 +1461,18 @@
     "name": "Danny Steenman",
     "description": "I’m an AWS Cloud Consultant who likes to build things in the Cloud. I write about my learnings on this Blog and on 'twitter'.",
     "url": "https://towardsthecloud.com/",
-    "twitter": "@dannysteenman",
     "tags": ["AWS", "Certification", "Cloud", "Infrastructure", "Python"]
   },
   {
     "name": "Work Remote",
     "description": "Discover 'Work Remote', where the brightest talent meets groundbreaking opportunities.",
     "url": "https://workremote.cc/blog/",
-    "twitter": "@WorkRemoteCC",
     "tags": ["Remote Work", "Web Development", "JavaScript", "CSS", "WordPress"]
   },
   {
     "name": "Ayush Pawar",
     "description": "Sharing my Computer Science Learnings through easy tutorial Blogs on Hashnode",
     "url": "https://cswithiyush.hashnode.dev/",
-    "twitter": "@Iyush004",
     "tags": [
       "Flutter",
       "Python",
@@ -1593,7 +1487,6 @@
     "name": "Jiri Tichy",
     "description": "I’m helping companies fight technical debt and deliver better software faster. Our automated tool Codeac.io covers our back as well.",
     "url": "https://www.codeac.io/blog/",
-    "twitter": "@tichy_jiri",
     "tags": [
       "Clean Code",
       "Technical Debt",
@@ -1609,14 +1502,12 @@
     "name": "Phil McParlane",
     "description": "Helping Software Developers get a job with a 4 day working week",
     "url": "https://4dayweek.io/blog",
-    "twitter": "@philostar",
     "tags": ["Career", "Self-Development", "Tech", "Jobs"]
   },
   {
     "name": "Sam Larsen-Disney",
     "description": "Sam currently works as a Senior Front-End Engineer at Zone. He has built new ways to refer friends, onboarding experiences and rapid response systems.",
     "url": "https://sld.codes/blog",
-    "twitter": "@SamLarsenDisney",
     "tags": [
       "JavaScript",
       "Gatsby",
@@ -1632,7 +1523,6 @@
     "name": "Bhanu Teja Pachipulusu",
     "description": "Full-Stack Developer, Entrepreneur and Co-Founder of Coderplex. Building https://coderplex.in. Checkout my portfolio at https://bhanuteja.dev",
     "url": "https://blog.bhanuteja.dev",
-    "twitter": "@pbteja1998",
     "tags": [
       "Web Development",
       "JavaScript",
@@ -1650,21 +1540,18 @@
     "name": "Nat Miletic",
     "description": "This blog covers a range of topics related to responsive web design, web development, and WordPress how-to guides.",
     "url": "https://cliowebsites.com/blog/",
-    "twitter": "@natmiletic",
     "tags": ["Web Design", "WordPress", "SEO"]
   },
   {
     "name": "Nelson Figueroa",
     "description": "Personal site of Nelson Figueroa -- Software Engineer",
     "url": "https://nelson.cloud",
-    "linkedin": "nelsonfigueroa1",
     "tags": ["Blog", "Technology", "Cybersecurity", "DevOps", "Infrastructure", "Cloud", "Software"]
   },
   {
     "name": "Alexander Lichter",
     "description": "Nuxt.js maintainer and Web Development Consultant. I love to blog about various technical topics with a focus on web development, especially with Vue and Nuxt.",
     "url": "https://www.lichter.io/articles/?ref=tech-blogs.dev",
-    "twitter": "@TheAlexLichter",
     "tags": [
       "Nuxt",
       "Vue",
@@ -1682,7 +1569,6 @@
     "name": "Nacho Iacovino",
     "description": "I'm a Frontend developer and Developer Relations. I share resources, tips and guides on web development. I like talking about best practices and new technologies. My favorite stack is Next.js and Tailwind CSS.",
     "url": "https://nachoiacovino.com/blog",
-    "twitter": "@nachoiacovino",
     "tags": [
       "Tailwind CSS",
       "React",
@@ -1699,7 +1585,6 @@
     "name": "Ozer Tayiz",
     "description": "A cryptocurrency enthusiast who is learning to code to get a web3 blockchain developer job",
     "url": "https://ozercodesblockchain.hashnode.dev/",
-    "twitter": "@OzerCodesCrypto",
     "tags": [
       "HTML",
       "CSS",
@@ -1716,7 +1601,6 @@
     "name": "Ramya Chinnadurai (Rams)",
     "description": "Full stack web developer. Passionate programmer and curious learner. Building https://100daysof.codes ",
     "url": "https://ramyachinnadurai.in/",
-    "twitter": "@code_rams",
     "tags": [
       "HTML",
       "CSS",
@@ -1732,7 +1616,6 @@
     "name": "Puru Vijay",
     "description": "Fullstack Developer 6+ years, maker of fast sites.  I am interested in Web dev, but also giving time to other techs like Python, C, Rust, etc. I am currently 1st year student in IIITDM Kancheepuram, India. I love Cycling around for hours",
     "url": "https://puruvj.dev/blog",
-    "twitter": "@puruvjdev",
     "tags": [
       "HTML",
       "CSS",
@@ -1750,7 +1633,6 @@
     "name": "AutoSysOps",
     "description": "Blog by Leo Visser about automating the boring things in SysOps and Devops work by using cloud technologies.",
     "url": "https://www.autosysops.com/blog",
-    "twitter": "@AutoSysOps",
     "tags": [
       "Azure",
       "Cloud",
@@ -1768,7 +1650,6 @@
     "name": "Leon AI",
     "description": "I'm building Leon, your open-source personal assistant. I share my tips and creativity along the way.",
     "url": "https://blog.getleon.ai",
-    "twitter": "@louistiti_fr",
     "tags": [
       "Tech",
       "Web Development",
@@ -1785,7 +1666,6 @@
     "name": "Oliver Jumpertz",
     "description": "DeepDive covers cloud and web development overall. It tries to take a deeper look into how things work and explain them as simple as possible.",
     "url": "https://deepdive.hashnode.dev/",
-    "twitter": "@oliverjumpertz",
     "tags": [
       "JavaScript",
       "TypeScript",
@@ -1799,7 +1679,6 @@
     "name": "//pauls dev blog",
     "description": "I'm a husband, dad, lifelong learner, tech lover, and Senior Engineer working as a Tech Lead. I write about projects and challenges in IT.",
     "url": "https://www.paulsblog.dev",
-    "twitter": "@paulknulst",
     "tags": [
       "JavaScript",
       "TypeScript",
@@ -1817,28 +1696,24 @@
     "name": "Daily Dev Tips",
     "description": "Chris writes every single day about web development snippets that will help you become a better developer. He focuses on frontend development, JavaScript, popular frameworks, and HTML and CSS.",
     "url": "https://daily-dev-tips.com/",
-    "twitter": "@DailyDevTips1",
     "tags": ["HTML", "JavaScript", "CSS", "Beginner", "Web Development"]
   },
   {
     "name": "Tshiteej Bhardwaj",
     "description": "I love to write around Web Development, and related technologies.",
     "url": "https://www.tshiteej.com/blog",
-    "twitter": "tshiteej",
     "tags": ["JavaScript", "Python", "Web Development", "Automation"]
   },
   {
     "name": "Victoria Lo",
     "description": "Victoria is a very curious developer. Her articles on blogging combine great programming skills with enjoyable and insightful technical articles.",
     "url": "https://lo-victoria.com",
-    "twitter": "@lo_victoria2666",
     "tags": ["HTML", "CSS", "JavaScript", "Web Development", "React"]
   },
   {
     "name": "Mr. Unity Buddy",
     "description": "Hey there! I am Mr. Unity Buddy. I love writing articles that help people to solve various problems and learning about new things.",
     "url": "https://mr-unity-buddy.hashnode.dev/",
-    "twitter": "@BuddyUnity",
     "tags": [
       "Python",
       "Full Stack",
@@ -1856,28 +1731,24 @@
     "name": "Abiola Farounbi",
     "description": "I am a Front-end Developer passionate about developing and designing user friendly web applications.i write technical contents and articles.",
     "url": "https://abiolafarounbiblog.hashnode.dev/",
-    "twitter": "@abiolaesther_",
     "tags": ["HTML", "CSS", "JavaScript", "Web Development", "Frontend"]
   },
   {
     "name": "Aadhithyan Suresh",
     "description": "Why you should switch to ubuntu today.",
     "url": "https://aadhithyan.hashnode.dev/",
-    "twitter": "@Aadhithyan_17",
     "tags": ["Linux", "Ubuntu", "Faster Development"]
   },
   {
     "name": "Nikita Hlopov",
     "description": "In this blog I post my observations and share experience related to frontend web development.",
     "url": "https://nikitahl.com",
-    "twitter": "@nikita_hlopov",
     "tags": ["HTML", "CSS", "JavaScript", "React", "Web Development"]
   },
   {
     "name": "Christoph Werner",
     "description": "Software architect writing about web development and cloud technology.",
     "url": "https://codepunkt.de/writing/",
-    "twitter": "@code_punkt",
     "tags": [
       "Web Development",
       "Software Architecture",
@@ -1895,7 +1766,6 @@
     "name": "Chris Kalmar",
     "description": "Full stack developer, blogging about React, Nodejs, GraphQL, Docker, and personal experiences as a tech lead.",
     "url": "https://chriskalmar.dev/blog/",
-    "twitter": "@chriskalmar",
     "tags": [
       "Web Development",
       "JavaScript",
@@ -1912,14 +1782,12 @@
     "name": "Spacelift",
     "description": "Articles about Terraform, Kubernetes, Ansible, and Docker.",
     "url": "https://spacelift.io/blog",
-    "twitter": "@spaceliftio",
     "tags": ["Terraform", "Ansible", "Kubernetes", "Docker", "DevOps", "AWS"]
   },
   {
     "name": "Sabe.io",
     "description": "Learn to code with high-quality classes and tutorials on HTML, CSS, JavaScript, TypeScript, Vue, React, Node, Java, PHP, Python, Docker, Deno, and more.",
     "url": "https://sabe.io",
-    "twitter": "@sabe_io",
     "tags": [
       "HTML",
       "CSS",
@@ -1937,7 +1805,6 @@
     "name": "Kumusta Mundo",
     "description": "Tech tutorials and stories from Adrienne Tacke, a Filipina software engineer.",
     "url": "https://blog.adrienne.io/",
-    "twitter": "@adriennetacke",
     "tags": [
       "Cloud",
       "Azure",
@@ -1953,7 +1820,6 @@
     "name": "Juan Fernandes",
     "description": "Freelance Web Designer",
     "url": "https://www.juanfernandes.uk/blog/",
-    "twitter": "@juanfernandes",
     "tags": [
       "HTML",
       "CSS",
@@ -1971,7 +1837,6 @@
     "name": "Code Create",
     "description": "Exploring all things code and design. Diving into JavaScript, Python, and CS topics in 2021.",
     "url": "https://blog.code-create.dev",
-    "twitter": "@kreyol_dev",
     "tags": [
       "Web Development",
       "JavaScript",
@@ -1989,7 +1854,6 @@
     "name": "ThisDot Blog",
     "description": "Deep knowledge on web topics and tools. Written by many developers",
     "url": "https://www.thisdot.co/blog",
-    "twitter": "@ThisDotLabs",
     "tags": [
       "Frontend",
       "JavaScript",
@@ -2007,7 +1871,6 @@
     "name": "Sahan Serasinghe",
     "description": "Howdy! I'm Sahan, a Senior Software Engineer, Solutions Architect & Speaker with over 10 years of experience in Cloud and Backend engineering. Checkout my blog for more details at https://sahansera.dev",
     "url": "https://sahansera.dev/",
-    "twitter": "@_SahanSera",
     "tags": [
       "Software Engineering",
       "Software Architecture",
@@ -2025,7 +1888,6 @@
     "name": "Margo McCabe",
     "description": "Women in Tech | DevRel | Databases | Tech Blogger | Podcast Host",
     "url": "https://dev.to/margo_hdb",
-    "twitter": "@margo_hdb",
     "tags": [
       "Databases",
       "data management",
@@ -2041,7 +1903,6 @@
     "name": "Albert Walicki",
     "description": "Frontend developer, entrepreneur, writer, CSS artist",
     "url": "https://www.albertwalicki.com/blog",
-    "twitter": "@AlbertWalicki",
     "tags": [
       "CSS",
       "HTML",
@@ -2057,7 +1918,6 @@
     "name": "Cameron Armstrong",
     "description": "Web3, startup, and leadership thoughts from a post-exit e-commerce startup founder building in DeFi (with a healthy spritz of Army and economics thrown in for flavor).",
     "url": "https://www.wysr.xyz",
-    "twitter": "@frozenfire42",
     "tags": [
       "Web3",
       "Crypto",
@@ -2073,7 +1933,6 @@
     "name": "Teco Tutorials",
     "description": "Tutorials for learning how to build backend web applications",
     "url": "https://blog.tericcabrel.com",
-    "twitter": "@tericcabrel",
     "tags": [
       "Backend",
       "Java",
@@ -2091,14 +1950,12 @@
     "name": "Christian Tech Jobs",
     "description": "Articles about Christian tech trends and career advice for the Christian tech space.",
     "url": "https://www.christiantechjobs.io/blog",
-    "twitter": "@ctj_io",
     "tags": ["Career", "Self-Development", "Tech", "Jobs"]
   },
   {
     "name": "Rocco Sangellino",
     "description": "I am a senior frontend developer with 10+ years of experience. I have experience building scalable, accessible, and responsive web applications using HTML, CSS, JavaScript, Vue.js and Node.js.",
     "url": "https://blog.roccosangellino.com/",
-    "twitter": "@RoccoSangellino",
     "tags": [
       "HTML",
       "CSS",
@@ -2116,7 +1973,6 @@
     "name": "Shefali",
     "description": "Web development insights, tutorials, and resources",
     "url": "https://shefali.dev/blog",
-    "twitter": "@Shefali__J",
     "tags": [
       "HTML",
       "CSS",
@@ -2134,7 +1990,6 @@
     "name": "Corey O'Donnell",
     "description": "Web developer, TypeScript Enthusiast. Blogging about web development and tech",
     "url": "https://codebycorey.com/blog/",
-    "twitter": "@codebycorey",
     "tags": [
       "Web Development",
       "JavaScript",
@@ -2165,7 +2020,6 @@
     "name": "Stephan Kämper",
     "description": "Programming & Software Test 〜 Languages: English, German, Ruby, and some Elixir",
     "url": "https://seasidetesting.com/",
-    "twitter": "@S_2K",
     "tags": [
       "APIs",
       "BDD",
@@ -2183,7 +2037,6 @@
     "name": "Thien Tran",
     "description": "Fullstack Personal blog and portfolio.",
     "url": "https://thien.me/blog",
-    "twitter": "@thientsx",
     "tags": [
       "Notion",
       "Next.js",
@@ -2201,7 +2054,6 @@
     "name": "Dan Spratling",
     "description": "UX Consultant, making websites better for users for over 5 years",
     "url": "https://danspratling.dev/blog/",
-    "twitter": "@dan_spratling",
     "tags": [
       "Freelancing",
       "Career",
@@ -2219,7 +2071,6 @@
     "name": "Umair Hafeez",
     "description": "Front End Architect & Angular Fanatic 🅰️. I share whatever I have learned or learn during my day to day job. I believe in lean, share and grow philosophy, and that's the reason I started writing on this blog along with byte sized tips I share on Twitter and LinkedIn.",
     "url": "https://blog.umairhafeez.com",
-    "twitter": "@_UmairHafeez_",
     "tags": [
       "HTML",
       "CSS",
@@ -2240,7 +2091,6 @@
     "name": "Scott Spence",
     "description": "A detailed account of what Scott Spence is about. Currently learning TypeScript, Unit testing with React testing library with Jest and end to end testing with Cypress.",
     "url": "https://scottspence.com",
-    "twitter": "@spences10",
     "tags": [
       "Svelte",
       "SvelteKit",
@@ -2258,7 +2108,6 @@
     "name": "Ammaar's Blog",
     "description": "Articles on Web Development🌐(React, NextJS, HTML, CSS, Tailwind CSS), Productivity📈 and Programming in General👩‍💻, to help you become a better developer.",
     "url": "https://ammaaraslam.hashnode.dev",
-    "twitter": "@itsammaar_7",
     "tags": [
       "Web Development",
       "Programming",
@@ -2274,7 +2123,6 @@
     "name": "Nilanth",
     "description": "Full Stack Developer | Laravel | React",
     "url": "https://nilanth.hashnode.dev",
-    "twitter": "@nilanth",
     "tags": [
       "Frontend",
       "React",
@@ -2292,7 +2140,6 @@
     "name": "Florian Clanet",
     "description": "Cloud entusiast who loves to build magical things in the Cloud. I am very curious and I try to share my new learnings with you.",
     "url": "https://blog.flolight.dev/",
-    "twitter": "@FlolightC",
     "tags": [
       "AWS",
       "Cloud",
@@ -2310,14 +2157,12 @@
     "name": "WP OWls",
     "description": "WP Owls is a place created especially for WordPress fans. Every week you will find the latest news from the world of WordPress.",
     "url": "https://wpowls.co/articles/",
-    "twitter": "@WP_Owls",
     "tags": ["WordPress", "Web Development"]
   },
   {
     "name": "Idris Olubisi",
     "description": "A Software Developer, Technical Writer and a Speaker skilled at problem-solving, technical leadership, communications, and presentations with vast experience in the full project life cycle from design to implementation to integration.",
     "url": "https://blog.idrisolubisi.com/",
-    "twitter": "@olanetsoft",
     "tags": [
       "HTML",
       "CSS",
@@ -2335,7 +2180,6 @@
     "name": "Aman Mittal",
     "description": "I am a fullstack developer and a technical writer. I am interested in React Native, React, Node.js and GraphQL. These are the topics that I often write about too.",
     "url": "https://amanhimself.dev",
-    "twitter": "@amanhimself",
     "tags": [
       "JavaScript",
       "Node.js",
@@ -2352,7 +2196,6 @@
     "name": "DeveloperAspire",
     "description": "I am a Software engineer, writing about VueJs, JavaScript, Golang, Developers Tips and Hacks, Tailwind and open-source, Open-source contributor.",
     "url": "https://developeraspire.hashnode.dev/",
-    "twitter": "@DeveloperAspire",
     "tags": [
       "Go",
       "Tailwind CSS",
@@ -2367,7 +2210,6 @@
     "name": "Sushmita Pandey",
     "description": "Frontend Developer 👩‍💻 | Tech Blogger ✍ | JavaScript Fanatic 🚀",
     "url": "https://sushmita.hashnode.dev/",
-    "twitter": "@sushmitacodes",
     "tags": [
       "JavaScript",
       "Web Development",
@@ -2383,7 +2225,6 @@
     "name": "Rasmus Langvad",
     "description": "Senior Frontend Developer from Sweden writing about web, tech and mentorship. Currently working with Vue, Nuxt and Node.",
     "url": "https://langvad.dev/blog/",
-    "twitter": "@rlangvad",
     "tags": [
       "JavaScript",
       "Frontend",
@@ -2401,7 +2242,6 @@
     "name": "Richard Kovacs",
     "description": "Are you looking for a blog to help you with any of the topics tagged below? Then you are at the right place.",
     "url": "https://richardkovacs.dev/blog",
-    "twitter": "@rchardkovacs",
     "tags": [
       "Web Development",
       "Security",
@@ -2417,7 +2257,6 @@
     "name": "Austin Gil",
     "description": "Writing about web development and life.",
     "url": "https://austingil.com/blog/",
-    "twitter": "@heyAustinGil",
     "tags": [
       "HTML",
       "CSS",
@@ -2435,7 +2274,6 @@
     "name": "Silvestar Bistrović",
     "description": "Frontend, JAMstack, WordPress, and freelancing topics.",
     "url": "https://www.silvestar.codes/articles/",
-    "twitter": "@malimirkeccita",
     "tags": [
       "HTML",
       "CSS",
@@ -2451,7 +2289,6 @@
     "name": "Matthew Hart",
     "description": "DevOps focused developer, this is my blog where I discuss solutions I find while I work",
     "url": "https://mattou07.net/",
-    "twitter": "@mattou07",
     "tags": [
       "DevOps",
       "Web Development",
@@ -2466,7 +2303,6 @@
 	  "name": "mkiesel",
 	  "description": "Manu's personal, mostly infosec-related blog",
 	  "url": "https://mkiesel.ch",
-	  "twitter": "@rtfmkiesel",
 	  "tags": [
 		  "infosec",
 		  "cybersec",
@@ -2478,7 +2314,6 @@
     "name": "Ankur Tyagi",
     "description": "Hi, I’m Ankur Tyagi, Software Engineer, Mentor, Coach, Content creator, Checkout my website for more details at https://theankurtyagi.com/",
     "url": "https://theankurtyagi.com/blog/",
-    "twitter": "@TheAnkurTyagi",
     "tags": [
       "Web Development",
       "JavaScript",
@@ -2501,7 +2336,6 @@
     "name": "Mads Brodt",
     "description": "Front-end engineer. Sharing technical tutorials and career advice to help you become a better developer.",
     "url": "https://madsbrodt.com/blog/",
-    "twitter": "@madsbrodt",
     "tags": [
       "JavaScript",
       "Web Development",
@@ -2519,7 +2353,6 @@
     "name": "James Drysdale",
     "description": "Frontend Developer from Scotland writing about web development. Currently working with React, React Native and Node.",
     "url": "https://jamesdrysdale.hashnode.dev/",
-    "twitter": "@JamesDrysdale84",
     "tags": [
       "JavaScript",
       "HTML",
@@ -2535,7 +2368,6 @@
     "name": "Saad Ahmad",
     "description": "Frontend developer | Mechanical engineer",
     "url": "https://saadahmadhere.medium.com/",
-    "twitter": "@imsaadahmad",
     "tags": [
       "GitHub",
       "API",
@@ -2549,7 +2381,6 @@
     "name": "Tim Robards",
     "description": "Frontend Developer and creator of easeout.co, a blog/community for web developers and designers alike!",
     "url": "https://www.easeout.co/",
-    "twitter": "@easeoutco",
     "tags": [
       "HTML",
       "CSS",
@@ -2565,7 +2396,6 @@
     "name": "Simon Wicki",
     "description": "Freelance Developer in Berlin. Worked on Web and Mobile apps at JustWatch. Fluent in Vue, Angular, React and Ionic. Passionate about Frontend, tech, web perf & non-fiction books.",
     "url": "https://wicki.io/posts/",
-    "twitter": "@zwacky",
     "tags": [
       "JavaScript",
       "Vue",
@@ -2585,7 +2415,6 @@
     "name": "Peter Smulovics",
     "description": "Dad, Geek, Geek Dad - Microsoft enthusiast",
     "url": "https://dotneteers.net",
-    "twitter": "@mountgellert",
     "tags": [
       "Microsoft",
       ".NET",
@@ -2602,7 +2431,6 @@
     "name": "Remi Weng",
     "description": "Learn about fullstack web development with Next.js, React, Tailwind CSS and TypeScript hosted on AWS",
     "url": "https://creativedesignsguru.com/blog/",
-    "twitter": "@ixartz",
     "tags": [
       "JavaScript",
       "React",
@@ -2620,7 +2448,6 @@
     "name": "Learnedia",
     "description": "WP dev tips and tricks, conversion tracking tips",
     "url": "https://learnedia.com/",
-    "twitter": "@helloImLearnrr",
     "tags": [
       "WordPress",
       "PHP",
@@ -2637,7 +2464,6 @@
     "name": "Dillion Megida",
     "description": "Software Engineer and Content creator passionate about simplifying topics around web development",
     "url": "https://dillionmegida.com/blog",
-    "twitter": "@iamdillion",
     "tags": [
       "Frontend",
       "JavaScript",
@@ -2655,7 +2481,6 @@
     "name": "Emmanuel Ezeka",
     "description": "A frontend web developer, Electrical/Electronics Engineer, Passionate about problem-solving.",
     "url": "https://eecvision.hashnode.dev/",
-    "twitter": "@EECvision",
     "tags": [
       "HTML",
       "CSS",
@@ -2688,7 +2513,6 @@
     "name": "Rishab Kumar",
     "description": "I am a tech entusiast that loves to play in the Cloud and related technologies. Also, try to create nice web experiences.",
     "url": "https://rishabkumar.com/blog/",
-    "twitter": "@rishabk7",
     "tags": [
       "AWS",
       "Cloud",
@@ -2707,7 +2531,6 @@
     "name": "Sebastian Hesse",
     "description": "Serverless Cloud Expert - Blogging about everything related to AWS Cloud, Serverless, Java, Node.js and JavaScript.",
     "url": "https://www.sebastianhesse.de/blog",
-    "twitter": "@seeebiii",
     "tags": [
       "Software Engineer",
       "AWS",
@@ -2725,7 +2548,6 @@
     "name": "Devopsian",
     "description": "Software Engineer blogging about Infrastructure, Reliability, Devops Principals and.. Software Engineering",
     "url": "https://devopsian.net",
-    "twitter": "@c0anidam",
     "tags": [
       "Software Engineering",
       "DevOps",
@@ -2758,7 +2580,6 @@
     "name": "Godswill Umukoro",
     "description": "Software engineer who loves building frontend applications",
     "url": "https://godswillumukoro.hashnode.dev",
-    "twitter": "@umuks_",
     "tags": [
       "Software Engineer",
       "JavaScript",
@@ -2772,7 +2593,6 @@
     "name": "Jai Kumar Dewani",
     "description": "Another Tech-nerd trying to make a 'name' for himself.",
     "url": "https://jai-dewani.github.io/blogs/",
-    "twitter": "@jai_dewani",
     "tags": [
       "Software Developer",
       "Python",
@@ -2790,7 +2610,6 @@
     "name": "Peter Lynch",
     "description": "Full-stack developer and creator of popular chrome extension Garachu. I write about web development and help you level up your coding.",
     "url": "https://peterlunch.com/articles/",
-    "twitter": "@thelynchpinau",
     "tags": [
       "HTML",
       "CSS",
@@ -2804,7 +2623,6 @@
     "name": "Sakun Pushpitha",
     "description": "Web development resources, tutorials, tips and tricks for developers.",
     "url": "https://sakunpushpitha.hashnode.dev",
-    "twitter": "@SakunPushpitha",
     "tags": [
       "Web Development",
       "Backend",
@@ -2822,7 +2640,6 @@
     "name": "Sarah Drasner",
     "description": "The author of SVG Animations from O’Reilly and a staff writer for CSS-Tricks.",
     "url": "https://sarah.dev/writing",
-    "twitter": "@sarah_edo",
     "tags": [
       "SVG",
       "Vue",
@@ -2836,7 +2653,6 @@
     "name": "Sven Hofmann",
     "description": "Thoughts, resources, and hacks for developers.",
     "url": "https://hofmannsven.com/blog",
-    "twitter": "@hofmannsven",
     "tags": [
       "APIs",
       "Backend",
@@ -2852,7 +2668,6 @@
     "name": "Filipe Oliveira",
     "description": "codeperf.io: Blog empowering developers with tools and how-to to make software faster.",
     "url": "https://codeperf.io",
-    "twitter": "@fcosta_oliveira",
     "tags": [
       "Performance",
       "Observability",
@@ -2867,7 +2682,6 @@
     "name": "Maria Ehsan",
     "description": "I'm a Database Engineer, a women in Tech. I work on large scale databases that runs millions of transactions every second, consists of very large multi-terabyte, multi-million rows of data.",
     "url": "https://medium.com/@maria.ehsan63",
-    "twitter": "@Maria__Ehsan",
     "tags": [
       "AWS",
       "Databases",
@@ -2880,7 +2694,6 @@
     "name": "Bart Zalewski",
     "description": "Full-Stack Developer. I helped hundreds of thousands of people around the world with programming.",
     "url": "https://bartzalewski.com/blog/?ref=tech-blogs.dev",
-    "twitter": "@bart_coder",
     "tags": [
       "JavaScript",
       "Web Development",
@@ -2898,7 +2711,6 @@
     "name": "Omar Elhawary",
     "description": "Software developer and linux enthusiast interested in user/dev experience, software architecture, design systems, statically typed languages and functional programming.",
     "url": "https://omarelhawary.me/blog",
-    "twitter": "@oedotme",
     "tags": [
       "TypeScript",
       "React",
@@ -2916,7 +2728,6 @@
     "name": "Ravgeet Dhillon",
     "description": "Full Stack Developer and Technical Content Writer",
     "url": "https://www.ravgeet.in/blog/",
-    "twitter": "@ravgeetdhillon",
     "tags": [
       "React",
       "Vue",
@@ -2941,7 +2752,6 @@
     "name": "Bisrategebriel Fisseha",
     "description": "Software Engineer| Graphic Designer | Tech Entrepreneur | Cofounder at Kuraztech",
     "url": "https://bisrate22.medium.com/",
-    "twitter": "@Bisrate22Fish",
     "tags": [
       "Tech",
       "Software Development",
@@ -2959,14 +2769,12 @@
     "name": "Preston Lamb",
     "description": "Full Stack developer, focusing on Angular and Node",
     "url": "https://www.prestonlamb.com/blog/",
-    "twitter": "prestonjlamb",
     "tags": ["Angular", "JavaScript", "Node.js", "Nest.js", "Web Development"]
   },
   {
     "name": "Priya Pareek",
     "description": "Used to write about TechSavvy",
     "url": "https://techsavvypriya.wordpress.com/",
-    "twitter": "iampriyapareek",
     "tags": [
       "Frontend",
       "Git",
@@ -2984,14 +2792,12 @@
     "name": "bitExpert Blog",
     "description": "This blog combines topics that are important to us, our news and informative tutorials around technology and software.",
     "url": "https://blog.bitexpert.de/blog",
-    "twitter": "@bitexpert",
     "tags": ["PHP", "Magento", "Java", "React", "DevOps"]
   },
   {
     "name": "Renan Moura",
     "description": "Posts for anyone looking to go deeper into Python and find practical ways to apply it in the fields of Web Development, Data Science and Machine Learning.",
     "url": "https://renanmf.com/",
-    "twitter": "@renanmouraf",
     "tags": [
       "Python",
       "Cloud",
@@ -3008,21 +2814,18 @@
     "name": "Vishunbhotla V D V Bharadwaj",
     "description": "A Computer Science Engineer who loves Blogging and Sharing Content",
     "url": "https://bharadwaj.hashnode.dev/",
-    "twitter": "@Bharadwaj6262",
     "tags": ["Python", "Flutter", "Web Development", "Computer Science"]
   },
   {
     "name": "Alex Lakatos",
     "description": "Reformed JavaScript person. Tech Lead by day, Developer Avocado 🥑 by night.",
     "url": "https://alexlakatos.com/",
-    "twitter": "@lakatos88",
     "tags": ["JavaScript", "DevTools", "DevRel"]
   },
   {
     "name": "Sachin Chaurasiya",
     "description": "Software Engineer, Freelancer, Open-Source Contributor, Technical Blogger",
     "url": "https://blog.sachinchaurasiya.dev/",
-    "twitter": "@sachindotcom",
     "tags": [
       "Sachin",
       "React",
@@ -3046,7 +2849,6 @@
     "name": "Bogdan Alexandru Militaru",
     "description": "I write about programming, devops and my startup journey. | Software Engineer",
     "url": "https://whyboobo.com/",
-    "twitter": "@militaru_bogdan",
     "tags": [
       "Programming",
       "APIs",
@@ -3068,14 +2870,12 @@
     "name": "Brainboard",
     "description": "Writing about everything related to the Cloud | powered by Cloud architects",
     "url": "https://www.brainboard.co",
-    "twitter": "@brainboard_co",
     "tags": ["DevOps", "Cloud", "Terraform", "Cloud Native"]
   },
   {
     "name": "Franklin Ohaegbulam",
     "description": "Frontend/UI Engineer and Visual Design passionate about Blockchain technology, Open Source, User Experience, Acessibility and Inclusive Design",
     "url": "https://frankiefab.hashnode.dev/",
-    "twitter": "@frankiefab100",
     "tags": [
       "HTML",
       "CSS",
@@ -3091,7 +2891,6 @@
     "name": "Pankaj Patel (Time to Hack)",
     "description": "Articles about JavaScript, FrontEnd, Backend, Docker, Blogging and Tech",
     "url": "https://time2hack.com/",
-    "twitter": "@heypankaj_",
     "tags": [
       "HTML",
       "CSS",
@@ -3109,7 +2908,6 @@
     "name": "Rishabh Rawat",
     "description": "Software Engineer working at a fintech startup. Documenting my journey of becoming a better backend developer.",
     "url": "https://rrawat.com/",
-    "twitter": "@rishabh570",
     "tags": [
       "Web Development",
       "Node.js",
@@ -3127,7 +2925,6 @@
     "name": "Japan Dev",
     "description": "Good tech jobs in Japan",
     "url": "https://japan-dev.com/blog",
-    "twitter": "@_etdev",
     "tags": [
       "Tech",
       "Jobs",
@@ -3142,14 +2939,12 @@
     "name": "Alexandre Nédélec",
     "description": "Software developer living in Bordeaux, France ⋅ Working mainly in C# / .NET on Azure ⋅ Love discovering new tools and technologies",
     "url": "http://techwatching.dev/posts",
-    "twitter": "@TechWatching",
     "tags": ["C#", ".NET", "Azure", "Cloud", "Software Development", "DevOps"]
   },
   {
     "name": "Tapas Adhikary(GreenRoots Blog)",
     "description": "Articles about Tech, JavaScript, Web Technologies, and Career development. ",
     "url": "https://blog.greenroots.info/",
-    "twitter": "@tapasadhikary",
     "tags": [
       "HTML",
       "CSS",
@@ -3165,7 +2960,6 @@
     "name": "Timonwa's Notes",
     "description": "Timonwa is a Frontend Developer and Technical Writer who writes notes on web development that help beginners have an easier learning journey.",
     "url": "https://tech.timonwa.com/",
-    "twitter": "@timonwa_",
     "tags": [
       "HTML",
       "CSS",
@@ -3183,7 +2977,6 @@
     "name": "Osama Mohamed Ammar",
     "description": "Self-taught front-end developer, single threaded, non-blocking person. Trying to become a software engineer.",
     "url": "https://dev.to/osamamammar",
-    "twitter": "@osamamammar",
     "tags": [
       "HTML",
       "CSS",
@@ -3202,7 +2995,6 @@
     "name": "Anish De",
     "description": "Articles on Web Development, DevOps, Personal Experiences, Open Source, and more.",
     "url": "https://blog.anishde.dev/",
-    "twitter": "@anishde12020",
     "tags": [
       "HTML",
       "CSS",
@@ -3220,7 +3012,6 @@
     "name": "Mr. Ånand",
     "description": "Student | Content Creator | Explorer and Learner",
     "url": "https://astrodevil.hashnode.dev/",
-    "twitter": "@Astrodevil_",
     "tags": [
       "HTML",
       "CSS",
@@ -3240,7 +3031,6 @@
     "name": "Coderflex",
     "description": "Integrate Code Reviews, Tutorials, Frameworks, Security Updates, etc.",
     "url": "https://coderflex.com/blog",
-    "twitter": "@coderflex",
     "tags": [
       "PHP",
       "Laravel",
@@ -3255,7 +3045,6 @@
     "name": "Vipul Soni",
     "description": "Full Stack Web Developer.Write blogs about Web Development",
     "url": "https://medium.com/@vipulsoniab17_40156",
-    "twitter": "@Vipulso06279659",
     "tags": [
       "React",
       "HTML",
@@ -3272,7 +3061,6 @@
     "name": "Atharva Salitri",
     "description": "Technical Writer | Open Source Enthusiast | Beginner Web Developer",
     "url": "https://theamazingatharva.hashnode.dev/",
-    "twitter": "@atharvas_twt",
     "tags": [
       "Open Source",
       "HTML",
@@ -3288,7 +3076,6 @@
     "name": "Maximiliano Contieri",
     "description": "Maximiliano Contieri | Software Engineer",
     "url": "https://maximilianocontieri.com/",
-    "twitter": "@mcsee1",
     "tags": [
       "Refactoring",
       "Clean Code",
@@ -3305,7 +3092,6 @@
     "name": "Employment Japan",
     "description": "Tech corner where the latest technologies curated by experts in the field are discussed.",
     "url": "https://www.ejable.com/category/tech-corner/",
-    "twitter": "@emp_japan",
     "tags": [
       "AI",
       "ML",
@@ -3320,7 +3106,6 @@
     "name": "Engin Arslan",
     "description": "Engin is a Zurich-based front-end engineer and teacher. Author of 'Coding for Visual Learners'",
     "url": "https://www.enginarslan.com/posts",
-    "twitter": "@inspiratory",
     "tags": [
       "Software Engineering",
       "Software Engineer",
@@ -3332,14 +3117,12 @@
     "name": "Awesome Coding",
     "description": "Learn to code awesome stuff like web applications, 3D graphics, animations, games, scrapers, artificial intelligence, VR, AR in a beginner-friendly way.    ",
     "url": "https://awesomecoding.co/blog",
-    "twitter": "@inspiratory",
     "tags": ["JavaScript", "Node.js", "Web Development"]
   },
   {
     "name": "Dev by RayRay",
     "description": "Ray is a Lead Frontend Developer, specialised in Angular. He writes about Frontend Development, Workflow, JavaScript, TypeScript, Angular and more related topics.",
     "url": "https://byrayray.dev/",
-    "twitter": "@devbyrayray",
     "tags": [
       "HTML",
       "JavaScript",
@@ -3356,21 +3139,18 @@
     "name": "Mike Driscoll",
     "description": "Python news, beginner to advanced tutorials, interviews and more",
     "url": "https://www.blog.pythonlibrary.org/",
-    "twitter": "@driscollis",
     "tags": ["Python", "Programming", "Backend", "Frontend"]
   },
   {
     "name": "Seth Michael Larson",
     "description": "Articles about Python, API design, open source, and internet technologies.",
     "url": "https://sethmlarson.dev/blog",
-    "twitter": "@sethmlarson",
     "tags": ["Open Source", "Python", "HTTP", "APIs", "Internet"]
   },
   {
     "name": "Helmer Davila",
     "description": "My public technical 📘 notebook (blog), where I publish ✍️ in 3 different languages: english, spanish and french.",
     "url": "https://helmerdavila.com/blog",
-    "twitter": "@helmerdavila",
     "tags": [
       "JavaScript",
       "TypeScript",
@@ -3387,7 +3167,6 @@
     "name": "Pritam Bera",
     "description": "Self-taugth web-developer developer & Technical writer, with a keen interest in Linux & CyberSecurity.",
     "url": "https://pritambera2000.hashnode.dev",
-    "twitter": "@dotslashpritam",
     "tags": [
       "CSS",
       "SCSS",
@@ -3403,14 +3182,12 @@
     "name": "Jakub T. Jankiewicz",
     "description": "Articles mostly about Web Development, JavaScript, and tech",
     "url": "https://jakub.jankiewicz.org/blog/",
-    "twitter": "@jcubic",
     "tags": ["JavaScript", "CSS", "Frontend", "Web Development"]
   },
   {
     "name": "Madza",
     "description": "I build custom WEB solutions and write about DEV",
     "url": "https://madza.dev/blog",
-    "twitter": "@madzadev",
     "tags": [
       "HTML",
       "CSS",
@@ -3429,7 +3206,6 @@
     "name": "David Levai",
     "description": "Teaching devs how to navigate the business world, after 7+ years as an entrepreneur.",
     "url": "https://davidlevai.com",
-    "twitter": "@iamdavidlevai",
     "tags": [
       "React",
       "Freelancing",
@@ -3446,7 +3222,6 @@
     "name": "NaveenKumar Namachivayam",
     "description": "I am a performance engineer. I break stuffs. And I know nothing.",
     "url": "https://qainsights.com",
-    "twitter": "@qainsights",
     "tags": [
       "Performance Engineering",
       "DevOps",
@@ -3463,14 +3238,12 @@
   {
     "name": "Stefan Baumgartner",
     "url": "https://fettblog.eu/articles/",
-    "twitter": "@ddprrt",
     "tags": ["TypeScript", "Rust", "React"]
   },
   {
     "name": "Stack Diary",
     "description": "Useful resources for Web Developers. Covering mostly trending topics.",
     "url": "https://stackdiary.com/",
-    "twitter": "@stackdiary",
     "tags": [
       "Web Development",
       "React",
@@ -3483,21 +3256,18 @@
     "name": "All-in-One Person (RU)",
     "description": "Ежедневно публикуем самые полезные сервисы и приложения для мобильных ОС, Windows, Mac. Поручи программе то, что не хочешь делать сам.",
     "url": "https://blog.themarfa.name/",
-    "twitter": "@themarfa",
     "tags": ["Windows", "Mac", "Android", "iOS", "apps", "software"]
   },
   {
     "name": "All-in-One Person (EN)",
     "description": "We find and share most useful apps and services for your lazy existence.",
     "url": "https://en.blog.themarfa.name/",
-    "twitter": "themarfaen",
     "tags": ["Windows", "Mac", "Android", "iOS", "apps", "software"]
   },
   {
     "name": "Deckrun",
     "description": "DevOps and Infrastructure Articles",
     "url": "https://deckrun.com/blog",
-    "twitter": "@deckruncom",
     "tags": [
       "DevOps",
       "Command Line",
@@ -3515,21 +3285,18 @@
     "name": "Vasanti Suthar",
     "description": "Web development, sharing resources, content writing, and open source contributor",
     "url": "https://vasantisuthar.hashnode.dev/",
-    "twitter": "@vasanti_suthar",
     "tags": ["JavaScript", "Node.js", "React", "Database", "Linux", "DevOps"]
   },
   {
     "name": "TestingBot",
     "description": "Learn about Selenium, Appium, Puppeteer and Playwright.",
     "url": "https://testingbot.com/blog",
-    "twitter": "@testingb0t",
     "tags": ["Testing", "Automation", "Puppeteer", "Playwright", "Selenium"]
   },
   {
     "name": "aiherrera",
     "description": "Crafting Tailored Web Solutions and Sharing Developer Insights",
     "url": "https://blog.aiherrera.com",
-    "twitter": "@_aiherrera",
     "tags": [
       "Open Source",
       "Content Creation",
@@ -3547,7 +3314,6 @@
     "name": "Jones Zachariah Noel N (zachjonesnoel)",
     "description": "AWS Community Builder 🚀 | AWS Serverless Architect ⚡ | Full-Stack Cloud Developer 👨‍💻 | Technical Writer 📜 | Home Chef 👨‍🍳 | Photographer 📷 | Serverless Advocacy 🥑",
     "url": "https://zachjonesnoel.hashnode.dev/",
-    "twitter": "@zachjonesnoel",
     "tags": [
       "AWS",
       "Serverless",
@@ -3565,7 +3331,6 @@
     "name": "Alessandro Marino",
     "description": "I'm a consultant Cloud Architect and Devops focused on AWS. I write about AWS, Go and Terraform.",
     "url": "https://alessandromarinoac.com",
-    "twitter": "@alessmarinoac",
     "tags": [
       "Cloud",
       "AWS",
@@ -3580,35 +3345,30 @@
     "name": "Aman Panjwani",
     "description": "A Passionate Software Developer Loves to share experience through articles and blogs and this thing motivates me to explore more in this technological era",
     "url": "https://medium.com/@amanpanjavani111",
-    "twitter": "@aman_p17",
     "tags": ["HTML", "CSS", ".NET", "JavaScript", "OOPs", "Backend"]
   },
   {
     "name": "Alka Gupta",
     "description": "Amazing tech blogs from an amazing tech enthusiast 😉",
     "url": "https://hashnode.com/@alkagupta",
-    "twitter": "@alkaaaaa10",
     "tags": ["GitHub", "Open Source", "Development"]
   },
   {
     "name": "John Paul Hernandez",
     "description": "Resources for writing, content creation, storytelling.",
     "url": "https://johnpaulhernandez.com/myblog/",
-    "twitter": "@helloJohnPaul",
     "tags": ["Content Creation", "Freelancing", "Self-Development"]
   },
   {
     "name": "Namya LG",
     "description": "Various experiences and learnings in the field of full-stack and machine learning",
     "url": "https://namyalg.medium.com/",
-    "twitter": "@namya06333884",
     "tags": ["DevOps", "CI/CD", "Getting Started", "Experiences", "Tutorial"]
   },
   {
     "name": "Webiny CMS",
     "description": "Webiny is an Open Source Serverless Enterprise CMS. It Includes a headless CMS, page builder, form builder, and file manager. Easy to customize and expand. Deploys to AWS.",
     "url": "https://www.webiny.com/blog/",
-    "twitter": "@WebinyCMS",
     "tags": [
       "Serverless",
       "CMS",
@@ -3625,7 +3385,6 @@
     "name": "Prashant Yadav",
     "description": "Senior Frontend Engineer, on a journey to be Frontend Architect.",
     "url": "https://learnersbucket.com/",
-    "twitter": "@learnersbucket",
     "tags": [
       "HTML",
       "CSS",
@@ -3641,7 +3400,6 @@
     "name": "Ayesha Sahar",
     "description": "I write articles and share tips + tricks about Python, C++, UI/UX & Web Development to make your learning journey easier✨",
     "url": "https://ayeshasahar.hashnode.dev/",
-    "twitter": "@IAyeshaSahar",
     "tags": [
       "C++",
       "JavaScript",
@@ -3657,8 +3415,6 @@
     "name": "Code4IT",
     "description": "Handcrafted articles for .NET enthusiasts, Azure lovers, and Backend developers.",
     "url": "https://www.code4it.dev/",
-    "twitter": "@BelloneDavide",
-    "linkedin": "bellonedavide",
     "tags": [
       "C#",
       ".NET",
@@ -3676,7 +3432,6 @@
     "name": "Vivek Jaiswal",
     "description": "Software Architect from India with experience in Backend development, data engineering and machine learning",
     "url": "https://www.vivekjaiswal.me/blog/",
-    "twitter": "@liquidpie22",
     "tags": [
       "Java",
       "Machine Learning",
@@ -3690,14 +3445,12 @@
     "name": "Industrial ROS2",
     "description": "Robot Operating System Version 2",
     "url": "https://rosindustrial.org/news",
-    "twitter": "@RodFFHH",
     "tags": ["ROS2", "Robots", "Middleware", "DDS"]
   },
   {
     "name": "Tôi là Duyệt",
     "description": "Data Engineer from Vietnam with experience in Data Engineering, Cloud, Open Source and more",
     "url": "https://duyet.net",
-    "twitter": "@_duyet",
     "tags": [
       "Data Engineering",
       "Web Development",
@@ -3710,7 +3463,6 @@
     "name": "Toidicode.com",
     "description": "Sharing knowledge about programming",
     "url": "https://toidicode.com",
-    "twitter": "@toidicode",
     "tags": [
       "PHP",
       "Java",
@@ -3728,7 +3480,6 @@
     "name": "Tauqeer Ahmad",
     "description": "I am Developer Tools Writer. Mostly writes about the technology used and required these days. Part of tech communities and emphasies community learning.",
     "url": "https://tauqeerahmad5201.medium.com",
-    "twitter": "@_TauqeerAhmad",
     "tags": [
       "GitHub",
       "Microsoft",
@@ -3746,7 +3497,6 @@
     "name": "Masteringbackend",
     "description": "A great resource for backend engineers",
     "url": "https://masteringbackend.com",
-    "twitter": "@master_backend",
     "tags": [
       "Backend",
       "Sotware development",
@@ -3764,7 +3514,6 @@
     "name": "Ian Kumu",
     "description": "I write articles on various laravel topics and other technologies that I am learning and using on a daily basis.",
     "url": "https://www.iankumu.com/blog",
-    "twitter": "@Ian_kumu",
     "tags": [
       "Laravel",
       "PHP",
@@ -3779,7 +3528,6 @@
     "name": "Andrej Gajdos",
     "description": "Articles, guides and tutorials about development in JavaScript",
     "url": "https://andrejgajdos.com/blog",
-    "twitter": "@Andrej_Gajdos",
     "tags": [
       "Software Engineering",
       "JavaScript",
@@ -3797,7 +3545,6 @@
     "name": "Benjamin Crozat",
     "description": "Freelance web developer passionate about the TALL stack.",
     "url": "https://benjamincrozat.com",
-    "twitter": "@benjamincrozat",
     "tags": ["PHP", "Laravel"]
   },
   {
@@ -3816,21 +3563,18 @@
     "name": "Mahdi",
     "description": "Senior Software Engineer and Bootstrapper",
     "url": "https://mahdix.com",
-    "twitter": "@mahdix",
     "tags": ["Java", "SaaS", "Kotlin", "Linux"]
   },
   {
     "name": "Harrison Broadbent",
     "description": "Writing about web development & SaaS.",
     "url": "https://harrisonbroadbent.com/blog",
-    "twitter": "@hrrsnbbnt",
     "tags": ["SaaS", "Tailwind CSS", "Web Development"]
   },
   {
     "name": "Manthan Ank",
     "description": "I'm Front-End Developer, I write tutorials related to Web Development.",
     "url": "https://dev.to/manthanank",
-    "twitter": "@manthanank",
     "tags": [
       "HTML",
       "CSS",
@@ -3847,7 +3591,6 @@
     "name": "RailsReviews",
     "description": "Learn how to apply selected modern Reactive Rails techniques",
     "url": "https://www.railsreviews.com/articles",
-    "twitter": "@julian_rubisch",
     "tags": [
       "Ruby",
       "Rails",
@@ -3862,7 +3605,6 @@
     "name": "Guillaume Briday",
     "description": "Senior Full Stack developer and DevOps",
     "url": "https://guillaumebriday.fr/articles",
-    "twitter": "@guillaumebriday",
     "tags": [
       "Ruby",
       "Rails",
@@ -3879,7 +3621,6 @@
     "name": "Engineering Leadership",
     "description": "Weekly newsletter for becoming a great engineering leader.",
     "url": "https://newsletter.eng-leadership.com/",
-    "twitter": "@gregorojstersek",
     "tags": [
       "Tech",
       "Software Development",
@@ -3906,7 +3647,6 @@
     "name": "Omer Karabacak",
     "description": "Articles about DevOps, Cloud, Python, PostgreSQL, MongoDB and Infrastructure",
     "url": "https://omerkarabacak.medium.com",
-    "twitter": "@gupguru",
     "tags": [
       "DevOps",
       "Python",
@@ -3922,7 +3662,6 @@
     "name": "JPaul.me",
     "description": "My Blog about IT related stuff.",
     "url": "https://jpaul.me",
-    "twitter": "@recklessop",
     "tags": [
       "Docker",
       "VMware",
@@ -3940,7 +3679,6 @@
     "name": "Razvan Muntian",
     "description": "Sharing my journey of building small products, living intentionally, and finding joy along the way.",
     "url": "https://razvanmuntian.com/blog",
-    "twitter": "@razvanmuntian",
     "tags": [
       "Indie Maker",
       "Startups",
@@ -3954,8 +3692,6 @@
     "name": "Hrishikesh Barua",
     "description": "I write about interesting topics in Cloud/Ops/SRE and how to get better if you work in these fields.",
     "url": "https://techops.substack.com/",
-    "twitter": "@talonx",
-    "linkedin": "hrishikeshbarua",
     "tags": [
       "TechOps",
       "DevOps",
@@ -3970,15 +3706,12 @@
     "name": "hovanhoa",
     "description": "software engineer | golang enthusiast",
     "url": "https://hovanhoa.net",
-    "twitter": "@_hovanhoa_",
-    "linkedin": "hovanhoa",
     "tags": ["Tech", "Golang", "Python", "Backend"]
   },
   {
     "name": "Parish Khan",
     "description": "Senior software developer (10+ yrs). Notes on React, TypeScript, frontend architecture, and design systems.",
     "url": "https://parish.cv/blog",
-    "linkedin": "parishkhan",
     "tags": ["React", "TypeScript", "Frontend", "Design Systems"]
   }
 ]

@@ -2,7 +2,7 @@ import fs from "fs";
 import { URL } from "url";
 
 // Load JSON safely (no import needed)
-const blogs = JSON.parse(fs.readFileSync("./data.json", "utf8"));
+const blogs = JSON.parse(fs.readFileSync("./public/data.json", "utf8"));
 
 // Configuration
 const CONCURRENCY = 10;
