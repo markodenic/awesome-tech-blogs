@@ -126,13 +126,6 @@
     ]
   },
   {
-    "name": "HMPL Blog",
-    "description": "Blog features comprehensive tutorials, practical guides, and real-world examples to help you master HMPL.",
-    "url": "https://blog.hmpl-lang.dev",
-    "twitter": "@hmpljs",
-    "tags": ["HTML", "JavaScript", "Web Development"]
-  },
-  {
     "name": "Don't Break Prod",
     "description": "Bite-sized pieces of career advice for software engineers.",
     "url": "https://dontbreakprod.com/",
@@ -913,25 +906,6 @@
       "JavaScript",
       "Algorithms",
       "Git"
-    ]
-  },
-  {
-    "name": "Rocketeers",
-    "description": "Sharing knowledge about hosting, developing and deploying web apps.",
-    "url": "https://rocketee.rs/knowledge",
-    "twitter": "@rocketeers_app",
-    "tags": [
-      "Development",
-      "Hosting",
-      "Performance",
-      "PHP",
-      "JavaScript",
-      "Laravel",
-      "Git",
-      "DevOps",
-      "MySQL",
-      "Nginx",
-      "Security"
     ]
   },
   {
@@ -2014,7 +1988,7 @@
   {
     "name": "ThisDot Blog",
     "description": "Deep knowledge on web topics and tools. Written by many developers",
-    "url": "https://labs.thisdot.co/blog",
+    "url": "https://www.thisdot.co/blog",
     "twitter": "@ThisDotLabs",
     "tags": [
       "Frontend",
@@ -2713,7 +2687,7 @@
   {
     "name": "Rishab Kumar",
     "description": "I am a tech entusiast that loves to play in the Cloud and related technologies. Also, try to create nice web experiences.",
-    "url": "https://blog.rishabkumar.com/",
+    "url": "https://rishabkumar.com/blog/",
     "twitter": "@rishabk7",
     "tags": [
       "AWS",
@@ -3045,20 +3019,6 @@
     "tags": ["JavaScript", "DevTools", "DevRel"]
   },
   {
-    "name": "Adithya",
-    "description": "I write about solutions to problems that I face on a daily basis | PHP, Laravel developer in Berlin, Germany",
-    "url": "https://adithya.dev/",
-    "twitter": "@adithya_srini",
-    "tags": [
-      "PHP",
-      "Laravel",
-      "Backend",
-      "Full Stack",
-      "Elasticsearch",
-      "Tailwind CSS"
-    ]
-  },
-  {
     "name": "Sachin Chaurasiya",
     "description": "Software Engineer, Freelancer, Open-Source Contributor, Technical Blogger",
     "url": "https://blog.sachinchaurasiya.dev/",
@@ -3376,23 +3336,6 @@
     "tags": ["JavaScript", "Node.js", "Web Development"]
   },
   {
-    "name": "Prémices Kamasuwa",
-    "description": "Articles on web, personal experiences and more",
-    "url": "https://nkpremices.com/tag/blog/",
-    "twitter": "@nkpremices",
-    "tags": [
-      "TypeScript",
-      "React",
-      "Angular",
-      "Software Architecture",
-      "Python",
-      "Go",
-      "Tech",
-      "Programming",
-      "Web Development"
-    ]
-  },
-  {
     "name": "Dev by RayRay",
     "description": "Ray is a Lead Frontend Developer, specialised in Angular. He writes about Frontend Development, Workflow, JavaScript, TypeScript, Angular and more related topics.",
     "url": "https://byrayray.dev/",
@@ -3439,13 +3382,6 @@
       "Ruby",
       "Docker"
     ]
-  },
-  {
-    "name": "wpuniverse.online",
-    "description": "A custom search engine for WordPress and web developers",
-    "url": "https://wpuniverse.online",
-    "twitter": "@wuniverse_site",
-    "tags": ["PHP", "JavaScript", "CSS", "WordPress"]
   },
   {
     "name": "Pritam Bera",
@@ -3980,21 +3916,6 @@
       "PostgreSQL",
       "AWS",
       "Terraform"
-    ]
-  },
-  {
-    "name": "globaldatanet",
-    "description": "Articles about aws cloud technology, news, and tutorials.",
-    "url": "https://globaldatanet.com/tech-blog",
-    "twitter": "@globaldatanet",
-    "tags": [
-      "Artificial Intelligence",
-      "Serverless",
-      "DevOps",
-      "AWS",
-      "SaaS",
-      "Security",
-      "FinOps"
     ]
   },
   {
