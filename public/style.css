@@ -377,6 +377,7 @@ ul {
   grid-template-columns: repeat(12, minmax(0, 1fr));
   column-gap: 1.5rem;
   row-gap: 2rem;
+  align-items: baseline;
   padding: 2.5rem 0 2rem;
   border-top: 1px solid var(--ink);
   font-size: 0.95rem;
