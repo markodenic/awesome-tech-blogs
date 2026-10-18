@@ -2310,6 +2310,23 @@
 		  "hacking"
 	  ]
   },
+   {
+    "name": "Eugene Lazutkin",
+    "description": "JavaScript, performance, and code-level tactics — control flow, invariants, optimization. Plus a Python/Django archive going back to 2005.",
+    "url": "https://www.lazutkin.com/",
+    "tags": [
+        "JavaScript",
+        "Web Development",
+        "Node.js",
+        "Python",
+        "AWS",
+        "Open Source",
+        "Software Engineering",
+        "Algorithms",
+        "Django",
+        "Performance"
+    ]
+  },
   {
     "name": "Ankur Tyagi",
     "description": "Hi, I’m Ankur Tyagi, Software Engineer, Mentor, Coach, Content creator, Checkout my website for more details at https://theankurtyagi.com/",
