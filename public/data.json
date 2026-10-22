@@ -956,7 +956,7 @@
   {
     "name": "Shyam Manohar",
     "description": "I'm a CS Under Grad who is passionate about sharing my ideas and experiences through blogs!",
-    "url": "https://xshyam.hashnode.dev",
+    "url": "https://blog.shyam.eu.org/",
     "tags": ["Computer Science", "Tech", "Cybersecurity"]
   },
   {
@@ -1186,7 +1186,7 @@
   {
     "name": "Ivan Kahl",
     "description": "Write about all things .NET, AWS, Web and any other new tech that might interest me.",
-    "url": "https://blog.ivankahl.com/",
+    "url": "https://ivankahl.com/blog/",
     "tags": [
       "Sage",
       "Software Developer",
@@ -1280,23 +1280,6 @@
       "WordPress",
       "Software Development",
       "Software Architecture"
-    ]
-  },
-  {
-    "name": "Davide Mandelli | Th3Wall",
-    "description": "I'm a passionate Front-End Web Developer, and I'm interested in building side projects and Saas apps. I've recently launched Fakeflix (https://fakeflix-clone.vercel.app) 🎥🍿",
-    "url": "https://th3wall.hashnode.dev/",
-    "tags": [
-      "Web Development",
-      "Productivity",
-      "Frontend",
-      "HTML",
-      "SCSS",
-      "CSS",
-      "JavaScript",
-      "React",
-      "Git",
-      "Pug"
     ]
   },
   {
@@ -1709,23 +1692,6 @@
     "description": "Victoria is a very curious developer. Her articles on blogging combine great programming skills with enjoyable and insightful technical articles.",
     "url": "https://lo-victoria.com",
     "tags": ["HTML", "CSS", "JavaScript", "Web Development", "React"]
-  },
-  {
-    "name": "Mr. Unity Buddy",
-    "description": "Hey there! I am Mr. Unity Buddy. I love writing articles that help people to solve various problems and learning about new things.",
-    "url": "https://mr-unity-buddy.hashnode.dev/",
-    "tags": [
-      "Python",
-      "Full Stack",
-      "Software Engineering",
-      "Programming",
-      "Productivity",
-      "Beginner",
-      "Freelancing",
-      "Career",
-      "Self-taught",
-      "Frontend"
-    ]
   },
   {
     "name": "Abiola Farounbi",
@@ -2562,34 +2528,6 @@
     ]
   },
   {
-    "name": "Alfred Danda",
-    "description": "Web developer working with PHP and Laravel at Webentwicklung Ideenreich which I'm the co-owner of.",
-    "url": "https://danda.at",
-    "tags": [
-      "Software Engineer",
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "Git",
-      "PHP",
-      "Laravel",
-      "Linux"
-    ]
-  },
-  {
-    "name": "Godswill Umukoro",
-    "description": "Software engineer who loves building frontend applications",
-    "url": "https://godswillumukoro.hashnode.dev",
-    "tags": [
-      "Software Engineer",
-      "JavaScript",
-      "React",
-      "Node.js",
-      "APIs",
-      "Web Development"
-    ]
-  },
-  {
     "name": "Jai Kumar Dewani",
     "description": "Another Tech-nerd trying to make a 'name' for himself.",
     "url": "https://jai-dewani.github.io/blogs/",
@@ -3009,25 +2947,6 @@
     ]
   },
   {
-    "name": "Mr. Ånand",
-    "description": "Student | Content Creator | Explorer and Learner",
-    "url": "https://astrodevil.hashnode.dev/",
-    "tags": [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "NoCode",
-      "Content Creation",
-      "Computer Science",
-      "Tech",
-      "Programming",
-      "Web Development",
-      "DevTools",
-      "Beginner",
-      "Git"
-    ]
-  },
-  {
     "name": "Coderflex",
     "description": "Integrate Code Reviews, Tutorials, Frameworks, Security Updates, etc.",
     "url": "https://coderflex.com/blog",
@@ -3313,7 +3232,7 @@
   {
     "name": "Jones Zachariah Noel N (zachjonesnoel)",
     "description": "AWS Community Builder 🚀 | AWS Serverless Architect ⚡ | Full-Stack Cloud Developer 👨‍💻 | Technical Writer 📜 | Home Chef 👨‍🍳 | Photographer 📷 | Serverless Advocacy 🥑",
-    "url": "https://zachjonesnoel.hashnode.dev/",
+    "url": "https://blog.zachjonesnoel.com/",
     "tags": [
       "AWS",
       "Serverless",
@@ -3431,7 +3350,7 @@
   {
     "name": "Vivek Jaiswal",
     "description": "Software Architect from India with experience in Backend development, data engineering and machine learning",
-    "url": "https://www.vivekjaiswal.me/blog/",
+    "url": "https://vivekjaiswal.me/writing",
     "tags": [
       "Java",
       "Machine Learning",
@@ -3678,7 +3597,7 @@
   {
     "name": "Razvan Muntian",
     "description": "Sharing my journey of building small products, living intentionally, and finding joy along the way.",
-    "url": "https://razvanmuntian.com/blog",
+    "url": "https://razvanmuntian.com/",
     "tags": [
       "Indie Maker",
       "Startups",

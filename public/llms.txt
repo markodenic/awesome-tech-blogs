@@ -89,7 +89,7 @@
 - [Shravan Kumar](https://ohmyscript.com/): Software Engineer | Bibliophilic | Generalizing Specialist | Curious Creature | I, sometimes write blog
 - [Tonie Victor](https://tonie.hashnode.dev): Software Engineer | Technical Writer
 - [Shubhma Battoo](https://shubhambattoo.in/blog): Writing about frontend developement with different JavaScript frameworks and more.
-- [Shyam Manohar](https://xshyam.hashnode.dev): I'm a CS Under Grad who is passionate about sharing my ideas and experiences through blogs!
+- [Shyam Manohar](https://blog.shyam.eu.org/): I'm a CS Under Grad who is passionate about sharing my ideas and experiences through blogs!
 - [Dave Murray - Sailing the Sharp Sea](https://blog.taranissoftware.com/): .NET developer with a passion for mobile and DevOps. I build cross platform apps using Xamarin, backend systems using Azure and GitHub Actions using Docker.
 - [James Turner](https://turnerj.com/blog): A programmer and entrepreneur with a love of cars, music and technology.
 - [William Chin](https://yourdigitalaid.com/category/blog/): Product Manager, Digital Marketer, Agile Consultant, Web Developer - Looking to make the world more digitally friendly one post at a time.
@@ -105,7 +105,7 @@
 - [Karl Koch](https://www.karlkoch.me/thoughts): Product Designer and UI Developer.
 - [Shane Lee](https://blog.shanelee.name): Staff engineer - write about tech and sometimes sustainability 🌎
 - [Mick Patterson](https://www.mickpatterson.com.au): Fullstack developer | Web and Mobile App Development Tips and Tricks
-- [Ivan Kahl](https://blog.ivankahl.com/): Write about all things .NET, AWS, Web and any other new tech that might interest me.
+- [Ivan Kahl](https://ivankahl.com/blog/): Write about all things .NET, AWS, Web and any other new tech that might interest me.
 - [Akanksha Raghav](https://akanksharaghav.medium.com/): A tech enthusiast who enjoy exploring new technologies and leverage them to solve real-life problem
 - [Vinit Shahdeo](https://vinitshahdeo.dev/): Another Software Engineer and a GitHub Star from Bangalore, India
 - [Alexey Berezin](https://blog.beraliv.dev): I am a frontend developer who loves TypeScript and video players
@@ -113,7 +113,6 @@
 - [Olena Drugalya](https://olena.hashnode.dev/): Olena is self-taught web developer and she writes her beginner-friendly and simply explained tech blogs along the way.
 - [Create React App Blog](https://create-react-app.com/): Stories About My Journey to Become a Developer. Overview of Best Web Dev Tools & Resources.
 - [Abia Tech Hub](https://blog.abiatechhub.com): Innovation | Technology | Entrepreneurship
-- [Davide Mandelli | Th3Wall](https://th3wall.hashnode.dev/): I'm a passionate Front-End Web Developer, and I'm interested in building side projects and Saas apps. I've recently launched Fakeflix (https://fakeflix-clone.vercel.app) 🎥🍿
 - [Alberto Bonacina](https://blog.albertobonacina.com/): Proud Software Engineer, Flutter enthusiast and Free Software activist
 - [hacking C++](https://hackingcpp.com): Learn Contemporary C++ // code examples, concise explanations and infographics
 - [Abdulmalik Adekunle](https://abdulmalik.hashnode.dev): Front End Web developer, Graphics Designer, IT consultant.
@@ -146,7 +145,6 @@
 - [Daily Dev Tips](https://daily-dev-tips.com/): Chris writes every single day about web development snippets that will help you become a better developer. He focuses on frontend development, JavaScript, popular frameworks, and HTML and CSS.
 - [Tshiteej Bhardwaj](https://www.tshiteej.com/blog): I love to write around Web Development, and related technologies.
 - [Victoria Lo](https://lo-victoria.com): Victoria is a very curious developer. Her articles on blogging combine great programming skills with enjoyable and insightful technical articles.
-- [Mr. Unity Buddy](https://mr-unity-buddy.hashnode.dev/): Hey there! I am Mr. Unity Buddy. I love writing articles that help people to solve various problems and learning about new things.
 - [Abiola Farounbi](https://abiolafarounbiblog.hashnode.dev/): I am a Front-end Developer passionate about developing and designing user friendly web applications.i write technical contents and articles.
 - [Aadhithyan Suresh](https://aadhithyan.hashnode.dev/): Why you should switch to ubuntu today.
 - [Nikita Hlopov](https://nikitahl.com): In this blog I post my observations and share experience related to frontend web development.
@@ -203,8 +201,6 @@
 - [Rishab Kumar](https://rishabkumar.com/blog/): I am a tech entusiast that loves to play in the Cloud and related technologies. Also, try to create nice web experiences.
 - [Sebastian Hesse](https://www.sebastianhesse.de/blog): Serverless Cloud Expert - Blogging about everything related to AWS Cloud, Serverless, Java, Node.js and JavaScript.
 - [Devopsian](https://devopsian.net): Software Engineer blogging about Infrastructure, Reliability, Devops Principals and.. Software Engineering
-- [Alfred Danda](https://danda.at): Web developer working with PHP and Laravel at Webentwicklung Ideenreich which I'm the co-owner of.
-- [Godswill Umukoro](https://godswillumukoro.hashnode.dev): Software engineer who loves building frontend applications
 - [Jai Kumar Dewani](https://jai-dewani.github.io/blogs/): Another Tech-nerd trying to make a 'name' for himself.
 - [Peter Lynch](https://peterlunch.com/articles/): Full-stack developer and creator of popular chrome extension Garachu. I write about web development and help you level up your coding.
 - [Sakun Pushpitha](https://sakunpushpitha.hashnode.dev): Web development resources, tutorials, tips and tricks for developers.
@@ -235,7 +231,6 @@
 - [Timonwa's Notes](https://tech.timonwa.com/): Timonwa is a Frontend Developer and Technical Writer who writes notes on web development that help beginners have an easier learning journey.
 - [Osama Mohamed Ammar](https://dev.to/osamamammar): Self-taught front-end developer, single threaded, non-blocking person. Trying to become a software engineer.
 - [Anish De](https://blog.anishde.dev/): Articles on Web Development, DevOps, Personal Experiences, Open Source, and more.
-- [Mr. Ånand](https://astrodevil.hashnode.dev/): Student | Content Creator | Explorer and Learner
 - [Coderflex](https://coderflex.com/blog): Integrate Code Reviews, Tutorials, Frameworks, Security Updates, etc.
 - [Vipul Soni](https://medium.com/@vipulsoniab17_40156): Full Stack Web Developer.Write blogs about Web Development
 - [Atharva Salitri](https://theamazingatharva.hashnode.dev/): Technical Writer | Open Source Enthusiast | Beginner Web Developer
@@ -260,7 +255,7 @@
 - [Vasanti Suthar](https://vasantisuthar.hashnode.dev/): Web development, sharing resources, content writing, and open source contributor
 - [TestingBot](https://testingbot.com/blog): Learn about Selenium, Appium, Puppeteer and Playwright.
 - [aiherrera](https://blog.aiherrera.com): Crafting Tailored Web Solutions and Sharing Developer Insights
-- [Jones Zachariah Noel N (zachjonesnoel)](https://zachjonesnoel.hashnode.dev/): AWS Community Builder 🚀 | AWS Serverless Architect ⚡ | Full-Stack Cloud Developer 👨‍💻 | Technical Writer 📜 | Home Chef 👨‍🍳 | Photographer 📷 | Serverless Advocacy 🥑
+- [Jones Zachariah Noel N (zachjonesnoel)](https://blog.zachjonesnoel.com/): AWS Community Builder 🚀 | AWS Serverless Architect ⚡ | Full-Stack Cloud Developer 👨‍💻 | Technical Writer 📜 | Home Chef 👨‍🍳 | Photographer 📷 | Serverless Advocacy 🥑
 - [Alessandro Marino](https://alessandromarinoac.com): I'm a consultant Cloud Architect and Devops focused on AWS. I write about AWS, Go and Terraform.
 - [Aman Panjwani](https://medium.com/@amanpanjavani111): A Passionate Software Developer Loves to share experience through articles and blogs and this thing motivates me to explore more in this technological era
 - [Alka Gupta](https://hashnode.com/@alkagupta): Amazing tech blogs from an amazing tech enthusiast 😉
@@ -270,7 +265,7 @@
 - [Prashant Yadav](https://learnersbucket.com/): Senior Frontend Engineer, on a journey to be Frontend Architect.
 - [Ayesha Sahar](https://ayeshasahar.hashnode.dev/): I write articles and share tips + tricks about Python, C++, UI/UX & Web Development to make your learning journey easier✨
 - [Code4IT](https://www.code4it.dev/): Handcrafted articles for .NET enthusiasts, Azure lovers, and Backend developers.
-- [Vivek Jaiswal](https://www.vivekjaiswal.me/blog/): Software Architect from India with experience in Backend development, data engineering and machine learning
+- [Vivek Jaiswal](https://vivekjaiswal.me/writing): Software Architect from India with experience in Backend development, data engineering and machine learning
 - [Industrial ROS2](https://rosindustrial.org/news): Robot Operating System Version 2
 - [Tôi là Duyệt](https://duyet.net): Data Engineer from Vietnam with experience in Data Engineering, Cloud, Open Source and more
 - [Toidicode.com](https://toidicode.com): Sharing knowledge about programming
@@ -289,7 +284,7 @@
 - [Marco G](https://solariz.de): Tech and Thoughts - personal tech blog.
 - [Omer Karabacak](https://omerkarabacak.medium.com): Articles about DevOps, Cloud, Python, PostgreSQL, MongoDB and Infrastructure
 - [JPaul.me](https://jpaul.me): My Blog about IT related stuff.
-- [Razvan Muntian](https://razvanmuntian.com/blog): Sharing my journey of building small products, living intentionally, and finding joy along the way.
+- [Razvan Muntian](https://razvanmuntian.com/): Sharing my journey of building small products, living intentionally, and finding joy along the way.
 - [Hrishikesh Barua](https://techops.substack.com/): I write about interesting topics in Cloud/Ops/SRE and how to get better if you work in these fields.
 - [hovanhoa](https://hovanhoa.net): software engineer | golang enthusiast
 - [Parish Khan](https://parish.cv/blog): Senior software developer (10+ yrs). Notes on React, TypeScript, frontend architecture, and design systems.
